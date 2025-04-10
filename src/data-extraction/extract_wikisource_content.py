@@ -2,7 +2,6 @@ import requests
 from bs4 import BeautifulSoup
 from loguru import logger
 from pathlib import Path
-from typing import Optional
 
 
 def download_html(url: str, output_path: Path) -> None:
