@@ -1,1 +1,14 @@
+# Environment variables
+.env
+
+# Python version file
+.python-version
+
+# Python cache directories
+*__pycache__/
+.ipynb_checkpoints/
+*.egg-info/
+
+# Windows Zone Identifier and macOS Finder metadata files
+*:Zone.Identifier
 .DS_Store
