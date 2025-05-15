@@ -26,15 +26,15 @@ def extract_trilingual_definitions(html_path: Path) -> pd.DataFrame:
     all_data = []
     for row in rows:
         if len(row) == 2:
-            term = row[0].get_text(strip=True)
+            term = row[0].get_text(strip=True).rstrip('.')
             raw_html = row[1].decode_contents()
             clean_text = re.sub(r'<.*?>', '', raw_html)
 
-            match = re.match(r'(—\s*.+?)\s*(＝)\s*(.+?)\s*(—)\s*(.+)', clean_text)
+            match = re.match(r'—\s*(.+?)\s*(=|＝)\s*(.+?)\s*(—)\s*(.+)', clean_text)
             if match:
                 han = match.group(1).strip()
-                vi = f"= {match.group(3).strip()}"
-                fr = f"— {match.group(5).strip()}"
+                vi = f"{match.group(3).strip()}"
+                fr = f"{match.group(5).strip()}"
                 all_data.append({"term": term, "han": han, "vi": vi, "fr": fr})
 
     return pd.DataFrame(all_data)
