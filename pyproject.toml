@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "ragit"
+version = "0.1.0"
+description = "Rag'it is an exploratory project in digital humanities. It aims to build a knowledge graph from a multilingual colonial corpus drawn from the Indochinese legal deposit. It relies on natural language processing techniques applied to OCR-processed texts to identify concepts and semantic networks."
+authors = [
+    "Frédéric Saudemont <fs1510@gmail.com>",
+    "Vy CAO <vy.cao@etu.univ-amu.fr>"
+]
+readme = "README.md"
+packages = []
+package-mode = false
+
+[tool.poetry.dependencies]
+python = ">=3.12,<3.13"
+pandas = ">=2.2.3,<3.0.0"
+pathlib = ">=1.0.1,<2.0.0"
+requests = ">=2.32.3,<3.0.0"
+bs4 = ">=0.0.2,<0.0.3"
+loguru = ">=0.7.3,<0.8.0"
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
