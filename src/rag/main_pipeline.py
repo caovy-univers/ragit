@@ -1,8 +1,9 @@
-from pathlib import Path
-from loader import load_all_json_files
 from document_builder import create_documents
-from vector_indexer import build_vectorstore
+from loader import load_all_json_files
+from pathlib import Path
 from rag_wrapper import SimpleRAG
+from vector_indexer import build_vectorstore
+
 
 if __name__ == "__main__":
     folder_path = Path("data/Nam-Phong/Quyen-1/So-1/output_json")
