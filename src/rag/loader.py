@@ -1,7 +1,7 @@
-from pathlib import Path
-from typing import List, Tuple, Dict
-from loguru import logger
 import json
+from pathlib import Path
+from typing import List, Tuple
+from loguru import logger
 
 def load_json_file(filepath: Path) -> Tuple[List[str], dict]:
     """
