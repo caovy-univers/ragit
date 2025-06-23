@@ -1,6 +1,6 @@
-from typing import List, Optional
 from langchain.schema import Document
 from pydantic import BaseModel
+from typing import List, Optional
 
 class Metadata(BaseModel):
     title_main: str
