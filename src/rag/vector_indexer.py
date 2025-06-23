@@ -1,8 +1,8 @@
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
 from langchain.schema import Document
-from typing import List
 from loguru import logger
+from typing import List
 
 def build_vectorstore(documents: List[Document]) -> FAISS:
     """
