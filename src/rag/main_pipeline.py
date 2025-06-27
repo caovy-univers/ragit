@@ -1,14 +1,54 @@
-from document_builder import create_documents
-from loader import load_all_json_files
+import argparse
 from pathlib import Path
-from rag_wrapper import SimpleRAG
-from vector_indexer import build_vectorstore
+from rag.document_builder import create_documents
+from rag.loader import load_all_json_files
+from rag.vector_indexer import build_vectorstore
+from rag.wrapper import SimpleRAG
+
+
+def run_test_queries(rag: SimpleRAG):
+    """
+    Run predefined test queries against the RAG system.
+
+    Args:
+        rag (SimpleRAG): The RAG system instance.
+    """
+    queries = [
+        "Văn minh học thuật của nước Pháp được miêu tả như thế nào trong Nam Phong tạp chí?",
+        "Quel est le rôle de l'Académie française selon les articles de la revue Nam Phong ?",
+        "How does Nam Phong magazine discuss the conflict between material and spiritual progress in modern civilization?"
+    ]
+    for q in queries:
+        print(f"\nQuery: {q}")
+        print("Answer:", rag.ask(q))
+
+
+def interactive_loop(rag: SimpleRAG):
+    """
+    Interactive command-line interface for querying the RAG system.
+
+    Args:
+        rag (SimpleRAG): The RAG system instance.
+    """
+    print("Enter your query (type 'q' or 'exit' to leave):")
+    while True:
+        query = input(">> ").strip()
+        if query.lower() in {"q", "exit"}:
+            break
+        if not query:
+            continue
+        print("Answer:")
+        print(f"{rag.ask(query)}\n")
 
 
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Run the RAG pipeline for Nam Phong.")
+    parser.add_argument("--test", "-t", action="store_true", help="Run predefined test queries instead of interactive mode.")
+    args = parser.parse_args()
+
     folder_path = Path("data/Nam-Phong/Quyen-1/So-1/output_json")
 
-    # Load multiple files
+    # Load and prepare documents
     all_entries = load_all_json_files(folder_path)
     all_documents = []
     for chunks, metadata in all_entries:
@@ -17,17 +57,11 @@ if __name__ == "__main__":
     # Build vector index
     vectorstore = build_vectorstore(all_documents)
 
-    # Initialize RAG system with Ollama Mistral
+    # Initialize RAG system
     rag = SimpleRAG(vectorstore, model_name="mistral")
 
-    # Test multilingual queries
-    queries = [
-        "Văn minh học thuật của nước Pháp được miêu tả như thế nào trong Nam Phong tạp chí?",
-        # == "Nam Phong describes French scholarly civilization as an expression of deep humanism, centered on the human being, clearly reflected in literature, philosophy, religion, and history. French literature is praised for being simple, clear, and highly educational."
-        "Quel est le rôle de l'Académie française selon les articles de la revue Nam Phong ?",
-        "How does Nam Phong magazine discuss the conflict between material and spiritual progress in modern civilization?"
-    ]
-
-    for q in queries:
-        print(f"\n🔎 Query: {q}")
-        print("Answer:", rag.ask(q))
+    # Choose mode
+    if args.test:
+        run_test_queries(rag)
+    else:
+        interactive_loop(rag)
