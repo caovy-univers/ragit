@@ -38,7 +38,9 @@ def interactive_loop(rag: SimpleRAG):
         if not query:
             continue
         print("Answer:")
-        print(f"{rag.ask(query)}\n")
+        # print(f"{rag.ask(query)}\n")
+        print(f"{rag.ask(query)["result"]}\n")
+
 
 
 if __name__ == "__main__":
