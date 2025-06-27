@@ -7,8 +7,10 @@ authors = [
     "Vy CAO <vy.cao@etu.univ-amu.fr>"
 ]
 readme = "README.md"
-packages = []
-package-mode = false
+packages = [
+  { include = "rag", from = "src" }
+]
+package-mode = true
 
 [tool.poetry.dependencies]
 python = ">=3.12,<3.13"
@@ -23,6 +25,8 @@ langchain = "^0.3.26"
 sentence-transformers = "^4.1.0"
 faiss-cpu = "^1.11.0"
 langchain-community = "^0.3.26"
+langchain-huggingface = "^0.3.0"
+langchain-ollama = "^0.3.3"
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
