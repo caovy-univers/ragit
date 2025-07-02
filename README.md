@@ -28,7 +28,7 @@ poetry install
 
 ```bash
 # Create ragit virtualenv with pyenv-virtualenv and set the local environment
-pyenv virtualenv 3.12.9 ragit && pyenv local ragit
+pyenv install -s 3.12.9 && pyenv virtualenv 3.12.9 ragit && pyenv local ragit
 
 # Install dependencies
 poetry install
