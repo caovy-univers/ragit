@@ -18,7 +18,7 @@ This guide explains how to set up your Python environment to work with the RAGIT
 
 ```bash
 # Create and activate virtual environment
-python3.12 -m venv .venv && source .venv/bin/activate
+python3.12 -m venv ragit && source ragit/bin/activate
 
 # Install dependencies
 poetry install
@@ -48,8 +48,14 @@ poetry install
 
 - Install and configure Ollama with Mistral:
 
+*with curl (Linux):*
 ```bash
 curl -fsSL https://ollama.com/install.sh | sh
+```
+
+*with Homebrew (MacOS):*
+```bash
+brew install ollama
 ```
 
 - Test your environment by running the RAG pipeline (in a separate terminal):
