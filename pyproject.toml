@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "ragit"
 version = "0.1.0"
-description = "Rag'it is an exploratory project in digital humanities. It aims to build a knowledge graph from a multilingual colonial corpus drawn from the Indochinese legal deposit. It relies on natural language processing techniques applied to OCR-processed texts to identify concepts and semantic networks."
+description = "Rag'it minimal bootstrap"
 authors = [
     "Frédéric Saudemont <fs1510@gmail.com>",
     "Vy CAO <vy.cao@etu.univ-amu.fr>"
@@ -10,7 +10,6 @@ readme = "README.md"
 packages = [
   { include = "rag", from = "src" }
 ]
-package-mode = true
 
 [tool.poetry.dependencies]
 python = ">=3.12,<3.13"
@@ -21,9 +20,9 @@ bs4 = ">=0.0.2,<0.0.3"
 loguru = ">=0.7.3,<0.8.0"
 jiwer = "^3.1.0"
 evaluate = "^0.4.3"
-langchain = "^0.3.26"
 sentence-transformers = "^4.1.0"
 faiss-cpu = "^1.11.0"
+langchain = "^0.3.26"
 langchain-community = "^0.3.26"
 langchain-huggingface = "^0.3.0"
 langchain-ollama = "^0.3.3"
