@@ -14,16 +14,43 @@ class Metadata(BaseModel):
     issn: Optional[str] = None
     identifiers: dict = {}
 
+
 def create_documents(chunks: List[str], metadata: dict) -> List[Document]:
     """
-    Convert raw text chunks and metadata into LangChain Document objects.
+    Convert raw text chunks and metadata into Document objects,
+    embedding metadata into the content header so it's both searchable
+    and available to the LLM during generation.
 
     Args:
-        chunks (List[str]): List of text segments.
-        metadata (dict): Metadata to attach to each document.
+        chunks (List[str]): List of text segments to be indexed.
+        metadata (dict): Metadata dictionary containing fields like
+            title_main, authors, publication_date, publisher, genres, etc.
 
     Returns:
-        List[Document]: List of LangChain-compatible document objects.
+        List[Document]: A list of LangChain Document objects with metadata
+            prefixed in the page_content and metadata attached.
     """
-    parsed_metadata = Metadata(**metadata).dict()
-    return [Document(page_content=chunk, metadata=parsed_metadata) for chunk in chunks]
+    parsed = Metadata(**metadata).dict()
+    docs: List[Document] = []
+
+    # Build metadata header
+    header_lines = [f"Title: {parsed['title_main']}"]
+    if parsed.get('authors'):
+        header_lines.append(f"Authors: {', '.join(parsed['authors'])}")
+    if parsed.get('publication_date'):
+        header_lines.append(f"Publication Date: {parsed['publication_date']}")
+    if parsed.get('publisher'):
+        header_lines.append(f"Publisher: {parsed['publisher']}")
+    if parsed.get('genres'):
+        header_lines.append(f"Genres: {', '.join(parsed['genres'])}")
+    header = "\n".join(header_lines) + "\n\n"
+
+    # Prefix each chunk with header
+    for chunk in chunks:
+        docs.append(
+            Document(
+                page_content=header + chunk,
+                metadata=parsed
+            )
+        )
+    return docs
