@@ -34,7 +34,7 @@ def load_all_json_files(directory: Path) -> List[Tuple[List[str], dict]]:
     """
     logger.info(f"Scanning directory for JSON files: {directory}")
     all_data = []
-    for file in directory.glob("*.json"):
+    for file in directory.rglob("*.json"):
         try:
             chunks, metadata = load_json_file(file)
             all_data.append((chunks, metadata))
