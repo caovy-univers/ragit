@@ -32,13 +32,13 @@ ollama run mistral  # this keeps the model server active
 From the project root:
 
 ```bash
-python src/rag/main_pipeline.py
+poetry run python -m rag.main_pipeline
 ```
 
 This will:
 1. Load all `.json` files in the `data/Nam-Phong/Quyen-1/So-1/output_json` folder
 2. Build the FAISS vector index with multilingual sentence embeddings
-3. Query the Ollama `mistral` model with example questions in Vietnamese, French, and English
+3. Query the Ollama `mistral` model with questions in Vietnamese, French, and English
 
 ## Example queries used in pipeline
 
