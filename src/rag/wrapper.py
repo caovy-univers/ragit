@@ -1,3 +1,4 @@
+from typing import Any, Dict
 from langchain.chains import RetrievalQA
 from langchain.schema import BaseRetriever
 from langchain_ollama import OllamaLLM
@@ -5,33 +6,65 @@ from loguru import logger
 
 class SimpleRAG:
     """
-    Wrapper class for Retrieval-Augmented Generation (RAG) using Ollama and a retriever.
-    """
+    A flexible Retrieval-Augmented Generation (RAG) wrapper using OllamaLLM and a vectorstore retriever.
 
-    def __init__(self, retriever: BaseRetriever, model_name: str = "mistral"):
+    Attributes:
+        retriever (BaseRetriever): Configured retriever with specified search type and k-neighbors.
+        llm (OllamaLLM): Ollama language model instance.
+        qa_chain (RetrievalQA): RAG chain combining the retriever and the LLM.
+    """
+    def __init__(
+        self,
+        vectorstore: Any,
+        model_name: str = "mistral",
+        k: int = 5,
+        chain_type: str = "stuff",
+        search_type: str = "similarity",
+    ):
         """
-        Initialize the RAG wrapper with a retriever and Ollama model.
+        Initialize the SimpleRAG pipeline.
 
         Args:
-            retriever (BaseRetriever): Vector store retriever (e.g., FAISS retriever).
-            model_name (str): Name of the Ollama model (default: "mistral").
+            vectorstore (Any): A vectorstore instance (e.g., FAISS, Chroma) supporting `as_retriever()`.
+            model_name (str): Name of the Ollama model to use.
+            k (int): Number of top documents to retrieve.
+            chain_type (str): Method for combining retrieved documents (e.g., "stuff", "map_reduce").
+            search_type (str): Vector search algorithm (e.g., "similarity", "mmr").
         """
-        logger.info(f"Initializing SimpleRAG with Ollama model: {model_name}")
-        self.llm = OllamaLLM(model=model_name)
-        self.qa_chain = RetrievalQA.from_chain_type(
-            llm=self.llm,
-            chain_type="stuff",
-            retriever=retriever.as_retriever()
+        logger.info("Initializing SimpleRAG with Ollama model '{}'", model_name)
+
+        # Configure the retriever
+        self.retriever: BaseRetriever = vectorstore.as_retriever(
+            search_type=search_type,
+            search_kwargs={"k": k}
         )
 
-    def ask(self, query: str) -> dict:
+        # Initialize the Ollama language model
+        self.llm = OllamaLLM(model=model_name)
+
+        # Build the RetrievalQA chain with explicit chain_type
+        self.qa_chain = RetrievalQA.from_chain_type(
+            llm=self.llm,
+            chain_type=chain_type,
+            retriever=self.retriever
+        )
+
+    def ask(self, query: str) -> Dict[str, Any]:
         """
-        Run a query through the RAG pipeline and return the result.
+        Execute a query through the RAG pipeline.
 
         Args:
-            query (str): User query string.
+            query (str): The user's question.
 
         Returns:
-            dict: The result dictionary containing the generated answer and source docs.
+            Dict[str, Any]: A dictionary containing:
+                - "result": Generated answer as a string.
+                - "source_documents": List of retrieved document objects.
         """
-        return self.qa_chain.invoke({"query": query})
+        logger.info("Processing query: '{}'", query)
+        result = self.qa_chain.invoke({"query": query})
+        logger.debug(
+            "Retrieved {} source documents for the query",
+            len(result.get("source_documents", []))
+        )
+        return result
