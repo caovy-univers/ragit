@@ -44,11 +44,25 @@ def interactive_loop(rag: SimpleRAG):
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Run the RAG pipeline for Nam Phong.")
-    parser.add_argument("--test", "-t", action="store_true", help="Run predefined test queries instead of interactive mode.")
+    parser = argparse.ArgumentParser(
+        description="Run the RAG pipeline over a JSON corpus."
+    )
+    parser.add_argument(
+        "--data-dir", "-d",
+        default="data/Nam-Phong/",
+        help="Path to the root folder containing JSON files (default: %(default)s)"
+    )
+    parser.add_argument(
+        "--test", "-t",
+        action="store_true",
+        help="Run predefined test queries instead of interactive mode."
+    )
     args = parser.parse_args()
 
-    folder_path = Path("data/Nam-Phong/Quyen-1/So-1/output_json")
+    # JSON root path, config via --data-dir
+    folder_path = Path(args.data_dir)
+    if not folder_path.exists():
+        raise FileNotFoundError(f"Data directory not found: {folder_path}")
 
     # Load and prepare documents
     all_entries = load_all_json_files(folder_path)
