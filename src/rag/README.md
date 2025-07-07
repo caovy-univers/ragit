@@ -4,7 +4,6 @@ This folder contains a Retrieval-Augmented Generation (RAG) pipeline using LangC
 
 ## Structure
 
-
 * `src/`
   * `rag/`
     * `__init__.py` <- init to declare rag module
