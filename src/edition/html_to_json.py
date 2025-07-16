@@ -2,29 +2,11 @@ import json
 import yaml
 from bs4 import BeautifulSoup
 from datetime import date
+from edition.models import Document, Metadata
 from loguru import logger
 from pathlib import Path
 from pydantic import BaseModel, ConfigDict
 from typing import List, Optional
-
-
-class Metadata(BaseModel):
-    model_config = ConfigDict(json_encoders={date: lambda v: v.isoformat()})
-    title_main: str
-    title_alt: str
-    publisher: Optional[str] = None
-    publication_place: Optional[str] = None
-    publication_date: date
-    source_description: Optional[str] = None
-    authors: List[str] = []
-    genres: List[str] = []
-    issn: Optional[str] = None
-    identifiers: dict = {}
-
-
-class Document(BaseModel):
-    metadata: Metadata
-    text_body: List[str]
 
 
 def parse_yaml_metadata(yaml_file: Path) -> Metadata:
