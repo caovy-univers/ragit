@@ -26,7 +26,19 @@ langchain = "^0.3.26"
 langchain-community = "^0.3.26"
 langchain-huggingface = "^0.3.0"
 langchain-ollama = "^0.3.3"
+transformers = ">=4.42"
+accelerate = ">=0.33"
+torch = ">=2.2.0,<3.0.0"
+bitsandbytes = ">=0.42.0,<1.0.0"
+pydantic = "^2.11.7"
+einops = "^0.8.1"
+
+[tool.poetry.group.dev.dependencies]
+huggingface-hub = ">=0.23.0"
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
 build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+postinstall = "utils.install:post_install"

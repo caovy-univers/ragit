@@ -1,0 +1,5 @@
+# Three mixed-corpus test queries (vi, fr, en)
+queries:
+  - "So sánh cách bàn luận về văn học giữa Nam Phong và Tân Việt (giống và khác)."
+  - "Quelles références françaises apparaissent dans ces corpus et comment sont-elles réinterprétées localement ?"
+  - "Across both subcorpora, identify recurring topics about education, language, and modernization."
