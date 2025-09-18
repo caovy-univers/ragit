@@ -1,0 +1,1947 @@
+{
+  "metadata": {
+    "title_main": "Triết học Aristote",
+    "title_alt": "La Philosophie d'Aristote",
+    "authors": [
+      "Nguyễn Anh Nghĩa"
+    ],
+    "authors_id": [
+      "2491"
+    ],
+    "publisher_id": "3303",
+    "publisher": "Éditions Tân Việt",
+    "publication_place_id": "3216",
+    "publication_place": "Hà Nội",
+    "publication_date": "1944",
+    "source_description": null,
+    "genres": [],
+    "issn": null,
+    "identifiers": {
+      "H-ID": "4454",
+      "url1": "http://catalogue.bnf.fr/ark:/12148/cb35755902p",
+      "url2": "https://gallica.bnf.fr/ark:/12148/bpt6k42417463"
+    }
+  },
+  "text_body": {
+    "page_1": [
+      "# (BnF Gallica ",
+      "",
+      "## Triêt-hoc Aristote / Nguyên Anh Ngha"
+    ],
+    "page_2": [
+      "# (BnF) Gallica ",
+      "",
+      "Nguyên, Anh Ngha. Auteur du texte. Triêt-hoc Aristote / Nguyên Anh Ngha. 1944.",
+      "",
+      "1/ Les contenus accessibles sur le site Gallica sont pour la plupart des reproductions numériques d'oeuvres tombées dans le domaine public provenant des collections de la BnF. Leur réutilisation s'inscrit dans le cadre de la loi $n^{\\circ} 78-753$ du 17 juillet 1978 :",
+      "",
+      "- La réutilisation non commerciale de ces contenus ou dans le cadre d'une publication académique ou scientifique est libre et gratuite dans le respect de la législation en vigueur et notamment du maintien de la mention de source des contenus telle que précisée ci-après : «Source gallica.bnf.fr / Bibliothèque nationale de France » ou « Source gallica.bnf.fr / BnF ».",
+      "- La réutilisation commerciale de ces contenus est payante et fait I'objet d'une licence. Est entendue par réutilisation commerciale la revente de contenus sous forme de produits élaborés ou de fourniture de service ou toute autre réutilisation des contenus générant directement des revenus : publication vendue (à l'exception des ouvrages académiques ou scientifiques), une exposition, une production audiovisuelle, un service ou un produit payant, un support à vocation promotionnelle etc.",
+      "",
+      "",
+      "## CLIQUER ICI POUR ACCÉDER AUX TARIFS ET À LA LICENCE",
+      "",
+      "2/ Les contenus de Gallica sont la propriété de la BnF au sens de I'article L.2112-1 du code général de la propriété des personnes publiques.",
+      "",
+      "3/ Quelques contenus sont soumis à un régime de réutilisation particulier. Il s'agit :",
+      "",
+      "- des reproductions de documents protégés par un droit d'auteur appartenant à un tiers. Ces documents ne peuvent être réutilisés, sauf dans le cadre de la copie privée, sans l'autorisation préalable du titulaire des droits.",
+      "- des reproductions de documents conservés dans les bibliothèques ou autres institutions partenaires. Ceux-ci sont signalés par la mention Source gallica.BnF.fr / Bibliothèque municipale de ... (ou autre partenaire). L'utilisateur est invité à s'informer auprès de ces bibliothèques de leurs conditions de réutilisation.",
+      "",
+      "4/ Gallica constitue une base de données, dont la BnF est le producteur, protégée au sens des articles L341-1 et suivants du code de la propriété intellectuelle.",
+      "",
+      "5/ Les présentes conditions d'utilisation des contenus de Gallica sont régies par la loi française. En cas de réutilisation prévue dans un autre pays, il appartient à chaque utilisateur de vérifier la conformité de son projet avec le droit de ce pays.",
+      "",
+      "6/ L'utilisateur s'engage à respecter les présentes conditions d'utilisation ainsi que la législation en vigueur, notamment en matière de propriété intellectuelle. En cas de non respect de ces dispositions, il est notamment passible d'une amende prévue par la loi du 17 juillet 1978.",
+      "",
+      "7/ Pour obtenir un document de Gallica en haute définition, contacter",
+      "utilisation.commerciale@bnf.fr."
+    ],
+    "page_3": [
+      "NGUYÊN ANH NGHĨA",
+      "",
+      "# TRIETHOC ",
+      "",
+      "ARISTOTE",
+      "![img-0.jpeg](img-0.jpeg)",
+      "",
+      "TÂN VIÊT"
+    ],
+    "page_4": [
+      "."
+    ],
+    "page_5": [
+      "."
+    ],
+    "page_6": [
+      "."
+    ],
+    "page_7": [
+      "TRIËT HỌC ARISTOTE"
+    ],
+    "page_8": [
+      "# TỬ SÁCH TRIẾT HỌC",
+      "",
+      "## Đã xuất bản",
+      "",
+      "|  Tỉng học Bergson (hết) | Tỉng học Kant (hết-sắp tái bản)  |",
+      "| --- | --- |",
+      "|  Tỉng học Nietzsche (hết) | (sắp tái bản)  |",
+      "|  Tỉng học Einstein | 2$30  |",
+      "|  Tỉng học Descartes | 4$50  |",
+      "|  Tỉng học Phật giáo | (in lần thứ hai 3$50)  |",
+      "|  Sien hình học | (quyền thương $500)  |",
+      "|  Đang in | Vương dương Minh  |",
+      "|  Tỉng học nhập môn | Nhã xuất bản TÂN - VIỆT  |"
+    ],
+    "page_9": [
+      "# NGUYÊN ANH NGHĨA ",
+      "",
+      "![img-0.jpeg](img-0.jpeg)",
+      "",
+      "TRONG",
+      "TÊ SÁCH TRIÊT HỌC",
+      "TÂN VIÊT",
+      "1944",
+      "160 Findech",
+      "1542"
+    ],
+    "page_10": [
+      "A rkiet học ahistote in Lan thu whá̛t ngola nHÔNG bÂN thuoing có in hieng một bÂn cho hha xuất bần Đánh dầu t. v. hai bần Đánh dầu N. A. N. và L. v. Y. và bôn Bân Đep Đánh dầu A. B. C. D. các Bân Này Đèu KHÔNG BÂN",
+      "",
+      "BÂN",
+      "![img-0.jpeg](img-0.jpeg)",
+      "",
+      "DMOR",
+      "non tầnt hake ôt",
+      "Tậiv HAT",
+      "FAS:"
+    ],
+    "page_11": [
+      "# ARISTOTE ",
+      "",
+      "## đồng thời với Mạnh-Tử",
+      "",
+      "Sinh sau Khồng-Tử hai trăm năm",
+      "",
+      "## Tiêu sử",
+      "",
+      "Aristote sinh năm 384 trước Jésus Christ, tại Stagire, một thành phố nhỏ trên bờ biển xứ Hy-lạp. Cha ông làm nghề thay thuốc bên Macédoine và có giaothiệp thân mật với nhà vua xứ đó. Vì vậy, suốt trong những năm thơ ấu, Aristote được sống ngay trong triêu-dinh",
+      "",
+      "Năm mười bảy tuổi, vì cha mất, nên ông trở về Stagire hưởng một gia tài lớn lao. Ít lâu sau, ông tới Athènes (Nhãdiền) theo đuổi học hành. Hồi đó nhà triết học trừ danh Platon đang mở trường"
+    ],
+    "page_12": [
+      "tại thành Syracuse. Aristote bèn sang đó theo học ông, và ở bên cạnh ông đến tận năm 317 là năm Platon tạ thế.",
+      "",
+      "Thày trò sống với nhau rất có lẽ độ và rất thân mật. Platon có cảm tình với người học trò của ông hết sức. Ông đặt cho Aristote cái lên hiệu là «kẻ hay đọc » hay « trí thông minh ». Aristote thì có đề lại một bài thơ ca tụng thấy học ông là một bậc hiền mà «kẻ ác không được phép khen ngợi » đến. Trong khi bàn cãi về những học thuyết của thầy, bao giờ ông cũng giữ một giọng lẽ-độ và thanh nhã.",
+      "",
+      "Platon mất đi rồi, trường học cũng tan rã. Aristote cùng bạn ông là Xénocrate sang Tiểu Á-tế-Á (Asie mineure), và được một người bạn cũ lúc bấy giờ làm vua hai thành bên đó chào đón ân cần. Ba năm sau, nhà vua bị giặc Ba-tư bắt, gladiuh với bè bạn phải chạy trốn cả. Trong những trường-hợp ấy, Aristote kết duyên với nàng Pythias là cháu gái người bạn không may của ông."
+    ],
+    "page_13": [
+      "Hai vợ chồng đang trú ngụ ở Mytilène thì Aristote được vua Philippe xứ Macédoine đón về để dạy học hoàng tử Alexandre. Trong hai năm, hoàng tử theo thầy đi xa hẳn triều đình đề mải miết theo đuổi việc học. Năm mười sáu tuổi, hoàng tử mới phải trở về cầm quyền chính thay vua cha trong một cuộc chính phạt nơi xa. Aristote còn ở bên cạnh Alexandre sáu năm, cho tới khi hoàng tử lên ngôi báu.",
+      "",
+      "Alexandre lên làm vua rồi, ông từ-biệt ngài mà trở về Nhã-điền (Athènes). Năm 334, ông mở một trường học gần đến thờ thần Apollon Lycien: trường học ấy, người thời sau gọi là \"Lycée\". Aristote thường vừa đi chơi vừa giảng dạy cho học trò nên người thời sau còn gọi học-phái ông là tiên-dao học-phái (école péripatéticienne).",
+      "",
+      "Buổi sáng, ông đem những món học bí truyền giảng riêng cho những món - đồ thân cản. Những bài học buổi chiều, trái"
+    ],
+    "page_14": [
+      "lại, là những bài học công-truyền mà ai cũng hiểu được. Những bài học đó, góp lại, là những tác phẩm lớn lao nhất mà Aristote còn để lại đến bây giờ.",
+      "",
+      "Hoàng-dế Alexandre, trong thời kỳ ấy đem binh mã đi khắp xứ hy lập, khắp Tiểu Á tế-Á, tràn sang Ba-tư, đến tận Ấn độ, và lập được những chiến công long trời lỗ đất chưa từng ai nhắc lại được một lần thứ hai trong lịch-sử. Tuy vậy, ngài vẫn không quên ông thầy học cũ, và từ xa tít bên châu Á luôn luôn gửi về tặng Aristote những vật báu, những sản vật kỳ lạ của mỗi miền ngài chiếm được. Nhưng sau thầy trò giận nhau, vì hoàng đế giết mất một người cháu của Aristote.",
+      "",
+      "Tuy giận nhau như thế, người thành Nhã-diễn vẫn coi Aristote là một người làm việc cho xứ Macédoine. Lợi dụng lúc Alexandre ở xa, họ bèn đổ hết những mối thù bần với dân Macédoine lên đầu ông và kết tội ông là vô thần và phẫn"
+    ],
+    "page_15": [
+      "đạo. Không muốn đề nhắc lại một lần nữa tấn thảm kịch đã kết liên cuộc đời nhà hiền triết Socrate, Aristote lánh sang Chalcis.",
+      "",
+      "Ngay năm sau ông mất tại đó, thọ được sáu mươi hai tuổi.",
+      "",
+      "Aristote người thấp bé, tiếng nói nhỏ chân tay gầy gò. Ông rất cần thận trong sự ăn mặc và bất học trò cũng phải cẩn thận như ông. Tính ông ham biết, ham học, và ôn hòa. Cuộc đời phong lưu, khéo xếp đặt của ông thật hợp với lý tưởng làm người của dân by-lạp vậy.",
+      "",
+      "# Tác-phầm ",
+      "",
+      "Một cuốn sách cổ liệt kê rằng tácphầm của Aristote gồm có bốn trăm bộ. Một cuốn khác tã ụg số ấy lên tới một ngàn. Má trong hai cuốn liệt kê ấy, còn sốt nhiều bộ ngày nay người ta mới tìm thấy nữa. Xem thế ta đủ biết sự-nghiệp của nhà triết-học by-lạp lớn lao đến bực"
+    ],
+    "page_16": [
+      "nào. Nhưng tiếc thay những tác phẩm truyền đến bây giờ chỉ còn rất ít.",
+      "",
+      "Các học giả hiện đại chia những sách vở của Aristote ra làm ba loại có những tính cách khác hẳn nhau.",
+      "",
+      "Loại thứ nhất đã được Aristote viết riêng cho những học giả thời ông. Các sách vở hy-lạp cổ đều có ca tung loại đó luôn. Nhưng ngày nay, không một cuốn sách nào thuộc về loại này còn sót lại. Song cứ theo nhờ các nhà văn cổ thì đó là một loại « Luận ngữ» tường thuật những cuộc hàa luận của Aristote với những học giả khác.",
+      "",
+      "Loại thứ hai gồm có những tài liệu rồi rào vô kể do Aristote với món đồ ông thân thập để nghiên cứu về trình độ khoa học, triết học, kinh tế, chính trị của xã hội hy lạp thời bấy giờ. Ngày nay sót lại trong loại này chỉ còn một vài bộ. Đáng kể nhất là một bộ tìm thấy năm 1891, nghiên cứu về Chinh thể thánh Athènes. Kèm theo bộ này, có những"
+    ],
+    "page_17": [
+      "bài khảo cứu cặn kẽ về một trăm năm mươi bầy đò-thị hy lạp khác nữa.",
+      "",
+      "Sua hết, loại thứ ba ghi chép những bài dạy học của Aristote, phần nhiều đã do môn đồ ông chú thích thêm rất nhiều; Chỉ loại sách này là còn lại đầy đủ hơn cả. Nhưng nó lại bị chổ kém là không chắc có phải do chính tay Aristote thảo nên.",
+      "",
+      "Vì vậy, những tác phầm còn truyền lại đếnngày nay của nhà triết học hy lạp không bộ nào giống bộ nào. Nhờivăn thường khô khan, khó hiểu, luôn luôn vướng những chữ chuyên môn khó dịch nghĩa. Nhưng một đôi khi nỗi bật lên một đoạn, hay một câu ngắn, sâu sắc, mạnh mẽ, ý nghĩa thâm trầm. Những đoạn ấy đập mạnh vào trí óc người đọc và đem đến mộl cảm tưởng thực đặc biệt. Dùng văn ngoại quốc không tài nào diễn nỗi được những đoạn ấy.",
+      "",
+      "Các tác-phầm của Aristote còn đề lại gồm có những bộ sau đây :",
+      "",
+      "1- Siêu-hinh-học (métaphysique) mười"
+    ],
+    "page_18": [
+      "ba quyè̀n.",
+      "2. Luận-lý-hoc hay Organon: năm tập: một tập nghiền cứu về những cơ-bản quan-niệm (catégories) - một tập vê những Mệnh-đề (proposition) - một tập Phân tich (Analytiques) bớ quỳ̀n một tập Luận-chứng (Topiques) tám quyè̀n và một tập Chi trich nhû̃ng phái nguỵ biện",
+      "3. Vật-lý học (Physique): tám quyè̀n. Kèm thêm bọ này có những tập khitượng-học (météreologie) bớn quyè̀n: một tập Nót về bầu trói (du ciel) bốn quyè̀n, một tập nói về sự Sinh (de la génération), một tập khảo cứu về Những bộ phận của các loài vật bớn quyè̀n một tập về Sự sinh đẻ̉ của các loài vạt năm quyè̀n-và một tập Lịch-sư̌ nhû̃ng loài vật, mười quyè̀n.",
+      "4. Tám-lý-hoc, ba quyè̀n nhan-đè là Nót về linh-hồn (De l'âme).",
+      "5. Luân-lý học gồm mười quyè̀n nhan đè̀ là Luân-lý tặng Nicomaque.",
+      "6 / Chinh-trị học gồm tám quyè̀n thứ"
+    ],
+    "page_19": [
+      "tự lộn xộn vì hình như còn đở dang.",
+      "71/ Thi ca học (Poétique) gồm hai quyền và Tír-chương-học (Rhétorique) gồm ba quyền.",
+      "",
+      "Sau hết, ta phải kê đến bốn mươi môt quyền nhan đề là Vấn đề (Problèmes) trong đó các môn đồ Aristote theo lời chỉ dấn của thầy tìm cách giải quyết những vấn đề liah tinh đã được nêu lên trong các buồ học.",
+      "",
+      "Xem bản liệt kê sơ lược trên đây, ta thấy rằng trừ khoa số - học (Mathématiques) còn khắp mọi vấn đề quan-hệ đến tri thức loài người đều được Aristote nghiên cứu cặn kẽ. Cái tài học của nhà triết lý hy-lạp thực đáng gọi là siêu việt.",
+      "",
+      "Tinh cách đặc biệt của cái công triah khảo cứu «ghê gớm» ấy là có một phương pháp rõ rệt và không thay đồi; trong mọi trường hợp, Aristote ưa nghiên cứu về những hình-thức cao đẳng chứ không hay tim hiểu những hinh thức"
+    ],
+    "page_20": [
+      "hạ đằng: chẳng hạn trong vũ-trụ, ông dễ y nhất đền những loài sinh - vật, và trong các sinh-vật, thì đề ý nhất đến người ta. Aristote đem cái hoàn toàn đề giảng nghĩa cái không hoàn toàn, cái có tở chức đề giảng nghĩa cái không tở chức, vì ông cho rằng cái «thấp» luôn luôn có «cao» hơn, và cái hoàn toàn chỉ là cái không hoàn toàn khi đã đạt được mục đích.",
+      "",
+      "Có một triết học vững vàng, một phương pháp nhất định làm căn bản, nên tất cả những tác phẩm của Aristote hợp thành một khối thống nhất, có trật tự rõ ràng, có tinh thần riêng biệt. Trong lịch sử, tư tưởng phương tây so sánh được với sự-nghiệp vĩ đại đó, có lẽ chỉ sự - nghiệp nhà triết học Hegel (1). Còn những công trình của Spencer, hay Saint Thomas thì ở xa lắc xa lơ bên dưới.",
+      "(1) Triết gia Đức vẽ đân thế-kỷ thứ 19. Có đề lại một số vĩ đại sách vở nghiên cứu về tất cả mọi khoa-học theo một phương pháp mới : phép biện-chứng đay tâm"
+    ],
+    "page_21": [
+      "Các học-giả ưa so sánh Đông-tây, tưởng cũng nên đem sự nghiệp đó đặt bên sự nghiệp của những ông thánh bên phương này mà tìm những điểm dị đồng, những chỗ hơn kém, trước khi phê bình văn hóa của những người sinh sống bên kia bờ Đại dương."
+    ],
+    "page_22": [
+      "."
+    ],
+    "page_23": [
+      "# PHÂN THƯ NHẤT <br> SIÊU-HÌNH TRIẾT-HỌC"
+    ],
+    "page_24": [
+      "TZ̈H 988 HAM",
+      "99A-13127 M. 1693"
+    ],
+    "page_25": [
+      "# CHƯƠNG 1 ",
+      "",
+      "## Bón nguyên nhân của sự vật - Bản thế",
+      "",
+      "Làm cơ sở cho tất cả các học-thuyết của Aristote là một nền triết-học siêu-hiah rất cao. Vị vậy, công việc đầu tiên của chúng ta là phải bước ngay vào cái cơ sở ấy, rồi mới tìm đến những con đường chạy từ trung tâm ra ngoại-diện.",
+      "«Biết» nghĩa là nắm được nguyên-nhân của sự vật, thứ nhất là nẫm được nguyên nhân những sự thay đổi. Có đồi thay, sự vật mới cần được chúng ta tìm biết. Nếu thế-giới bên ngoài lúc nào cũng giống lúc nào thì tìm biết nó cũng không có gì khó khăn, mà chúng ta cũng không cần."
+    ],
+    "page_26": [
+      "mất công tìm nguyên-nhân của sự vật làm gì vì khi ấy ta sẽ chỉ cần biết sự vật thể nào chứ không cần hiểu tại sao mà có sự vật. Sở dĩ trong tâm trí chúng ta nảy ra những câu hỏi tại sao là vì chúng ta thấy sự vật luôn thay đổi.",
+      "",
+      "Đem những hiện tượng tự nhiên ra xét, người ta thấy sự thay đổi nào cũng phải có bốn nguyên nhân: một chất liệu (matière) với một hình thức (forme), một động-lực (moteur) với một mục-dích (fin). Ta cần xét kỹ đến từng nguyên-nhân ấy một.",
+      "",
+      "Chất liệu với hình thức.",
+      "Sự thay đổi nào, trước hết, cũng phải lấy một cái gì làm cốt, một cái gì có thể biến hóa theo nhiều khuôn khổ khác nhau nhưng vẫn giữ nguyên được nội dung của nó; cái cốt ấy tức là chất-liệu (hay vật-chất: matière) của sự thay đổi vậy.",
+      "",
+      "Chất-liệu tự nó không có một tính chất (qualité) gì, một số lượng (quantité) nào;"
+    ],
+    "page_27": [
+      "nó là cái còn đang biến hóa, nó là cái có thể «có» (être) được, ahung hiệu bây giờ chưa có. Nếu ta tước khôi một vật gì tất cả những thuộc tính của nó, thì sẽ còn lại gì? - Còn lại chất-liệu của nó. Trong một pho tượng, thì chất-liệu là đá hay đồng đã dùng để làm nên pho tượng ấy; trong người ta, chất liệu là thân-thể khi ta tách nó rời khỏi linh-hồn.",
+      "",
+      "Chất-liệu là tất cả những gì còn hoang mang, còn chưa được định rõ: trong sổ học (mathématiques) thì chất liệu là sự vô-hạn của không gian. Trong một nhờ định nghĩa (définition) thì chất liệu là những tiếng chỉ một loại sự vật nào trừu tượng hay không thể định nghĩa được (ví dụ những tiếng như: một cái gì - một sự gì v. v...)",
+      "",
+      "Vậy vật-chất nguyên-nhân (cause matérielle) của một hiện tượng nào là những điều-kiện thấp nhất, và cũng thiết yếu nhất của hiện tượng ấy.",
+      "",
+      "Chất-liệu của sự thay đồi nào cũng có"
+    ],
+    "page_28": [
+      "một đặc tính : là thêm khát cái hình-thức (forme) sẽ làm khuôn khô cho nó Chấtliẹ̣n đã tiềm tàng chứa sẵn hình-thức ấy, và luôn luôn có gắng đi tới đó. Nó thèm hinh-thức khác nào một con vật cái thèm con đực sẽ làm cho nó có mang. Nhưng một chất liệu không phải thèm khát tất cả mọi hình-thức : nó chỉ có thể ăn nhập với những khuôn khô nào nó đã ngầm chứa sẵn. Aristote nói một cách kỳ dị rằng: «Cái nghệ-thuật của người thợ làm mái nhà không thể xuống đến những chiếc sáo được». Người thợ mộc không thể dùng ống sáo mà làm mái nhà, một chảt liệu nấu không tiềm tàng chứa sẵn một hinh thức, tất không thể biến hóa thành hình thức ấy.",
+      "",
+      "Chất liệu có tính cách tương đối : nó hoàn toàn hay không hoàn toàn, có tở chức nhiều hay ít tùy theo những hình thức làm khuôn khô cho nó. Những hinhthức có bao nhiêu loại thì chất liệu cũng có bấy nhiêu hạng.",
+      "",
+      "Chẳng hạn người ta có một linh-hồn"
+    ],
+    "page_29": [
+      "giư việc nuôi sống thân-thế, một linh hồn biết cảm giác, một linh hồn biết suy-iy. Linh-hồn cảm giác (âme sensitive) là hinh-thức của linh-hồn nuôi sống (âme végétative) nhưng lại là chất-liện của linh-hồn suy-ly (âme rationnelle). Còn thân thể thì là chất liệu của cả ba thứ linh hồn. Chất liệu là cái gì thấp hơn, hình thức là cái gì cao hơn. Nhưng cứ lùi xuống thấp mãi, ta đến một chất liệu cuối cùng, làm «cốt» cho mọi sự vật : đó là vât-chất (matière), theo nghĩa hiện đại của chữ ấy. Vật chất đầu tiên (matière première) hoàn toàn bất định, và không thể tượng hình được : cái vô hạn ngày nay thường được nêu lên làm căn bản cho lý trí, theo Aristote trái lại là nguồn gốc những điều phi-ly. Hoàn toàn không phải là vô hạn, vô định. Trái lại, hoàn toàn là có hình thức, có trật tự, có đều hóa. (1)",
+      "",
+      "Song chất liệu không những chỉ có tinh cách tương đối mà thôi, nó còn tuyệt",
+      "",
+      "[^0]",
+      "[^0]:    1- Nên so sánh với tôn chỉ Lễ, nhạc bên phương Đông."
+    ],
+    "page_30": [
+      "đối về một vài phương diện khác nữa. Chất liệu là cái còn vô định cho nên làm nảy ra sự may rủi (hasard). Sự may rủi ấy, trong phạm vi nhân loại, tức là sự tự do vậy. Sở dĩ Callias khác Socrate là vi phần chất liệu. Còn phần hình thức của hai ông thì giống nhau vì đều là lý trí cả.",
+      "",
+      "Hinh thức hay hình thức nguyên nhân (cause formelle) là kết quả lý tưởng của một sự thay đổi nào. Mỗi chất liệu khi thay đổi, khát khao một hình-thức đẹp đẽ nhất, hoàn toàn nhất : hình thức ấy có đủ mọi bậc cao thấp, cũng như chất liệu tương hợp với nó. Một « hình thức đầu tiên» (forme première) nào ăn nhộp khăng khít với chất liệu của nó thì gọi là viên cực (entéléchie).",
+      "",
+      "Xem đó, phần hình thức bao hàm tất cả những tính chất có thật của một sự vật; nó có tính cách tích cực (positif). Nó chính là phần có thật, phần hoàn toàn nhất của sự vật, nó làm cho sự vật"
+    ],
+    "page_31": [
+      "có thật, nó là phần đã được định rõ của bản-thế (être) Hinh thức, là cái đã thực hiện (acte), trái với chất liệu là cái còn đương tiè̀m tàng (puissance). (1)",
+      "",
+      "# Dộng-Lực với Mực-Dích ",
+      "",
+      "Học thuyết về chất liệu với hình thức là thìa khóa đề mờ tất cả hệ thống của Aristote. Suốt trong các tác phầm của nhà triết học hy-lap chúng ta sẽ chỉ thấy những hình thức với những chất liệu đất dỉu nhau thay đồi và ảnh hưởng lẫn lộn đến nhau.",
+      "",
+      "Nhưng nếu bề trong những sự thay đồi là như thế, thì bề ngoài hình như khác hẳn. Lấy một vận động làm thi dụ, ta thấy hình như mỗi thời kỳ chịu ảnh hưởng của thời kỳ đi trước. Thời kỳ đi trước ấy là động lực của thời kỳ đi sau vậy. (Cũng có khi gọi là cơ giới nguyên nhân: cause mécanique) Aristote coi nguyên nhân ấy là một trạng thái của sự khao",
+      "",
+      "[^0]",
+      "[^0]:    1.-Xem thế đủ biết hinh thức trong triết học Aristote khác hân hinh thức trong triết học Kant - và trong ngôn ngữ thường ngày."
+    ],
+    "page_32": [
+      "khát một hluh thức hoàn toàn trong sự vật. Không phải trong một sự thay đồi, mỗi thời kỳ có ảnh hưởng đến thời kỳ đi san; thực ra tất cả mọi thời kỳ đều chịu ảnh hưởng của cái toàn thể (l'ensemble).",
+      "",
+      "Không phải thuốc men tạo ra được sức khỏe; nguyên nhân của sức khỏe thực ra lại chính là sức khỏe, vì muốn chế thuốc, pha men, phải biết thế nào là sức khỏe đã. Cái nguyên nhân hoạt động không quan trọng bằng cái nguyên nhân mục đich (cause finale) Cái nguyên nhân bên ngoài phải phụ thuộc vào cái nguyên nhân bên trong.",
+      "",
+      "Trong thiên nhiên, mục đích (fin) của những sự thay đồi chính là một trạng thái của hình thức, khi nó hấp dẫn chất liệu. Trong nghệ thuật, mục đích của một nhà nghệ sĩ - nghĩa là cái hình thức lý tưởng mà nghệ sĩ muốn đem in lên trên chất liệu của ông-, mục đích ấy ở bên ngoài nghệ sĩ. Nghệ sĩ chính là động lực của công trình ông, cho nên động lực,"
+    ],
+    "page_33": [
+      "với mục đích ở đây bị tách làm đôi. Trong thiên nhiên, trái lại, mục đích năm ngay bên trong động lực ; sự phối hợp ấy khác nào như thế này: muốn đóng tầu, phải dùng đến một thứ gỗ riêng : thứ gỗ ấy đã chứa sẵn những tinh chất cần thiết cho việc đóng tầu : mục đích của nó (đóng tầu) nằm sẵn bên trong nó, chứ không tách ra ngoài như mục đích của nhà nghệ sĩ với ông ta.",
+      "",
+      "Mỗi luật tự nhiên là một nghệ thuật ân sẵn trong lòng sự vật, một mục đích nội tại, nghĩa là một khuynh hướng của chất liệu muốn tự nó thực hiện được hình thức đã tiềm tàng sẵn bên trong nó. Cho nên «thiên nhiên không làm một điều gì vô ích»: tất cả những gì có ở quanh ta đều thực hiện một trạng thái của cái thiện, và cái mỹ, hay nói nôm na hơn, của cái tốt, với cái đẹp.",
+      "",
+      "# Tlêm-thế với Hiền-thế - Bản-Thề ",
+      "",
+      "Một bên là chất liệu với động lực, một bên là hình thức với mục đích, ta thấy"
+    ],
+    "page_34": [
+      "hai loại nguyên nhân ấy sở dĩ khác nhau là vì một bên còn tiềm tàng, một bên đã biền biện. Tiềm-thế (puissance) và hiền* thế (acte) là hai trạng thái của mọi sự vật trên đời. Tiềm thế là trạng thái còn đương thay dồi, đương biến hóa, đương khao khát ; hiền thế, trái lại là trạng thái đã đứng yên, đã đạt được mục dich, dã có một hình thức nhất định.",
+      "",
+      "Cả hai trạng thái ấy phối hợp với nhau thành bản thễ (substance...): ta gọi là bản thề tất cả những gì «cớ (être) thật. Bản thề tuyệt đối, bản thề cao nhất thi không thay đồi gì nữa; vì vậy nó hoàn toàn là một hiền thế (Acte). Trong bản thề ấy không còn tiềm tàng một tinh chất gì, một mục dich gì, mục dich hình thức nào cũng đã được thực hiện cả. Bản thề tuyệt đối, là hình thức thuần túy chứ không còn bao hàm một tí chất liệu nao.",
+      "",
+      "Những bản thề thông thường, trái lạic còn chưa hoàn toàn, nên còn thay dồi"
+    ],
+    "page_35": [
+      "được, biến hóa được. Vì vậy, những bản thể ấy bao giờ cũng gồm có hai phần là chất liệu với hình thức, tiềm thế với biến thế; Phần tiềm tàng làm cho bản thể còn thay đổi, phần đã thực hiện không lôi cuốn được hết cả những thế lực còn tiềm tàng. Tất cả những gì có thật đều có cả chất liệu lẫn bình thức. Có thật, không phải là Con người trừu tượng, mà lại người này hay người kia. Socrate hay Callias, chất liệu với hình thức kết hợp thành một khối duy nhất."
+    ],
+    "page_36": [
+      "![img-0.jpeg](img-0.jpeg)",
+      "![img-1.jpeg](img-1.jpeg)",
+      "![img-2.jpeg](img-2.jpeg)",
+      "![img-3.jpeg](img-3.jpeg)",
+      "![img-4.jpeg](img-4.jpeg)"
+    ],
+    "page_37": [
+      "# CHƯƠNG II ",
+      "",
+      "## 5. Từ sự đồi thay đến Thượng đế",
+      "",
+      "Khởi diễm của siêu-binh học Aristote là sự đồi thay: vì muốn tìm nguyên nhân những cuộc chuyển biến nên ông mới phân biệt chất liệu với hình thức, cái đã thực hiện với cái còn liềm tàng. Tim được nguyên-nhân ấy, ông lại quay trở về xét đến sự đồi thay cho được thêm kỹ lưỡng.",
+      "",
+      "Bôn sự thay-đồi trong tự nhiên.",
+      "Ta đã gọi là bản thễ những gì có thật. Nhưng thế nào là có thật? - Ấy là có trong tự nhiên. Song ý niệm về tự nhiên (nature) rất phức-tạp: chúng ta cần định nghĩa hai chữ ấy cho rõ ràng và chắc chắn."
+    ],
+    "page_38": [
+      "Aristote thường coi Tự-nhiên như một thứ linh hồn ở khắp mọi nơi : «Thiên nhiên không làm một điều gì vô ích» là một câu được ông dùng đến luôn. Nhưng cái quan-niệm phiếm-thần (panthéistique) ấy thực ra không hợp với vũ-trụ-quan đa-nguyên (pluraliste) của ông.",
+      "",
+      "Trong tư tưởng Aristote, mỗi bản thể có một «Tự nhiên» riêng của nó. Mỗi bản thề có một bản chất đặc biệt : bản chất nào dễ diễn giải, phát triển hơn cả là Tự-nhiên vậy. Thiếu cái tựnhiên ấy thì cũng không có bản-thề mà chỉ có một sự phối hợp giả dối bên ngoài. Những luật của Thiên nhiên không phải là những sức mạnh cơ giới đứng bên ngoài xô đầy sự vật mà đã nắm sẵn trong lòng sự vật rồi. Ngọn lửa bốc lên cao, hòn đá rơi xuống thấp là vì cái chất tự nhiên của lửa là ở trên cao: của đá là ở dưới thấp, cũng như cái tính tự nhiên của cây là mọc, của súc vật là ăn uống.",
+      "",
+      "Tự nhiên là cơ sở bên trong của sự"
+    ],
+    "page_39": [
+      "chuyển động và sự thay đồi. Sự thay đồi (changement) là sự sản xuất hay là hẹu-diệt. Khi đồi, bản thể từ chỗ «cờ » qua chỗ khơng có» hay ngược lại. Sự chuyền động (mouvement) thấp kém hơn vì nó chỉ là sự rời chỗ từ một diễm, sang diễm trái lại, ví dụ từ cao xuống thấp, từ nóng sang lạnh.",
+      "",
+      "Học phái Zélée chủ trương rằng không thể có sự thay đồi được, vì bản thể không tài nào tự chỗ «không có » mà nảy ra, cũng không tài nào đang «cờ » mà tiêu diệt đi mất. Nhưng Aristote nói : Suy-luận tuyệt đối thì như thế thật, song ngoài cái «không có » tuyệt đối, còn một cái «không có » tương đối nữa (néant relatif): Ấy là chất liệu. Chất liệu là cái cốt trống không của sự thay đồi. Vì còn trống không, vì chưa được định rõ nếu nó có thể thay đồi theo chiều nào cũng được. Chất liệu là bản-thể, trừ đi phần hình-thức. Nên chất liệu là bản thể, nhưng lại chưa là bản-thể. Khi còn ở"
+    ],
+    "page_40": [
+      "trạng thái chất liệu, bản thê còn chưa có thực. Thêm phần hình thức vào, bảnthê mới thực là có. Nhờ thế, bản - thê từ chỗ « không có \" hay \" chưa có \" mà sang được chỗ «có ». Nhờ thế, sự thay đồi mới có được. Aristote nói một cách khó hiểu rằng: «Sự chuyển động là viên cực của cái còn đương liềm tàng ». Một tiềm thế nào cũng khuynh hướng về một hiền thế. Nếu bản chất của tiềm thế ấy là không bao giờ thực-hiện được, thì sự hoạt động của nó, khuynh hướng của nó tạo ra sự thay đồi vậy.",
+      "",
+      "Nói dễ hiểu hơn, thì theo Aristote, có sự thay đồi, khi chất liệu bắt đầu chịu khuôn khô của một hình thức dễ tạo nên bản thê. Vị vậy sự thay đồi là hành vi đâu tiên (acte premier) của những gì tiềm tàng trong chất liệu, la đã có lần định nghĩa «viên cực n là hình thức đân tiên nào ấn nhập khăng khít với chất liệu của nó. Cho nên có thê̂ định nghĩa sự thay đồi là một viên cực như trong câu"
+    ],
+    "page_41": [
+      "trên kia của Aristote.",
+      "Xem đó, sự thay đồi trong siêu hình học Aristote có thê có nhiều trang thác. Nhá triết học hy lạp phân biệt bón sự thay đồi cả thảy trong Thiên-nhiên.",
+      "$11 /$ Sự đồi the (changement de substance) là sự sản xuất hay tiêu diệt một bản thê. Không phải sản xuất hay têu diệt tuyệt-đối (vì điều đó khong thê có dược) mà sản xuất hay tiêu diệt tương đối nghĩa là dem một hình-thức, thay cho một hình thức khác trong một chất liệu có thê chịu khuôn của cả hai hình thức ấy. Sự đồi thê, chỉ là sự đồi hình-thức của cú ụ̣một chất-liệu. Chúng ta nói rằng cái chết làm tiêu diệt một sinh vật mà không nói rằng nó sản xuất ra một xác chết, vì chúng ta cho rằng chỉ cái hinh thứ : hoán toàn hơn, - sự sống - , mới đáng gọi là có thật. Song, đối với thịên nhiên thì không có tiêu diệt, mà chỉ có thay đồi hinh-thức: thay dời từ hinh thức song. sang hinh thức chết."
+    ],
+    "page_42": [
+      "2/ Đồ lượng (changement de quantité) là thêm lên hoặc bớt đi.",
+      "",
+      "3/ Dồi chất (changement de qualité) là phai naat di, cũ đi, hư hỏng di.",
+      "",
+      "4/ Đồi chỗ, là sự thay đồi giản di nhất. Vì vậy nó làm điều-liện cho tất cả những sự thay đồi khác. Những nới như thế không phải nghĩa là ba loại thay đồi trên vát lại chỉ còn một cách đồi chỗ sự đồi chỗ chỉ có hiệu quả là bấc một chiếc cầu giữa bước đầu với bước cuối của những sự thay đồi khác. Trong sự thay đồi, không phải vật đang thay đồi là quan trọng. Aristote đề y đến ngũyên nhân, đến động lực của sự thay đồi hơn, vì đó mới là phần hoạt động. Còn vật đang chuyển động, hay động-thế (mobite) thì hoàn toàn thủ động: nguyên-nhân của sự thay đồi, đối với động thế, thì bất di bất dịch (ví dụ cao-thấp khác nhau) là nguyên nhân làm cho mọi vật rời trong không gian. Nguyên nhân ấy không chuyển động, không thay"
+    ],
+    "page_43": [
+      "đồ). Rút lại, mọi sự thay đồi đều có những nguyên nhân tĩnh. Aristote riêng chú trọng đến phần nguyên nhân đó thôi.",
+      "",
+      "Động-lực đầu tiên. (hay tối so nguyên nhân).",
+      "",
+      "Có người nói rằng muôn vật đều luôn luôn chuyên-biến. Cũng có người quả quyết rằng muôn vật luôn luôn yên tĩnh. Theo Aristote cả hai thuyết đó đều sai cả. Ông dựa vào các quan mà tin rằng có những vật vĩnh viễn chuyển biến thì cũng có những vật vĩnh viễn yên tĩnh và những vật có khí chuyển biến, có khí yên-tĩnh.",
+      "",
+      "Ý niệm về thiên-nhiên không thể tách khỏi ý niệm về sự thay đồi được. Mà sự thay đồi nào cũng có một nguyên nhân bên trong, hay bên ngoài. Nếu nguyên nhân ấy lại do một động lực khác xó dây, thì phải ngược dòng nguyên nhân đi lên mãi. Nhưng khi ngược dòng như vậy, tất phải có một lúc ngừng lại. Lý trí suy cấu ra một động lực đầu tiên, xó dây tất cả mọi sự vật, nhưng khó ý chịu."
+    ],
+    "page_44": [
+      "sinh hướng của sự vật nào. Động lực ấy không thê nào tự nó làm cho nó vận động được, vì nếu nói như thế là cắt nó ra làm hai phần : một phần động và một phần tĩnh. Rút lại, thiên nhiên có một động lực-tĩnh làm nguyên-nhân tối so (cause première). Nguyên nhân ấy ở cao hơn cả trong thiên nhiên, cũng như ở thấp hơn cả có một động thế bị xô đầy bởi tất cả mọi động lực mà tự nó không xô đầy được một sự vật gì : động thế thấp kém nhất ấy là vật chất tối so (matière ultime) vậy.",
+      "",
+      "Vũ trụ vĩnh viễn váng theo một luật duy nhất: là luôn luôn khao khát một hình thức hoàn toàn và cố gắng đi tới hình thức ấy. Vậy động lực đầu tiên của vũ trụ cũng chỉ có thế phi vật chất, vĩnh viễn, thuần túy thuộc về tư tưởng động lực đầu tiên của tự nhiên phải là bản thể hoàn toàn nhất, nghĩa là thượng đế.",
+      "",
+      "Thượng đế thoát ra ngoài vòng thời gian, vì vũ-trụ đã vĩnh viễn thì nguyên-"
+    ],
+    "page_45": [
+      "nhân đâu tiên của nó cũng phải vĩnh viễn. Mà những vật nào dã có tự không biết bao giờ, và bao giờ cũng vẫn có thì chính vì bao giờ cũng vẫn có mà vượt ra ngoài thời gian.",
+      "",
+      "Thượng đế vượt cả ra ngoài không gian nữa, vì nguyên nhân đâu tiên của vũ trụ phải là hình-thức của mọi hình thức; là hình-thức hoàn toàn, nguyên nhân ấy là tư tưởng thuần túy, nghĩa là không cảm giác thấy được, trong nghe sờ mó thấy được. Không có một tính chất nào của chất liệu, Thượng đế vượt ra ngoài vòng không gian. Sau này Kant với Leibniz cũng chỉ sẽ tìm đến được những kết quả đó.",
+      "",
+      "# Thượng đế ",
+      "",
+      "Thượng đế là động lực đâu tiên. Nhưng ta không nên quên rằng phương pháp hoạt động của ngài là lôi cuốn, bấp dẫn, chứ không phải xô đầy. Nguyên nhân đâu tiên có nghĩa là «mục đích cuối cùng chứ không phải là nguyên"
+    ],
+    "page_46": [
+      "nhân sáng tạo s.",
+      "Lá hình-thức cao đẳng của vũ trụ; Thượng đế có những tinh chất của mọi hình-thức, nhưng những tinh chất của ngài bao giờ cũng hiền nhiên, vì trơnê Thượng đế không còn gì là tiềm tàng. Chất-liệu của thượng đế là vũ trụ: Vậy Thượng đế phải ở ngoài vũ trụ. Thượng đế còn là bản thể hoàn toàn, nghĩa là một bản thể tự nó sung túc cho nó, một bản thể có đủ những tinh chất của tất cả mọt bản thể.",
+      "",
+      "Thượng đế là đấng hoàn toàn nhất, vậy ngòi là Tư tưởng, không phải tư tưởng côn tiềm tàng, mà tư tưởng đã triệt đề thực-hiện. Tư tưởng ấy chỉ có thể lấy chính nó làm mục - đích đề suy nghĩ. Vì vậy, ta không thể phân biệt trong Thượng đế hai phần: một tư tưởng hoạt động, và những ý-niệm thu động được suy cấu. Trong thượng đế, hai phần ấy chỉ là một, Thượng-đế là một đấng đơn-nhất.",
+      "",
+      "Thêm vào quan-niệm duy ly ấy về Thượng đế, Aristote công nhận một vài"
+    ],
+    "page_47": [
+      "điêu tin tưởng thông thường trong dân chúng, những công nhận lấy lệ, mà không tìm cách hóa hợp những điều tin tưởng ấy vào hệ thống của ông: chẳng hạn, Thượng đế có «sống» Thượng đế là đấng «sung sướng nhất» Thượng đế luôn luôn chú ý đến người ta; kẻ «thiện» chắc chắn được thần minh che trở vì v...",
+      "Ta cũng nên nhận rằng quan niệm của Aristote về Thượng đế còn một vài điều mở tối. Có người đã nên lên vấn đề này: Thượng đế đơn nhất, có phải nghĩa là chỉ có một Thượng đế không? Thượng đế phải chăng là một cá thể (individu)? Trong vũ trụ Aristote công nhận một Thượng đế đơn nhất và duy nhất hay là nhiều vị thần minh?",
+      "Trả lời câu hỏi này, phần đông các học giả đều nghiêng về thuyết thứ nhất, Cũng như các triết gia trong ba thế kỷ, trước, Aristote đã vượt khỏi cái đa thẩn giáo thông thường rất xa. Thượng đế vừa đơn nhất vừa duy nhất. Một động lực đâu tiên là đủ cho một vũ trụ có"
+    ],
+    "page_48": [
+      "trệt tự, có mục đích rõ rệt. Thế giới là một tấn kịch khéo xép đặt: Người xếp đặt nó chỉ cần có một, và bất buộc chỉ có một.",
+      "",
+      "Nhung còn một vấn đề thứ hai, ta không thấy Aristote trả lời rõ rệt: Thượng-dã có thật riêng biệt ra khỏi vũ trụ không? Hay Thượng đế là linh hồn của vũ trụ ấy? Và những tư tưởng những điều quyết định của ngài biết đâu không phải chính là những luật thiết yếu của tự nhiên? Nếu Thượng đế đã không sáng tạo ra vũ trụ, nên ngài riêng biệt ra khỏi thế giới, chắc hẳn ngài không thể đem ý định riêng con thiệp vào đó được.",
+      "",
+      "Vì nhờ giải thích của Aristote không rõ rệt, nên các môn đồ ông mỗi người nghiêng về một phía. Có người đem Thượng đế mà đồng hóa với vũ trụ (Averroës) người coi Thượng đế là một đảng riêng biệt (học phái Alexandrins) cũng có người chủ trương rằng tuy Thượng đế là một đảng riêng biệt, nhưng"
+    ],
+    "page_49": [
+      "ngài biết được hình - thức của tất cả những sự vật trong lự - nhiên (Saint Thomas). Khi ấy thì thượng đế vừa là một ông vua ngự bên ngoài trời đất lại vừa sáng tạo thay đồi được trời đất ấy."
+    ],
+    "page_50": [
+      "$$",
+      "\\begin{aligned}",
+      "& \\text { 今 }",
+      "\\end{aligned}",
+      "$$"
+    ],
+    "page_51": [
+      "# CHUONG III ",
+      "",
+      "## Vũ - Trụ",
+      "",
+      "Khởi điểm của học huyết Aristote về vù̃-tru cũng là sự thay dỗi. Bèm phánlieh những cuộc chuyện biến, Aristote tim dược cách diển-dịch ra thế giới bên n goài.",
+      "",
+      "Trước hết, muốn hiền thế nào là thay đồi, ta phải có ba ý-niệm này : ý - niệm về khong-gian, thời gian, và ý niệm về vô-hạn. Thiếu mợt trong ba căn bản ấy, ta khờng thế tưởng tượng nồi được sự chuyển động nào giản dị nhất.",
+      "",
+      "## Y-niệm vê Vo-hẹn (L'infini)",
+      "",
+      "Cái vô hạn là cái còn chưa xong và"
+    ],
+    "page_52": [
+      "chưa được định rõ. Vậy vô hạn là không hoàn toàn. Hoàn toàn phải nghĩa là có thể tự cấp, tự tức. Mà cái vô hạn là cái cần có một điều kiện ngoại tại mới trọn vẹn, và được định rõ : một vận động vô hạn là một vận động cần đến một sức mạnh bên ngoài mới đi theo một con đường rõ rệt. Số lượng là một cái vô hạn khi còn chưa được định rõ : nhưng số hai, hay số ba, hay số nào cũng vậy, khi đã được định rõ thì không còn vô hạn nữa. Cái hoàn toàn phải là cái hữu hạn. (1)",
+      "",
+      "Vậy cái vô hạn có thật, nhưng nó không phải là một bầu-thề. Cái vô hạn là một tiềm thế thuần túy, một tiềm thế",
+      "(1) Quan niệm của Aristote về cái vô hạn trái ngược bẳn với quan niệm của chúng ta ngày nay. Theo tư tưởng hiện đại, vô hạn cáo hơn hữu hạn và hoàn toàn hơn, vì vô hạn là rộn, rãi, mà hữu hạn là chật hẹp. Aristote đã đồng hóa cái vô hạn (infini) với cái vô định (indéterminé). Ngày nay phần đông không nghĩ thê."
+    ],
+    "page_53": [
+      "không bao giờ có thể thực-hiện được vi thực-hiện được là có hình-thức bất dịch mà có hình-thức chắc chắn là có giới hạn rõ ràng. Nên chi những sự triền diễn (devenir) nào chưa xong, chưa hoàa toàa, chưa có hình thức là có thê vô hạn.",
+      "",
+      "Thiếu hình-thức, chi có chất - liệu nào thấp kém nhất, nghĩa là vật-chất tối so. Sự vật căng hoàa toàn bao nhiêu càng có giới hạn rõ rệt bấy nhièm. Vũ trụ có giới hạn: thượng đế cũng không vô hạn, trái lại, ngài là một đấng có những tinh chất đặc biệt và rõ ràng.",
+      "",
+      "Tư tưởng Aristote phấn chiến rất đúng tư tưởng người by-lạp xưa. Nền tư tưởng ấy khinh thị cái vô hạn đáng ngờ, và đáng lo, khó thấy rõ và khó nắm được chắc chắn. Nền tư tưởng ấy coi là hoàn toàn những gì có lô chức, có hình thức có trật tự, có giới hạn, có kết hợp chặt chẽ, có đều hòa. Nó tsong cái đã đứng yên, đã xếp đặt sẵn, nó sợ cái còn thay đồi, còn biến hóa. Nó ưa phạm vi những"
+    ],
+    "page_54": [
+      "sự vật tĩnh và hết sức tránh tất cả những gì có tính cách động.",
+      "",
+      "Không gian, Thờ gían",
+      "Hai vật khác nhau có thể lẫn lượt choán một kí oán không nhất định. Vậy không gian tách riêng ra ngoài sự vật. Nhưng đó không phải chất-liệu mà cũng không phải hình thức của vật thể. Không gian là một lượt vô ngoài, có thể bóc ra khỏi bản thể được. Không gian với sự vật khác nào vô bình với nước trong bình, nếu bình không di chuyển.",
+      "",
+      "Nhưng nếu không gian là bình chứa cả vũ trụ, thì cái gì chứa đựng không gian? Aristote trả lời lúng túng: bên ngoài không-gian, chẳng còn gì hết.",
+      "",
+      "Một khoảng không-gian (espace) không phải là một khoảng trống rỗng (vide). Không có một khoảng nào trống rỗng cả, vì nếu có một khoảng như thế, tất trong đó, vật thể không bị lôi cuốn về phía nào, và mọi vận động sẽ kéo dài mãi. Nếu có một khoảng trống"
+    ],
+    "page_55": [
+      "rồng tất muôn vật sẽ rơi nhanh bằng nhau mà đó là một điều kinh - nghiệm không chứng nhận. Một vận động nào cũng vậy, hoặc là phải có đường đi từ dưới lên trên hoặc phải từ trên xuống dưới. Trên, dưới là những tinh chất có thực của không gian. Có trên, có dưới những phần tử của không-gian không đều nhau, và không giống nhau: không-gian không đồng chất (homogène). Một khoảng trống rồng, trái lại, nếu có tất phải đồng chất. Không có trên, cũng không có dưới, khoảng trống rồng ấy sẽ không đủ điều kiện cho một vận động có thể thực hiện. (1)",
+      "",
+      "1. — Những cuộc thuyết minh trên đây của Aristote ngày nay đều đã bị khoa học lật đổ cả. Những cuộc thí nghiệm của Galilee và Newton đã chứng thực rằng có thể thực hiện được một khoảng trống rồng (vide) và trong khoảng chân không ấy, một vận động nào đã sẵn có sẽ kéo dài mãi, mà muôn vật nặng nhẹ khác nhau sẽ có một tốc lực bằng nhau. Những cuộc phát minh của Einstein còn (Xem tiếp trang sau)"
+    ],
+    "page_56": [
+      "Đó là lẽ thứ hai của Aristote đề chứng minh rằng trong vũ trụ không có khoảng nào trống rỗng.",
+      "",
+      "Không - gian với vũ trụ thế nào thì thời gian với những vận động cũng thế ấy. Không - gian là bình chứa sự vật, thời gian là bình chứa vận động. Cũng như không gian, thời gian không phải một bản thể, vì bản chất của thời gian chính là không chắc chắn và không có thật : cái hiện tại chỉ là giới hạn của một quả khư đã mất và một tương lai chưa có. Cái hiện tại ấy luôn luôn chạy đi, và luôn luôn khác đi; vì vậy chính nó cũng không có thật nữa.",
+      "chung minh rằng không gian không phất là một tợ́ bình chứa tách riêng ra khỏi sự vật mà có liên lạc chặt chẽ đến sự vật ấy. Vǔa đề k ông gian, thời gian có được trình bày rất còn: pau và mhnh bạch trong cuốn Triết học El s'cln của ông Nguyễn-dinh-Thl, Bạu đọc : ảo muốn nghiên cứu về vấn đề này nên tìm xem cuốn đó"
+    ],
+    "page_57": [
+      "Thời gian không phải là một sự chuyển động vì những vận động tự nhiên có tốc lực không đều. Tốc lực của thời gian, trái lại lúc nào cũng giống lúc nào, và không bao giờ thay đổi. Nhưng nếu thời gian không phải là một vận động, thì nó lại là một phần tử không thể tách riêng khỏi vận động được: nhờ thời gian, mới đó được một vận động, \"thời gian là số lượng của vận động, về phương diện trước, sau.\"",
+      "",
+      "Nhờ định nghĩa trên đây của Aristote đã khiến ta hé thấy duy tâm chủ nghĩa cạn đại, Aristote nói: \"Những con số chỉ có được trong một trí tuệ biết đếm Thời gian cũng vậy, chỉ có được trong một chủ thể biết tư duy.\" Kant, sau Saint Augustin sẽ mở rộng cuộc suy luận đó mà kết luận rằng thời gian cũng như không gian chỉ là những cái khung mà trí tuệ in khuôn lên sự vật.",
+      "",
+      "Thế giới và các tỉnh túi. Bóng lực đầu tiên của Thế giới cũng"
+    ],
+    "page_58": [
+      "lá mục đích cuối cùng của nó. Cũng vĩnh-viễn như động lực ấy, nên, thế giới không phải do đó mà có. Song ngược lại, thế-giới luôn luôn có gắng đi đến đó. Dần dần, mỗi lúc thế-giới nhích đến gần kiều mẫu ấy, hơn, và đến gần được bao nhiêu hay chừng ấy. Vật chất luôn luôn có tự năng cao lên đến hình thức, chính vì thế. Trong vũ trụ, chỉ có một luật chỉ phối muôn vật: luật ấy nói rằng vũ trụ luôn luôn nghiêng về phía mục đích cuối cùng của nó. Nguyên-nhân quan trọng của những sự thay đổi không phải là nguyên nhân hoạt động, mà là nguyên nhân mục đích, hay nói theo các học giả là chúng cục nguyên nhân (cause finale). Làm xảy ra những sự thay đổi không phải là những sức mạnh xò đẩy chúng ta thường gọi là nguyên nhân; muốn tìm thấy nguyên nhân thực tại, ta phải nhìn về phía sức mạnh hấp dẫn thường gọi là mục đích. Muốn hiểu vũ trụ, không nên quay về"
+    ],
+    "page_59": [
+      "quá khứ. Trái lại, ta phải nhìn về tương lai, phía trước.",
+      "",
+      "Vận động của các tình-tú là một vận động gần với cái kiểu mẫu hoàn toàn và bất dịch của vũ trụ hơn cả. Vì gần đến được độ hoàn toàn nên vận động ấy cũng cần như không thay đổi trái một thời gian đã dài lắm.",
+      "",
+      "Những bản thể hoàn toàn là những bản thể có thể tự túc được. Vì vậy, những bản thể ấy vĩnh viễn và bất dịch, nghĩa là không thêm, bớt, cũng không hư hỏng, suy đi. Muốn vậy, những bản thể ấy chỉ được thay đổi theo cách thứ tự (xem chương II), nghĩa là đổi chỗ; chỉ sự thay đổi ấy là không có ảnh hưởng gì đến bản chất sự vật. Nhưng trong các vận động, thì vận động trực tiếp (mouvement rectiligne) không hoàn toàn vì muốn vĩnh viễn lí theo một con đường thẳng, động thể (mobilie) phải từ một điểm đi sang điểm trái lại, mà không có cách gì trở nên hữu hạn được vận động xoáy tròn, trái lại, là một vấn"
+    ],
+    "page_60": [
+      "động có thể tự cắp tự túc vì nó vừa vĩnh viễn, vừa duy nhất. Cái khởi điểm của nó cũng lại là điểm chốt: nó có thể tiếp tục mãi mãi mà không cần đến một điều kiện bên ngoài nào. Nó chỉ đòi một khoảng không gian hữu hạn.",
+      "",
+      "Vận động xoay tròn là vận động gần với mục đích cuối cùng của thế giới hơn cả. Nó chính là vận động của bầu tròn làm giới hạn cho thế giới. Bầu tròn ấy do thượng khí (élher) cấu tạo nên. Thượng khí là một chất không ảnh hưởng ngoại tại nào có thể làm cho thay đổi đó cũng là chất đơn giản nhất và hoàn toàn nhất. Các tinh-tú là những phần tử của bầu tròn thượng khí đó, và đóng chặt trên bầu tròn ấy khác nào đến treo trên trần nhà vậy. Bầu tròn quay, tinh tú cũng quay theo.",
+      "",
+      "Bảy hành tinh (mặt trăng, mặt trời, và các ngôi Mercure (Thủy tinh), Venus (Kim tinh), Mars (Hỏa tinh) Jupiter (Mộc tinh), Saturne (Thổ tinh) cũng dự vào vận động hoàn toàn kể trên những còn thêm"
+    ],
+    "page_61": [
+      "Vào đây những vận động riêng nữa: vì vậy vận động của những hành tinh kém hoàn-toàn. Đêm những bầu tròn trên đó chuyển động các hành tinh, Aristote thấy con số năm mười sáu (1).",
+      "",
+      "Thế giới ở trong bầu tròn thượng khí ấy chia làm hai phần: Phần thứ nhất là vòm trời, một vòm mênh mông, trên cao thì thanh khiết vì hoàn toàn do thượng khí cấu tạo nên, song càng xuống thấp, càng gần trái đất thì càng thấm nhuần vật chất nên càng kém hoàn toàn. Dưới bầu tròn của mặt trăng, là bắt đầu phạm vi trái đất.",
+      "",
+      "Trái đất là trung-tâm thế-giới. Vì vậy nên mọi vật trong không gian mới có khuynh hướng rơi cả về phía đất. Trái đất hình tròn vì trong những kỳ nguyệt thực, bóng nó in lên mặt trăng một hình tròn. Nó không chuyển động, và dựng im trong vũ trụ: vì dựng im nên chúng",
+      "",
+      "(1) Quan niệm của Aristote về bầu trời vô các tinh tú ngắt nay không còn giá trị gì trước các điều phát-minh của khoa học."
+    ],
+    "page_62": [
+      "ta mới thấy các tinh-tú lúc nào cũng giông lúc nào. Vả lại nếu trái đất xoay chuyền, thì một hòn đá tung lên trời tấ không thể rơi xuống chỗ cũ được.",
+      "",
+      "Đồng lực đầu tiên của vũ-trụ, vì phải đi qua nhiều trung gian như thế, nên tới được trái đất đã thay đổi nhiều. Tuy vậy, trên mặt địa cầu, cũng còn sót lại một hình bóng của sự bất di bất-dích đầu tiên: ấy là những luật nhất định, nó chỉ phổ thiên nhiên, ấy là sự bất di bất dịch của các loại sinh sống trên mặt đất, trải qua các thời đại.",
+      "",
+      "Vật chất",
+      "",
+      "Từ Những vật chất, những vật không mang sự sống có thể chia làm hai loại: những chất đơn (simple) và những chất hữu hợp.",
+      "",
+      "Muốn biết rõ lượng và phẩm các chất đơn có thể dùng hai cách: là đem những vận động ra phân-tích, hay đem phân-tích những cảm giác do sự sở mộ mang đến."
+    ],
+    "page_63": [
+      "Có hai vận động đơn giản: vận động xoay tròn là của thượng khí - vận động trực tiến thuộc về các yếu tố khác. Trong tự nhiên, ta lại phân biệt được hai loại vân động trực tiến: một loại lên cao và một loại xuống thấp. Nhờ hai loại vân động ấy, ta có thể phân biệt trong muốn vật hai loại yếu tố (élément): những chất nào bốc lên cao, và khao khát những miền trên cao, là những chất nhẹ, ấy là lửa. Những chất nào, trái lại, rời xuống thấp và luôn luôn có khuynh hướng muốn rơ! xuống thấp là những chất nặng, ấy là đất! Giữa khoảng lửa với đất có hai trung-gian: nước ở gần phía nặng, và khí trời ở gần phía nhẹ. Tóm lại, 4 ngũ hũnh 3 của Aristótó gồm có, Thượng khí (éther) lửa, khí trời, nước và đất.",
+      "",
+      "Đêm phân tích những cảm giác do sự sở mỏ mang đến, chúng ta cũng thấy thấy yếu tố kế trên. Lửa là chất nóng và khô. Khí trời là chất nóng và trời. Nước là chất lạnh và trời, đất là chất"
+    ],
+    "page_64": [
+      "lạnh và khô. Còn Thượng khí, hay là yếu tố thứ năm (quinte essence) thì vượt ra ngoài phạm vi của xúc giác.",
+      "",
+      "Những yếu tố là những chất cụ thể đơn giản nhất. Trong tự nhiên, ít khí giác quan ta nắm được năm chất đơn giản ấy một cách thuận tủy. Thường thường, chúng ta chỉ thấy những chất hỗn hợp do năm yếu tố của vũ trụ họp nên mà thôi.",
+      "",
+      "Những vật hỗn hợp do nhiều yếu tố kết hợp với nhau, thay đổi lẫn nhau mới có được. Khi những yếu tố hóa hợp với nhau, một hình thức mới thay thế cho những hình thức cũ; vì vậy trong một chất phức hợp, ta khó lòng nhìn thấy những yếu tố đã cấu tạo ra nó. Thêm một hình thức mới là thêm một hay nhiều tính chất mới vào khối vật chất đã được hình thức ấy biến hóa đi. Luật ấy là một luật chung trong triết học Aristote.",
+      "",
+      "Những chi tiết trong nhờ giải của Aristote về vật chất còn nhiều, nhưng"
+    ],
+    "page_65": [
+      "một phần vì qua rồi rào một phần vì có nhiều điểm không hợp với tinh thần triết học nên ta đánh bỏ qua.",
+      "",
+      "# Những loài sinh vật ",
+      "",
+      "Những sinh vật khác những vật vô sinh vì có thể nhớn lên được, và có thể tự nuôi lấy được. Sự này nở, sự nuôi năng ấy do một linh hồn chỉ hay.",
+      "",
+      "Các loài sinh vật không bao giờ thay đồi : khi trái đất mới xuất hiện có những giống nòi nào thì nay cũng còn giống nòi ấy. Các loài sinh vật cũng vàng theo luật chung của vũ trụ, là luôn luôn có gắng đi đến một hình thức hoàn toàn hơn, nhưng khuynh hướng ấy ở đây chỉ là một khuynh hướng tiềm tàng, không được thực hiện. Các loài sinh vật không tiến hóa vì không thay đồi. Sự tiến hóa ở đây là một sự tiến hóa «tinh» : chẳng hạn giữa loài cây và loài thú có những giống có thể coi là cây cũng được, coi là thú cũng được: ví dụ những giống đọng vật nhuyễn thể (mollusques): sò."
+    ],
+    "page_66": [
+      "óc v... v... Nói mót cách khác thì cũng có tiến hóa, nhưng chi tiến hóa từ loà no sang loái kia chứ không có tiến hóa trong phạm vi mói giông nói riêng biệt: Thế-giới những sinh - vạt khác nào quimó (plan) của một cuộc tiến hóa, ahung chính cái qui-mó ấy thì không hề suy di.",
+      "",
+      "Loài cây chỉ có một thứ linh hồn : là sinh-hồn (âme végétative), nghĩa là linhhồn giữ việc nuôi sống và làm cho sinh sôi nảy nở. Aristote cho rằng muốn sinh sôi nảy nở, mỗi cây có có cả hai tinh dực và cái. Nói khác hơn thì một cây nào cũng vậy, vừa là dực, lại vừa là cái. Cây có còn tiềm tàng nhiều linh hồn nữa, vì nếu cất ra một phần nào, phần ấy có thể mọc lại thành cây được. Cái tiêm - thế ấy không bao giờ thực hiện hẳn : đời sống của loài cây là một giấc ngủ ngàn năm.",
+      "",
+      "Cách tổ chức của loài cây đã là bước đầu cách tổ chức của loài thú, nhưng theo một chiều ngược lại: chẳng hạn rễ cây giống như những thứ miệng, nhưng"
+    ],
+    "page_67": [
+      "quay vê phía dưới",
+      "Loai độnq - vạt khác loái thực vật vl có một giác hồn (âme sensitive) làm cho biết cảm giác. Giác-quan thiết yếu nhất là xúc - giác. Cơ quan của sự sở mó là thịt, da. Bộ phận quan trọng nhất trong thán-thế và xuất hiện trước nhất trong bao thai là trái tim.",
+      "",
+      "Tất cả các loài động vật có một cơ thê tô chức kãn gân giống nhau. Aristote luôn luôn đem so sánh bộ xương với những vỏ, mai che trở nhiều sinh vật hạ đẳng, bàn tay với vòi, lông mào với lông vũ, bản năng với nghệ thuật.",
+      "",
+      "Ong lại xếp đặt chừng hơn bốn trăm giống vật thành món loại, theo ba tinh cách là có máu hay không có máu - sống trong hoàn cảnh nào và sinh nở theo phương pháp nào.",
+      "",
+      "# Những luật tự-nhiên ",
+      "",
+      "Ta đã có lần nhắc qua rằng những luật tự-nhiên chính làm tiêu biểu cho tính cách tĩnh của vũ-tru. Nay đã đến"
+    ],
+    "page_68": [
+      "lúc ta có thể xét kỹ đến quan niệm của Aristote về những luật đó hơn nữa.",
+      "",
+      "Cái thiết yếu, cái tất nhiên (nécessaire) là cái không thể không có được. Cán kết trong một tấm đoạn luận xếp đặt đúng là một điều tất-nhiên. Ví dụ tam đoạn luận này:",
+      "",
+      "- Người nào cũng có lúc chết",
+      "- Socrate là người",
+      "- Vậy Socrate phải có lúc chết",
+      "",
+      "Đem tam đoạn luận đó ra xét kỹ, ta thấy sở dĩ câu kết không thể khác được chính vì nó là một phần tử của một nguyên lý tất nhiên người nào cũng phải chết.",
+      "",
+      "Sự tất nhiên nào cũng là một cuộc phân-tích. Sự tổng hợp nào trái lại cũng có tính cách ngẫu hữu (contingent), nghĩa là nó đã có thể khác đi, hoặc không có nửa cũng được. Từ chất liệu bước sang hình thức, từ những phần tử đi đến bản thể, sự thay đổi nào, cuộc triển diễn nào cũng không thể tất-nhiên được. Nếu"
+    ],
+    "page_69": [
+      "chỉ có hình-thức, trờng vũ-trụ ở đâu cũng sẽ chi có những sự tất nhiên. Chất liệu đem sự may rủi, sự ngũ̃u nhiên vào trong thế-giới.",
+      "",
+      "Vi vậy, ta phải phân biệt nhiêu độ tất nhiên và nhiêu độ ngẫu nhiên.",
+      "",
+      "1 - Cao nhất là sự tất-nhiên tuyệt-đối (nécessité absolue). Trong vũ trụ, tất nhiên một cách tuyệt đối, chi có những luật bất dịch của những bản thề nào hoàn toàn nhất : những bản thề ấy là các tinh tú, vì không bao giờ một ngól sao lại thay đồi đi. Các tinh tú có tinh cách đồng nhất (identique) và vâng theo những luật không thay đồi.",
+      "",
+      "Trên mặt đất không vật nào không suy di. Không đâu, ta tìm thấy một sự vật hoàn toàn đồng nhất. V1 vậy, sự tất nhiên tuyệt đối không có biện biện trên địa cầu. Nhưng ngược lại, các loài sinh vật 'thì không bao giờ thay đồi. Các cá thề không đồng nhất thì các món loại lại đồng nhất. Sự tất-nhiên tuyệt-đối có trên"
+    ],
+    "page_70": [
+      "mặt dất, nhưng có một cách trừu-tương.",
+      "Sau hết còn một thứ tất-nhiên giả-định (nécessité hypothétique) nữa. Chẳng hạn có một cái nhà là phải gián tiếp cho rằng đã có đá và gỗ, tuy có đá và gỗ không phải tất nhiên là có một cái nhà. Cái quà khứ cũng là một cái tất-nhiên, tuy cái tương lai còn mờ mịt - Trên mặt trái đất, tất nhiên phải có người, nhưng / không tất nhiên phải có anh Hai hay anh Ba. Sự có nhà, có quá khứ, có anh Hai và anh Ba là những sự tất nhiên giả định.",
+      "2. Không nên nhằm sự tất nhiên với những nguyên nhân cơ giới, nghĩa là những sự bó buộc, xô đầy do một sức mạnh bên ngoài. Động-lực phải phu-thuộc vào mục đích. Những sự tất-nhiên trên kia đều thuộc về những mục-đích cần phải thực hiện. Nếu đem nâng mũi dao chich nhọt lên làm nguyên nhân sự khỏi nhọt là nhằm lớn vậy. Mũi dao chỉ là nguyên nhân cơ giới của sự khỏi nhọt. Nhưng còn nguyên-nhân thật tại thì là"
+    ],
+    "page_71": [
+      "Ông thầy thuốc, hay nol cho đúng hờu nữa là nghệ thuật chich nhọt của ông thầy ấy, và cái quan niệm của ông to về sức khỏe với bệnh tật.",
+      "",
+      "Nên Aristote cho rằng một sự tất nhiên có tính cách cơ giới (nécessité mécanique), thực ra chỉ là một sự ngẫu nhiên chứ không phải một sự tất nhiên thực thụ Tất nhiên chính ra nghĩa là cái thấp nhờ cái cao, cái dưới dựa vào cái trên mà có. Còn sự tất nhiên cơ giới là cái cao dựa vào cái thấp, cái trên nhờ đến cái dưới. Những nguyên nhân cơ giới chỉ là những nguyên nhân bề ngoài.",
+      "",
+      "Như vậy, theo nhà triết học hy-lạp, trong vũ trụ, cái không hoàn toàn, vi luôn luôn cố gắng muốn hoàn toàn hơn nên thay đổi, cái tổ chức kém, vi luôn luôn muốn tổ chức cao hơn nên biến hóa. Cái có rồi trông về phía cái chưa có mà chuyển động. Phải đem những cái chưa có mới giáng nghĩa được cái có rồi, phải đem tương lai mà nhân vào quá khứ, Một biện tượng nào sở dĩ tất nhiên là"
+    ],
+    "page_72": [
+      "vi mục đích của nó tất nhiên. Và mục đích của nó tất nhiên khi không thay đổi. Cái tất nhiên là cái đã thành hình và luôn luôn đồng nhất. Sự thay đổi chỉ có thể ngẫu hữu.",
+      "",
+      "Những nguyên nhân cơ giới, những sức mạnh xô đẩy sự vật, thực ra không phải tất nhiên tạo ra được những hiện tượng. Dùng một mũi dao chích nhọt thì có khỏi cũng chỉ là ngẫu nhiên. Ta chỉ có thể tất nhiên khỏi nhọt nếu có một mục đích, rõ rệt: mục đích ấy là nghệ-thuật chích nhọt của ta.",
+      "",
+      "Nhớ như thế rồi, ta lại tiếp tục công việc phân biệt những độ tất nhiên với ngẫu nhiên của ta. Dưới trình độ «tất» nhiên giả định», là bắt đầu phạm vi những sự ngẫu nhiên. Tất cả những sự vật gì không bao hàm một điều mâu-thuẫn đều có thể có được: phạm vi của sự ngẫu-nhiên là đó.",
+      "",
+      "Trong phạm-vi ấy, trước hết ta để ý đến những sự vật của ở gần phạm vi tất nhiên: ấy là những sự vật chỉ xảy ra"
+    ],
+    "page_73": [
+      "trong phan đông các trưong hơp. Nếu có thai cách tát nhien, những sự vạt ấy sẽ xay ra trong tất cả mọi trương hợp. Nhưng vi không tất nhiên, nên nếu có một điều kiện gì ngăn trớ, sự vật ấy khơng xảy ra nữa. Chẳng hạn lữa bao giờ cũng cháy theo một cách thú̉e: nhưng không phai bao giờ và ớ đảu lữa cũng cháy. Nước thú̉ơng thường lành, nhưng nếu đem đun thì trớ nếu nóng.",
+      "",
+      "Thấp hơn một bực, ta đến những sự vật thân nhiên, không khaynh hương vê tinh chất nào, và muôn thế nào cũng được: một con thú có thê đi hay đừng cũng được. Nếu nó đi, ấy là một sự ngảu nhien. Nếu nó đừng lại, ấy cũng là một ư ngảu nhien nữa.",
+      "",
+      "Vậy ta nhắc lại: a/ cao hơn cả, là những sự vạt tất nhiên tuyệt đai : vi du mặt trời, mọc ứ, hương đông và chạy, yê hương, tây nêrên, mặt trái đất có người. thi thấp hơn một bực đến những sự vật tất nhiên giả định: vi du; hôm qua, tôi đã đi chơi một tỉnh xa - trên mặt"
+    ],
+    "page_74": [
+      "trái đất có anh Ba:",
+      "",
+      "c/ Dưới nữa ta thấy những sự vật thường thường xảy ra, nhưng cũng có thể không xảy ra được; nước thường lạnh, những cũng có thể nóng sốt. Trời thường xanh nhưng cũng có thể hồng đỏ.",
+      "",
+      "d/ Sau hết, trước khi bước vào phạm vi những sự vật hoàn toàn ngẫu nhiên, ta còn phải đi qua những sự vật thân nhiên đã. Thân nhiên nghĩa là không khuynh hướng về chiều nào (nước khuynh hướng về tính lạnh, trời khuynh hướng về màu xanh), mà trái lại, xảy ra thế nào, có những tính chất nào cũng được.",
+      "",
+      "3 - Bước qua hai loại sự vật trung gian trên đây, ta đến những sự vật ngẫu nhiên hoàn toàn: những sự ngẫu nhiên ấy không định mà có, không tính mà nên. Chẳng hạn người đầu bếp là một nguyên nhân tất nhiên của các món ăn. Nếu người đầu bếp ấy đồng thời là một nhạc sĩ, thì âm nhạc, kèm theo nghệ thuật nấu ăn, là một nguyên nhân ngẫu nhiên của bữa ăn. Người đầu bếp ấy đã"
+    ],
+    "page_75": [
+      "vàng, thì ta lại thêm một nguyên nhân ngẫu-hữu nữa.",
+      "",
+      "Kèm theo một hiện tượng nào cũng vậy, có không biết bao nhiêu là ngẫu nhiên tính (accidents). Những sự ngẫu nhiên ấy không có nguyên nhân nào; đó là những khởi điểm, chứ không phải những điểm đi tới.",
+      "",
+      "Trong những sự vật ngẫu nhiên hoàn toàn ấy, Aristote lại phân biệt hai loại:",
+      "",
+      "Loại thứ nhất là những sự vật bỗng nhiên mà có; ấy là một sự may rủi không có lựa chọn: ví dụ có những giống trùng tự nhiên sinh ra; chứ sinh trùng? là một điều nhà triết học hy lạp tưởng là thật (1), Loại sự vật ngẫu nhiên này hãy còn phẳng phất in lở mờ dấu vết một vài luật tất nhiên và thiết yếu vì nó cần đến những điều.",
+      "",
+      "1. Ngày nay Pasteur đã chứng minh một cách chắc chắn rằng không có sinh vật nào bỗng tự dưng mà có được. Sự tự sinh sản (génération spontanée) là một điều không có trong vũ trụ."
+    ],
+    "page_76": [
+      "kiện khơng thay đòi. Châng han. muốn sinh trùng, thì phải có «bư» nghĩa là có một cái gì thối nát.",
+      "",
+      "Loai thứ hai là sự may rủi hoan toàn, may rủi trong những bản thể biết lựa chọn: sự tự do của ý chí (libre arbitre) người ta chính thuóc về toạ ấy. Tôi muốn do tay lên cũng được, khơng do tay cũng được. Trong hai công việc: do tay và khơng do tay, tôi có thể chọn lấy một. Sự lựa chọn của tôi là một sự may rủi. Tuy nhiên, trong tự do ý-chi, ta cũng còn hơi thấy dấu vất những luật tự nhiên vì đó chi là một phương pháp đề bắt buộc sự vật phải vàng theo lý trí con người",
+      "4. - Sau hết, những sự vật ngâu-nhiên tuyệt đối, sự may rủi khơng thề giăng nghĩa được, là sự cương bách cơ giới (contrainte mécanique), sự bó buớc khơng mục đích. Dùng một sức mạnh bền ngoài nào làm xảy ra một hiện tượng, ấy là làm một việc phấn tựnhiên hết sức. Khi ấy thì khơng còn"
+    ],
+    "page_77": [
+      "dấu vết một luật tự nhiên nào nữa chất liệu hoàn toàn vô hình thức.",
+      "",
+      "Quan niệm của Aristote về những luật thiết yếu (đồng nghĩa với tất nhiên) của Tự nhiên trái ngược với quan niệm khoa học và triết học hiện thời.",
+      "",
+      "Trước hết, khoa học chỉ chú ý đến phần nguyên nhân cơ giới mà những hẳn phần nguyên nhân mục đích. Giới mưa không phải vì dễ cho đất trớt, mà vì hơi nước đã gặp lạnh. Hòn đá rơi và phía trái đất, không phải vì những vật nặng có khuynh hướng muốn đi tìm những chỗ thấp mà vì trái đất có một sức bút, một dẫn lực, v... v11.",
+      "",
+      "Sau nữa, triết học ngày nay trình bày vấn đề tự do một cách khác: Triết học đồng ý với khoa học mà cho rằng, trái với những điều quyết đoán của Aristote, những luật thiết yếu hơn cả là những luật cơ giới và sự tự do, không phải là một tình"
+    ],
+    "page_78": [
+      "chất thấp kém của những sự vật ngẫu nhiên, mà là một trình độ cao, trí óc người ta đã đạt tới. Sau hết vấn đề tự do, ngày nay, không còn là một vấn đề thuộc về phạm vi vật chất, mà là một vấn đề tâm lý và đạo đức:",
+      "",
+      "Vì những quan niệm đương thời khác những quan niệm của nhà triết học hy lạp như thế, nên đọc lại những điều Aristote chủ trương trêu đây, ta phải cố gắng lắm mới hiểu được rõ.",
+      "",
+      "![img-0.jpeg](img-0.jpeg)"
+    ],
+    "page_79": [
+      "# CHƯƠNG IV ",
+      "",
+      "Tinh-thân.",
+      "Linh-hồn.",
+      "Một sinh vật do hai phân tử tạo nên : thân-thê làm chất liệu, và linh hồn làm hinh thức cho chất liệu ấy. Vậy ta gọi là linh-hồn tất cả những hình-thức nào lấy một thân-thê, nghĩa là một thể có chứa đựng sự sống, làm chất liệu.",
+      "Không phải mỗi hình thức có thể phơi hợp với mọi chất lị̣̣u. Không phải linh hồn nào cũng có thể ăn nhập với mọi thân thể. Trái với thuyết luân hồi của họe phái Pythagore, Aristote chú trương rằng một linh-hồn không thể lẫn lượt lấy nhiểu thân-thê làm nơi trú ụ̧̣u được."
+    ],
+    "page_80": [
+      "Thân-thể gờm có nhiều bộ phận : những bộ phận ấy đã tiêm tàng chửa sã̃n sự sống. Làm cho sự sống ấy từ chổ tiè̀m tàng qua chổ hiên hiện là công việc của linh hồn : «Linh-hồn là hình-thức dầu tiên (viên cực) của một thễ có tở chức đã tiè̀m tàng chữa sã̃n sự sống».",
+      "",
+      "Làm hinb-thức đả̉u tiên của thân-thể, linh-hồn ràng buộc chặt chễ với chấtliệu của nó. Linh-hồn ở trong thận thể khác nào những cái hiển biết của một nhà thông thái ẩn trong nhà thông thái ấy. Nhà thông thái thường không nghĩ đến những diễu hiểu biết của minh, nhưng lúc nào cũng hành động, nghĩ ngợi theo những diễu hiểu biết ấy.",
+      "",
+      "Vl vậy, linh-hồn có khác với thân thể là chi khác trong luận lý người ta mà thôi. Trí óc chúng ta cho rằng hai phầu từ ấy không thể giống nhau được. Nhưng nếu đem bản thể ra xét, nếu đứng trong phạm vi bản thể mà nói thì linh hồn với thân thể ràng buộc thật chặt chễ: một linh hồn phát sinh, nảy nở, và chết"
+    ],
+    "page_81": [
+      "cùng với thân thể làm chất liệu cho nó. Những sức mạnh gì làm cho một vài linh -hồn trở nên bất diệt không phải có nguồn góc ở chính giữa linh-hồn ấy mà do bên ngoài mang lại.",
+      "",
+      "Không phải riêng người ta có linh-hồn, tất cả những sinh vật, và tất cả những vật nào có đủ năng lực để tự tạo ra những vận động của minh đều có một ính hồn cả. Vì vậy, trong vũ trụ, chúng ta thấy đây đó đây rẫy những linh-hồn, mà tâm-lý học chỉ là một ngành của vật lý học.",
+      "",
+      "Thân-thê có bao nhiêu công việc, thì chúng ta có bấy nhiêu linh-hồn. Thânthể người ta phải làm nhiều công việc hơn cả, vì vậy người ta có nhiều linh\" hồn hơn cả. Những công việc của thân thể người ta là một qui -mô gồm đủ các loại công việc của mọi giống sinhvật. Vì vậy, giống như loài cây, người ta có một giác hồn (âme sensitive) giống như những loài vật cao đẳng, người ta"
+    ],
+    "page_82": [
+      "có một linh hồn hoạt động (âme motrice). Và sau hết, thêm vào ba thứ linh hồn đó, người ta có trí thông-minh. Ta cũng có thể kể những dục vọng làm một linh hồn riêng biệt. Những linh hồn ấy liệu lạc chặt chẽ với nhân cũng như những bộ phận trong cơ thể vậy. Tâm lý học của Aristote có liên lạc mật thiết đến sinh-lý-học của ông.",
+      "",
+      "Sinh-hồn.",
+      "",
+      "Sinh hồn có công việc là lo toàn nước sống thân-thế.",
+      "",
+      "Sự nuôi sống ấy không phải là một sự thâu nhập dân dị: đồ còn là một công việc chế hóa nữa. Muốn chế hóa được đồ ăn, thân thể cần đến một sức nóng: tiện hóa là đem đốt cháy vậy. Nhờ có nhiệt khí trong thân thể, những hình thức nào tiềm tàng trong đồ ăn được giải thoát, và trở nên thực-hiện. Còn tất cả những gì không sẵn chứa đựng hình-thức của thân thể thì bị loại thành cặn bã."
+    ],
+    "page_83": [
+      "Xem đó, bộ máy tiêu hóa là một bộ máy dốt lửa lớn: sức nóng của bộ máy ấy do trái tim phát ra. Trái tim là lò lửa của thân thể vậy. Còn bộ não với hai buồng phổi là những phần tử làm giảm sức nóng đó, và giữ cho được đều hóa. Nóng rồi lạnh, lạnh rồi nóng thân thể nở ra rồi co lại, co lại rồi nở ra. Do sự nở, co ấy mà có hô hấp; Aristote chưa biết đến sự tuần hoàn của máu. Ông chỉ mới biết nghe mạch (pulsation), và cho rằng mạch ấy có nguồn gốc giống như sự hô-hấp.",
+      "",
+      "Sinh-hồn không những có phận sự là nuôi sống thân-thể, nó còn phải lo bạo toàn giống nòi nữa. Vì vậy, nó làm cho loài vật sinh đẻ. Sự sinh-sản là một phần của sự sống. Sự tự sinh (génération spontanée) rất hiếm có. Còn thường thường thì loài nào đẻ ra loài ấy: «Người sinh ra người» là luật của tạo hóa.",
+      "",
+      "Có một vài giống không có tính nam, nữ, đực, cái: các loài cây chẳng hạn."
+    ],
+    "page_84": [
+      "Còn các loài vật bao giờ cũng chia thành hai phái: đực và cái. Những mầm mống của loài đực gặp những kinh kỳ của loài cái thì họp thành bản thể. Loài đực đem hình thức đến, còn loài cái cungphụng chất liệu. Vì vậy, linh hồn do loài đực mà có, thân thể do loài cái đang lên.",
+      "",
+      "Người đàn bà chỉ là người đàn ông chưa thành hình: bộ phận của họ là những bộ phận còn dở dang chưa nảy nở được hết. Vì vậy, họ chỉ tạo ra được chất-liệu và phải dạnh công việc tạo hình thức đứa bé cho phái tu mi. (1)",
+      "",
+      "# Giác hồn ",
+      "",
+      "Giác-hồn khác sinh-hồn, sự cảm giác khác sự sống.",
+      "",
+      "Sự cảm giác là hành động chung cho vật được cảm giác, và vật biết cảm giác \" đó là giới thuyết của Aristote.",
+      "",
+      "Nói cho rõ ràng thì muốn có cảm giác",
+      "(1) Những quan niệm trên đây của Aristote, chúng tôi cần nhắc lại một lần nữa, cền đã bị khoa học hiện đại lột đổ cả"
+    ],
+    "page_85": [
+      "phải có hai vật: một vật biết cảm giác và một vật được cảm giác. Khi hai vạt ấy giao thông với nhau là có cảm giác vạy.",
+      "",
+      "Vật được cảm giác, vì vậy, có trước cuộc giao-thông ấy, và không vì nó mà thay đổi. Chẳng hạn, dù mất chúng ta sáng hay mù, những màu sắc vẫn có thật bên ngoài chúng ta.",
+      "",
+      "Còn linh hồn làm cho chúng ta biết cảm giác, hay giác-hồn (âme sensitive) cũng không phải một cái bình rỗng, đón những cảm giác một cách thụ động. Sở dĩ chúng ta cảm giác được, là vì trong giác-hồn đã tiềm tàng sẵn những gì ta sẽ cảm giác thấy. Những chất liệu ấy, nhờ sự vật bên ngoài mà có hình thức, và trở nên thực hiện.",
+      "",
+      "Xem thế, trong sự cảm giác, cả vật được cảm giác lẫn chủ thể biết cảm giác đều trở nên hoàn toàn hơn: đó chính là « hành động chung» đã được Aristote nhắc đến vậy."
+    ],
+    "page_86": [
+      "Ta đã thấy rằng sinh-hồn giúp cơ thê thận thái, chê hóa được cả hình thức lẫn chất liệu của ngoại vật. Giác-hồn trái lại chỉ đem đến cho ta được phần hình thức. Dùng một chiếc ăn vàng, đóng dấu lên giấy, ta đã đem hình thức của vàng đến cho giấy, nhưng giấy không thân được vàng. Trong sự cảm giác, chúng ta khác nào tờ giấy, sự vật khác nào chiếc ăn vàng. Cảm giác là thu được hình thức của sự vật. Hinh thức ấy ăn nhập với những chất liệu tiềm tàng sã̃n trong linh-hồn làm nảy ra những hình ảnh, mùi vị v.v.",
+      "",
+      "Cảm tình cao hơn cảm giác một bực, và đã là một trình độ thấp của tư-duy. Cảm tình không riêng thuộc về linh-hồn cũng không riêng thuộc về thân thể: đó là một hành động của linh-hồn, khi linh hồn ấy lấy thân thể làm phương tiện. Bộ phận làm chất liệu cho cảm tình không phải khối óe như Platon đã nghĩ, mà là cái lô lửa của thân thể: trái tim.",
+      "",
+      "Nhờ trái tim sinh vật biến thành một vũ-tru nhỏ, vì biết sự vật, dù chỉ nói"
+    ],
+    "page_87": [
+      "bằng cảm giác, cũng đã là dồng họa với sự vật rồi.",
+      "",
+      "Chúng ta có năm giác-quan và không thể có hơn được, vì mỗi giác quan tương hợp với một yếu tố của vũ trụ. Vậy nếu có giác quan thứ sáu, thì giác quan ấy không lấy gì làm chất liệu được nữa. Ngược lại, nếu thiếu một giác quan, chúng ta cũng không còn biết một ngành sự vật.",
+      "",
+      "Mỗi giác quan có một cơ quan, một phạm vi, và một giới (milieu) đặc biệt. Giới ấy có công dụng là đem cơ-quan liên lạc với sự vật.",
+      "",
+      "Giác quan hoàn toàn nhất là thị giác (sự trông). Cơ quan của nó là con người trong mắt. Con người ấy do nước cấu tạo nên. Phạm vi của thị giác là những màu sắc: có bảy màu tự nhiên cả thảy, màu nào cũng do đen trắng trộn lẫn mà thành. Hai giới của thị giác là khi trời và nước. Hai giới ấy tự không có màu sắc gì, nhưng đã tiềm tàng chứa sẵn những màu sắc rồi."
+    ],
+    "page_88": [
+      "Được thực hiện, những liềm thế ấy làm cho khí trời với nước trở nên sáng.",
+      "",
+      "Vậy thì anh sáng đột nhiên mà có; âm thanh trái lại, là một sự chuyển động. Khí trời là giới của sự chuyển động ấy. Nhưng Aristote coi những sự chuyển động của khí trời là kết quả chứ không phải nguyên nhân của âm thanh. Trái với các nhà vật lý học hiện đại, ông chủ trương rằng những âm thanh đã có sẵn trong vũ trụ, khác nào những «nhơi nói có cấuh » vậy. Những nhờn nói có cấuh ấy bây đến lại chúng ta, và do cơ quan đó chạm vào giác hồn. Nhờ sự đụng chạm ấy giác hồn thực hiện được những âm thanh đã tiềm tàng sẵn và chúng ta nghe thấy.",
+      "",
+      "Aristote không nghiên cứu kỹ về khứu giác (mũi) và vị giác (lưỡi) vì ông cho rằng hai giác quan ấy không phát triển lắm trong thân thể người ta.",
+      "",
+      "Còn xúc giác thì là giác quan thấp nhất. Nhưng đó cũng là giác quan tinh tế nhất của người ta và sở dĩ như"
+    ],
+    "page_89": [
+      "thế là vì trí thông minh có dự mơ phần vào sự sở mó. Thực ra, xúc giác do nhiều giác quan họp nên vì nó mang đến cho chúng ta hai loại cảm giác khác hẳn nhau và không thể dung hóa với nhau được: một loại cứng, mềm, một loại nóng, anh. Giới của xúc giác là thịt da.",
+      "",
+      "Cho đến đây, ta chưa thấy ngũ quan có liên lạc gì đến nhau. Nhưng Aristote khiến chúng ta chú ý rằng có ba công việc của trí tuệ chung cho nhiều giác quan: vì vậy, ngoài ngũ quan, còn một a giác quan công cộng (sens commun) nữa.",
+      "",
+      "Trước hết, dù sở mó, trông, nghe, nếm, ngửi, không những ta cảm giác được, mà còn biết rằng chúng ta đang cảm giác nữa. Biết được rằng ta đang trong thấy sự vật, không phải phờ ở đôi mắt. Tại cũng chỉ khiến chúng ta nghe thấy tiếng động nhưng không thể khiến ta biết rằng đang nghe thấy tiếng động. Ngoài năm giác quan kể trên, ắt"
+    ],
+    "page_90": [
+      "phải có một giác quan công cộng ghi chép lấy những cảm giác lẻ lỏi của tài, mát, mũi, ruột và làm cho chúng ta có ý thức (conscience) rõ rệt về những cảm giác ấy.",
+      "",
+      "Sau nữa, có một vài cảm giác không thuộc về riêng phạm vi của một giác quan nào, mà an lẫn vào nhiều phạm vi trong một lúc: ví dụ sự chuyên động. Và có thể “biết” sự chuyên động như thế, thế tài, hay nhỏ tay cháu cũng được? Suh tẻ! không những chúng ta nhận được mâu trắng, mâu đen mà còn nhận được sự liên quan giữa hai mâu ấy nữa. Mối liên quan ấy không trắng cũng không đen. Vậy không phải vì mất mà ít nhất được nó. Cũng không phải vì giác quan như thế khác. Nhận cháu những mối liên quan giữa các cảm giác là công việc của a giác quan công cộng. Tóm lại “giác quan công cộng” mang đến cho chúng ta ý thức (conscience) về sự vật, những cảm giác cộng là những ai ràng béo, những ai ràng béo."
+    ],
+    "page_91": [
+      "Cộng và những mối liên quan Bộ phận của giác quan công cộng ấy là một hơi thởu huyền bí của trái tim, một hơi thở mồ răng buộc được những gì ta tưởng như riêng biệt hẳn.",
+      "",
+      "Trí tuệ",
+      "",
+      "(Các hơn hết trong các linh hồn, là trí tuệsĩt",
+      "",
+      "Phạm vi của trí tuệ là những ý niệm rộng rãi khái quát. Những khái niệm (concept) ấy rỉ dán mã có ? Trí tuệ sáng tạo nên nó hay sự vật bên ngoài ? (Trước hết Aristote nhận thấy rằng \"không\" bao giờ linh-hồn từ đấy mà không có hình ảnh). Từ đấy ta đem so sánh những hình ảnh với nhau vậy trước khi có từ duy, phải có những hình ảnh rồi. Những hình ảnh ấy chính là một biaichhái việc. Nên ta dám nói rằng những khái niệm có tính cách tiên thích dư sơn lá vòu vàng.",
+      "",
+      "Song tiết thiên \"không\" phải nghĩa là có sửa sàng ngày trước khi ta ra đời."
+    ],
+    "page_92": [
+      "Tiên thiên không phải có nghĩa là a hồi tưởng \" (réminiscence) như Platon chủ trương. Trí tuệ có chứa sẵn những khái niệm thực, nhưng chỉ chứa tiềm tàng mà thôi. Trước cuộc sống, những khái niệm chưa được thực hiện, nên cũng chưa hẳn là những khái niệm. Tiên thiên, trồng trí-thức-luận của Aristote, nghĩa là còn ở tiềm thế chứ chưa bước sang hiền thê̂.",
+      "",
+      "Vl vậy Aristote có nói : a lúc đầu tiên, trí tuệ khác nào, như một bản trên đó chưa viết một chữ gì » cầm giác in lên trên bản đó những hình ảnh mờ nhạt. Giữ din những hình ảnh ấy được là nhờ ký ức (mémoire) hay trí nhớ. Muốn nhớ được lâu, thường trí tuệ đem những hình ảnh ghép vào nhan, đề cho những phần giống nhau kết hợp làm một; cái cốt công cộng ấy đã là một hình ảnh chung, một ý-niệm chung (idée générale) so sài rồi. Hinh ảnh chung ấy (image générique) ngày nay có một vài học phái cho là chính khái-niệm. Aristote phân biệt được ba cách so sánh và ghép những hình, ảnh"
+    ],
+    "page_93": [
+      "vào nhau: một là ghép những hình ảnh ở gần nhau (contiguité), hai là ghép những hình ảnh giống nhau (ressemblance), ba là ghép những hình ảnh trái ngược với nhau (contraste). Chẳng hạn ghép nhà với cửa (hình ảnh ở gần nhau) - ghép trái đất với một quả bóng (hình ảnh giống nhau) - ghép đen với trắng (hình ảnh trái ngược nhau). (1)",
+      "",
+      "Nhưng theo Aristote, những hình ảnh chung, do sự liên hợp ấy (association) mà có, chưa phải là những khái niệm, vì khái niệm là một trực giác thuần lý, không những có tính cách phổ cập mà còn giảng nghĩa được cả sự vật nữa. Khái niệm vừa khái quát vừa thiết yếu, vừa bao trùm được hẳn một loại sự vật vừa làm cho ta biết được cái « tại sao» của loại sự vật ấy. Mỗi sự vật riêng biệt che lấp cái trực giác đó đi. Nhưng đem nhiều sự vật ra xét, ta thấy rõ được cái hình-thức chung cho những sự vật ấy, và thấy rõ nhờ một trực giác.",
+      "",
+      "1 - Ba thì dụ này của riêng tôi."
+    ],
+    "page_94": [
+      "Vậy, trí tuệ (Noũ̃) là một thứ bình dễ thẩn-nhận những bình-thức. Binh ấy không chứa đựng gì khác và không thay đổi mây may những hình thức do sự vật mang đến, nếu không, trí thức sẽ không dẫn tà đến sự thạt được. Do đó, khác với những phần tử khác nữa linh-hồn, trí tuệ tách riêng khỏi thân-thề và khác hẳn thân-thề, nó là một loài linh-hồn khác. Cái «Noũs» không dự vào tính cách vật chất và suy dĩ của thân-thề, nó xinh viên và bất dịch như bình-thức hoàn toàn, nị̣̣̂́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́́"
+    ],
+    "page_95": [
+      "Nhung biết một vật là đồng hóa với hình-thức của vật ấy. Vạt được biết đã thuận túy là một hình thức thi trí tuệ khi biết nó trở nên hình thức của vạt ấy: khi biết, trí tuệ đồng hóa với vạt được biết. Tuy nhiên, đồng hóa mà vẫn là trí-tuệ, vì trước khi đồng hóa, trí-tuệ đã tiềm tành chứa đựng vạt được biết rồi. Đung chạm với vạt ấy tiềm thế đó trở nên một biến thế.",
+      "",
+      "Nhưng sự đồng hóa từ đay với những vạt được biết có lợi cho bên nào ? Từ đay ăn khuôn với sự vật hay sự vật nhân khuôn từ đay ? Câu hỏi này là cái bộ sâu chia rẽ hai phải duy tâm với duy vật vậy.",
+      "",
+      "Theo Aristote, vạt được biết, vạt được từ đay suy căn là những ý niệm. Vạt được cảm giác có thức bên ngoài giả quan, vạt được từ duy trái lại không có bên ngoài trí-tuệ. Vì vậy, có một cái vòng luẩn quẩn: nếu vạt được biết làm cho thức hiện những gì tiềm tang trong trí"
+    ],
+    "page_96": [
+      "tuệ, thì ngược lại, về một phương diện khác, trí tuệ lại làm thực hiện vật được biết. Vì những khái niệm, những hình ảnh chungtiềm tàng trong từng sự vật riêng biệt phải nhờ sự so sánh của trí tuệ mới thực hiện được. Nên Aristote cực lực phấn đối Platon, và chủ trương rằng những ý-niệm không thể có bên ngoài sự vật được.",
+      "",
+      "Ong lại tìm cách ra khỏi cái vòng tuần quần kể trên. Ta đã thấy một đấng trí tuệ chịu kbuôn khổ của sự vật, một đấng trí tuệ in kbuôn lên sự vật. Aristote bèn phân biệt hai thứ trí tuệ: một irituệ thu-động, và một trí-tuệ hoạt động. Hay nói cho đúng hơn, ông thêm vào cái trí tuệ thu động mà ta vừa miêu tả trên kia, một trí tuệ hoạt động đem hình thức đến cho vật được tư duy, và làm cho vật ấy thực hiện. Hai trí tuệ ấy đối với nhau cũng như chất liệu với hình thức vậy.",
+      "",
+      "Trí tuệ thu động « trở nên » những vật được biết, trí tuệ hoạt động, trái lại « làm"
+    ],
+    "page_97": [
+      "ra những vật ấy: Không phải làm ơ ra nghia là sáng tạo, từ chổ không má biến thành có như những học phái duy tâm cạn dạ của Leibniz, Fichte, Hegel chũ trương đau. Khi hoạt động, trí tuệ chi giải phóng cho những ý niệm đơn giản và minh bạch đã tièm tăng sẵn trong các cảm giác. Hành động của trí tuệ có thê đem so sánh với hành động của giác quan trong sự trớng không phải ánh sáng tạo ra màu sắc, những ánh sáng làm cho những màu sắc ấy tự tièm thế qua hiền thế, đang tièm tăng mà thực hiện được. Vì vậy, ta có thê nói rằng ánh sáng a làm ra s màu sắc, vè̀ một phương diện. Trí tuệ hoạt động tức là a ánh sáng của linh hồn $x$ vẹ̀y. Nó không sáng tạo ra sự vật, mà cũng không đem những khuôn khô của nó in lên trên sự vật, như Kant sẽ chủ trương. Nó chi đem in lên sự vật những khuôn khô của chinh sự vật ấy mà thôi. Nhưng những ý niệm chỉ có thật trong nó, chứ không có thật trong một thế giới riêng biệt như"
+    ],
+    "page_98": [
+      "Platon đã nghĩ. Và lại, những vật được trí tuệ biết đã là những hình thức thuần túy thì bản chất cũng giống như trí-tuệ, vì trí tuệ cũng không có chất liệu; thiếu bản chất liệu, chủ với khách ở đây chỉ là một, mà chủ có trước hay khách có trước cũng không quan hệ gì nữa.",
+      "",
+      "Tóm lại, cái Nơũs thụ động, vì còn bị ràng buộc vào chất liệu, nên chỉ lên đến cái biết dựa vào thực tại, cái kinh nghiệm, phép suy-ly diễn dịch ra những mối liên quan là hết sức. Phần hoạt động trong trí tuệ trái lại đem ra khỏi chất liệu cái biết về những bản chất đơn giản và thiết yếu : nó tự đồng hóa với những bản chất ấy, hãy nói cho đúng hơn, nó đồng hóa những bản chất ấy với nó vì chỉ nó s làm s thực hiện được những bản chất ấy bên ngoài chất liệu. Là một hình thức thuần túy, một hiền thế không lúc nào gián đoạn, nó vĩnh viễn và bất dịch : nó là một phần tử do Thượng đế xếp đặt vào linh hồn chúng ta."
+    ],
+    "page_99": [
+      "Tri tuệ vi vậy có trước thán-thế, nhung có tiềm tàng khác náo một « bạch bản» (table rase). Sự sống lại làm thực hiện trí tuệ tiềm tàng đó, và khiển nó trở nên cái Noũs hoán toàn đã nâng người ta lên trễu muôn loài trong vũ trụ."
+    ],
+    "page_100": [
+      "![img-0.jpeg](img-0.jpeg)",
+      "![img-1.jpeg](img-1.jpeg)",
+      "![img-2.jpeg](img-2.jpeg)",
+      "![img-3.jpeg](img-3.jpeg)",
+      "![img-4.jpeg](img-4.jpeg)",
+      "![img-5.jpeg](img-5.jpeg)",
+      "![img-6.jpeg](img-6.jpeg)"
+    ],
+    "page_101": [
+      "# PHÂN THƯ HAI <br> NHÂN - SINH TRIẾT - HỌC"
+    ],
+    "page_102": [
+      "# 1. ",
+      "",
+      "## 1.1.1."
+    ],
+    "page_103": [
+      "# CHƯƠNG 1 ",
+      "",
+      "## Luân lý",
+      "",
+      "Luan lý học có mục đích la vạch rõ cho chúng ta thấy rằng các phong-tục, tập quán nên thế nào. Mục đích ấy thật khó đạt. Nó cần đến một kinh-nghiệm sâu xa về đời sống. V1 vậy, một đứa bé có thê hiểu được số học, chứ không thê hiểu nỗi luân-lý-học. Khoa học luân lý có lẽ là khoa học phức tạp nhất tuy có ích lợi thực-hiện nhất.",
+      "",
+      "Muốn tìm thấy con đường người ta nên đi theo, Aristote lấy kinh - nghiệm thông thường làm căn bản. Nhưng ông không bo bo giữ lấy cái căn bản ấy,"
+    ],
+    "page_104": [
+      "mà có gắng vượt lên cao hơn, dễ xây dựng thêm một công trình gì trên đó.",
+      "",
+      "Trước hết, đem kinh-nghiệm của mọi người ra xét, ta thấy ngay rằng mục đích của tất cả cuộc đời chúng ta là đi tìm hạnh phúc. Nhưng thế nào là hạnh phúc? Đèn đây, mỗi người nghĩ một khác. Hạnh phúc có phải là sự thỏa mãn về thân thể, và tinh thần, hay là ý - niệm về lẽ chỉ thiện của Platon? Ta chưa trả lời được chắc chắn. Song, ngay lúc đần, Aristote đã quả quyết rằng hạnh phúc không phải một phần thường dễ sẵn trên cao; Hạnh phúc chỉ có trong lòng người ta. Hạnh phúc có hay không là vì những quan niệm của chúng ta. Hạnh phúc là một của bản danh riêng cho nhân loại. Vì thế, người ta càng tự nâng cao mình lên bao nhiêu càng đến gần hạnh phúc bấy nhiêu. Mà luân lý, có mục đích dạy người ta đi tìm hạnh phúc, phải dạy người ta cách thoát khỏi phần chất liệu để lên đến phần bình thác thuần",
+      "100"
+    ],
+    "page_105": [
+      "túy. Hinh thức ấy, nhur ta đã biết, ta lý trí. Luân lý chỉ diễn tả sự cố gắng của người ta về phía hoán toàn, trong sự cố gắng của tất cả vũ trụ về phia hinh thức.",
+      "",
+      "# Đứe hạnh với đạo trung dung ",
+      "",
+      "Một hiền thế nào, một hành động nào, cũng phải được một tiềm thế sửa soạn trước. Tiềm thế đã sửa soạn những hành động luân lý của chúng ta là đức hạnh (vertu) Nhưng đức hạnh không phải một tiềm thế glân dị như những tiềm thế khác. Nó là một cách hành động do thói quen mà đạt được. Đức hạnh là một kết quả dài lâu, không phải một của bản cỏ sần. Đốl phó với những tinh dục theo cách nào đó, một lần, hai lần, rồi trăm ngàn lần, ta sẽ tạo được cho ta một linh hồn thứ hai bên cạnh linh hồn do tự nhiên đã tạo ra. Luân lý học phải bắt đầu từ thói quen rồi mới cố gắng vượt qua nó."
+    ],
+    "page_106": [
+      "Thól quen (hay tệp quán), muốn là đức hạnh, phải được tự do. Sự tự-ý (l'intention libre) là điều kiện thiết yếu nhất của mọi giá trị luân lý. Một hành động của chúng ta chỉ có giá trị khi nào đã do ta tự ý làm. Nếu bị bỏ buộc, chúng ta sẽ không còn chịu trách nhiệm về công việc của chúng ta. Một việc thiện, chỉ đáng gọi là thiện, khi nào đã được ta cố ý và tự ý làm. Nếu nó là một việc bỏ buộc phải làm, hay một việc ngẫu nhiên mà có thì chúng ta không có quyền tự coi là đã làm được điều thiện.",
+      "",
+      "Vậy tự do đối với Aristote không phải là ngẫu nhiên. Tự do là có đủ năng lực để đi theo con đường do lý trí vạch ra, và thắng được những trở lực do bản chất không hoàn toàn của ta đặt lên trên con đường ấy. Sự tự do theo Aristote, không phải tự nó là một sự hoàn toàn. Nó chỉ là một phương tiện để chữa lại những chỗ không hoàn toàn mà thôi. Nếu ta có thể tự nhiên đi theo"
+    ],
+    "page_107": [
+      "con đường thiện, không lúc nào phải chọn lọc, suy tinh, không lúc nào phải lo bị kéo sang bên cạnh, khác nào như những ngơi sao đi theo một con đường nhất định trên bầu trời, nếu được thế, ta sẽ hoàn toàn hơn bây giờ nữa. Theo nghĩa ấy, Thượng đế là đấng ít tự do hơn cả.",
+      "",
+      "Hành động nào vì vậy, cũng phải vâng theo lý trí. Và hành động nào đã vâng theo ý chí là phải do một cuộc suy luận định đoạt nên. «Thị dục nói : tôi khát — cảm giác, hay trí tưởng tượng, hay lý trí nói: cái này uống được; tức thì người ta uống».",
+      "",
+      "Đem các giá trị luân-lý ra xét, thì cao hơn cả là đức hạnh. Nhưng đừng ngon quan sát, thì đức hạnh bao giờ cũng là một độ vừa phải, một bực trung ở giữa hai độ thái quá: ví dụ lòng can đảm ở giữa sự hèn nhát với sự liều lĩnh, sự hào phóng ở giữa sự hà tiện với sự xa xỉ v... v... cái độ trung bình (juste milieu) ấy, chỉ lý trí có thể định được rõ. Nó không"
+    ],
+    "page_108": [
+      "phải một điểm có sẵn và bất di bất dịch mà thay đổi tùy theo từng người, từng xứ. Đức hạnh của người đàn ông khác đức hạnh của người đàn bà hay của đứa bé. Đứa bé phải vâng lời, người đàn bà phải im lặng vì cả hai đền là những người còn dở dang. Kẻ nó lệ, không được tự do, chỉ có thể hy vọng tránh được sự bèn phát với sự đồi bại cũng đã là nhiều lắm.",
+      "",
+      "Xem thế, Aristote chủ trương rằng luân lý có tính cách tương đối. Có một luân lý cho phái khỏe, một luân lý cho phái văn, một luân lý cho những bảy tôi của một ông vua, một luân lý cho những người dân trong một dân quốc. Có một đạo công bằng cho bạn, một đạo công bằng cho những khách lạ. Cha con, anh em, đồng đạo xử với nhau mỗi bên có một luân lý khác.",
+      "",
+      "Nhưng làm thế nào, trong mỗi trường hợp ấy, biết rõ được độ trung bình? Aristote viện đến một người khôn ngoan và dè dặt. Ta phải nghe theo những"
+    ],
+    "page_109": [
+      "ngươi khon ngoan. Ta phai hoi han những người đã săn có dưe hanh.",
+      "",
+      "Tóm lại, quan niệm của Aristote về dưc hạnh có thê được định nghĩa rõ ràng và đay đủ như sau : « Đức hạnh là một thói quen - tự ý mà có - đứng ở một độ trung bình - hợp với chúng ta - do lý trí đinh rõ - và định theo ý kiến mệt người khôn ngoan».",
+      "",
+      "Một vải đức tính đáng đẻ ý 1 đạo công-băng - tinh bạn - tinh yêu.",
+      "",
+      "Aristote đã nghiền cứu kỹ càng về từng đức tinh một, cả đến những đức tinh không có tên gọi trong ngôn-ngữ nữa. Dưới đây ta chỉ xét đến một vài đức tinh có quan hệ cho hệ-thống của ông.",
+      "",
+      "Đức tinh quan trọng hơn cả, và làm điều kiện cho mọi đức tinh khác là sự khôn ngoan (prudence) : đức tinh ấy găn lý trí hơn là tinh cảm. Nó găn bực trung dung hơn hết. Nhờ nó ta mới phê bình được những đức tinh khác."
+    ],
+    "page_110": [
+      "Khi phê bình, ta thấy hai đức tính làm cho xã hội cường thịnh nhất là đạo công bằng (justice) và tinh bè bạn.",
+      "",
+      "Theo nghĩa rộng, công bằng với bất công là vâng theo luật luân-lý hay không vâng theo. Người tính hèn nhát hay kẻ hà tiện theo nghĩa đó, đều bất công cải Nhang theo nghĩa hẹp, công bằng là một đức tính riêng biệt, không còn tính cách bao trùm như trên.",
+      "",
+      "Nguồn gốc của đạo công bằng là sự bình-dẳng (égalité). Nhưng sự bình đẳng ấy thay đổi theo từng trường hợp.",
+      "",
+      "Có hai đạo công bằng: trong xã-hội, thì công bằng là tùy theo giá trị của từng người mà cư xử. Kẻ có tài đức đáng được hưởng nhiều quyền lợi hơn kẻ vô tài, vô đức. Nếu một bậc hiền với một kẻ thất phu được coi ngang nhau thì thật không công bằng vậy. Ở đây, sự bình đẳng có nghĩa là hai liên quan bằng nhau (égalité de rapports) chứ không phải hai người bằng nhau. Đem những quyền lợi của người có tài so sánh với cái tài"
+    ],
+    "page_111": [
+      "của người ấy, ta phải thấy một con số bâng con số ta thấy khi đem những quyền lợi của người vô tài so sánh với cái tài của người ấy.",
+      "",
+      "Trong phạm vi xã hội thì như thế nhưng nếu lấy cá nhân làm mục đích, ta phải quên hết những sự bất bình đẳng tự nhiên đi. Chẳng hạn, trong việc thực hành một tờ hợp đồng, trong một vụ giết người, muốn công bằng, ta cần coi cả hai bên là bình đẳng.",
+      "",
+      "Đạo công bằng ấy là một đạo tự nhiên, xã tình cảm. Nó ở đẹp hơn sao hôm và sáo mai ̀̀. Pháp luật phải văng theo nó. Những luật của đạo công bằng là những luật vĩnh viễn và bất dịch.",
+      "",
+      "Tính bè bạn là đức tính thứ hai cần thiết cho đời sống trong xã hội. Đức tính ấy vừa đẹp đẽ, vừa làm cho đời sống dễ chịu hơn.",
+      "« Không ai bằng lòng sống không bạn bè, dù có hết cả của cải trên mặt đất » Aristote quả quyết như vậy. Ta nên hiểu rằng trong xã hội hy-lạp, người bạn khác"
+    ],
+    "page_112": [
+      "nào người yên vì người đàn bà trong gia đình hy lạp bị dày xuống một địa vị rất thấp kém.",
+      "",
+      "Aristote phân biệt ba thứ tình bè bạn cả thảy : một thứ tình bè bạn của những người tuổi trẻ chỉ muốn đi tìm vui thứ - một thứ tình bè bạn của những người đã già chỉ muốn cầu lợi - và sau hết một tình bè bạn cao nhất, chi lấy đức hạnh làm mục đích. Tình bè bạn thứ ba này không cầu lợi. Nhờ nó, ta yêu được bạn ta chỉ vì đức hạnh chứ không vì những mối lợi riêng của ta, hay vì một lẽ gì khác ở ngoài bạn ta : như vui thứ hay lợi ích -",
+      "",
+      "Tình bè bạn khác tình yêu. Trong tình yêu, kẻ yêu và kẻ được yêu có những vui thú khác nhau, những ý muốn khác nhau. Trong tình bạn trái lại, hai bên cần chia xẻ cho nhau thật công bằng. Nếu hai bên chênh lệch, bên thấp phải yêu nhiều hơn để bù vào chỗ chênh lệch ấy. Tình yêu, khi sắc đẹp đã nhạt phai, nếu không tiêu diệt, thì biến thành tình bạn."
+    ],
+    "page_113": [
+      "Aristote cho rằng a yêu » tốt hơn là a được yêu ».",
+      "",
+      "Luận lý của Aristote còn nhièm điềm tô rõ rằng nó là một nghệ thuật sống dành cho phái thượng lưu. Một vài đức tính của Aristote chỉ những kẻ có quyền thế và tiền bạc mới đạt tới được : ví dụ tính quảng đại, tính hào phóng. Luân lý của Aristote không phải một luân lý bình dân.",
+      "",
+      "Nhưng ngược lại, nó là một luân lý tầm thường, không kỳ vọng những gì cao xa lắm. Nó thực hành được ngay trong đời sống.",
+      "",
+      "Song Aristote không dừng lại ở căn bản ấy. Ông có vượt lên trên kinh nghiệm dễ xảy đắp một lý-tưởng luân lý.",
+      "",
+      "# Hạnh phúc ",
+      "",
+      "Ta đã có dịp nhắc rằng mục đích của mọi người là đi tìm hạnh phúc. Nay đã đến lúc cần định nghĩa hai chữ ấy."
+    ],
+    "page_114": [
+      "Trước hết, vì đâu mà có hạnh phúc? Tại sao có khi ta thấy sung sướng, có khi thấy khổ sở ? Aristote trả lòi; cái vui sướng không phải là một mục đích nó phụ thuộc vào những hành động của ta. Nếu hành động được hợp với bản chất chúng ta thì vui sướng, chẳng hạn bản chất chúng ta là phải đi lại. Nếu được đi lại vừa phải, ta sung sướng. Nếu không được hành động, và bị bó buộc phải ngồi im suốt ngày, ta sẽ khổ sở ngay. Mục đích chúng ta thực ra không phải là tìm sự vui sướng, mà là hành động theo bản chất chúng ta. «Cái vui sướng thêm vào hành động, khác nào như sự tươi đẹp thêm vào tuổi trẻ » Sự vui sướng chỉ là phản ảnh của một hành động vừa độ.",
+      "",
+      "Vì thế có những sự vui sướng thật tại thì cũng có những sự vui sướng giả dốt. Ta chỉ nên cầu những sự vui sướng của người có đức - Ta cần chú ý đến phần hành động, phần bản chất của ta hơn là phần phản ảnh của hành động ấy: A-"
+    ],
+    "page_115": [
+      "rístote là một nhà luân lý trọng tự nhiên (naturaliste) chớ không phải một nhà luân lý duy lợi (utilitariste).",
+      "",
+      "Cái vui sướng chỉ là một hiện tượng bên ngoài của hạnh phúc. Hạnh phúc nằm trong sự hành động hợp với bản chất người ta, nghĩa là đức hạnh. Phúc với đức thực ra chỉ là một. Nhưng «đức» không đủ gây ra «phúc». Muốn tìm được hạnh phúc, ta cần đến một vài điều kiện bên ngoài; những điều kiện ấy là sức khỏe, trí thông minh, và đời sống trong xã hội. Vì cần đến những điều kiện đó nên đưa bé, cũng như kẻ nô-lệ không thể đạt-được hạnh phúc. Sự giàu có, một địa vị cao trong xã hội, vẻ đẹp của thân thể, con cái, bạn bè, cũng cần cho hạnh phúc. Nhưng điều kiện thiết yếu hơn cả vẫn là đức hạnh.",
+      "",
+      "Vượt lên trên nữa ta đến chỗ chỉ phúc (bien suprême) Chỉ phúc mới thật là hạnh phúc hoàn toàn. Vì hoàn toàn nên nó không cần đến gì ở bên ngoài. Không cần đến bên ngoài chỉ có một đời sống thuần"
+    ],
+    "page_116": [
+      "tư tưởng. Vểy đời sống ấy chinh là chi phúc.",
+      "",
+      "Tri tuệ giúp ta lên đến độ chi phúc ấy. Tất cả những đức tinh khác chỉ là đề sửa soạn cái lúc ta có thể hoàn toàn sống bằng tri tuệ. Xã-hội sinh-hoạt cũng chỉ có một mục đích là đề giúp cho một phái thượng lưu có thể sống riêng bằng tư tưởng. Lẽ thiện cao nhất là sự nắm được chân lý. Muốn sống được mãi mãi, chúng ta phải tìm cách sống riêng bằng trí tuệ, vì trí tuệ là một phần tử vĩnh viễn của thượng đế.",
+      "",
+      "Những đức tinh cao nhất không phải là những đức tinh có liên lạc đến tinh cảm mà là những đức tinh có liên lạc đến lý trí. Trong những độ thiện, cao hơn cả không phải là đạo đức, mà là công cuộc đi tìm chân lý Nếu anh biết được một sự thật trong vũ trụ, anh đã làm một việc thiện xứng đáng hơn là cứu/ giúp cho người ở quanh anh.",
+      "",
+      "Luân lý của Aristote, khởi đầu ở một căn bản tầm thường, thoạt tiên là một"
+    ],
+    "page_117": [
+      "luân lý lấy cái đẹp của đời người, lấy tự nhiên, lấy xã hội làm mục-dích: Nhưng sau, vượt cao hơn mấy bực ấy, nó trở nên một luân lý siêu-hình, nhưng vẫn không quên rằng cần làm cho những khả năng của lý trí phát triển cho tới độ hoàn toàn.",
+      "",
+      "Tư tưởng ấy thực hợp với lý tưởng người hy lạp. Làm người theo dân tộc hy lạp, là phải làm sao cho tất cả những phần tử của tâm hồn được phát triển. Đạo đức, không phải là chống lại bản năng và đè nén sự sống, mà là làm cho sự sống mỗi ngày một phát triển hơn, và \"triết lý với những tình dục\", nếu những tình dục ấy hợp tự nhiên."
+    ],
+    "page_118": [
+      "![img-0.jpeg](img-0.jpeg)",
+      "![img-1.jpeg](img-1.jpeg)",
+      "![img-2.jpeg](img-2.jpeg)",
+      "![img-3.jpeg](img-3.jpeg)",
+      "![img-4.jpeg](img-4.jpeg)",
+      "![img-5.jpeg](img-5.jpeg)",
+      "![img-6.jpeg](img-6.jpeg)",
+      "![img-7.jpeg](img-7.jpeg)",
+      "![img-8.jpeg](img-8.jpeg)",
+      "![img-9.jpeg](img-9.jpeg)",
+      "![img-10.jpeg](img-10.jpeg)"
+    ],
+    "page_119": [
+      "# CHƯƠNG II ",
+      "",
+      "## Chính-trị",
+      "",
+      "Cách tở chức xã hội.",
+      "Chính-trị học là khoa học nghiên cứu về đời sống của xã hội: trong hệ thống Aristote, chính-trị-học tức là xã-hội-học vậy.",
+      "",
+      "Khác với những nhà xã-hội-học ngày nay, Aristote khơng phân biệt chính-trị với luân-ly. Theo ông luân-lý là bước đầu dắt đẻ̃a chính trị. Vi a người ta, tựahien là một con vật chính-trị». Nơt như thế nghĩa là người ta hằm sinh ra đã có sẵn a xã-hội-tinh». Xã hội không phải một hợp đồng ký kết giữa mợt người, xã hội cũng không phải một sự"
+    ],
+    "page_120": [
+      "kết hợp có mục đích vụ lợi. Xã hội là một điều kiện cần yếu cho đời sống người ta. Mới sinh ra, người ta đã phải cần đến xã hội. Nếu cắt khỏi đời người phần xã-hội sinh hoạt đi, ta sẽ chỉ còn thấy thú-tinh sinh-hoạt, hay thiên-tinh sinh-hoạt. Không có xã hội, người ta sẽ là một con thú hay một đấng thần minh.",
+      "",
+      "Những cá nhân là một chất liệu. Xã hội đem đến cho chất liệu ấy một hình thức cao đẳng: Aristote đã hé thấy rằng một xã hội không phải chỉ là một đám người rời rạc và lè lè mà là một khối có tổ chức chặt chẽi. Mà cá nhân khi bị lôi cuốn vào bánh xe xã hội thì biến đổi hẳn.",
+      "",
+      "Sống trong một xã hội có tổ chức, có pháp-luật, có công bằng, người ta là vua loài vật. Nhưng không pháp-luật, người ta sẽ trở nên loài vật tồi tệ nhất. Luật pháp ấy là lý trí đã thoát khỏi vòng trói buộc của tình cảm. Nhân loại chỉ có thể đạt đến một hình thức cao đẳng trong khuôn khổ những thị xã (cité)."
+    ],
+    "page_121": [
+      "\"Những dâng cấp trong xã hội phát sinh vì những của cải chia không đều. Aristote đề ý đến sự phân chia đẳng cấp đó khá nhiều, và ta rõ những cách sống của từng giai cấp. Ông chia những cách sống ấy ra làm: ngữ, Hẹp (đánh cả, đi săn) sống tang (agriculture). Đáng chú ý, là Aristote coi sự cướp bóc (pillage) như một nghề. Có lẽ đó là nghề của phái quân nhân hy lập. Aristote không kể đến hai nghề thương mại và kỹ nghệ vì những công việc «làm ăn» ấy đối với ông, không đáng trong (1). Ta có thể nói được rằng ông khinh, hai nghề ấy nữa.",
+      "",
+      "Sự khinh bị ấy nó bùng ra rất rõ khi Aristote chỉ trích những món tiền lãi do tư bản mà có. Cũng như Platon, ông cho rằng đem tiền buôn bán lấy lãi, với cho vay chỉ là một. Ông kết tơ đồng tiền lãi rất nghiệt ngã. Và xin một cớ thực đang buồn cười: trong tiếng hydan tơng, anh của anh chỉ vui quỉnh chín! A đông thời xưa."
+    ],
+    "page_122": [
+      "\"Lãi \" còn có một nghĩa nên thơ là \"con cái \". Vậy mà một đồng tiền lam sao đẻ ra con cái được. Đúng lý ra, đồng tiền phải cần cởi, và không sinh sản ra được gì. Nó không được đem đến cho ai một đồng lãi nào mới phải. \"Nguyên do sự chỉ trích này không phải gì lạ: Aristote bênh vực quyền lợi phải địa chủ, mà phá ấy bảo thủ hết sức, và phần đối kịch liệt tất cả những sự mở mang của phái công thương là phải làm giấu mà không cần gì đến đất cát. ${ }^{511}$ Song\" nên Aristote phán \"đối sự giải thoát của hai phái công thương, thì ngược lại, ông bênh vực rất chặt chẽ chế độ giả tóc và chế độ nó lẹ : hai sự đẻ\" nên ấy cần thiết cho sự sống còn của xã hội; đó lại là những sự đẻ\" nên rất tự nhiên nữa, nso nóut nộd nơ gơt oin \"Gia tóc là cấu \"bản\" của thị xã. Đó là xã hội đầu tiên của cả nhân. Aristote không tin rằng hai phái nam nữ có thể bình đẳng tuy tình phu phu phải vượt khỏi bản hăng xác thịt để lên đến tên"
+    ],
+    "page_123": [
+      "đức hạnh. Người chống vi trí tuệ phát triển hơn, phải là kẻ che chở cho vợ. Người cha là vua của các con. Đàn bà có thể họp bàn nhưng không có quyền quyết định và cài quân. Khi người đàn bà có nhiều quyền lợi quá thì Quốc gia rất dễ bị đồ sụp, như trường hợp của thành Sparte chẳng hạn.",
+      "",
+      "Còn chế độ nô lệ thì theo Aristote là một chế độ hợp tự nhiên. Trước Aristote, các triết gia, và các nhà văn có nhiều người viện sự bình đẳng tự nhiên để công kích rất kịch liệt chế độ vô nhân đạo ấy. Nhưng Aristote thì thiên về phải báo thù. Trúng tự nhiên người ta không bình đẳng. Vậy chế độ nô lệ là một chế độ hợp tự nhiên. Và kẻ nô lệ có thể gọi là rất may mắn nếu hắn được một người chủ thông minh. Kẻ nô lệ là một « đồ dùng biết cử động» cũng như một đồ dùng là « một kẻ nô lệ im lìm» thân không thể tự chủ được và tự chỉ huy được. Hắn không có trí tuệ nên đối với chủ khác nào."
+    ],
+    "page_124": [
+      "như chất liệu đối với hình thức. Giữa chủ với nó không thể có tình bè bạn gì được. Và người chủ có phải dè dặt cũng là chỉ để tránh những cuộc nổi loạn mà thôi, chứ không phải vì một bồn phân luân lý buộc trời.",
+      "",
+      "Chế độ tự nhiên ấy chỉ có thể tiếp diệt khi nào những đồ dùng có thể tự động được (Aristote mỉa mai thế, ngờ đâu ngày nay nhờn nói của ông đã thành sự thật). Còn nếu không kẻ nó lê không được hưởng một quyền lợi gì hết. Aristote nói theo tục ngữ rằng: «kẻ nó lê không được nghĩ». Tất cả những dân tộc mọi rợ (Barbares) trời đã sinh ra để cung phung những kẻ nó lê cho người hy - lập. Tất cả những người hy-lập đều đã được sinh ra để làm chủ, nghĩa là làm người tự do, và đứng đầu cai trị.",
+      "",
+      "Trên những kẻ nó lê, là giai cấp thợ thuyền (artisans): Những kẻ này làm nghề tay chân, giống như những kẻ nó lê. Thợ thuyền, vì thế, tuy không"
+    ],
+    "page_125": [
+      "hị trói huộc hẳn, nhưng cũng là những kế nô lệ rồi, Và họ là nô lệ thật, cho đến ngày lập được nghiệp doàn, và phường ban (corporations) trong thời kỳ trung có.",
+      "",
+      "Cần lao với chiến tranh khơng phải là những mục đích. Đó chỉ là những phương tiện đẻ̉ đi đến thai bình và an, oban.",
+      "",
+      "Chiến tranh, nấu có mục đích là đề đẻ nén những kè trời sinh ra đề làm nô lệ thi rất chính đáng. Chiến tranh đề chơng nạn ngoại xám, hay nôi loạn, chiến tranh bên trong đã chiếm đoạt quyền chính và làm lọi cho tất cả, cũng đều chính đáng. Chỉ có một thứ chiến tranh cần đá đảo: ấy là chiến tranh có mục đích là đẻ nén những người tự do, dù những người ấy ở thành nào cũng vậy.",
+      "",
+      "Thực thê, người dân tự do (citoyen) là người đứng đầu trong xã hội. Đực lính đặc biệt của anh ta là biết tùy"
+    ],
+    "page_126": [
+      "thời má vâng lờ hoặc quyết định và cai quản.",
+      "",
+      "Luật pháp trong xã hội nào cũng vậy, phải tổ chức xã hội ấy cho có thứ bực. Một xã hội có trật tự là một hình ảnh của vũ trụ vậy.",
+      "",
+      "Cách tổ chức chính trị và giáo dục",
+      "Muốn phê bình những chính thể, Aristote cũng áp dụng phương pháp đã dùng ở trên: cái \"phần tử\" phải phụ thuộc vào cái \"toàn thể\", cá nhân phải phụ thuộc vào xã hội, nghĩa là thị xã. Gia tộc họp thành làng, làng họp thành thị xã, thị xã là hình thức cao hơn cả Aristote tuy sống trong đế quốc Alexandre, đã không nhìn thấy một hình thức chính trị nào cao hơn.",
+      "",
+      "Chính thể nào cũng vậy, nếu làm lợi chung thì tốt, nếu làm lợi cho một vài cá nhân thì xấu. Mỗi chính thể tốt hay xấu là phải tùy theo tính tình của từng dân tộc. Nhưng mỗi chính thể đều có một tình trạng thông thường"
+    ],
+    "page_127": [
+      "là tình trạng lấy công lợi làm mụo dích và một tình trạng đồi, bại là tình trạng đặt tư lợi lên trên tất cả. Nếu có một người đứng dầu tất cả, thì gọi là chính thẻ quân chủ. Nên có nhiều người đứng đầu thì gọi là chính thẻ quý tộc (aristocratie). Còn nếu tất cả mọi người đều dự vào quyền chính, thì chính thẻ có tính cách dân chủ.",
+      "",
+      "Chế độ quân chủ theo Aristote chỉ có thẻ có tính cách chuyên chế. Đó là chế độ hợp với những dân tộc nào còn thấp kém và chưa đủ năng lực dễ tự chỉ huy. Đó cũng là chế độ của những dân tộc nào phát sinh ra được một bậc đại anh hùng, vượt bần lên trên đại chúng. Còn nếu những diễn kiện ấy không thực hiện thì cần đề phòng cái bất tài của nhà vua và của những người nối dõi. Người ta có khuynh hướng tự nhiên là muốn lạm dụng quyền hành của mình. Một nhà vua bất tài mà lạm dụng quyền hành"
+    ],
+    "page_128": [
+      "rất dể trở nén một bao chúa. Khi ấy chế độ quân chủ trở nên một chế độ phân tự nhiên vì nó đem cái toàn thể phụ thuộc vào một cá nhân. ${ }^{0}$",
+      "Hải chế độ quý tộc và dân chủ hợp tự nhiên hơn, vì trong những nghị quyết của một hội nghị hơn những ý muốn của bất cứ cá nhân nào. Trong chê-độ quý tộc, quyền chính được giao cho một đảng cấp thượng lưu, nếu đức hạnh không cao hẳn thì ít ra cũng giàu có. Nhưng nếu đảng cấp ấy chỉ giàu có mà thiếu hẳn đức hạnh, thì chế độ quý tộc trở nên một thiếu số chính trị (oligarchie). Và những nghị quyết của đảng cấp ấy chỉ còn phụng sự một lòng vị kỷ chung cho một đảng cấp.",
+      "\"Sau hết trong chê-độ dân chủ, tất cả những người dân tự-do đều được dự vào quyền chính. Chế độ này, nếu giữ được trại tự trong thị-xã, thì khác nào một bữa cơm trong đó mỗi người có mang phần đến Nhưng ngược lại, nó trọng lượng bơa lá phầm. Có khi nó đi đến chỗ rút thăm để phân phát các chức vụ; đại đa"
+    ],
+    "page_129": [
+      "số đè nén thiều sớ, dù thiều sớ ấy giàu cós những kẻ cầm đậu chỉ lo nịnh hột quằn chúng, dù làm hại đến lợi chung. Khi ấy, chế độ dân chủ chỉ còn là chế độ dân loạn.",
+      "",
+      "Lấy lý-trí ra má xét, thì hay hơn cả là chế độ quân chủ, nến nhà vua là một dăng minh quân, vì được như thế, nhà vua sẽ là hình thức cao nhất trong quốc gia, và tất cả nước sẽ có gắng lên đến ninh thức ấy. Nhưng trong thật lại, chế độ dễ trở nên hoàn thiện hơn cả là một chế độ a trung dung $v$, đứng giữa hai chế độ qui tọc và dân chủ : Cái đức chính trị cũng là sự dè dặt, như cái đức luán lý.",
+      "",
+      "Dân quốc quý-tộc ấy muốn tránh được nạn thiền số chính trị, phải có một luật pháp dè dặt và khôn ngoan, đủ nghi lực đề trừng phạt và đây ái những kẻ có tài quá và đáng lo ngại. Một dằng khác, luật pháp ấy phải ngăn ngừa không cho những dằng cấp thấp kém chiếm được quyền chính trị. Muốn thế, phải lấy"
+    ],
+    "page_130": [
+      "những giai cấp trung lưu làm căn bản, và giao quyên chính cho những người làm nghề tự-do (professions libérales: nghề dạy học, làm thuốc v.. v..) và loại bần những kẻ làm nghề chuyên môn và cơ giới.",
+      "",
+      "Kẻ đặt ra luật pháp, dù không thể làm cho của cải mọi người bằng nhau được: cũng phải hết sức tránh không đề cho ai cùng khổ quá, vì sự cùng khổ hay dẫn đến những chế độ dân-lơan. Muốn thế: những của công phải phân chia cho công bằng, trai gái phải bắt lập gia đình, gái mười tám tuổi nên có chồng, trai ba mươi bảy tuổi nên lấy vợ, số con cái luật pháp còn phải hạn định. Muốn cho hạn định ấy có thể thực hiện được, chính phủ phải bắt hư̛y thai, khi cái thai còn chưa có cảm giác; những đứa bé tàn tật phải thi bỏ như ở thành Sparte (1)",
+      "(1) Muốn hiền được vì sao Aristote chê trươn g những điều vô nhân đạo như thế, ta cần biết rằng hồi đó Gia-tô giáo chưa xuất hiện và những tư tưởng nhân đạo chưa được",
+      "(Xem tiếp trang saa)"
+    ],
+    "page_131": [
+      "Điễ thiết yếu là làni thế nào cho luật pháp tương hợp với phong tục, muốn thế, nên dè dặt hết sức trong công việc sửa dôi những luật pháp đã đặt sã̃n;",
+      "Muốn có những người dân hiểu bồn phận, thị xã phải lo gánh vác việc lấy giáo dục. Giáo dẹc phải là một việc công chớ không thê là một việc tư. Thị xã phải giữ đọc quyền việc dạy trẻ, như ngày xưa, ở Sparte vậy.",
+      "",
+      "Aristote phản đối phương pháp giáo dục lấy trò chơi làm góc. Theo ông, chi người nhớn mới biết hưởng sự an nhàn và những trò chơi. Trẻ con mới dược sửa soạn, chứ chưa được phép hưởng những mục dich ấy. Nhưng cũng cần phải tránh, đừng bắt trẻ có gắng quá. Muốn vậy khi nào bắt trẻ luyện tập trí óc thi cho thân thê nghỉ ngơi, khi nào",
+      "iruyền bá. Xã hội hy-lạp là một xã hội xây dựng trệa chế độ độ lệ. Người hy lạp ham chiên, ham sô̄ng, dù sự sô̄n; đó có tân bạo. Nhá trift hoc Nietzsche sau này sẽ ca tung cái văn hóa cồ hy tạp và đã đào kịch liẹ̣t vãa hóa nhân đạo gia tô."
+    ],
+    "page_132": [
+      "bất trễ luyẹn tạp thân thể thi cho tri óc an nhan.",
+      "",
+      "Sự giáo dục trế có hái nguyện tắc làm căn bản : Nguyện tắc thứ nhất là căn phải đào luyện những người có kiến thức rộng rãi (culture générale) ! càn đáo luyện những người trang bình hơn là những kế chuyển môn. Một người hy lạp phải biết đủ mọi khoa học, và đủ mọi món thê thao. Không oăn phải đào luyện những lực sĩ chuyền môn hay những nhà thông thái chuyên môn. Giáo dục phụ nữ cũng phải vâng theo một nguyện tắc tương tự. Múc địch của nên giáo dục công phải là đào tạo những người trung bình, có nhiều khả năng, và biết thích nghi với xã hội.",
+      "",
+      "Nguyên tắc căn bản thứ hai là phải loại hết những công việc cơ-giới hay buôn bán. Làm những việc ấy, tâm hồn thấp kém đi. Nhà giáo dục sẽ chỉ dạy trẻ những nghẹ thuật hào phóng; thê thao nhẹ, văn pháp, hội họa, và thứ"
+    ],
+    "page_133": [
+      "nhất là âm-nhạc. Còn khoa học và triết học thì danh cho những người đứng tuổi nên Aristote không kề đến. Cái « kiến thức rộng rãi » của một người hy lạp trẻ, như vậy, chỉ là « kiến thức của một nghệ sĩ ». Và phương pháp giáo dục của Aristote lấy cái đẹp làm mục đích : đẹp ngoài thận-thề, đẹp trong tâm-hồn.",
+      "",
+      "Tóm lại, luân-ly-học và chính-trị-học của Aristote có tính cách vô cùng hảo thủ. Aristote chậm trễ thời đại ông xa lơ xa lắc. Tuy hiềa rõ chính thể và hiến pháp các thị xã hy lạp và các dân tộc mọ̣i rợ (1), ông không tìm thấy được cách tô chức chính trị nào cao hơn là chế độ thị xã hy lạp hồi bấy giờ. Hiến pháp thành Athènes được ông coi là hiến pháp duy nhất đủ năng lực để bảo tồn hạnh phúc cho phái thượng lưu muốn sống riêng trong tư tưởng. Siếu",
+      "",
+      "[^0]",
+      "[^0]:    1 - Người hy lạp gọi những dân tộc khác ở ven địa trung hãi là mọ̣i rợ. Rô thật giống lồng tự phụ của người Tâu ngày xưa."
+    ],
+    "page_134": [
+      "hình triết học của ông dựa vào giác quan, và tôn các điều hiểu biết do giác quan mang đến làm sự thật tuyệt đối. Nhân-sinh triết-học của ông cũng tôn làm lý tưởng tuyệt đối cái xã hội đã bắt đầu dung lay thời bấy giờ, cái xã hội chia rẽ thành đẳng cấp, cái xã hội có một quan niệm chật hẹp về gia đình, một lòng khinh cần lao, khinh nô lệ, khinh phụ nữ, khinh những dân tộc khác nó làm chúng ta ngày nay phải ngạc nhiên và bực tức. Aristote không hiểu nỗi cái phong trào đại-đồng hóa và bình đẳng hóa nó bắt đầu với những cuộc chinh chiến của Alexandre. Những điều cải cách mà ông trình bày đều mượn ở điền tích cũ, và không hề vượt khỏi cái độ trung-dung, cái sự dè dặt điều hòa, nó là nguyên tắc duy nhất được Aristote lấy làm căn bản cho mọi hành-động."
+    ],
+    "page_135": [
+      "# CHUONG III ",
+      "",
+      "## Nghệ thuật",
+      "",
+      "- Những quan - niệm của Aristote vè̀ nghệ thuật là phằn mờ tối nhất trong hệ thống của ông. Tuy vậy, ngày nay ta cũng biết được chắc chắn rằng nhà triết học ấy phản đối chủ nghĩa khắc kỹ của Platon một cách kịch liệt. Platon đã phác ra một dân quốc trong đó khơng có một nhà thơ nào, uột nghẹ̣ sĩ nào. Ơng công kích nhất là nghễ kịch hát, vì đó là một sự a đian cuờng $v$ khơng văng theo lệ luật nào nữa.",
+      "",
+      "Aristote trái lại rất trọng nghệ-thuật. Ta đã thấy ông đem nghệ thuật vào giào duc nhu thế nào rồi. Nay ta cần"
+    ],
+    "page_136": [
+      "xét kỹ đốn quan niệm của ông về cái «đẹp». Đó là một quan - niệm thực nghiệm, duy lý, và dựa vào lịch sử. Nó dành một chỗ đặc biệt cho trí tuệ.",
+      "",
+      "Địa vị của trí tuệ trong nghệ thuật.",
+      "Trước hết chính trí tuệ làm này ra trong linh hồn một nhu cầu : trật tự. Trí tuệ khiốn chúng ta khát khao cái nhất trí, cái điều hòa.",
+      "",
+      "Mà theo Aristote \"cái đẹp là cái vì đại và có trật-tự». Cái đẹp có ba hình thái: là trật tự, cân đối và rõ rệt. Vì vậy, \"nếu ta tưởng rằng khoa số học không nói gì đến cái đẹp là nhằm hết sức. Trái lại không khoa học nào nói nhiều và rõ rệt về cái đẹp như khoa đó».",
+      "",
+      "Nguồn gốc thứ nhất giúp người ta sáng tạo ra cái đẹp, là bản năng về nhịp điệu, và điều hòa. Thuộc về bản năng ấy có sự cần dùng trật tự, cần dùng nhất trí mà ta cần chú ý đặc biệt. Nhà văn phải làm thế nào"
+    ],
+    "page_137": [
+      "cho tác phẩm của mình có những phạm vi trung bình, vừa xinh, và hết sức tránh cái nhỏ bé vun vặt quá, cũng như cái bao quát quá. Trong một tác phẩm, chỉ được kê một câu truyện (unité d'action). Thời gian làm khuôn khổ cho câu truyện ấy không được quá lâu dài (unité de temps)nii yuân.",
+      "",
+      "Nguồn gốc thứ hai của cái đẹp là bau năng bất chước của loài người. Người ta là sinh vật ưa bất chước và bất chước giỏi hơn cả trong muốn loài. Mà cái đẹp, thực ra, chỉ là một sự bất chước thiên nhiên. Chứng cớ là khi một nghệ sĩ tả được thiên nhiên rõ rệt, dạy ghi được một hình ảnh tự nhiên, thì dù hình ảnh ấy không lấy gì làm đẹp đẽ, ta cũng thấy hứng thú.",
+      "",
+      "Tuy nhiên, sự bất chước ấy thường chỉ là một khuynh hướng vô thức; người xưa, vô tình bất chước thiên nhiên mà tạo ra nghệ thuật. Khi sự"
+    ],
+    "page_138": [
+      "nhầy nhót đã vượt khô̂i trînh độ làm trơ đẻ̉ trỡ nên một nghệ thuật, nghệ thuật ấy băt đâu ảùng nhịp điệu mà ghi chép ngay những tinh câm hay nhũng hành động. Cón âm - nhạc, sở dị không dùng đến một hình ànb tự nhiên nào là đẻ̉ trực tiếp chép thẳng lấy những trạng thái cửa tâm hồn, những thị dục, những tình thương ghét v... v... Âm - nhạc làm cho người nghe cảm thấy rũ cái trào lưu của những tinh câm ấy bâng nhiêu cách: đồi giọng, đồi nhịp v... v... thú",
+      "",
+      "Nhung, khóng những nghệ thúạt bất chước thiên nhiên, nó còn à lý tưởng hóa 2 thiên nhiên ấy nữa - lý tưởng hóa về hai phương diện : ảy thúạt và luân lý. Những hậ tho hay, không những phải giống sự thật mà còn phải làm cho sự thật đẹp hơn. Và bỉ kịch hy lạp không những có Euripide miên tả tâm tinh người ta trong thật tạ̣t, mà còn có Sophocle tả những người lý tưởng, những người"
+    ],
+    "page_139": [
+      "khuôn mẫu nữa. Aristote đang hóa hai phương diện mẫu thuâ̂n nhau ấy rất khéo léo. Nghệ thuật bắt chước thiên nhiên thật, nhưng ta phải hiệu hai chữ bắt chước theo một nghĩa rồng. Nghệ sĩ phải bắt chước cả những gì có thốt, lâ̂n những gì hình như có, và những gì nên có! Cách bắt chước thứ nhất là của nhà làm sứ, hai cách bắt chước sau mới thực của nhà nghệ sĩ. Nhà thơ bắt chước cái có thể với cái cần có. Sự lý tưởng hóa của ông ta cũng là một sự bắt chước, nhưng không, bắt chước bề ngoài, mà bắt chước hẳn những bề trong hợp với lý trí hơn. Như vậy sự bắt chước của nhà nghệ sĩ là một trực giác, một sức ám thị (suggestion) hơn là một sự ghi chép tỉ mỉ, rát tự, nhất trí, bắt chước, lý tưởng hóa bằng cách làm cao đẹp hơn, hay đạo đức hơn, ấy là những phần tử thuộc về trí tuệ trong nghệ-thuật. Nhưng đó không phải là những phần tử doý nhất."
+    ],
+    "page_140": [
+      "của nghệ thuật. V1 thế, Aristote khơng coi nhà vật lý học Empédocle là một thi sị, tuy ơng ta đã viết hẳn một cuốn vật lý-học bằng thơ",
+      "a) Dịa vị của tình cảm và của",
+      "thả kìu i sự hoạt động",
+      "Thật vậy, trờngnghệ thuật ta còn phải kè dến những phần-tử thuộc vê đời sống tình cảm và đời sống hoạt động.",
+      "Mục đích đâu tiên của cái đẹp là phải làm cho người ta vui thú, dù cái đẹp ấy là cái đẹp sâu não của những tấn bikịch. Làm người ta vui thú khơng đủ, nghệ thuật thường còn phải khiến người ta say mé. Làm cho vui-thứ, làm cho say mê là hai mục đích của mọi nghệ-thuật từ khơu âm nhạc nghèo nàn ý từ, cho đến khoa hùng-biện. Mục đích chính thức của khoa hùng biện là dùng những lý lẽ chắc chắn, suy luận vững bền, mà lơi cuốn người nghe. Nhưng nhà hùng biện nào cũng biết rằng nếu hiểu tâm-lý của thính giả, và nói năng, giảng giải thế nào cho người nghe vui thích và say mê, thì"
+    ],
+    "page_141": [
+      "dù lập luận yếu đuối cũng vẫn lôi cuốn được mạnh mẽ",
+      "",
+      "Song địa vị quan trọng hơn cả phải đánh cho đời sống hoạt dợg. Aristote đã giải thich địa vị ấy trong học thuyết của ong về sự tầf-thoat tinh-dục (purgation des passions). Ta tiệc rằng những tác phầm chính của Aristote diễn giải học thuyết này không còn được truyền đến ngày nay:",
+      "",
+      "Các học giả hiện đại sở dĩ hiểu được quan niệm của Aristote cũng nhờ một đoạn nói về âm nhạc trong cuốn chinh-trị-học, và một đoạn nói về bi-kịch trong cuốn Thi-ca-học của ong.",
+      "",
+      "Âm nhạc có bốn công dụng : hai công dụng thứ nhất đứng đân và nghiêm trang: một là sự giáo dục về phương diện luánlý và xã hội - hai là một ảnh hưởng trực tiếp, như ảnh hưởng của những diện di đường (marche) hay những diệu khiếu vũ chẳng hạn. Âm nhạc còn hai công dụng nữa, phú phlấm hơn, «trẻ con» hơn : một là giải trí, và hai là «giải thoát"
+    ],
+    "page_142": [
+      "cho nhữg tinh dục ». Công dung cuối cùng này làm cho âm nhạc trở nên một món thuốc hay về tinh thận, nhờ đó những sức mạnh thừa thãi, những tinh dục mãnh liệt có chộ thoát ra, và tiêu đi.",
+      "",
+      "Trong âm nhạc có thứ tiếng say mê hay nhảy nhót của những ống tiêu, ống sáo tương hợp đặc biệt với công việc ấy. Trong bi-kịch, có hai tinh cảm mãnh liệt là sự « ghê sợ » và sự thương xót cũng làm cho tinh dục người ta tiêu thoát đi được ít nhiều.",
+      "",
+      "Những tinh dục của chúng ta vì bị đè nén, nên tụ họp lại thành một khối có sức mạnh đặc biệt. Sức mạnh ấy chỉ rình một dịp nào chúng ta yếu đuối là bùng nổ ra. Nghệ thuật giúp cho nó một con đường giải thoát. Khi say mê với cái đẹp - đẹp trong máu sắc và âm thanh, đẹp trong tư tưởng hay ngoài hình thức, - chúng ta có một chỗ để tiêu dùng cái sức tinh cảm chứa chất sãa trong lòng.",
+      "",
+      "Được giải thoát nhiều nhất là những tinh dực của nhà nghệ sĩ. Khi say mê"
+    ],
+    "page_143": [
+      "sáng tạo, nghệ sĩ được phép nâng nín những tình cảm sâu kịn nhất của lòng, và phơi bày những tình cảm ấy ra. Ông có một phạm vi để hoạt động theo những bản năng: ấy là phạm vi của trí tưởng tượng. Nhờ phạm vi ấy, nghệ sĩ có thể thoát khỏi sự kiềm thúc của tình dục, và không cần vàng theo chúng trong thật tại. Ngày nay, học-thuyết Freud cũng không chủ trương gì mới lạ hơn.",
+      "",
+      "# Nghệ-thuật với luân-lý ",
+      "",
+      "Lấy lý trí ra mà xét, thì cái thiện, cái đẹp, cái có ích phải là một. Trông cuốn Tu-tư học (Rhétorique) Aristote có viết à cái đẹp là cái, vì đáng ao ước, nên đáng ngợi khen; đó cũng là cái, vì tốt, nếu làm người ta vui thích; nếu cái đẹp như thế, thì bắt buộc đức hạnh phải đẹp.",
+      "",
+      "Nhưng trong thực hành, Aristote phân biệt nhà luân-lý với nhà nghệ-thuật. Người đạo đức trọng thiện ý đủ thiện ý ấy chưa được thực hành. Đối với nghệ sĩ, trái lại, cái những gì đã thực-hiện là có giá-trị. Nhà triết học hy lạp đã vô"
+    ],
+    "page_144": [
+      "tinh mờ đường cho chủ nghĩa « nghê thug̀t vị nghẹ̣ thuật» hiện đại, khi ông tỏ ý trọng một tấn kịch hay nhung vô đạo đức, hơn một tấn kịch luân lý nhung vô vị, khi ông công nhận rằng một bài thơ có thể vô đạo đức mà vẫn hay, và khi ông đem cái tên «hiền» mà gán cho Phidisa với Polycléle là hai nhà nghệ sĩ.",
+      "",
+      "Song bình thường thì Aristote đem nghẹ̣ thuật phụ thuộc vào luân-lý và giáo dục. Mục đích của công trình sáng tác nào cũng phải là một mục đích giáo dục hoặc chính trị. Nhà lập pháp phải bài trừ những tác phẩm, những tấn kịch, bài văn, bức vẽ có tính cách bậy bạ. Thanh niên được phép xem bi kịch, nhưng không được xem hài kịch, và những kịch công-kịch xã hội.",
+      "",
+      "Thầm mỹ học của Aristote, vì có tính cách hơi chiết trung, nên đã là nguồn gốc của rất nhiều quan niệm mạu thuần nhau về nghệ thuật. Nó đã đề ra những"
+    ],
+    "page_145": [
+      "chủ nghĩa nghệ thuật tiên-nhiên, nghẹ thuật thực nghiệm, nghệ thug̛t thưàn-lý, nghệ thuật xã hội nữa. Nó có ảnh hưởng vô cùng sâu xa đến nghẹ̣-thuật thời kỳ phuo bưag ý-đại-lợi, nghẹ̣-thuật cô điền pháp, và nghẹ̣ thuật «hàn lâm» trong khắp các xứ. Cái ảnh hưởng ấy kbơng phải bao giờ cũng là mợt ảnh hưởng tợ. Trong nhiêu trường hợp, nó đã kim hãm bước tiến của nghẹ̣ thuật lại. Và sở dĩ như thế, có lẽ là vì các món đồ Aristote phần nhiều đã không hiền bản ý của ông.",
+      "",
+      "Aristote đã có sức trọng những đặc tinn của từng nghẹ̣-thuật mợt. Ông nói : «khớng phải rằng mợt tấn bi-bịch có thể cung punng đủ mọi thứ vui thú. Phát đòi hỏi ở một tấn bi kịch cái hay riêng của nó». Mỗi tác phẩm, nếu nhất trí và đay đủ, đem đến cho ta mợt hứng thú riêng biệt hẳn. Vì vậy, muốn phê-binh mợt nghẹ̣-thuật, ta cần phải quen thuộc với nó lắm.",
+      "",
+      "Các học giả thời sau đã có dem những"
+    ],
+    "page_146": [
+      "quan-niệm rời rạc của Aristote về từng nghệ thuật để ráng buộc vào nhau thành hệ thống cho hợp với những nguyên tắc căn bản của ông. Chính vì muốn «hệ thống hóa» như thế, nên khoa « thẫm mỹ-học» hân-lâm mới thất bại. Các nhà «hàn lâm», áp dụng những tiếng thường dùng của Aristote, đã đi tới những khâu hiệu như: «cái đẹp, ấy là hình-thức hiện hiện ra khỏi chất liệu», «nghệ-thuật phải dùng chất liệu mà diễn giải hình thức» hay «nghệ-thuật là bất chất liệu vâng theo tư tưởng» v...v...",
+      "",
+      "Những khâu hiệu thật kêu ấy cũng thật rồng. Không phải đem nó ra, một nghệ sĩ có thể thấy được con đường sáng tạo. Nghệ-thuật cần đến những nhờc chì giáo thiết thực, và mỗi nghệ-thuật cần đến những nhờc chì đạo riêng biệt hẳn. Aristote đã biết vứt bỏ những hệ thống khó xác để đi vào từng nghệ-thuật. Vì thế, những người muốn tìm ở ông một thầm mỹ học có đầu đuôi, trên dưới, có châm ngón rằm rộ, có cờ nếu nghệ-"
+    ],
+    "page_147": [
+      "thuật vị cái này, hay nghệ-thuật vị cái kia sẽ thất vọng. Trái lại, Aristote làm hài lòng tất cả những ai muốn thấy từng vấn đề rành rọt, từng nhờ giải thực tiễn.",
+      "",
+      "Trong tất cả triết học Aristote, ta nhận thấy một điểm đặc biệt : dù báu về nghệthuật, về chính trị, hay về sinh-lý, khi nào Aristote thấy lý thuyết quá trừu tượng của ơng lạc đường, và không vào sáu được trong những sự vật phức tạp, lập tức ơng vứt bỏ óc hệ thống, và viện đến óc khảo sát, đề lấy thực nghiệm mà xây dựng một công trình khoa-học."
+    ],
+    "page_148": [
+      "![img-0.jpeg](img-0.jpeg)",
+      "![img-1.jpeg](img-1.jpeg)",
+      "![img-2.jpeg](img-2.jpeg)",
+      "![img-3.jpeg](img-3.jpeg)",
+      "![img-4.jpeg](img-4.jpeg)",
+      "![img-5.jpeg](img-5.jpeg)",
+      "![img-6.jpeg](img-6.jpeg)",
+      "![img-7.jpeg](img-7.jpeg)",
+      "![img-8.jpeg](img-8.jpeg)",
+      "![img-9.jpeg](img-9.jpeg)",
+      "![img-10.jpeg](img-10.jpeg)",
+      "![img-11.jpeg](img-11.jpeg)"
+    ],
+    "page_149": [
+      "# PHÂN THỨ BA ",
+      "",
+      "LUẬN - LÝ TRIẾT - HỌC"
+    ],
+    "page_150": [
+      "AB VHT MAHY",
+      ".00H-T31AT Y1-4A01"
+    ],
+    "page_151": [
+      "# CHLONG I ",
+      "",
+      "## Luận-lý hình-thức",
+      "",
+      "## Những căn bản",
+      "",
+      "Lủ̉ạn-lý học là khoa học dạy ta cách suy nghĩ thế nảo đẻ̉ tim được chán-lý. Nó đặt rơ cho tư duy những qui tắc cầa thiết đẻ̉ khôi bị lầm lạc.",
+      "",
+      "Luận lý học của Aristote mang tên là luận lý hình thức (logique formelle). Những nguyên tắc của nó đã được hâu hết các hệ thống triết học trung cồ và cạn đại công nhận. Mãi đến ngày nay, nó mới bị lung lay và lật đơ. Người ta thường gọi nó là luận lý hình thức chinh vì thấy nó được"
+    ],
+    "page_152": [
+      "áp dụng trong nhiểu chủ nghĩa ahư thế.",
+      "",
+      "Đem giải thích mấy chữ luận lý hình thức, ta có khuynh hướng muôn coi khoa luận lý ấy là một hình thức có thể đem áp dụng cho mọi chủ nghĩa và mọi khoa học. Chẳng hạn phép tam đoạn luận đã được coi là một phép luận có thể dùng trong chủ nghĩa của \"Aristote, của Euclide, cũng như của Galilée và Newton, trong vật lý học cũng như số học và luân lý học.",
+      "",
+      "Đến Kant, người ta lại càng tin ở nhớı định nghĩa kể trên. Kant phân biệt trong mọi điều hiểu biết hai phần : một hình thức tách riêng hẳn với một nhất liệu. Hình thức ấy hoàn toàn do trí tuệ cấu tạo nên. Luận lý hình thức chỉ chú ý đến phần thuần tư tưởng ấy và chỉ lo xếp đặt nó sáo cho hợp lý.",
+      "",
+      "Nghrng trong tư tưởng Aristote, luận lý hình thức có thật nghĩa như thế"
+    ],
+    "page_153": [
+      "không? Có thật, nó là một hình thức trống rồng áp dụng vào trường hợp nào cũng được không? Ta nghĩ rằng không phải - Thực vậy, trong siêu hình học Aristote, hình thức với chất liệu không phải hai hẳn thể khác, hẳn nhau. Trái lại đó chỉ là hai trang thái của cùng một bản thể. Hình thức cao hơn chất liệu thật, nhưng đã tiềm tàng sẵn trong chất liệu đó rồi. Hình thức có phân biệt với chất liệu cũng là phân biệt trong trí óc chúng ta mà thôi. Nhưng trong sự thật, nó đã nắm sẵn trong sự vật không kém gì trong tư tưởng.",
+      "",
+      "Cho nên luận lý hình thức của Aristote, dù chỉ nghiên cứu về những hình thức và không nhắc đến cái chữa đựng trong hình thức ấy, cũng đã phải gián tiếp thích nghi chặt chẽ với cái chữa đựng bên trong ấy rồi. Hình thức không tách biệt khỏi chất liệu, nghiên cứu về hình thức tức là nghiên cứu về chất liệu vậy."
+    ],
+    "page_154": [
+      "Rút lại, muốn hiểu rõ luận lý hình thức, cần phải hiểu hệ thống của Aristote. Không có hệ thống ấy, luận lý hình thức lúng túng Trái lại, dù không có luận lý hình thức, hệ thống ấy vẫn vững vàng. Luận - lý hình - thức là kết quả của triết học Aristote, chớ không phải cơ sở của triết học ấy! Mở đường cho hệ thống Aristote vẫn là phần siêu hình.",
+      "",
+      "Trước Aristote, đã có một vài triết giả dung chạm đến khoa luận lý. Socrate và Platon đặt ra mấy phép hiệu luận sơ sài. Nhưng khoa luận lý học chính là công trình sáng tạo của riêng Aristote. Ông vẫn thường lấy điều đó làm tự hào, những cũng răn vào đó để xinh lỗi rằng đã không xảy đập được một công trình hoàn toàn. Thật ra đó là một nền luận lý hoàn toàn, hoàn toàn quá nớa, và sở dĩ quá hoàn toàn chính vì nó diễn giải một nền siêu hình triết học có hệ thống đặc biệt."
+    ],
+    "page_155": [
+      "Tạ đám nói rằng nền luận lý ấy diễn giải hệ thống siêu-hình của Aristote trước hết vì ta chỉ hiểu được một khoa học nghiên cứu về \"hình thức\" của tư tưởng khi ta hiểu được quan niệm của nhà triết học hy lập về hình thức với chất liệu. Và trong luận lý hình thức, ta sẽ thấy những khái niệm chồng chất lên nhau thành một giây hình thức với chất liệu, khái niệm nó làm chất liệu hay hình thức cho khái niệm kia. Những mối liên quan luận lý chỉ là một phần tử cắt xén ra khỏi cái công trình đẹp đẽ là vũ trụ quan của Aristote.",
+      "",
+      "Luận lý hình thức còn diễn giải hệ thống siêu-hình của Aristote vì lẽ thứ hai sau đây nữa căn bản của nó mượn ở hệ thống ấy. Thực vậy, khoa luận lý có mục đích là đi tìm chân lý, nghĩa là tìm những cái tất nhiên, những cái (không thể có được). Mà khi nghiên cứu về những luật tự nhiên, ta đã thấy rằng cái tất nhiên tuyệt đối là cái bất dịch là cái đồng nhất. Nguyên tắc căn bản của tất cả nền luận"
+    ],
+    "page_156": [
+      "lyhọe Aristote chinh là luật đồng nhất (principe d'idendite) vạy. Học phải Eie2 ates, và những triết gia phải ngự biện chủ trương rằng muôn vật đều thay đồi và chúng ta không thể nắm được sự thật: - Aristote phảa đối lại một cách dè dặt rằng: « Trong cùng một khoảng thời gian, và đúng về cùng một phương diện mà xét, thì một vật nào đã có tính cách nào, không thể đồng thời không có tính cách ấy được ». Một vật đã trắng không thể không trắng, ta đã là người không thể đồng thời không là người. Aristote cũng biết rằng những gì thay đồi có thể tự mâu thuẫn được nên đã cần thận đặt rõ điều kiện: « Trong cùng một khoảng thời gian ». Điều kiện đó tiếc thay, những học giả áp dụng luận-lyh hinh thức không mấy khi nhớ đến.",
+      "",
+      "Tránh sự mâu-thuẫn khi phân tích một khái niệm nào, nghĩa là làm thế nào để đã tìm thấy trong khái niệm ấy một tính cách gì thì không còn tìm thấy tính cách tráflạl, hay nó theo một cách khác, làm"
+    ],
+    "page_157": [
+      "thế nào đề bao giờ cũng tìm thấy trong một hình thức, cái chất liệu của nó và bao giờ cũng tìm thấy trong một chất liệu cái hình thức tiềm tàng trong nó ấy là nguyên-tắc duy nhất làm căn bản cho tất cả luân-lý hình thức vậy (1).",
+      "",
+      "# Khái niệm với phép Định nghĩa ",
+      "",
+      "Ta thường nay nhắc đến những khái niệm. Nay đã đến lúc cần định nghĩa hai chữ ấy. Một khái-niệm là một ý-niệm rộng rãi, khái quát, thay cho hẳn một loại sự vật, trong khi suy luận, chúng ta đem cân nhắc bay so sánh những khái niệm ấy. Ví dụ: khái niệm về người - khái niệm con bỏ v iv..",
+      "",
+      "Những ý niệm được tư tưởng đem ra xếp đặt không phải rộng rãi đều nhau cả. Có những khái-niệm rộng và cũng có những khái-niệm hẹp hơn. Aristote khỏug",
+      "(1) Muốn thấy rõ địa vị quan trọng đặc biệt sửa luật đồng nhất (rơng lịch sử tư tưởng, xin xem Siêu-hinh học (quyền thượng) của ong Nguyễn ${ }^{2}$"
+    ],
+    "page_158": [
+      "đả động đến vấn đề : thực ra những khái niệm là gì? Đến thời kỳ trung cổ, trong triết học sẽ có một cuộc tranh luận kịch liệt về vấn đề ấy. Có phải cho rằng những khái niệm là một sản vật do trí tuệ ta bịa đặt ra. Có phải trái lại chủ trương rằng khái niệm có thật cả ở bên ngoài trí-tuệ. Trong triết học, cuộc tranh luận đó thường gọi là cuộc cãi nhau về những ý niệm phổ cập (querelle des universaux).",
+      "",
+      "Aristote, ta đã nói, không đả động đến vấn đề : khái niệm có thật ở ngoài hay không. Nhưng ông phân biệt rất cần thận những độ rộng rãi của các khái niệm. Và theo ông, khi ta đã tìm xem một khái niệm thuộc về bộ não loại nào, có những loại tinh nào những cái tinh nào, những ngẫu tinh nào, ta có thể biết rõ nội dung của khái niệm đó và bản chất của nó.",
+      "",
+      "Trước hết, khi so sánh hai khái niệm với nhau thì khái niệm rộng hơn là bộ (genre) và khái niệm hơn là loại (espèce). Loại engus có"
+    ],
+    "page_159": [
+      "vú $x$ Loại «có vú $x$ thuộc vê bô «có suợug xông $x$ v...v...",
+      "",
+      "Làm cơ sở cho thứ bực rộng-hẹp kê trên là những loại. Khoa-bọc xây dựng trên đó. Sự định nghĩa cũng lấy đó làm góc. Muốn định nghĩa một loại nào, ta phải xếp nó vào trong bộ găn nhất (genre prochain), và thêm vào đó cái đặc tính của loại cân định nghĩa. Ví dụ: «người là một con vật biết suy-lỳ $x$. Muốn định nghĩa loại người ta xếp loại ấy vào trong bộ sính vớt. Không những thế, ta còn thêm vào bộ ấy một đặc tính của loạ người: biết suy-lý. Đặc tính ấy ta gọi vẫn tất là một loại-tinh (caractère spécifique). Loại tính ấy thuộc vê bản chất của loại người. Nếu ta đến những cái nhỏ hẹp hơn nữa, những cái cụ thể hơn, nếu ta muốn định nghĩa một ý-riệm hẹp-hòi, một cá nhân Callias chẳng hạn, thì bên loại-tinh kê trên, ta còn phải thêm những đặc tính của Callias, nghĩa là những tính cách nào không phải thuộc vê loại người mà thuộc vê riêng Callias:"
+    ],
+    "page_160": [
+      "Vi du: «Callias là một con vật biết suy lý (=một người) làm nghề dạy văn pháp». Đặc tinh sau cùng này t làm nghề dạy vần pháp» ta gọi là một cá-tinh (caractère propre). Nhưng những cá tinh cũng chưa phải là nhỏ hẹp nhất. Những thuộc tinh hẹp hòi hơn cả, tháp kém hơn cả, và phản khoa học hơn cả là những ngẫu tinh nghĩa là những tinh chất không bắt buộc phải có trong khá; niệm về một cá nhân, những tinh chất dù có dù không có cũng được. Callias có thể trắng trẻo hay không trắng trẻo, cao lớn hay không cao lớn, dẹp dẽ hay không dẹp dẽ cũng không quan hệ về phương diện luğa-ly. Nếu Callias trắng trẻo, cao lớn và dẹp dẽ, thì đó cũng chỉ là những «ngẫu tinh». Biết rõ được những ngẫu tinh ấy là ta biết rõ được cá-vật cụ thể. Cá vật ấy tuy ta biết rõ nhưng không thể là mục đích nghiên cứu của một khoa-học, cũng không thể đear định nghĩa được.",
+      "",
+      "Tới đây, ta chạm, phải một vấn đề khó khăn:"
+    ],
+    "page_161": [
+      "Cái có thật, không phải là những bộ, cũng không phải những loại, mà là những cà vật cụ-thể. \"Con người\" trừu tượng không có thật. Trên mặt đất chỉ có anh Hai, anh Ba, có Tư hay có Năm. \"Cái cây\" trừu tượng không có thật. Có thật chung quanh ta là cây nhãn này, hay cây bằng kia. Ấy thế mà khoá-học không lấy những cà vật ấy làm đề nghiêncứu. Chẳng hạn sinh lý-học không nghiên cứu về riêng cơ-thể của anh Hai mà nghiên-cứu về cơ-thể của người ta. Vật. lý-học không tìm xem tại sao hóa đá này rơi xuống mà giảng nghĩa vì sao những vật nặng rơi xuống.",
+      "",
+      "Khoa-học cũng không nghiên-cứu về những ý-niệm rộng rãi quá, vì những ýniệm càng rộng rãi bao nhiêu, càng xa thật tại bấy nhiêu. Mà khoa học thì chỉ có mục đích là tìm hiểu thật tại, và ảnh hưởng đến thật tại.",
+      "",
+      "Làm đề nghiên-cứu cho khoa học là những loại, nghĩa là những độ trung. gian đứng giữa bộ và cà-thể. Những"
+    ],
+    "page_162": [
+      "loại ấy khóng quá rộng rãi và quá nghèo nợi dung, cũng không quá riêng biệt và nhiêu ngẫu tinh. Rộng quá thì xa thật tại, mà hẹp quá và có tinh cách ngẫu hữu quá thì thấm nhuần chất liệu nhiêu quá và không thể xếp đặt trong những luật tất nhiên của trí-tuệ. Cả hai độ thái quá ấy, theo Aristote đều làm chất liệu cho hình-thức trung-gian là loại, nhưng làm chất-liệu về hai phương diện khác nhau. Bộ thì rộng hơn loại, nghĩa là bao trùm nhiều cả thể hơn loại. Nhà luận lý nói rằng ngoại diên (extension) của bộ rộng hơn ngoại diên của loại. Ví dụ bộ «sinh vật» có ngoại diên rộng hơn loại «người». Thực vậy, trong bộ «sinh vật, ngoài loại «người» ra, ta còn thấy biết bao nhiêu loại nữa: «chim», «thá», «cá», «rắn», «ếch nhái», «sâu bọ» v...v... Nhưng nột-dung của bộ, trái lại, nghèo nàn hơn nợi dung (compréhension) của loại. Bộ chứa đựng ít tinh chất hơn loại. Ví dụ : bộ «sinh vật » chỉ bao hàm"
+    ],
+    "page_163": [
+      "một tinh chất này : « có sự sống ». Nhưng loại «người »ngoái tinh chất «có sự sống, còn bao băm rất nhiều tinh chất nữa : « biết suy lý - có hai chân - hai tay - biết, dừng v.. v., »",
+      "",
+      "Đem so sánh loại với cả thế, ta thấy những kết quả ngược lại. Cả thế có nợi dung rồi rào hơn loại, nhưng ngoại diên lại hẹp hơn.",
+      "",
+      "Đem so sánh loại với bộ và cả thế cùng một lúc, ta thấy rằng nếu đứng cả về hai phương diện nợi dung và ngoại diên, thì loại rồi rào hơn cả. Nên, theo Aristote, «loại » làm đề nghiên cứu cho khoa họo mới thực đích đáng.",
+      "",
+      "Muốn định nghĩa một vật gì, ta phải loại hết những ngẫu tinh không thuộc về bản chất vật ấy, những tinh chất có liên lạc đến bản chất ấy nhưng chỉ có liên lạc phụ thuộc, và cả đến những cá tính nào đủ để định rõ vật cần định nghĩa, nhưng chỉ định rõ bề ngoài. - Loại hết như thế thì còn gì? Theo những duy lý chủ nghĩa như"
+    ],
+    "page_164": [
+      "của Platon, thi sẽ còn Y̛ niệm vớ một chữ hoa, một ý niệm siêu cảm giác vê vật cần định nghĩa. Theo những chủ nghĩa duy nghiẹ̀m, trái lại, lúc ấy trong tri óc chúng ta sẽ chi còn mợt tiếng trống rồng, hay một \"hfíh\" ánh của vạt càn định nghĩa. Aristote đứng giữa, và tin rằng những cái còn lại sẽ rơi rào hơn và nghéo nán hơn hai thái cực ấy: cái còn lại là r bản chất đâu tiến\" (essence première) của vạt được \"định nghĩa, - nghĩa là cái \"gl đơn giản nhất trong bản chất ấy, một cái có thật nhưng khơng thè̉, thuyết minh được, và chi tri tuỳ̀ là trực tiếp cảm thấy, khác nào như ánh sáng chỉ có thè̉ do mât trực giác thấy được mà thoi.",
+      "",
+      "Song bản chất một vật gl thường thường không đơn giản. Ta đã thấy rằng bản thè̉ nào cũng gồm có hai phần: một hinh thức, một chất liệu. Ta có thè̉ dung riêng hinu thức; hay riêng chất-llẹn đẻ̉ định nghĩa. Nhưng cũng có thè hợp"
+    ],
+    "page_165": [
+      "cả hai làm một má dùng. Khi ấy thì bộ tức là chất liệu, má loại tinh tức là tinh thức vậy. Nhưng vì nói đến tinh thức đã là nói đến chất liệu rồ nên ta có thể chi dùng riêng loại tinh đề định nghĩa cũng không hai gì.",
+      "",
+      "Một giới-thuyết (tức là một nhờ định nghĩa) là một mệnh-đề (proposition) chia làm hai phần: hai phần ấy phải có thể đổi chỗ cho nhau mà không hai gì. Phần thứ hai phải tương đương với phần thứ nhất mà không nhắc lại: phần thứ hai phải phân tích phần thứ nhất.",
+      "",
+      "Kết quả của những nguyên - tắc trên đây là ta không thể định nghĩa được những « bộ cuối cùng» nghĩa là những bộ rộng rãi nhất, cũng không thể định nghĩa được những cá-thế: hai thái-cực ấy khoa-học không nghiên cứu được. Khoa-học chỉ có thể định nghĩa những loại, nghĩa là những tinh thức trung bình tiềm 1áng trong nhất liệu mà kinh nghiệm đáng lên."
+    ],
+    "page_166": [
+      "Định nghĩa xong thì ta có những khái niệm rõ rệt. Mỗi khái niệm có một tên gọi: ta gọi những tên ấy là từ (terme). Có những từ chỉ gọi được một phần cả thế trong một loại: ấy là những từ riêng (particulier): ví dụ: «một người nào một vài người». Có những từ gọi được băt cả một loại sự vật: ấy là những từ chung (général) hay phổ cặp hay toàn xưng. Ví dụ: «tất cả mọi người» - hay «người» - Những từ nào chỉ định riêng một cá thể, là những từ đơn (singulier). Những từ đơn có thể là những từ chung khi nó bao hàm toàn thể vật đã được nó chỉ định. «Socrate» là một từ đơn và toàn xưng. Không nên nhằm cái đơn với cái riêng. Sau hết có những từ bấtđịnh (ladélini), như «cái không phải là người», hay cái «không công-băng». Những từ ấy không phải là những nhờ phủ-nhận (négation)",
+      "",
+      "Mệnh đề với phép hoán vị và đối. đương.",
+      "",
+      "Ghép hai khái niệm vào nhau, ta thấy một nhờ phê-phán (jugement). Nhà luận"
+    ],
+    "page_167": [
+      "lý gọi nhờ phê phán ấy là một mệnhđề (proposition). Ví dụ: «con ngựa nảy trắng».",
+      "",
+      "Trước Aristote, phái ngụy biện có chủ trương rằng ta không thể, và không có quyền rằng buộc hai khái-niệm vào nhan như thế. Đứng trước một con ngựa, ta chỉ có thể biết chắc nó là nó. Lấy luận-lý ra mà xét ta không có quyền nói rằng nó là một cái gì khác có cả. Vậy ta chỉ có quyền nói rằng: «con ngựa nảy là con ngựa nảy » chứ không được nói «con ngựa nảy trắng » vì nói như thế tức là quyết đoán rằng «con ngựa nảy là một cái không phải con ngựa nảy».",
+      "",
+      "Aristote trả lời bằng siêu-hình-học của ông. Vũ trụ là một giây sự vật cao thấp khác nhau, sự vật hẹp lồng vào trong sự vật rộng rãi, sự vật rộng rãi chứa đựng sự vật hẹp. Trong trí óc chúng ta cũng vậy, những sử vật biến thành những khái niệm rộng hẹp khác nhau, khái niệm rộng làm «bộ» cho khái niệm"
+    ],
+    "page_168": [
+      "hẹp, khải niệm hẹp làm «loại», cho khải niệm rộng, bao trùm khăng khít lấy nhan. Một nhờl phê-phán chỉ là một mảnh, cắt rời ra khỏi khối khải niệm đó. Ví dụ: «người ta là một vật phải chết».",
+      "",
+      "Vậy ta có quyền phê phán, và cấu tạo nên những mệnh - đề. Trong một mệnh-đề, ta rằng buộc hai từ vào nhau. Mệnh đề nào cũng có thể đặt theo kiến mẫu này: «A là B». Ta gọi A là chủ từ (sujet), B là thuộc từ (attribut), và cái mẫu con con đề nói hai phần ấy vào nhau là đối tiếp từ (copule).",
+      "",
+      "Khi đặt một mệnh-đề, ta phải phêphán. Một mệnh-đề là một nhờ phêphán. Aristote, trước hết, coi nhờ phê phán ấy là một cuộc phân tích. Đặt một mệnh đề là phân-tích nói dung của một khải niệm. Nói rằng «A là B» nghĩa là nói rằng: tính chất B thuộc về vật A. Nếu Aristote hay dùng kiến mẫu «B thuộc về A » hơn là kiêu mẫu «A là B». Chẳng hạn ông ưa nói rằng: «Tính"
+    ],
+    "page_169": [
+      "phải chết thuộc vê người b hơn là s người ta là phải chết. Ngay say trái lại, chúng ta ưa coi một mệnh đề là một phương pháp đề xếp một loại sự vật vào một bộ rộng hơn. Ví dụ: s người ta phâ chết b trong trí óc chúng ta có nghĩa là - người là một loại cá thể thuộc vê những cá thể phâi chết. Nhá luận-ly ngày nay chú ý đến ngoại diên hơn noi dung.",
+      "",
+      "Ta nhắc lại: một mệnh đề là mợt nhớ phê phán, một cuộc phấn tích. Trong cuộc phân tích ấy tá nói rằng một tình chất B thuộc vê một vật A. Ta rằng buớc thuộc từ vào chủ từ Nhung ta có nhiều cách rằng buớc. Ta có thể nói rằng chủ từ A bắt buớc phải có thuộc tính B. Ví dụ: người ta phải chết. Ta cũng có thể nói rằng chả từ A có thể có thuộc tính B. Ví dụ: người ta có thể tăng tợt, hay: có một vài người tàn tệt. Sau hết, từ có thể nói rằng: hiện bây giờ chả từ A đang có thuộc tính B: Vì"
+    ],
+    "page_170": [
+      "du: anh Ba dang ốm. Xem đó có ba loại mệnh đề, tùy theo tinh cách của thuộc từ. Một mệnh đề có thể đặt rõ rằng thuộc từ ấy tất nhiên, khả năng hay thạt tai.",
+      "",
+      "Có ba hình thái (modalité) trong sự phê phán hợp với ba loại mệnh đề ấy.",
+      "",
+      "Cấu tạo được một mệnh đề rồi ta có thể do mệnh đề ấy cấu tạo ra nhiều mệnh đề khác. Hai phương pháp chính trong công việc ấy là phương pháp hoàn vị (conversion) và đối đương (opposition). Các món đồ Aristote thường nghiên cứu rất dài dòng về những chi tiết của hai phép này. Và chính vị thế nẻa luận lý hình thức đã mất cả sinh khí mà trở nên một trò chơi của trí tuệ, trong thời kỳ trung cổ.",
+      "",
+      "Tin sẽ không vào trong chi tiết, mà chỉ nói thoáng qua về hai phép đối đương với hoàn vị. Có một mệnh đề, ta có thể cấu tạo một mệnh đề phản đối lại, cả về phương diện lượng (quantité) lẫn phương diện chất (qualité). Vì du:"
+    ],
+    "page_171": [
+      "«tất cả mọi người đều phải chết». và «có một vài người không chết». Khi đói đương như thế, ta có hai mệnh đề mâu-thuẫn (contradictoire). Một trong hai mệnh đề ấy bắt buộc phải sai. Và một bắt buộc phải đúng. Không thể nào hai mệnh đề ấy cùng đúng hay cùng sai được.",
+      "",
+      "Trong phép dối đương, ta còn có thể cấu tạo hai mệnh đề, chỉ phản đối nhau về một phương diện chất hay lượng. Khi ấy hai mệnh đề tương phân với nhau có thể cùng sai cả. Ví dụ:",
+      "",
+      "«tất cả mọi người đều công bằng».",
+      "",
+      "và «tất cả mọi người đều không công bằng».",
+      "",
+      "Hai mệnh đề ấy giống nhau về lượng (tất cả mọi người) và trái nhau về chất (công bằng với không công bằng). Cả hai đều sai lầm và một mệnh đề thứ ba, ở trung gian, hợp với sự thật.",
+      "",
+      "«có một vài người công bằng»."
+    ],
+    "page_172": [
+      "Những phép đối đương con nhiểu, rắc rối và tỉ mỉ hết sức, 'la bỏ qua má bước sang phép hoan vị.",
+      "",
+      "Chuyển hoán một mệnh đề, là lạt ngược mệnh đề ấy, lấy thuộc từ làm chủ tử, và lấy chủ tử làm thuộc từ. Ví dụ: \"người nào cũng chết\" và \"có một vài vật chết là người\".",
+      "",
+      "Muốn chuyển hoán cho đúng phép, ta nên hiểu rằng nhờn nói thông thường nhiêu khí sai, và cứ theo đúng thế mã chuyển hoán tất đến những kết quả nhằm lẫn. Ví dụ: \"người nào cũng là một vật phải chết\", và \"vật phải chết nào cũng là người\" mệnh đề thứ hai này sai lầm hẳn.",
+      "",
+      "Muốn tránh những điểm nhằm lẫn ấy, trước khi chuyển hoán, ta cần đặt lại mệnh đề cho rõ ràng. Đáng nhé nói \"tất cả mọi người đều phải chết\", ta nên nói \"tất cả mọi người là một số trong những vật phải chết\". Khi ấy, mệnh đề của ta cấu tạo theo"
+    ],
+    "page_173": [
+      "đứng kiến mẫu «A là B», và khf hoán vị, ta không còn sợ sai lầm mà dám quả quyết nói « Một số trong những vật phải chết là người».",
+      "",
+      "Mấy thì dụ trên đây chắc đã khiến bạn đọc nhận thấy rằng những phép chuyên hoán, với đối đương phiên phức biết bao nhiêu và cũng vô ích đến thế nào. Ấy thế mà trong suốt thời kỳ trung cổ, các môn đồ của Aristote chỉ lo sao hoan vị, đối đương cho đúng phép. Ngoài những nguyên tắc do Aristote sáng lập ra, họ còn đặt thêm nhiều luật lệ phiên toái nữa. Những luật lệ ấy họp thành cái kinh viện triết học mà các triết gia cận đại đã đã đảo tận từ vậy.",
+      "",
+      "Phép diễn dịch với tam đoạn luận",
+      "Ghép những mệnh-đề với nhau tức là suy-luận. So sánh nhiều nhớí phê phán với nhau, rồi do đó tìm một kết luận, ấy là công việc cuối cùng của luận-lý học vậy."
+    ],
+    "page_174": [
+      "Nhờ kết luận, muốn chắc chắn cần phải có tinh cách tất nhiên. Do một mệnh đề, suy diễn ra một kết luận tất nhiên, ấy là phép luận cao nhất. Phép luận ấy, theo Aristote là tam-doạn luận (ayllogisme).",
+      "",
+      "Tam đoạn-luận là phép diễn-dịch cao hơn cả. Đó là một phép diễn dịch vì khi dùng tam đoạn luận, ta đi từ nguyên tắc xuống kết luận, từ cái rộng xuống cái bẹp. Ta đặt rõ một vài điều kiện, rồi do những điều kiện ấy diễn dịch (déduire) ra một sự vật gì đấy.",
+      "",
+      "Một tam-đoạn-luận gồm ba mệnh đề :",
+      "1 / Người nào cũng phải chết",
+      "2 / Soerate là người",
+      "3 / Soerate phải chết.",
+      "Hai mệnh đề trên là hai tiền-đề (prémisses) - Mệnh-đề thứ nhất là đại-tiềnđề (majeure) mệnh đề thứ hai là tiểu-tiền đề (mineure). Còn mệnh-đề thứ ba là nhờ kết luận (conclusion).",
+      "",
+      "Viết lại tam-đoạn-luận trên kia cho rõ ràng, ta thấy :"
+    ],
+    "page_175": [
+      "1/ Đại-tiền-dề: Người nào cũng phải chết",
+      "2/ Tiêu-liền-dề : Socrate là người",
+      "3/ Kết luận: Socrate phải chết.",
+      "Đứng về phương diện mệnh đề thì như thế, nhưng đem nội dung những mệnh đề ấy ra xét ta thấy mỗi mệnh đề có hai từ (terme), một chủ từ, một thuộc từ. Có những từ chung cho hai mệnh đề, nên rút lại, trong cả ba mệnh-dề, ta chỉ thấy ba từ cả thảy: ba từ ấy là 1 người Socrate - và phải chết. Tam-doạn-luận ràng buộc ba từ ấy vào. Đem xét lại tam đoạn luận kề trên :",
+      "1 / Socrate là người",
+      "2/ Người nào cũng phải chết",
+      "3/ Vậy Socrate phải chết",
+      "ta thấy mục đích của tam đoạn luận ấy là làm thế nào đề ràng buộc hai từ Socrate với phải chết vào nhau. Hai từ ấy, Aristote gọi là đại từ với tiểu từ (grand terme-petit terme)-Muốn ràng buộc tiểu từ vào đại từ nhà luận lý tìm ra một từ làm trung gian : ấy là trung từ (moyen"
+    ],
+    "page_176": [
+      "terme). Trong | tam doan luạn kè trên trung-tư ấy là người vậy.",
+      "",
+      "Xét lai tam-doan-luận đã được dân ra làm thi du một lần nữa ta thấy:",
+      "1./ Socrate (đại từ) là người (trung từ)",
+      "2./ Người (trung từ) nào cũng phải",
+      "chết (tiêu từ)",
+      "3./ Socrate (đại từ) phải chết (tiêu từ)",
+      "Nếu gọi đai-từ là A, tiêu từ là C và trung từ là B, thì tam đoạn luận nào",
+      "cũng có thể viết theo kiên mẫu này :",
+      "1./ A là B",
+      "2./ B là C",
+      "3./ A là C",
+      "Trong hai tiền-đề, người ta phải lẫn lượt rằng buộc trung-tư với đại - từ và tiêu-tư. Khi kết luận, người ta chỉ còn phải buộc đại-tư với tiêu từ vào nhau.",
+      "",
+      "Xét kỹ tam đoạn luận, ta thấy công việc cốt yếu là tìm cho được trang-tư. Tam doan luận có giá trị hay không cũng là ở trung từ ấy. Aristote đã không nhận thấy rõ như thế, và không biết rằng trung từ ấy tìm được hay không là do"
+    ],
+    "page_177": [
+      "tài riêng của nhà luận-lý chứ không phải do những qui-tắc câu-nệ của tam đoạn-luận.",
+      "",
+      "Nguyên-tắc làm căn bản cho tất cả những luật lệ trên đây không phải gì lạ: đó chỉ là luật đồng nhất (principe d'identité) — Luật ấy nói: phải tránh những gì bao hàm hai ý mạn-thuẫn — Vì vậy nếu cái toàn-thề đã có tính cách gì, tất những phần tử của toàn-thề ấy cũng phải có tính cách đó. Người đã phải chết thì Socrate cũng phải chết, vì Socrate là một phần tử của loài người. «Cái gì đã đúng khi nói về bộ, thì cũng phải đúng khi nói về loại », nhà luận lý nói như vậy. (Ce qui est vrai du genre est vrai de l'espèce). Nếu ta đã công nhận rằng «bộ » có một tính chất, rồi lại quả quyết rằng «loại » không có tính chất ấy thì ta tự mâu-thuẫn với ta. Tự mâu-thuẫn vì trong «bộ » kể trên, đã có cả «loại » kể dưới rồi. Chẳng hạn nếu đã nói rằng: «Người nào sống phải chết » rồi lại quả quyết «Socrate không chết »; ta sẽ tự"
+    ],
+    "page_178": [
+      "mâu-thuẫn với ta. Tự mâu thuẫn vì trong số a người nào » ở câu trên, đã có cả Socrate, và nói rằng: a Người nào cũng phải có lúc chết » tức là đồng thời nói a Socrate phải có lúc chết \\#",
+      "",
+      "Xem nhe trên đây thì câu kết-luận đúng hay sai là ở hai câu tiền đề. Nếu hai câu tiền đề nhầm lẫn, thì câa kết cũng lầm tuy vẫn hợp với hai tiền đề ấy. Hai tiền đề chỉ là hai a giả thuyết » (hypothèse), vàsự tất nhiên của câu kết chỉ là một sự tất nhiên giả định (nécessité hypothétique)",
+      "",
+      "Ngoài blnh-thức hoàn toan trên đây, tam đoạn luận còn những blnh-thức thấp kém nữa. Nhung trong hinh thức nào cũng vậy, ta thấy tất cả có ba từ. Có thay đồi là chỉ cách xấp đặt ba từ ấy mà thoi. Chẳng hạn, đại từ đáng nhé có tinh cách chung (tất cả mọi người), ta có. thề đồi thành riêng (một vài người) Tiềa từ đáng nhé có tinh cách khẳng định (phải chết), ta có thề đồi thành phủ định (không thể chết được) v."
+    ],
+    "page_179": [
+      "cách thay dời còn nhiêu, chẳng hạn ta còn có thẻe chuyền hoán mỗi mệnh đề hay tim những mệnh đề đối đường. Tất cả họp thành một mớ luật lệ rắc rối và cán-nệ vô cùng. Những luật lệ ấy biến luận lý hình thức thành một trò chơi, một bộ máy không sinh khí, khác nào những quyền sách dạy thế cờ bên ta vậy.",
+      "",
+      "# Blện-luận-pháp ",
+      "",
+      "Tam-đoạn-luận không những chỉ có mục đích là đi tìm những gì tất nhiên, mà còn dám vào trong phạm vi những sự vật mới khả năng thôi nữa. Khi dem luận lý áp dụng vào đời sống hàng ngày, bàn cãi với nhau, khi biện-luận ít khi ta đến những kết quả tất nhiên. Có nhiêu vấn đề chỉ có thể ở trong phạm vi khả năng mà thôi.",
+      "",
+      "Khi ấy, những tiền đề bao giờ cũng chỉ là những giả thuyết, và những câu kết bao giờ cũng chỉ có tính cách a tất nhiên giả định s.",
+      "",
+      "Đã không áp dụng được những nguyêl lắc tất nhiên và nhất định, ta phải biết biến"
+    ],
+    "page_180": [
+      "hóa. «Khi biện luận về những vật bấđ̣̣ định, thì cũng phải dùng một nguyêatắc bất định. « Những phương pháp thực hành để biện luận, Aristote có đem chỉ dẫn rất nhiều. Ơng không quên cả đến những cách cãi lý vớ người khác, những cách tránh cho khỏi bị mâu-thuẫn: ông day ta những cách «đánh trông lăng\" và đưa câu hỏi về một con đường khác, ông khuyên ta tự chỉ trích một cách giả dối, để tô ra rằng suy luận rất công bằng, v...v..! Trong những tác phẩm dạy phép biện luận, Aristote đã tô ra rằng ông hiểu biết rất sâu xa tâm lý quần chúng, và biết cả cách « lý-luận với tinh cám» nữa (logique des sentiments).",
+      "",
+      "# Phép qui-nạp (induction). ",
+      "",
+      "Khi dùng tam-doạn-luận để diển dịch, ta không phát minh được điều gì mới ta. Phép luận ba chặng chỉ giúp chúng ta «thảo» câu kết ra khỏi hai tiền-đề mà thôi. Cái chân lý mà câu kết đem phơi bày ra ánh sáng đã nắm sẵn trong hai tiền đề rồi. Tam đoạn luận là một"
+    ],
+    "page_181": [
+      "cuộc phan tiến, phân tích đại từ để tìm ra tiểu từ trong đó. Nhưng khi muốn phát minh ra một điều mới là, khi muốn từ cái biết rời đi đến chổ chưn biết, từ cái riềng đến cái chung từ cái hợp đi đến cái rộng, là phải dùng phớp qui-náp (induction). Phân sự của phép qui nạp là bất đâu? từ những cảm giác và hợp những cảm giác rời rạc lại thành một ý niệm chung. Hoặc do một chất liệu mà dùng trực giác đoan ra cái hình thức tiềm tàng trong đó. Một đấng thì phép qui nạp hợp cả Socrate, Platon, Callias trong ý niệm chung về « người ». Một đấng khác nó lấy riêng Callias ra, và có dùng trực giác, để trứu xuất khỏi Callias ý niệm chung về nhân loại đã sẵn chứa đựng trong cá-nhân đó.",
+      "",
+      "Xem thế, có hai cách qui nạp, và cần đến hai điều kiện mới qui nạp được. Điều kiện thứ nhất là biết nhiều sự vật giống nhau. Điều kiện thứ hai là phân tích được rõ nội dung của sự vật đã được coi là khởi điểm. Mà̂̂́ do một"
+    ],
+    "page_182": [
+      "cuộc nguyệt-thực má tim ra luật chung của mọi cuộc nguyệt thực, trước hết ta phải đã quan sát được nhiều cuộc nguyệt thực đã. Sau, ta còn phải biết rõ một cuộc nguyệt thực ra sao. Nhưng lấy lý ra mà xét, thì chỉ biết có một cuộc nguyệt thực, ta cũng có quyền qui nạp. Duy có một điều là khi ấy, những luật tự nhiên ta qui nạp thấy chỉ áp dụng được cho một cuộc nguyệt thực, chứ không thể là một luật chung.",
+      "",
+      "Vì phép qui nạp cần đến hai điều kiện như thế, nên Aristote phân biệt hai cách qui nạp. Cách thứ nhất là liệt kê những sự vật giống nhau, rồi do đó tông quát rả một kết luận. Trong cách này ta dùng một tam-đoạn-luận:",
+      "",
+      "Ví dụ:",
+      "1/ Giống người, giống ngựa và giống la (trung từ) sống lâu (đại từ).",
+      "2/ Mà người, ngựa với la (trung từ) đều không có mặt (tiểu từ).",
+      "3/ Vậy tất cả những giống vật không có mặt (tiểu từ) đều sống lâu (đại từ)."
+    ],
+    "page_183": [
+      "Nếu đọc ngược tam đoạn luận ấy, ta sẽ thấy một cuộc diễn dịch.",
+      "",
+      "Thử đặt một kiểu mẫu cho phép qui nạp này, ta thấy:",
+      "",
+      "1/ Một vài vật A có tính cách B.",
+      "",
+      "2/ Một vài vật A ấy thuộc về loại C.",
+      "",
+      "3/ Vậy tất cả loại C có tính cách B.",
+      "",
+      "Phân tích tam đoạn luận trên đây, ta thấy qui nạp nghĩa là từ chỗ một vài mà dám quả quyết đến chỗ tất cả. Nguyên tắc nào cho phép ta tông quét như thế? Thực ra, không có nguyên tắc nào cả. Nhưng, ta vẫn dám qui nạp vì ta tin rằng Thiên-nhiên phải vâng theo những luật không thay đổi. Các học giả thời nay gọi đó là chỉ định nguyên tắc (principe du déterminisme).",
+      "",
+      "Nhưng Aristote không nhìn thấy như thế. Ông tưởng rằng sở dĩ ta có thể qui nạp được là vì tam-đoạn-luận có một năng-lực rất lớn trong việc giúp ta đi tìm chân-ly. Lòng tin tưởng ấy không có gì là. Các nhà sáng tạo tự phụ là lề thường."
+    ],
+    "page_184": [
+      "Phép qui-nạp thứ hai có lẽ sâu sắc hơn. Đừng trước một mớ sự vật, muốn qui-tiạp, ta cần dùng trực giác đoán xem những sự vật nào ngẫu nhiên, và những sự vật nào tất nhiên. Phân biệt được hình thức với chất liệu, những sự vật nào bắt buộc phải có với những sự vật không ngờ mà có, ta có thể trông thấy những luật tự nhiên rất rõ ràng.",
+      "",
+      "Nhưng không có qui tắc luận lý nào có thể đưa dài được ta trong công việc ấy. Chỉ một trực giác là khiến ta đoán được cái tất nhiên và phân biệt nó với cái ngẫu hữu. Công việc qui nạp là một công việc của trực giác vì đó là một công việc phát minh. Song muốn đoán được chân lý, ta cần dùng lý trí kiểm điểm hết những sự vật tương tự trước đã. Khi kiểm điểm như vậy, những nhờn giải hay sẽ vạt hiện trong tư tưởng ta.",
+      "",
+      "Phép qui nạp thứ nhất của Aristote sửa soạn cho phép thứ hai. Hiểu như"
+    ],
+    "page_185": [
+      "thế, ta mới biết vì sao phép qui nap, giê̂ mộ địa vì trong yến trong hệ thống luận lý của Aristote.",
+      "",
+      "# Những cơ bản quan niệm (categories) ",
+      "",
+      "Trước khi bước sang nghieß cứu vê̂ khoanboc, ta cũng nên biết rằng dù suy luận, dù diễn dịch, hay qui nap, ta cũng phải đứng trong vòng những \"bộ\" rát rộng Những bộ ấy khác nào những căn bản trên đó thì có thể xây dựng đư mol kiến nhà Dù nghiền cứu về một bản thế nào, một vật nào cũng vậy, ta chỉ có thể tìm ra những tinh chất của vật ấy về mười phương diện Mười phương diện đó là mười cơ bản quaa niệm vậy,",
+      "",
+      "1. Thoạt dằn, ta phải tìm xem vật ấy là gì (quoi), \"Lá gì \" là cơ bản quan niệm thứ nhất. Ngay nay, ta gơ̂ nó là cơ bản quan niệm về bản chất (essence). Vì dụ: người, ngựa.",
+      "",
+      "2. Thứ hai, ta cần biết vật ấy thế nào, nghĩa là có những tinh chât gì :"
+    ],
+    "page_186": [
+      "Ay là cơ bản quan niệm vê phàm (qualité). Vt du: đen, trăng - lê phép v... v. . .",
+      "(3) Thứ bà ta tìm xem vật ấy có bao nhiêu? ấy là cơ bản quan niệm vê lương (quantité): ví dụ cao hai, thước dài ba thước - có hai tay - có bốn chân v... v. . .",
+      "4) Thứ tư, ta cần biết vạt ấy có liên lạc đến gì, liên lạc ra sao: ấy là cơ bản quan niệm về liên quan (relation) ví dụ: to hơn - nhỏ hơn - gấp đội gấp ba.",
+      "ô) Thứ năm, ta tìm xem vạt ấy ở đâu: ấy là cơ bản quan niệm vê khóng gian (espace): - Ví dụ: ở trường học - ở ngoàl phô.",
+      "6) Thứ sáu, ta tìm xem vạt ấy có lúc nào, bao giờ: ấy là cơ bản quan niệm về thời gian (durée) ví dụ: ngày hôm qua.",
+      "7) Thứ bảy, ta tìm xem vạt ấy có vị tri nào (situation): ví dụ: ngời, năm."
+    ],
+    "page_187": [
+      "84/ Thứ tám, ta tìm xem vật ấy có (possession) những gì: ví dụ: đi giay, đội mũ.",
+      "9/ Thứ chín là cơ bản quan niệm về hành động (action): ta tìm xem vật ấy làm những việc gì: ví dụ: chém - dốt, chạy.",
+      "",
+      "10/ Và sau hết, ta chỉ còn có thể tìm xem vật ấy chịu (subir) những hành động nào, bị người ta làm gì. Ví dụ: bị chém, bị dốt.",
+      "",
+      "Cơ bản quan niệm về bản chất hay nguyên chất (essence-substance) giữ địa vị quan trọng hơn cả. Nó đứng riêng hẳn một chỗ. Còn chín cơ bản quan niệm kia chỉ là chín thuộc tính của nó. Trong chín cơ bản quan niệm ấy, thì quan trọng hơn cả là ba phạm trù về phầm, lượng và liên quan. Còn sáu phạm trù sau đều chỉ la những trạng thái của phạm trù liên quan ấy, trừ không gian với thời gian.",
+      "",
+      "Học thuyết của Aristote về những cơ"
+    ],
+    "page_188": [
+      "hản quan, niệm, sạn, này sẽ được Kant, Fichte, Hegel chú ý đặc biệt, và sửa đổi lại cho được đầy đủ hơn và có hệ thống hơn nữa (1).",
+      "nghỉ nhụp nâu o? ni 'cỉdo bư? \\u",
+      "mox mi ai : (aolon) gnộh nnhả ô",
+      "ub iv : lg oội: gnôúc mai yã",
+      "yado 1ôh - módo",
+      "gưt óo nóo ỉdo ai , ồd uca óy \\01",
+      "gaûdu (tidus) nịdo vã táv mox mi",
+      "ig mai ai lóugo id oan gnộh dạsu",
+      "1ôh id módo id': ub i?",
+      "yad 1ãdo nâu ôv mgta anup nãd o?",
+      "nih úlg (ooesladas-ooeoeso) 1ãdo nóvuga",
+      "guoit 'guù ó? ảo non gnọu anup i?",
+      "nmp nãd o: cido nó:) ódo lóm nãd",
+      "ou nûo dail oôud: cido ai ỉdo ai mgta",
+      "idi , yẽ mgta nâupp nãd oo óido gnovi",
+      "ôv úti mạdq: oá ni ốo : ood gnọu anup",
+      "mạdq uca oó? ccup oô.i ố: gnọui mũdq",
+      "iaai gnovi gnôd: ai ỉdo oố: uca úti",
+      "gnôd: úti yẽ anup oôii óti madu: oáo",
+      "mạgiodi lóo anua",
+      "oo gnôd: ôv o!o ai? cio tôyud: ooli",
+      "1.- Xem « Triết học Kant» hay « Siêu hình",
+      "học» (quyền thượng)."
+    ],
+    "page_189": [
+      "# CHƯƠNG II ",
+      "",
+      "## Khoa - học",
+      "",
+      "Phom vi",
+      "Khởi dièm oho mọi diều hiểu biết của chúng ta là cảm giác. Tất cả các khoan học, vi vậy, đều xây dựng trên đó.",
+      "",
+      "Cảm giác đem đến cho ta những sự thật. Vũ tru bên ngoài giông y như vã tru mà nhờ giác quan, ta được biết. Mắt ta trông thấy, tai ta nghe thấy sự vật thế nào thì trong thật tại cũng thế ấy. Những màu sắc, thanh âm, và tất cả các thuộc tính khác của sự vật đều có thật cả. Và có thế nào thì giác quan ta thận nhận dược thế"
+    ],
+    "page_190": [
+      "Tuy hợp với thật tại nhu vậy, những diều ta cảm giác cũng chưa có thể gọi là khoa-học, vì những ý niệm chung, những « loại » chứa tiềm tàng tiong những cảm giác ấy chưa được giải thoát. Làm cho thực hiện những ý niệm chung ấy là công việc tự nhiên của lý - trí. Vì vậy, trong một sinh vật có lý trf, những tiềm thế đó luôn luôn muốn mây ra và thoát ly khỏi phần chất liệu để thực hiện thành hình thức. Khuynh hướng mãnh liệt ấy tạo ra sự tò mò, sự ngạc nhiên. Nên ngạc nhiên đã là bước thứ nhất để đi đến khoa-học. Trái với sự ngạc nhiên là sự xác tín (certitude). Ta chỉ có thể tin chắc khỉ đã biết được những sự vật tất nhiên, những mối liên quan « không thể không có » được",
+      "${ }^{5}$ Trong một vật nào, tất nhiên duy chỉ có những tính gì thuộc về bản chất vật ấy. Còn những ngẫu tĩnh (accident), thì có thể có cũng được má không có cũng được. Nén không có cách gì nghiên cứu vè những ngẫu tính cho được, và khoa-"
+    ],
+    "page_191": [
+      "học cũng vứt bỏ hẳn phần ấy đề chú ý riêng đến phần bản chất.",
+      "",
+      "Bản chất một vật nào là hình thức cao đẳng làm mạc đích cho sự tấn triệu của vật ấy. Hinh thức cao đẳng đó khác nào một kiểu mẫu : nó chính là mục đích nguyên nhân (cause finale) của vật đương thay đổi. Khoa-học, theo Aristote, phải đi tìm những kiểu mẫu ấy mà xây lưng về phía những hình thức còn dở dang và không hoàn toàn. Các nhà thông thái ngày nay, trái lại, đã chứng minh rực rỡ rằng những hình thức không hoàn hảo này dẫn được đến nhiều kết quả thực tươi tốt.",
+      "",
+      "Dấu chứng của sự tất nhiên là tính cách phổ biến. Sự vật nào đã tất nhiên là phải có tính cách chung. Aristote thường coi phổ biến (généralité) với tất nhiên (nécessité) là một. Một kẻ đứng trên mặt trăng, đủ có trông thấy trái đất len vào giữa che mặt mặt trời, cũng chỉ cảm giác được thấy một cuộc nhặt thực, chứ không thể biết cuộc nhặt"
+    ],
+    "page_192": [
+      "thực ấy một cách khoa học, vì không trực giác thấy một bản chất chung. (Aristote nói tất nhiên có lẽ đúng hơn). Vậy, chỉ có cái gì chung là có thể nghiên cứu bằng khoa học (lì n'́y a' de science que du général), và khoa học chỉ chú trọng đến những mục đích nguyên nhân, nghĩa là những bản chất.",
+      "",
+      "Vì có mục đích như thế nên phạm vi của khoa học chỉ có giới hạn. Nó bị hạn chế cả ở phía trên lẫn phía dưới - Phía bên trên thì có những nguyên tắc thực rộng, những cơ bản quan niệm mà nó không thuyết minh nở! - Phía bên dưới thì có chất liệu, vật chất với những tinh chất quá tỉ mỉ, ngẫu hữu, mà nó không thể vào thấu được.",
+      "",
+      "Nhìn lên bên trên, ta thấy khoa học dùng những luật chung dễ giảng nghĩa những sự vật riêng. Nhưng muốn giảng nghĩa những luật chung ấy lại phải viện đến những luật chung khác rộng rãi hơn. Cớ như thế ngược dòng lên mãi phải có một lúc ta dừng lại : khi ấy ta đến"
+    ],
+    "page_193": [
+      "những luật rộng lớn, chung cho tất cả các khoa học. Những luật ấy rút lại đều biến thành luật đồng nhất. Ngoại ra mỗi khoa học còn có một nguyên tắc riêng, nguyên tắc ấy làm căn bản cho tất cả những cuộc phát minh trong khoa học ấy. Nhìn xuống phía dưới, khoa học chạm phải một giới hạn khác: ngẫu tính. Những sự vật do máy rủi, mà có những hành động, động có nghĩa lý gì, những ý muốn luôn thay đổi, tất cả những tình cảnh không hoàn toàn do chất liệu đem vào vũ trụ, khoa học không thể xuống đến nơi.",
+      "",
+      "Khoa học đứng giữa hai giới hạn ấy và nghiên cứu về từng « bộ » của vật chất. Mỗi khoa học chiếm một bộ, nghĩa là một trạng thái của thật lại. Bộ ấy có giới hạn, và hai thái cực làm giới hạn cho nó đều có thể nghiên cứu được. Ví dụ, nhà khoa học nào đã biết rõ cái nóng tất cũng biết rõ cái lành — Người đã hiểu rõ lẽ thiện tất cũng biết rõ lẽ ác. Trong cùng một bộ, thì có thể từ khá niệm nọ qua khái",
+      "",
+      "189"
+    ],
+    "page_194": [
+      "niệm kia, vi những khái niệm ấy có liên lạc với nhau khác nào như chất liệu với bình thức. Trái lại, giữa hai bộ khác nhau không thể có giây liên lạc nào, và ta có tìm cách ràng buộc hai bộ ấy cũng chỉ đến những kết quả không hiểu được.",
+      "",
+      "Vi dụ, trong phạm vi toán học (Arithmétique), nghĩa là trong phạm vi những con số, ta có thể tìm thấy rất nhiều luật tất nhiên và phổ biến. Trong phạm vi những hình có chiếm một khoảng không nghĩa là phạm vi của kỷ hà học (Géométrie), ta cũng đến những kết quả rực rỡ không kém. Nhưng nếu đem « bộ » của toán học trộn lẫn với « bộ » của kỷ hà học, nếu đem những con số nghiên cứu về những hình vuông hay tròn, ta đến những kết quả không còn tính cách chắc chắn như trước nữa : ví dụ : đường chéo góc (diagonale) trong một hình vuông, bằng đường cạnh (côté) nhân với một con số không thể định đúng được - Một số lượng không thể dùng để diễn giải một",
+      "190"
+    ],
+    "page_195": [
+      "tinh chất. Aristote phân biệt hai phạm vi ấy rất cặn kẽ (1).",
+      "",
+      "# Phân loại ",
+      "",
+      "Vi những lẽ trên đây, ta phải phân biệt nhiều loại khoa học và định rõ phạm vi của mỗi loại ấy.",
+      "",
+      "Muốn xếp đặt các khoa học thành môn bẹ cho được rõ ràng, trước hết Aristote nhận xét rằng muốn có hiểu biết, muốn có khoa học, bao giờ cũng phải có hai bên : một chủ thể (sujet) và một kháchthê (objet). Chủ thê biết và khách thê được biết. Aristote đứng về phía chủ thê mà xếp đặt, vì ông cho rằng ta chưa biết rõ khách - thê, nghĩa là vật chất ra sao.",
+      "",
+      "Khi đứng về phía tư tưởng như thế, nhà triết học hy lạp nhận thấy rằng chúng",
+      "(1) Descartes về thế kỷ thứ 17 , đã chứng tỏ rằng điều quyết đoán ấy của Aristote là sai lầm. Có thê đem những con số dùng trong kỷ hà học và ngược lại : khoa học mới ấy Descartes gọi là giải tích kỷ hà học (Géométrie analytique)"
+    ],
+    "page_196": [
+      "ta có the bọst dông theo ba phường diện: là biết, hành động, và sáng tạo. Vì vậy, các khoa học có thể xếp thành ba loại, hợp với ba hành động ấy là loại khoa học lý thuyết (sciences théoriques) loại khoa học thực hành (sciences pratiques) và loại khoa học sáng tạo (sciences poétiques). Mô loại ấy lại gồm ba khoa học lớn.",
+      "",
+      "Những khoa lý thuyết học gồm có để nhất triết học (philosophie première) hay siêu hình học, số học (mathéméthiques) và để nhị triết học (philosophie seconde) hay vật-ly học. Siêu hình học nghiên cứu về những nguyên tắc đầu tiên (đề nhất) của sự vật. Phạm vi của nó là những gị c tất nhiên tuyệt đối vì Mực đích cao nhất của nó là Thượng đế. Phần nghiên cứu về Thượng đế mang tên là «thần học». Số học nghiên cứu về số tượng (quantité). Những luật của số học cơn rất gần với những luật tất nhiên vì tách khỏi sự vận động của vật chất. Số học chia làm hai phần: toán học (arithmétique) nghiên cứu"
+    ],
+    "page_197": [
+      "về những số lượng gián-đoạn (discont) nue) còn kỷ hà học (Géométrie) thì có gắng nghiền-cứu về những số lượng liên tục (quantité continue). Vật lý học (physique) còn có tên là đệ nhị triết học (chư khơng phai đệ tam triết học, vi số học không nghiền cứu về thật tại mà chỉ tìm phân tích những số lương trứu tượng) và nghiền cứu về thiền nhiên, nghĩa là những sự vật, bản thể nào đủ năng lực để a tự vận động ». Những luật của vật lý học đã kém tất nhiên, vì thấm nhuần mợt ít chất liệu.",
+      "",
+      "Những khoa học thực hành có mục dich là nghiền cứu về những hành động của người ta, và tim những qui tắc dễ dỉu dắt những hành động ấy. Loại này cũng gồm có ba khoa học : là chinh trị học, kinh tế học, và luán lý học. Luán lý học (étatque) thấp kém nhất vì nó nghiền cứu về những luật hành động của cá nhân. Những luật ấy chỉ có thể là những luật trừu tượng, xa sự thật vì nó lách cá nhân ra khỏi xã hội"
+    ],
+    "page_198": [
+      "là hoàn cảnh tự nhiên của cả nhân. Kinh tế học (économie), nghiên cứu về gia đình : Gia đình là một đề nghiên cứu cao hơn cả nhân, vì thật hơn, cụ thể hơn cả nhân. Còn chính trị học (politique) thì nghiên cứu về thị xã (cité), tức là hình thức cao nhất, lấy gia đình với cả nhân làm chất liệu (1).",
+      "",
+      "Sau hết những khoa học sáng tạo (sciences poétiques) có mục đích là đặt rõ những qui tắc cho nghệ thuật, theo nghĩa rộng của chữ ấy. Phạm vi của nghệ thuật là sự thay đổi, sự triển diễn, sự ngẫu hữu, nghệ thuật hoạt động trong vòng vạt chất, nghĩa là trong những gì «có thể có cũng được mà không có cũng được ». Loại khoa học này cũng gồm ba khoa như những loại trên. Hoàn toàn nhất là biện luận học (dialectique), hay là phép luận lý về những cái khỉ năng. Thứ đến Tu-tư-học (rhétorique) hay là nghệ thuật",
+      "(1) Các nhà xã hội học ngày nay thường thường đảo ngược những giá trị trên đây của Aristote"
+    ],
+    "page_199": [
+      "làm cho người khác tin mình, khi không dùng được một luận lý chắc chắn - và sau cùng đến Thi ca học (poétique) hay là nghệ thuật làm cho người khác vui thich bằng cách bắt chước, cả về phương diện tinh cảm lẫn trí tuệ.",
+      "",
+      "Ta không thấy Aristote nhắc đến luận-lý-học, có lẽ vì ông cho rằng khoa học ấy nghiên cứu về những hình thức chung cho tư tưởng trong tất cả các khoa học khác.",
+      "",
+      "Các khoa học trên đây có liên lạc với nhau khác nào chất liệu với hình thức. Cao hơn cả là loại khoa học lý-thuyết vì hai loại kia làm chất liệu cho nó. Trong mỗi loại, những mốt liên quan cũng tương tự : Đệ nhị triết học tức là chất liệu của đệ nhất triết học và chính trị học làm hình thức cho luân-lý học. Ở đâu, ta cũng thấy những thứ bực, ở đâu ta cũng vẫn thấy một trật tự ấy.",
+      "",
+      "# Giá trị ",
+      "",
+      "Aristote, khi bàn đến giá trị của khoahọc, tỏ ra là một nhà triết học độc đoán"
+    ],
+    "page_200": [
+      "(đogmatiste). Độc đoán khơng phải nghĩa là chuyên chế đâu. Độc đoán, trong triết học, nghĩa là tin ở khoa học, tin ở giá trị của tri thức loài người.",
+      "",
+      "Vay thi theo Aristote, tu tuởng có the tìm đến chân-ly được, khoa học có the biết được vật the, và không phải chỉ biết một bề ngoài của sự vật, mà biết được tạn vật tu-thân (la chose en soi). Khi biết, tri tuệ chúng ta đồng hóa vớ ngoại vật, và ngoại vật ấy thế nào thì cứ nguyen như thế nháp, vào trí tuệ.",
+      "",
+      "Nhung độc đoán chủ nghĩa ấy khơng có tinh cách tuyệt đối : Kboa, học tim được chân lý nhưng khơng tìm được tất cả các chân lý trong vũ trụ. Trong lơng sự vạt, có những phần phản lý trí, những phần trí óc chúng ta khơng hiểu nỗi. Mọt iri tuệ siêu việt hơn trí tuệ chúng ta cũng sẽ khơng hiểu được phần phi-ly ấy. Không hiểu được và khơng biết đến nữa. Nen theo Aristote, Thượng đế khơng bề « biết » vũ trụ.",
+      "",
+      "Quan niệm của khoa-học ngày nay"
+    ],
+    "page_201": [
+      "khác hẳn. Khoa học theo Aristote, có phận sự là đi tìm \"bản\" chất, khoa học ngày nay trải lại chỉ nghiên cứu về những mồ liên quan (rapports). Trước 'một vật gì, Aristote lấy làm hài lòng khi biết được bản chất với những ngẫu tinh của nó. Nhà thông thái ngày nay, trái lại, tự cho rằng không biết được 'bản chất, với nguyên chất của sự vật, mà chỉ đi tìm những cách sự vật phối hợp với nhau, nghĩa là những mối liên quan chi chít nó rằng buộc những hiện-tượng. Aristote phân biệt cái bản chất tất nhiên với những thuộc tính ngẫu hữu. Nhà thông thái ngày nay trái lại chỉ biết đến những luật làm điều kiện cho một hiện tượng nào, những điều kiện ấy đều có tính cách thiết yếu, hay nói theo Aristote, tất nhiên. Nhuag không phải khoa-học ngày nay tách khỏi khoa học Aristote: nó chỉ tiếp tục và sửa đổi lại những quan niệm xưa mà thôi. Vũ trụ, trong con mắt nhà thông thái ngày nay, là một tấn kịch không xếp đặt đẹp đẽ như xưa,"
+    ],
+    "page_202": [
+      "Nhưng lâu bền hơn. Tuy nhiên, chúng ta cũng nên, những nhân, khi nghĩ rằng từ cái công trình của Aristote, đến trình độ ngày nay, nhân loại đã phải dùng đến hơn hai mươi thế kỷ, trong khi nhà triết học hy lập xây dựng sự nghiệp của ông trong một đời người, nghĩa là có vài chục năm.",
+      "",
+      "Tôi đã tìm ra một văn bản về văn hóa, văn hóa học, văn hóa học, văn hóa học, văn hóa học, văn hóa học, văn hóa học, văn hóa học, văn hóa học, văn hóa học, văn hóa học, văn hóa học, văn hóa học, văn hóa học, văn hóa học, văn hóa học, văn hóa học, văn hóa học, văn hóa học, văn hóa học, văn hóa học, văn hóa học, văn hóa học, văn hóa học, văn hóa học, văn hóa học, văn hóa học, văn hóa học, văn hóa học, văn hóa học, văn hóa học, văn hóa học, văn hóa học, văn hóa học, văn hóa học, văn hóa học, văn hóa học, văn hóa học, văn hóa học, văn hóa học, văn hóa học, văn hóa học, văn hóa học, văn hóa học, văn hóa học, văn hóa học, văn hóa học, văn hóa học, văn hóa học, văn hóa học, văn hóa học"
+    ],
+    "page_203": [
+      "# PHÂN THƯ TU ",
+      "",
+      "## TINH-THÂN <br> TRIÊT-HỌC ARISTOTE"
+    ],
+    "page_204": [
+      "# ![img-0.jpeg](img-0.jpeg) ",
+      "",
+      "## WÁHIT-HUIT",
+      "",
+      "STOTEIRA OOK-TAITT"
+    ],
+    "page_205": [
+      "# Triết học Aristote trong lịch-sử ",
+      "",
+      "Cái địa vị độc nhất mà triết học Aristote chiếm được trong lịch sử dạy ta được nhiều điều hay không kém gì nội dung nên triết học ấy. Từ thế kỷ thứ IV trước Thiền chúa cho đến ngày nay, trải hơn hai ngàn năm, có lẽ không lúc nào trong các trường trong học giới, người ta quên những học thuyết của nhà hiền triết thành Stagire.",
+      "",
+      "Suốt thời kỳ thượng cổ, tại Hy lạp, tại La mã, các học giả luôn luôn đem bình giảng những tác phầm của Aristote. Năm 529, hoàng đế Justinien xuống"
+    ],
+    "page_206": [
+      "chiêu đóng cửa trương học Aṭhènes, và Damascius, người món đồ cuối cùng của Aristote phảl lánh sang ngoại quốc.",
+      "",
+      "Sau kbl đế quốc la mã sụp đồ, và đến thế kỷ thứ mười hai, Âu châu chỉ còn biết đến bộ Organum, tức là bộ Luận-lý triết học của Aristote. Nhưng các dịch giả đóng phương đem truyền bá các tác phẩm khác của ông sang Ả rập, và người Ả rập lại dịch lại những tác phẩm ấy một lần thứ ba! sang tiếng la tinh.",
+      "",
+      "Sự truyền bá tư tưởng ấy làm cho Giáo đường lo ngại. Người ta đã tìm thấy hai mươi nhằm bản án kết tờ tư tưởng Aristote, do các Cha tuyền bố. Thế rồi đột nhiên, nhờ một giáo sĩ triết gia, Saint Thomas d'Aquin, triết học Aristote trở nên triết học chính thức của nhà thờ, sau khi đã bị sửa đổi cho hợp với những giáo lý.",
+      "",
+      "Sang thời ký phục hung (renaissance)"
+    ],
+    "page_207": [
+      "phong trào khảo cổ làm sống lại nền triết học ấy mãnh liệt hơn nữa. Năm 1624, tòa án Tối cao (Parlement) thành Paris, cấm không được cãi lại những tác giả cổ điền nào đã được công nhận, và để dọa dùng những hình phạt \"hai đến tĩnh mạng\" để trứng trị những kẻ nào trái lệnh ấy.",
+      "",
+      "Descartes tưởng đã đánh bại được những sự hành hạ vô lý và buồn cười ấy. Nhưng đến năm 1691, Đại học đường Paris vẫn còn ra lệnh cấm không được \"chống lại Aristote\".",
+      "",
+      "Sang thế kỷ mười tám, tư tưởng cách mạng vut nỗi. Triết học rời những phạm vi cũ, bước sang những nhời glải mới. Voltaire-Rousseau-Diderot ở Pháp và các triết gia chiến sĩ làm người ta quên bẵng Aristote trong một hồi. Từ thế kỷ thứ mười chín, nền triết học ấy lại được nghiên cứu đến, và nghiên cứu kỹ càng hơn cả trong những thời kỳ nó còn được độc tôn. Các nhà triết học Đức, rồi các nhà"
+    ],
+    "page_208": [
+      "triết học duy linh (spiritualiste) Pháp dưa nhau trở về với Aristote. Cái triết học chính thức giảng dạy trong các học đường, cái duy linh chủ nghĩa đương thời, từ Leibniz qua Victor Cousin chịu một ảnh hưởng rất sâu xa của tinh thần triết học Aristote. Và nền triết học ấy, sở dĩ được hoan nghênh như thế, không phải vì những nhờ giải của nó xác đáng mà chính vì nó có một tinh thần đặc biệt. Tinh thần ấy, ta cần biết cho thật rõ.",
+      "",
+      "Tinh-thân triết học Aristote",
+      "",
+      "Triết học Aristote, cũng như tất cả các nền tư tưởng lớn lao trong mọi thời đại, đáng để ý về hai phương diện: một là nó chung đúc được tất cả những tinh-hoa của thời đại nó, hai là nó chứa đựng những mầm mống có sức phát triển rất mạnh mẽ. Ta hãy cố tìm trong gia-tài ấy những gì còn có một sức sống đáng để ý nhất.",
+      "",
+      "Triết học, theo Aristote, là toàn thể các điều hiểu biết của nhân loại, ấy là 204"
+    ],
+    "page_209": [
+      "khoa học chắc chắn nhất và cao nhất. Vũ trụ là một trật - tự điều hòa thật đẹp đẽ, một trật tự xếp đặt theo một mực - đích bất dịch, một sự cố gắng từ chỗ thấp đến chỗ cao hơn, một cuộc tiến triển của chất liệu đề đi đến hình thức, một cái thang gồm nhiều thứ bực hoàn toàn không đều nhau, đi từ cái vô-bạn là cái gần như hư vô cho đến Thượng đế là bản thể hoàn toàn nhất, tức là tinhthần thuần túy. Trong vũ trụ ấy, trừ những sự ngẫu nhiên không thể đoán trước được, mọi sự vật đều có thể coi như một bước tiến từ tiềm thế đến hiền thế, từ sự triển diễn (devenir) đến bản thể (être), từ chỗ động đến chỗ tĩnh, từ chỗ khả năng đến chỗ thật tại, từ chỗ phi-lý đến chỗ hữu lý, từ chỗ bất định trừu tưởng, đến một cá tính cụ-thề.",
+      "",
+      "Trí óc chúng ta sở dĩ biết được rõ sự vật như vậy, là vì tư-duy với sự vật bên ngoài đã đồng hóa với nhau, khi chúng ta đem tư duy vào sự vật. Nhưng trí-thức chúng ta có một giới hạn, vì vật chất"
+    ],
+    "page_210": [
+      "cuờng lại với tu-duy. Giới hạn ấy là những sự vật ngẫu nhiên vậy.",
+      "",
+      "Vũ tru quan của Aristote là như thế. Nó dẫn đến một cuộc phê bình những chủ nghĩa quá khích hợa.",
+      "",
+      "Không thể công-nhận những chủ nghĩa cơ-giới duy vật (mécanisme matérialiste) theo tôi Démocrite (1) : giảng nghĩa vũ trụ như vậy là đem cái thấp để chứng thực cái cao. Cho nên không có nguyên-tử (atome) mà cũng không có khoáng nào trống rỗng (vide).",
+      "",
+      "Không thể công nhận một Thế giới ýniệm ở bên trên và bên ngoài sự vật như Platon, đã tưởng cũng không có những bản-thế bất khả tri như sau này Kant sẽ nói; độc đoán chủ nghĩa của Aristote đã «độc đoán» loại kết mọ̣i",
+      "",
+      "[^0]",
+      "[^0]:    1. - Démocrite chủ trương rằng mọi vật trong vũ trụ đều do những phần tử rất nhỏ họp nên: những phần tử ấy gọi là những nguyên-tử (atome). Những nguyên-tử phối hợp với nhau thành tất cả mọi vật, tất cả mọi sự trong trời đất."
+    ],
+    "page_211": [
+      "cuộc blab luận về tri-thức, và cũng loal hết những chủ nghĩa duy tâm. Tu tuởng đã tiềm tàng sẵn trong sự vật và phải nắm trong sự vật. Tu tuởng chinh là sự vạt ấy.",
+      "",
+      "Cũng khơng thể công nhận một chủ nghĩa hoài-nghỉ nào (ngày nay ta sẽ nói: một chả nghĩa thực chứng hay thực nghiệm (positivisme) nào): nói rằng khơng nên triết lý, tức là đâ triết lý rồi vay.",
+      "",
+      "Cái chia khóa đề đi tìm chán-lý, khơng phải là cái tinh cảm của những chủ nghĩa huyền-bi, cũng không phải sự hoạt động như nhói các triết gia trọng tự do ý chí, mà là trí-tuệ, nghĩa là lý trí. Lý trí ấy đem cái cĩnh đề giảng nghĩa cái động, đem cái đã tru hình và bất dịch đề giảng nghĩa sự tiến hóa và sự vận động, đem một mục đích đã xong đề giảng nghĩa cái còn đương triền diễn. Không thể công nhận sự tiện ${ }^{2}$ hóa, sự thay đổi như Héraclite: sự thay đổi chỉ có trong lý tưởng mà thôi. Cũng khơng"
+    ],
+    "page_212": [
+      "thè̉ công nhạ̣n một sự tiến hóa cơ giới, nhur Darwin sau này, hay một sự tiến hóa tự do theo lối Bergson chẳng hạn. Trong một vận động, không phải động thè̉ tạo ra được mục dich của nó và vận động của nó. Nhưng ngược lại, chính cái mục dich bất dịch, cái mục-dich tĩnh là sức mạnh hoạt động đã sáng tạo ra vận-động.",
+      "",
+      "Sau hết, tri-tuệ không hoan toàn tiénthién, cũng không hoán toàn do kinh nghiệm cấu tạo nên. Cả hai phần đều thiết yếu cho tri thức",
+      "",
+      "Vũ tru là một sự cố gắng của vật chất vô hình dề lên đến hình thức cao đẳng. Người ta cũng là một thứ bực gồm nhiều linh hồn, những linh hồn càng cao lại càng vượt được khỏi vật chất. Khoa học, trong phạm vi nào cũng vậy, chỉ là một cuộc xác định thứ bực ấy; tam đoạn luận, phép định nghta, phép đặt mệnh đề, sự phê phán, và phép qui nạp chi là những mảnh gồm có một, hai hay ba từ cắt ở thứ"
+    ],
+    "page_213": [
+      "bực ấy ra. Và luân-lý học chỉ là nghệthuật xếp đặt mỗi cá nhân hay mỗi đoàn thể trong cái thứ bực giá-trị của xã hội.",
+      "",
+      "Như thế vũ trụ quan của Aristote đồng thời cung phung cho ta phương pháp nghiên-cứu về tất cả các loại sự vật.",
+      "",
+      "Phương pháp ấy trước hết khuyên chúng ta nên kính trọng những đặc tính của mỗi loại sự vật - Nó từ chối không chịu đem tất cả kết hợp thành một nguyên tắc độc nhất, một hệ thống chắc chắn nhưng câu nệ. Nó tin rằng chỉ có bộ đỏi «chất liệu - hình thức» và những bộ đồi đồng nghĩa là đủ mềm mại, dễ áp dụng vào mọi sự vật mà không làm sai lạc mất đặc tính của mỗi cá thể.",
+      "",
+      "Phương pháp ấy khiến Aristote trọng những nguyên tắc chung, ngang với những sự vật lẻ lol. Khởi điểm của tất cả các cuộc tìm tòi trong học thuyết ông là những giới thuyết do ngôn ngữ khêu gọi ra, và những quan-niệm thông thường đã được định rõ thêm nhờ một cuộc nghiên cứu về lịch sử, vấn đề ông đang xét. Đặt vấn"
+    ],
+    "page_214": [
+      "để như thế rởi, cuộc bàn cãi bất đâu. Và sao cuộc biện luận, đã loại hết những ngẫu tinh nào che lấp vấn đề đi, nhà triết học đã nhân thấy nhớ giải, và đem nó ra ánh sáng.",
+      "",
+      "Phương pháp thiết thực của Aristote là như vậy. Nhờ nó ông đã tổ chưc được phẫu cốt yếu của triết lý : siêu hình học, sáng lập ra luận-lý hình-thức, - phác qua một vài khoa học rất phức tạp như sinh vật học và xã hội học, - và đặt rõ nhiều vấn đề bất diệt mà trong cuốn sách này, ta vừa mới xét qua.",
+      "",
+      "Nhưng triết học Aristote sống lâu trong trí óc loài người, không phải vì tất cả những nhờn giải ấy, mà vì những con đường mà nó đã bắt đầu mở tay không dông lại được, những vấn đề mà nó đã đem trình bày, tuy không giải quyết được. Triết học Aristote sở dĩ được hoan nghêoh như trè̀a kia ta đã thấy là vì nó có công lớn là đã dọn đường cho tất cả các nền triết học đi sau. Không những đặt rõ những vấn đề cựu truyện của triết"
+    ],
+    "page_215": [
+      "học, nó còn hé mở nhiều nhờ giải khác nhau. Mà mỗi nhờ giải dở đang ấy sau ơu này sẽ làm bước đầu cho ícả một chữa nghĩa. Người ta có khi chả họ tiếng Arisote kém nhất thì không ngờ chỉ là chớ kém ấy dám đến nhiều kết quản vạt tớ dẹp?",
+      "",
+      "Chăng hẳn vạt chất khi tili coi như cái bư vô thứu tì̀ụy, vâ thoải bát định, khi lại được côi như một sức mạnh thật lại, tiềm tàng, một sự cố gắng hân hoi.",
+      "",
+      "Hình thức khi thi trình bày như đã chữa sẵn trong vật chất, khi lại như cao hóa vật chất ấy, tùy theo vấn đề. Và Thượng đế, là một dáng có cả tinh hay không, và tiềm tàng trong vũ trụ hay ở siêu việt bên ngoài vũ trụ ấy, ta cũng không biết rõ-Linh-hồn có liên lạc một thiết với thân-thế hay thoát ra ngoài thân thể ấy, và trong linh-hồn phân tinh lý phân trí tủệ có tách khỏi phần cảm giác hay không. Aristote cũng không phân bột được minh hạch. Sự tự do của ý chì, và bản ngã loài người là odo thinh thức hay phân chất liệu cấp tạo nên,"
+    ],
+    "page_216": [
+      "Đó là bủn chất con người hay chi là những ngẫu tính? Và khoa học cần nghiên cứu về những sự vật chung hay những sự vật riêng biệt? Nó cần đề ý đến cái trừu tượng hay cái cụ thể? Và làm thế nào để dung hòa được nguyên nhân cơ giới với nguyên nhân mục đích khi hai sức mạnh ấy mâu thuẫn với nhau? Giá trị luận lý ở một độ trung dung hay là ở một độ chỉ phúc? ở đức hạnh hay ở sự nhập định? Ở tinh giao kết xã hội hay ở sự giáo dục riêng biệt? Và nghệ thuật là bất chước hay phóng đại sự thật?",
+      "",
+      "Tất cả những vấn đề ấy còn được người ta bàn cãi đến mãi mãi. Và chính vì thế nên triết học Aristote sẽ còn sống vô cùng.",
+      "",
+      "Song ta không nên nhầm lẫn về giá trị nên triết học ấy. Nó có đáng để ý không phải vì những nhớ giải tĩnh, câu nệ, và đã quá thời của người xưa. Thông những nhớ giải ấy, các triết giả thời trung cổ đã làm chậm trễ bước tiến của tư tưởng."
+    ],
+    "page_217": [
+      "rất nhiều. Ta khơng nên tái pham lô̂i ấy.",
+      "Không, làm cho triết học Aristote sống vĩnh viễn, không phải những nhờr giải non nớt của nó, mà là những vấn đề khó giải quyết, những câu hỏi đáng băn khoăn, mà nó đã tìm ra và đặt rõ cho tất cả các thế hệ thời sau.",
+      "",
+      "# HẾT"
+    ],
+    "page_218": [
+      "# T ",
+      "",
+      "![img-0.jpeg](img-0.jpeg)"
+    ],
+    "page_219": [
+      "# SÁCH THAM KHÃO ",
+      "",
+      "Supiayoc si a noloubona! noranith",
+      "Tac phàm eût Aristote 9101010 aita",
+      "moth (Eurtres d'Aristote: bân dẹt unan ${ }^{\\text {a }}$ Bar-",
+      "thelemy Said Milaire - 35 cnon ${ }^{\\text {u }}$ Paris",
+      "8918871818 coing 9110911 a.i : n1001",
+      "910101 he maris of Aristoth : abin djeyohing",
+      "Anh cù̀ smith. Oxford - 1812 (1891A)",
+      "-ait Aristote, in trich lunado A. 1 Banre xêp đặt",
+      "Paris 1912.(anam7911) 9101990.1 a nol",
+      "19 Aristolle: On the Constitution of Athens.",
+      "-09 Kenyon, Oxford, 1891 9b nolion ai",
+      "La République athénienne: Th, Reinsch",
+      "Paris 1892.b nolion a.i 73110501.1",
+      "(791 Ethique 4. Négomague, 91 bân: diẹbischa",
+      "92 Rodier.",
+      "Sách khảo cứu về Aristote ${ }^{\\text {loteraA'b }}$",
+      "(1) bnolti) 910191A : 911011A",
+      "",
+      "Bamelin: Le système d'Aristote (Alcan)",
+      "9110001114 ai ob 91101011 : 1311311",
+      "Grote: Aristolle",
+      "91100001114 ai ob 91101011 : 1311311",
+      "Boutroux: Aristote (Alcan)",
+      "-1dq ai 90 911010111 z3h1050 9 101101",
+      "Lalo: Aristote (Mellotlée)",
+      ".91110001",
+      "Piat: Aristote (Alcan)",
+      "883 mhúq 981 3011101 al 1001 7 ob 31081",
+      "Gamperz: Les pe seurs de la Grèce",
+      "1011011 at allomah - oin.i - 1008110781",
+      "bân dịch của nhà Alcan"
+    ],
+    "page_220": [
+      "Colle: La métaphysique d'Aristote (Université de Louvain) 1032",
+      "Mansion : Introduction à la physique Aristolélicienne (Louvain) mîde aM",
+      "188 Defourny: Aristote et l'édification (Louvain) de - sricil18 1. 188 2199901",
+      "Robin: La théorie platonicienne des",
+      "181 Idées et des Nomures (un'après Aristote",
+      "(AIcan) 2181 - 110120 . 11101010001014",
+      "181 Duhem: Le système du monde de Platon à Copernic (Hermann) 2141214 ans (Tavoudou) Le problème ${ }^{0}$ du devenir et la notion de la matière jusqu'à théologhiasie (Alcun) 11151115 supidougaii 111",
+      "",
+      "Chevalier: La Notion du \"Nécéssaire",
+      "1816 hés Aristote et ses prédécesseurs (Rey)",
+      "Ravaisson : Essai sur la Métaphysique",
+      "d'Aristote (Vrin) sv urin oérd1 1088",
+      "Alfaric: Aristote (Blond)",
+      "(189) 10101010101014",
+      "Weber: Histoire de la philosophie",
+      "Bréhier: Histoire de la philosophie.",
+      "Janet et Scailles: Histoire de la philosophie.",
+      "losopule.",
+      "Dang de y ahât la ahung tàc phâm càa",
+      "Ravaisson - Lalo - Hamelin va Rodier"
+    ],
+    "page_221": [
+      "# 10.1011 ",
+      "",
+      "## : 3TO7313A",
+      "",
+      "## $3^{2} 11$",
+      "",
+      "## : 3ada v́ut aäat",
+      "",
+      "## 3011 T3̆IAT HXíH-U3̆Ie",
+      "",
+      "![img-0.jpeg](img-0.jpeg)",
+      "![img-1.jpeg](img-1.jpeg)",
+      "![img-2.jpeg](img-2.jpeg)",
+      "![img-3.jpeg](img-3.jpeg)",
+      "![img-4.jpeg](img-4.jpeg)"
+    ],
+    "page_222": [
+      "# MỤC LUC ",
+      "",
+      "ARISTOTE:",
+      "irang",
+      "Tiêu sủ ..... 7",
+      "tac phâm ..... 11",
+      "Phân thứ nhất :",
+      "SIÊU-HINH TRIẾ1-HỌC ..... 19",
+      "Chương I: Bón nguyên nhân của sựvật. Bân thế. ..... 21",
+      "Chất liệu với hinb thức. ..... 22",
+      "Đơng lực với mục đích. ..... 27",
+      "Tiên thế với hiền thế - Bân thế ..... 29",
+      "Chương II: Từ sự dời thay đến",
+      "Thượng đế ..... 33",
+      "Bón sự thay đởi trong tự nhiên ..... 33",
+      "Đợng lực dầu tiên ..... 39",
+      "Thượng đế ..... 41"
+    ],
+    "page_223": [
+      "![img-0.jpeg](img-0.jpeg)",
+      "",
+      "219",
+      "Chương III: Vũ trụ gnộn inod",
+      "thứ niệm về vô hạn 107 18um 3ugM 67",
+      "Không gian thực, dạ mạ 50",
+      "đề Thế giới, mỹ cagithh 719 7A3.1 53",
+      "rại Vót 5441 dold 71 cộn : 1 quoun 58",
+      "76 Những loài sinh vơho nãy gnũd 61",
+      "63 Những, hật tự, nhiệm 105in ind 68",
+      "Chương IV: Linh thần 107 6b duệM 75",
+      "69 Linh hồn gnơ 10 75",
+      "70 Sinh, hồn mạ 107 doin nộib gòd 78",
+      "71 Giác hồn gòd 78 80",
+      "72 Trí tuệ gòd 87",
+      "73 101 108 Phân thứ, hạ 107 gnũd 108",
+      "74 NHÂN SINH TRIẾT HỌC nơ 109",
+      "Chương I: Luân-lý 17 mạd 999",
+      "75 Đức hạnh với đạo trung dạng 101",
+      "76 Một vài đức tính đáng để ý 7 đạo 0",
+      "công bằng, tinh, hạnh thăng 105",
+      "Hạnh phác 109",
+      "77 131H 131H 131H 109",
+      "Chương II: Chinh, 115",
+      "78 Cách tổ chức xã hội 115",
+      "79 Cách tổ chức chính trị và giáo dục 122",
+      "Chương VII: Nghệ thuật 131",
+      "80 Địa vị của trí tuệ trong nghệ thuật 132"
+    ],
+    "page_224": [
+      "Địa vị của tỉnh cấm và của sự hoạt động",
+      "78 Nghệ thuật với luân lý",
+      "Phân thức ba",
+      "LUẬN LÝ TRIỂT HỌC",
+      "Chương I: Luận lý hình thức",
+      "Những căn bản",
+      "Khái niệm với phép định nghĩa",
+      "Mệnh đề với phép hoàn vị và độ",
+      "đương",
+      "Phép diễn dịch với tam đoạn luận",
+      "Biện luận pháp",
+      "Phép qui nạp",
+      "Những cơ bản quan niệm",
+      "Thương đế Thích hợp",
+      "Phạm vi",
+      "Pháp loại, oph 107, 108",
+      "Giá trị 50,000",
+      "Phân thức từ",
+      "TINH THẦN TRIỂT HỌC",
+      "ARISTOTE",
+      "Triết học Aristote trong lịch sử",
+      "Tỉnh thần triết học Aristote",
+      "Sách tham khảo"
+    ],
+    "page_225": [
+      "![img-0.jpeg](img-0.jpeg)",
+      "",
+      "# Đang in ",
+      "",
+      "## TRIÊT HỌC NHAPMON",
+      "",
+      "của NGUYÊN ĐÌNH THI",
+      "Nhtrng thia khóa quý bán đề còi",
+      "mở mọi vấn đề triết học.",
+      "",
+      "- Nhưng bi quyết đề phước vào",
+      "nên tư-tưởng biệc đat ủb ooh",
+      "- Những sự thật không ní ngờ mà",
+      "xiải quyết dễ dàngnhững vấn đề triết",
+      "iý, xã-hộf, tâm lý và khoá học.",
+      "- Một cuốn nhập môn cho cả triết",
+      "học, tư nhiên, học, xã hội học.",
+      "- Một cuốn sách quý cần có trong",
+      "mọi tà sách",
+      "NHÀ XUẤT BẠN TẦN VIẾT",
+      "TậIV WÀT MẠE TÀUX AHM"
+    ],
+    "page_226": [
+      "![img-0.jpeg](img-0.jpeg)",
+      "",
+      "# NHÀ XUẤT BẠN TẦN VIỆT"
+    ],
+    "page_227": [
+      "\"Long người nguỵ!\"",
+      "S. 0 s. cua Nghieú Thuan.",
+      "",
+      "Vương Evơng Minh buô liếp.",
+      "A) toan cúu vớt lòng hãy đớn mua",
+      "![img-0.jpeg](img-0.jpeg)",
+      "(Một quyền sách qui trong «Tủ sách triết học»Tân Viẹt)",
+      "",
+      "Gồm «thân thê và học thuyết»",
+      "Thậ thê của một bậc anh hùng thag lược kinh luân, chẳng nhường chi Gin-Cat",
+      "",
+      "Học thuyết của một bậc đai thô, học hành thắp đức chẳng hồ với thá thoc",
+      "",
+      "Nước Nhật duy tân một phần to nhớ. Vương học Tu tề trị Thông Chế létian đương chủ trương họ Vương xưa đã thật hiẹn s - cổmp lôm",
+      "",
+      "NHÀ XUÁT BAN TÂN VIỆT",
+      "29 Lamblot - Hanoi"
+    ],
+    "page_228": [
+      "# SACH TAN VIET",
+      "",
+      "Còn một số ít",
+      "",
+      "|  |   |",
+      "| --- | --- |",
+      "|  Triết học Descartes | 4$50  |",
+      "|  Phát giáo triết học (in lần thứ |   |",
+      "|  hai) | 3$50  |",
+      "|  Học thuyết Freud | 2$50  |",
+      "|  Sien hình học (quyền thượng) | 5$00  |",
+      "|  Triết lý vũ trụ và nhân sinh | 2$30  |",
+      "|  Thi báo Tagore | 4$80  |",
+      "|  Văn báo Tolstoi | 2$40  |",
+      "|  Vàng sau vud: sọa áv ơd: nòi | 2$50  |",
+      "|  Luận lùng | 1$50  |",
+      "|  Tây Dương Ký | 8$50  |",
+      "|  Lý Tào | 6$00  |",
+      "|  Vườn Hồng | 1$10  |",
+      "|  Nghìn lẻ một đêm (I, IV, V, VI) |   |",
+      "|  mỗi quyển | 2$50  |",
+      "",
+      "1$1V MÁT MÁU TÀUX ÁH",
+      "",
+      "jongli - jotimad CS NHÀ XUẤT BAN TÂN-VIỆT"
+    ],
+    "page_229": [
+      "# ![img-0.jpeg](img-0.jpeg) ",
+      "",
+      "![img-1.jpeg](img-1.jpeg)",
+      "![img-2.jpeg](img-2.jpeg)",
+      "![img-3.jpeg](img-3.jpeg)",
+      "![img-4.jpeg](img-4.jpeg)"
+    ],
+    "page_230": [
+      "TRIËT HOC ARISTOTE IN LÂN THƯ NHÂT TẠ! NHÀ IN ĐÔNG-DƯƠNG 6 RUE BOURRET HANOI, XONG NGÀY 9.3-44 KIÊM DƯYỆT XONG NGÀY 3 - 11 - 43, ĐƯỢC PHÉP IN NGÀY $6-12-43$ có 585"
+    ],
+    "page_231": [
+      "."
+    ],
+    "page_232": [
+      "Permis d'imprimer N$\\cdot$ 585 du 6 Décembre 1943 délivré par le service local de l'1. P. P. du Ionkin."
+    ],
+    "page_233": [
+      "."
+    ],
+    "page_234": [
+      "Một lối văn rất xưa, chưa được ai biết !",
+      "",
+      "Một lối văn chỉ sản xuất riêng trong một vùng !",
+      "",
+      "Các bạn hãy đón xem :",
+      "",
+      "# HẤT ĐẢM NGHỆ TỊNH ",
+      "",
+      "Khảo cứu của Nguyễn đồng-Chi",
+      "(tác giả Việt-Nam cồ văn học sử)",
+      "Các bạn sẽ thấy có nhiều cái la minh không ngờ Nghệ Tịnh quả là một vùng khác la nhất trong nước Việt-Nam chúng ta.",
+      "",
+      "NHÀ XUẤT BẢN TÂN-VIỆT",
+      "29 - Lumblot - HANOI"
+    ]
+  }
+}

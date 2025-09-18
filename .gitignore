@@ -16,3 +16,9 @@
 
 # Model files
 models/
+
+# Dev specific data directories
+**/OCR/
+**/pdfs/
+**/images/
+**/Misc/

@@ -1,0 +1,1511 @@
+{
+  "metadata": {
+    "title_main": "Triết học Kant",
+    "title_alt": "La Philosophie de Kant, étude. Coll. Philosophie",
+    "authors": [
+      "Nguyễn Đình Thi"
+    ],
+    "authors_id": [
+      "2494"
+    ],
+    "publisher_id": "3303",
+    "publisher": "Éditions Tân Việt",
+    "publication_place_id": "3216",
+    "publication_place": "Hà Nội",
+    "publication_date": "1942",
+    "source_description": null,
+    "genres": [],
+    "issn": null,
+    "identifiers": {
+      "H-ID": "4458",
+      "url1": "http://catalogue.bnf.fr/ark:/12148/cb35756219q",
+      "url2": "https://gallica.bnf.fr/ark:/12148/bpt6k4243820t"
+    }
+  },
+  "text_body": {
+    "page_1": [
+      "# (BnF Gallica ",
+      "",
+      "## Triêt-hoc Kant / Nguyên Đỉnh Thi"
+    ],
+    "page_2": [
+      "# (BnF) Gallica ",
+      "",
+      "Nguyêñ, Đinh Thi (1924-2003). Auteur du texte. Triêt-hoc Kant / Nguyên Đinh Thi. 1942.",
+      "",
+      "1/ Les contenus accessibles sur le site Gallica sont pour la plupart des reproductions numériques d'oeuvres tombées dans le domaine public provenant des collections de la BnF. Leur réutilisation s'inscrit dans le cadre de la loi $n^{\\circ} 78-753$ du 17 juillet 1978 :",
+      "",
+      "- La réutilisation non commerciale de ces contenus ou dans le cadre d'une publication académique ou scientifique est libre et gratuite dans le respect de la législation en vigueur et notamment du maintien de la mention de source des contenus telle que précisée ci-après : «Source gallica.bnf.fr / Bibliothèque nationale de France » ou « Source gallica.bnf.fr / BnF ».",
+      "- La réutilisation commerciale de ces contenus est payante et fait I'objet d'une licence. Est entendue par réutilisation commerciale la revente de contenus sous forme de produits élaborés ou de fourniture de service ou toute autre réutilisation des contenus générant directement des revenus : publication vendue (à l'exception des ouvrages académiques ou scientifiques), une exposition, une production audiovisuelle, un service ou un produit payant, un support à vocation promotionnelle etc.",
+      "",
+      "",
+      "## CLIQUER ICI POUR ACCÉDER AUX TARIFS ET À LA LICENCE",
+      "",
+      "2/ Les contenus de Gallica sont la propriété de la BnF au sens de I'article L.2112-1 du code général de la propriété des personnes publiques.",
+      "",
+      "3/ Quelques contenus sont soumis à un régime de réutilisation particulier. Il s'agit :",
+      "",
+      "- des reproductions de documents protégés par un droit d'auteur appartenant à un tiers. Ces documents ne peuvent être réutilisés, sauf dans le cadre de la copie privée, sans l'autorisation préalable du titulaire des droits.",
+      "- des reproductions de documents conservés dans les bibliothèques ou autres institutions partenaires. Ceux-ci sont signalés par la mention Source gallica.BnF.fr / Bibliothèque municipale de ... (ou autre partenaire). L'utilisateur est invité à s'informer auprès de ces bibliothèques de leurs conditions de réutilisation.",
+      "",
+      "4/ Gallica constitue une base de données, dont la BnF est le producteur, protégée au sens des articles L341-1 et suivants du code de la propriété intellectuelle.",
+      "",
+      "5/ Les présentes conditions d'utilisation des contenus de Gallica sont régies par la loi française. En cas de réutilisation prévue dans un autre pays, il appartient à chaque utilisateur de vérifier la conformité de son projet avec le droit de ce pays.",
+      "",
+      "6/ L'utilisateur s'engage à respecter les présentes conditions d'utilisation ainsi que la législation en vigueur, notamment en matière de propriété intellectuelle. En cas de non respect de ces dispositions, il est notamment passible d'une amende prévue par la loi du 17 juillet 1978.",
+      "",
+      "7/ Pour obtenir un document de Gallica en haute définition, contacter",
+      "utilisation.commerciale@bnf.fr."
+    ],
+    "page_3": [
+      "![img-0.jpeg](img-0.jpeg)",
+      "TAN VIET"
+    ],
+    "page_4": [
+      "."
+    ],
+    "page_5": [
+      "."
+    ],
+    "page_6": [
+      "THIET HOC KANT IN LÂN THỰ NHẤT NGOÀI NHƠNG BẰN THƯƠNG CÓ IN RIẾNG LÀM 2 BẢN TRÊN GIẤY VERGÊ BAROQUE ĐẢNH DẤU N Đ.T-L V V VÀ 5 BẦN ĐẶC BIỆT GIẢ 8p00 MỐI BẢN",
+      "",
+      "# Bàn"
+    ],
+    "page_7": [
+      "# NGUYÊN ĐÌNH THI ",
+      "",
+      "![img-0.jpeg](img-0.jpeg)",
+      "",
+      "## TRIÊT HOC KANT",
+      "",
+      "## TRONG",
+      "",
+      "TƯ SÁCH TRIÊT HOC",
+      "JAN VIÊT",
+      "$160^{2}$ Indoch.",
+      "1104"
+    ],
+    "page_8": [
+      "# TỦ SÁCH TR ÉT HỌC ",
+      "",
+      "## ĐA XUẤT BÂN",
+      "",
+      "Triét học Bergson",
+      "Triét học Kant",
+      "SÂP CO BÂN",
+      "Triét học Nietzsche",
+      "Einstein",
+      "BUONG IN",
+      "Triét học Descartes",
+      "Schopenhauer",
+      "Spinoza",
+      "NHÀ XUẤT BẰN TẢN-VIỆT"
+    ],
+    "page_9": [
+      "# MẤY NHƠI NÓI ĐẦU ",
+      "",
+      "Viết cuốn sách nhỏ này, chúng tôi không có ảo tuởng là xáy đắp một công trình gì trên khoảng đất còn trống của Triết học nước nhà. Chúng tôi chỉ có một ước vọng : truyền bá tu tuởng triết học Tây phương đề giúp một viên gach nhỏ vào công cuộc gáy dựng một nền văn hóa Viẹt Nam mới.",
+      "",
+      "Vi thê, chúng tôi không hề quả quyết ràng đã hiểu thấu triẹt-duợc a triết học Kant » : riêng những tác phầm dịch sang tiếng Pháp của người, chúng tôi cũng chưa đọc được hết, - nói chi đến những tác phầm tiếng Đức là tiếng mẹ đẻ của người.",
+      "",
+      "Chúng tôi chỉ dám nói : đây là những"
+    ],
+    "page_10": [
+      "đièm chinh của Triết học Kant, qua cái hị̂̂u biết của chúng tôi.",
+      "",
+      "Trong cóng việc phô thông hóa tu tuờng cao siêu và gần nhu huyền bi của người, - mà không làm giảm giá trị của học thuyết ấy - , chúng tôi lại chú ý dân độc giả qua môl vài vấn-đề chính của triết học, thứ nhất là hai vấn đề : Tri thức và Luân lý, và nhân đó, trình bày rất so luợc những học thuyết của những người đi trước Kant.",
+      "",
+      "Chúng tôi, tận cùng, bằng một phần phê bình. Độc giả hiểu cho rằng phần đó chỉ lồng hợp những nhờ phê bình của những học thuyết cặn đại, và người viết chỉ xếp đặt những nhờ ấy cho có hẹ thống. Tuy thế chúng tôi cũng dám đánh bạo thêm một nhờ phê bình riêng: ấy là chương \"Kant và Lịch sử Triết học \", trong đó chúng tôi cố định rõ giá trị và vị tri của tất cả triết học Kant.",
+      "",
+      "Mục đích và nội dung cuốn sách nhỏ này chỉ có thế. Xếp đặt nội dung đó đề thực hiẹn được mục đích trèn là nguyện vọng duy nhất của chúng tôi khi đem trình bày vớt độc giả những giòng sau đây.",
+      "",
+      "# N.Đ.T."
+    ],
+    "page_11": [
+      "# Tiêu sîr cùa Kant ",
+      "",
+      "1.) Immanuel Kant sinh ngày 22 Avril 1724 tại thành Kcenisberg. Tô tiên ông người Tô-cách-Lan và tên thật ông là Cant. Sau chính ông dồi tên đó thành Kant vì tiếng Đức đọ: Cant là «Săng».",
+      "",
+      "Ông là con thứ tư trong một gia đình tầm thường : cha ông làm nghễ dóng yên ngựa. Đến già, ông cũng vẫn nhớ ơn cha ông vì nhớ có tinh giản dị, cương trực của người cha đó, tâm hồn ơng đã quen với những chuyện đứng đân từ bé.",
+      "",
+      "Mẹ ông là một người rất sùng dạo và thông minh."
+    ],
+    "page_12": [
+      "Nhờ gia đình giáo dục, ông có tính ưa những vấn đề đứng đân và kính trọng tất cả những gì thuộc về luân lý và tôn giáo.",
+      "",
+      "Năm lên chín, ông vào học tại trường Frédéric và ngồi trong trường ấy bảy năm.",
+      "",
+      "Tới năm 17 tuổi ông vào trường Đại học Kœnisberg.",
+      "",
+      "Trong khi theo học, vì không có tiền, ông đi dạy tư, cho đến mãi năm 1746.",
+      "",
+      "2.) Nhớn lên, nhờ một luận đề về triết học, ông được bổ làm phụ giáo ở trường Đại học Kœnisberg. Thủa ấy, những bài học của ông nổi tiếng lắm, nên ông rất được dư luận hoàn nghênh.",
+      "",
+      "Thời kỳ đó chính là thời kỳ ông sửa soạn: ông cho xuất bản những tập luận đề nhỏ về triết học - và thứ nhất là nghiên cứu về học thuyết của Newton và của Rousseau.",
+      "",
+      "Nhờ Newton, ông đã có ý thức rằng: khoa học là một thực tại, và nhờ Rousseau ông đã hiểu luân lý cũng là một thực tại.",
+      "",
+      "Trong thời kỳ này, những ý tưởng chính về học thuyết của ông cũng đã nảy"
+    ],
+    "page_13": [
+      "ra và ông tưởng độ vài tháng sẽ xong công việc, không ngờ cả một đời mới đủ vào sự nghiệp đó.",
+      "3.) Năm 1770 ông được chính thức bồ làm giáo sư tại trường đại học Kœnisberg lương mỗi tháng được 400 thalers. Ông sống với số lương đó và từ chối hết những chức vụ khác. Danh tiếng ông càng ngày càng nỗi.",
+      "",
+      "Năm. 1781 ông cho ra đời cuốn «Thuần túy lý tính luận » Cuốn ấy mới đâu không được hoan ng ênh, nhưng sau công chúng dằn dằn hiểu học thuyết của ông và tôn thờ ông như một đấng chúa tề. Tất cả triết học Đức hồi ấy lấy ông làm người dằn đâu.",
+      "",
+      "Năm 1789 xẩy ra cuộc cách mạng Pháp. Ông rất có cảm tình với cuộc cách mạng đó vì ông tin rằng những lê phải nghĩa là lý tính sẽ thắng sự thật.",
+      "",
+      "Ông mất ngày 12 Février năm 1804. Irước khi tắt nghỉ ông còn nói : Es ist gut (tốt lắm)",
+      "",
+      "Nước Đức coi đó là một quốc tang. Xem thế đủ biết học thuyết của Kant hồi ấy được hoan nghênh tới bực nào.",
+      "",
+      "Kant là một người thấp bé, ngực ông lép và gằn như cong vào trong. Vì"
+    ],
+    "page_14": [
+      "thế ông luôn luôn đau yếu. Chân tay ông nhỏ bé và yếu đuối, vai và khuỷu tay ông hơi lệch. Nhưng trên tấm thân gầy gò ấy có đôi mắt xanh đẹp vô cùng và một cái trán cao.",
+      "",
+      "Suốt đời, Kant chỉ sống chc triết học. Ông ktông lấy vợ và lấy những qui tắc chính ông đã đặt ra làm phương châm hành động trong đời s̛̃ng.",
+      "",
+      "Kant đã có hai công lớn với triết học vi",
+      "a) ốg đã làm cho tri-thức-luận thành trung tâm của triết học.",
+      "b) ông đã đem luân lý ra khỏi phạm vi huyền bí.",
+      "",
+      "Văn ông viết trúc trắc và khó biêu, mà tá: phầm ông rất nhiều:",
+      "",
+      "Hai tác phầm chính của ông là :",
+      "Thuần túy lý tinh luận xuất bản năm 1781 và Thực tiễn lý tinh luận x . . ất bản năm 1788."
+    ],
+    "page_15": [
+      "# PHÂN THƯ NHẤT ",
+      "",
+      "## NHƯNG VÂN ĐỀ CHÍNH của <br> TRIÊT HỌC"
+    ],
+    "page_16": [
+      "."
+    ],
+    "page_17": [
+      "Mới sinh ra trên trái đất, tất cả trí tuệ của tở-tiên chúng ta đều dùng vào việc kiếm ăn, kiếm mặc, kiếm chỗ ở hằng ngày. Tạo vật khi ấy còn là một bà mẹ ghẻ nghiệt ngã, không hề thương đến giống người. Chống trọi với những giống ác thú cũng không đủ, loài người lại còn phải chống trọi với mưa, gió, sấm sét, với bão táp, với sông bè̀. Trong cuộc tranh đấu ấy, đề vật lộn với những sức mạnh ghê gớm của 'ự nhiên, họ chỉ có hai bàn tay và một khơi óc. Vì thế, trí khôn thủa ấy không có một công dụng gì ngoài những ích lợi thường ngày."
+    ],
+    "page_18": [
+      "Nhưng dần dần, tạo vật bị khuất phục, đời sống vật chất dễ dàng hơn, trí khôn được hoàn cảnh buông lỏng bèn tìm bay lên những miền cao siêu hơn là những cách bẫy thú dữ, hay đánh cá, cày ruộng, xây nhà. Tư tưởng dần dần có một tinh cách không vụ lợi nhu trước.",
+      "",
+      "Khi ấy trong óc \"người \"nảy ra hai nhu cầu lớn. Một đàng anh muốn hiểu rõ những hiện-tượng anh luôn luôn trông thấy trong vũ trụ : anh tìm hiểu, anh tìm cách giảng nghĩa những câu đố của tạo vật. Một đàng anh tìm cách hành động cho có thứ tự, có suy luận, có nghĩ ngợi, anh muốn đặt ra những qui tắc nhất định và hợp lý đề làm mực thước cho mọi công việc: Triết học đã phạt sinh.",
+      "",
+      "Như vậy, nguồn gốc của triết học là hai nhu cầu : muốn hiểu vũ trụ và muốn làm cho những hành vi của loài người hợp với lý trí, và ngay từ lúc mới phát sinh ta đã phân biệt được hai phần tử của triết học : một phần tử về lý thuyết có liên lạc với sự nhận biết, nhận thức, và một phần tử về thực hành (theo nghĩa cao đẹp của chữ ấy) có liên lạc đến hành động . . ."
+    ],
+    "page_19": [
+      "Nhung trải qua các thời đại, khoá học phát sinh và nảy nở rồi dân dã̃n chiếm chỗ của Triết học trong công việc giảng nghia những hiệa tượng tự nhiê n. Tuy nhiên hãy còn một vấn đề cao hơn sự hiểu biết ấy : trên khoa học có còn một cách «biết» nào khác nữa không?",
+      "",
+      "Vi thế Kant dã tóm tắt mục dich của triết học thời nuy trong hai câu hỏi :",
+      "1.) Chúng ta có thể biết những gi ?",
+      "2) Chúng ta phải làm gi ?",
+      "",
+      "Hiện nay, cũng vậy, tất cả nhõng cuộc tranh luận vê triết học đều xoay chung quanh hai vấn đề lớn: Căn nguyện của khoa học và căn nguyên của luân-lý.",
+      "",
+      "Có nhịêu học thuyết, thứ nhất là thực nghiệm chủ nghĩa của Comte, chủ trương rằng: ngoài cách biết bâng khoa-học không còn cách nào đề « b.ết \", đề nhận thức nữa, và do đó, câu hỏi thứ nhất của Kant là một câu thừa. Nhưng trong thực tại, đừng thién về một học thuyết gì, chúng ta nhận thấy ngay ââng có những vấn đề mà khoa học không thê giải quyết được nếu cứ muốn đứng trong phạm vi khoa học. Tuy vậy những vấn đề ấy vẫn bắt chúng ta suy nghĩ đến, vẫn không đề"
+    ],
+    "page_20": [
+      "cho tri óc ta yên ồn đến nỗi ta khồng phân biệt trí luệ của ta với uhững vấn đề ấy nữa. Ta còn có thề phản đối Comte cương quyết hơa nữa : có những vấn đề chinh khoa học hhoi ra, mà vẫn vượt quá phạm vi của khoa học :",
+      "a) Vấn đẻ giá trị của tri thức",
+      "(Chúng ta có thê biết được những gì ?)",
+      "",
+      "- \"Thực nghiệm chủ nghĩa \" thuyết minh rằng tất cả những cái gì ở ngoài khoa học đều là những cái ta không thê tìm biết được. Nhưng muốn chứng giải nhờ quỵết đoán ấy, ít ra ta cũng phải giảng nghĩa rằng : không có một cách biết nảo ngoài khoa học, và tại sao lại như thế. Muốn giảng nghĩa điều ấy, ta lại phải phê bình cái lý trí của con người, cái « biết \" của mọi người Trong công cuộc ấy ta phải mượn những chứng cớ trong tậm lý học nhưng sự phê bình ấy không thuộc vê phạm vi của khoa học vì tâm lý học nghiền cứu về cách chúng ta lịm biết, cách tâm lý chúng ta hành động, cách tinh thần chúng ta nhận thức nhưng không bề đá động tới vấn đê : những điều ta biết đó có giá trị thế nào ? sự nhận thức củi con người có giá trị gì không? - Chúng ta nên"
+    ],
+    "page_21": [
+      "đè ý rằng chính khoa học đã đặt ra vấn đề ấy vì ba cớ:",
+      "",
+      "1. cớ thứ nhất là sự có khoa học:",
+      "",
+      "Khoa học có và đạt tới mục đích của nó ; được lẫm, nhưng ta phải giảng nghĩa tại sao khoa học có thê thành công như thế ? tại sao trí tuệ của người ta có thê hiện ra trong vạn vật nếu ta dám nói thế ? Vả lại khoa học sở dĩ thành công là vì «khoa học chính là chân lý » : nhưng là chân lý theo khuynh hướng nào ? trong phạm vi nào ? đó là chân lý tuyệt đối, hay là một chân lý tương đối và «đại khái » mà thôi, và cái độ của sự «đại khái » đó lên tới bực nào ? Tóm lại « giá trị của khoa học » đáng bao nhiêu ?",
+      "2. Cớ thứ,hai là phương pháp của khoa học : Các nhà thông thái thường dùng cả một loạt phương phap mà họ áp dụng một cách tự nhiên, như những bản năng, tuy không lúc nào tự hỏi những phương pháp ấy có giá trị gì không? nhà s5 họ: luôn lu n dùng để 1 lý trí của ông, nhưng lý trí của con người có giá trị nào ? nhà hóa học, vật lý học, do những điều mình quan sát và thực nghiệm mà tim ra những luật chung chi phối các biện tượng, nhưng cái gì cho phép họ lỗng quát như thế."
+    ],
+    "page_22": [
+      "3. cơ thứ ba là những kết quả của khoà học : Thật thế, khoa học đã làm chúng ta không dám tin chắc ở những giác-quan của chúng ta nữa.",
+      "",
+      "Chinh \" Khoa thiên-văn-học đã làm chúng ta nghi ngờ những cái bẽ ngoài hơn hết. Cái ngày mà Copernic chửng miṣh rằng : những cái nguời ta tuởng đứng im và tĩnh hơn cả là những cái động chính là ngày óng đã tỏ cho chúng ta biết rằng những sự suy luạn do những cám giác, trệ con đến thế náo 1 »",
+      "(H. Poincaré : giá trị của khoa học)",
+      "",
+      "Khoa vật - lý - học cũng cho chúng ta biết rằng mâu sâc do những sự rung động hóa ti anh và tùy theo những sự rung đờng ấy mau hay chậm mà những tế bào của mất bị kich thích khác nhau ; vậy mâu sắc trong sự thật khác hẳn những cái mà thị giác khiển ta tưởng là có thật. Đã thế, sự nhận thức của chúng ta một phần lớn lại dựa vào những sự nhận xét của giác quan.",
+      "",
+      "Vậy chúng ta phải nhận rằng thực-nghiệm-chủ-n, hỉa không thè̀ đứng vững được vì nó đã không cóng nhận một vấn đề quan hệ do khoa học đặt lên thảm, vấn đề ấy là căn bản đặc biệt của Triết học : giá trị của tri thức : khoa"
+    ],
+    "page_23": [
+      "học có giá trị không? vá ngoài cách biết bằng khoa học còn cách nhận thức nào nữa không?",
+      "",
+      "B) Vấn đề giá trị những hành vi của nhân loại (chúng ta phải làm gì) ?",
+      "",
+      "Còn một vấn đề nữa khoa học không giải quyết nỗi mà vấn đề thứ hai này lại thiết yếu hơn cả vấn đề trên nữa, đó là vấn đề đạo đức. Dù chúng ta muốn hay không muốn cũng mặc, đã sống chúng ta phải công nhận một học thuyết về luân lý; chính những công việc hàng ngày của chúng ta tỏ ra rằng: đối với chúng ta, hoặc là: những thú vui tục tân hoặc là những thú vui thanh cao có giá trị hơn: hoặc là chúng ta không đề ý gì đến quyền lợi của người khác hoặc là chúng ta cho rằng quyền lợi của người cũng có giá trị ngang quyền lợi của mình. - Vậy ở đây, chúng ta không còn phải tìm biết rằng có cần phải giải quyết vấn đề đó hay không nữa, vì chúng ta vẫn giải quyết nó, trong công việc hàng ngày, trong cách xử thế, theo quan điểm của chúng ta. Như thế câu hỏi quan trọng là:"
+    ],
+    "page_24": [
+      "Chúng ta sẽ nhắm mắt hay nghỉ ngợi mà giải quyết vấn đề ấy. - Câu trả lời không khó gì nữa.",
+      "",
+      "Ta lại nên chú ý rằng ở đây cũng vậy, khoa học chỉ khiến cho vấn đề đó trở nên thiết yếu hơn mà không giải quyết được.",
+      "",
+      "Khoa học làm cho người ta có năng lực rất lớn đối với Tạo vật : Tự nhiên khi xưa chi phối đời sống của loài người thì nay lại làm nô lệ cho loài người, nhưng người ta có thể dùng năng lực ấy theo nhiều cách khác nhau để làm điều thiện cũng được mà để làm điều ác cũng không có gì ngăn căm; điều đó có thể áp dụng cả với những khoa học nghiên cứu về người như tâm-lý-hộc và xã - hội - học. Chẳng hạn xã-hội-học đã cho chúng ta biết những phương pháp để làm cho xã hội thay đồi, thì ta vẫn còn phải trả lời câu hỏi là ta dùng những phương pháp đề phụng sự lý tưởng nào ?",
+      "",
+      "Khoa học chi giúp ta nhũ̃ng phương tiện hành động, và đề chúng ta toàn quyền lựa chọn những mực đích:",
+      "",
+      "Vậy Kant đã nói đúng khi ơng cho rằng hai câu hỏi chinh của triết học là"
+    ],
+    "page_25": [
+      "chúng ta có thè biết được nhũng gì, và chúng ta cần phả i làm gì. Thung chúng ta căn nhận rõ rằng ngày nay vấn đề tim biết đã dành riêng cho khoa học giải quyết, và triết học hiện tại chú ý đến câu hỏi này hơn : « sự nhận - thức của người ta chín nó có. giá trị gì không?»",
+      "",
+      "Hai phần tử chinh của triết học -, ta nên nhắc lại một lân nữa là lý thuyết và thực hành, và suốt từ xưa tới nay, hai vấn đề kê trên vẫn là cội rễ làm cho triết học láy phương phát triền.",
+      "",
+      "Thử lược khảo vè̀ triết học Hy lạp, tức là nguin gớc của triết học Tây Phương, ta thấy :",
+      "",
+      "1- Trong thời kỳ tời cô, hai vấn đề ấy đã được những nhân vật mà người ta thường gọi là Thất hiền tim cách giải quyét. Nói thực ra thì bầy vị ấy là những nhà pháp-học và đạo - đức học (vì ngày xưa, chính trị và đạo đức là mợt), nhung một hai vị đã là những nhà thông thái đối với xã hội thời đó.",
+      "",
+      "2- Trong thời kỳ thứ hai, lý thuyết và thực hành bị phân đòi. Về những thế kỷ thứ năm và thứ sáu, những triết nhân chuyên lập nên những giả thuyết"
+    ],
+    "page_26": [
+      "và hệ thống vẽ tự nhiên: họ tìm cách giảng nghĩa những sự hình - thành của vũ-trụ, tìm tòi xem nguyên tố của vạn vật là gì. Có người cho rằng đó là nước, có người cho là không khí, có người lại cho là lửa. Pythagore thì thuyết minh rằng đó là những con số còn Démocrite thì quả quyết rằng đó là những nguyên tử (atome). - Sự bất đồng ý ấy gây nên tấm lòng hoài nghi tất cả của nguy - biện - phái (sophistes, là phái chủ trương rằng không có chân lý, mà khoa học cũng không thể thành công được.",
+      "",
+      "Socrate làm cho triết học Hy-Lạp sống lại bằng cách đem nó từ trên trời xuống đất, nghĩa là lấy những vấn đề có liên quan đến hành động của loài người làm mục đích của triết học. Ông cố gáy cho luân lý một cơ sở hợp với lý trí.",
+      "",
+      "3 - Đứng giữa hai vấn đề ấy, bị cả vấn đề trí thức lẫn vấn đề thực hành làm lung lay, triết học Hy-Lạp lại nhờ những triết học hệ thống của Platon và Aristote mà đứng vững. Cả hai triết nhân này dung hóa trong những tông hợp lớn lao, những quan niệm của mình về thế giới (tức là vấn đề đã làm khô tâm cho các nhà vũ-trụ-học thời kỳ đâu) và về"
+    ],
+    "page_27": [
+      "những vấn đề luân lý là vấn đề Socrate yêu nhất.",
+      "4- Nhưng chẳng bao lâu, hai vấn đề ấy lại bị tách đói. Học phái của Epicure và Khắc-kỷ chủ - nghĩa (stoiciens) lấy vấn đề luân lý làm vấn đề thiết yếu, và chỉ chú trọng vẽ luân lý, đến nỗi Sénèque đã định nghĩa triết học là sự «cố gắng của đức hạnh đề đi đến đức hạnh $»$.",
+      "5- Sau hết, trong thời kỳ cuối cùng, trước khi mất hẳn, Triết học Hy-Lạp bay lên tới những vấn đề cao siêu nhất của Huyền học, đến gần thành ra giơng các huyền-bí-giào của Á Châu...",
+      "",
+      "Cuộc đi chơi nhanh chóng của chúng ta qua Triết học Hy lạp làm chúng ta nhận thấy rõ một lần nữa rằng : hai vấn đề từ xưa đến nay làm cho loài người băn khoăn vẫn chỉ là hai câu hỏi : Người ta có thê tim biết những gì ? và người ta phải làm gì ?",
+      "",
+      "Không những thế, chúng ta lại còn có thê nhân đó mà biết những tính chất đặc biệt của Triết học.",
+      "1- Tính thất thứ nhất là sự chuyền-biến : Triết học luôn luôn tiến hóa. Lẽ tất nhiên,"
+    ],
+    "page_28": [
+      "khoa học cũng thay đồi và một vài nhà thông thái cũng đã chú ý nói rõ đến tinh chất ấy của khoa học; những lý thuyết có tinh cáchkhai quát của khoa học cũng thay đồi, và thường khi nhũng quan niệm làm cơ-sở cho khoa học cũng thay đồi hẳn Nhung ta có thề nói rằng những cái gì khoa học đã tìm được một lần là tìm được mãi mãi. Những luật về kỷ hà học từ Eucli.. de vẫn chưa thay đồi - luật khuất chiết của ánh sáng từ Descartes vẫn y nguyên",
+      "",
+      "Trái lại, triết học lúc nào cũng chuyền động: hệ thống no thay hệ thống kia Vệ phạm vi này, không bac giờ ta dám quyết rằng một vấn đề đà giải quyết xong.",
+      "",
+      "2 - Tinh chất chuyền biến ấy khiến ta có thê hiểu tại sao, thiên tài riêng của từng triết nhân có ảnh hưởng đến tất cả nên triết học cồ kim. Nói một cách rõ hơn thì khoa học không có tính cách cá nhân mà triết học thì có tính cách ấy.",
+      "«Cái giá trị của một hệ thống là ở thiên tài của người đã xây nên hệ thống đó.»",
+      "",
+      "Nhưng ngày nay dần dần triết học có thoát khỏi những hệ thống là những giây bó buộc, làm khó chuyền động và tiến hóa thêm.",
+      "",
+      "3 - Tinh chất chuyền biến ấy lại còn"
+    ],
+    "page_29": [
+      "giảng nghĩa tính chất \"nhân đạo\" của triết học nữa. Khoa học lụ có tính cách vô tình, vô cảm giác. Nhưng triết học thì xét tất cả các vấn đề về phương diện nó có liên quan với nhân loại hay không, có tièn quan thế nào? và đứng vào địa vị của nhân loại mà xét những liên quan ấy. Đó là một sự cố gắng dễ tìm xem trong vũ trụ có nhũ̃ng gì có tính cách \" nhân đạo\", tinh cách \"người»:",
+      "«Đó là con người tự hỏi rằng anh ta có phải là trung-tâm-diềm của vũ-trụ về một phương diện nào không? - Vũ-trụ muốn những gì... Trong vũ trụ chúng ta đóng vai nào? - Chúng ta có thể hy vọng ở vũ-trụ nhũng diều gì và có thể lợi dụng vũ trụ trong phạm vi nào, là những cấu mà tất cả triết nhân đèn đã hỏ̉i 'cũ-trụ\"",
+      "(Boutroux)"
+    ],
+    "page_30": [
+      "."
+    ],
+    "page_31": [
+      "# PHẦN THỨ HAI ",
+      "",
+      "## TRI THỨC LUẬN <br> CỦA <br> KANT"
+    ],
+    "page_32": [
+      "."
+    ],
+    "page_33": [
+      "# CHƯƠNG THƯ NHẤT ",
+      "",
+      "## Vân-đẻ giá trị của tri-thức Binh-luận-thuyêt của Kant",
+      "",
+      "Ta đã biết, trải qua các thời đại, hai vấn đề chính của triết học vẩn là : chúng ta có thè biết nhû̃ng gì và chúng ta phảa làm gì. Lý-thuyết và thực-hành, như thế là hai phần tử chính của Triết học Nhưng muốn thực hành cho có kết quả, cần phải có một lý thuyết chắc chăn làm tiên phong : không có lý thuyết thực hành cũng không thè̀ có, - hoặc có nhưng chi mang lại cho ta những kết quả chẳng có gì là đẹp đê. Nếu cần dùng một hình ảnh đẻ̉ chỉ rõ sự liên lạc chặt chẽ giữa hai phần tử ấy, ta sẽ nói : thực-hành là người mù nhưng có"
+    ],
+    "page_34": [
+      "hai chân khỏe, còn lý-thuyết là nguời sáng nhưng bị té liẹt cả hai chân.",
+      "",
+      "Như thế ta nhận thấy rõ ngay rằng trước khi tìm cách trả lời câu hỏi echúng ta cần phải làm gì ?\" ta cần giải quyết vấn đề giá trị của tri thức.",
+      "A. Vấn đê giá trị của tri-thức.",
+      "",
+      "Trong phần thứ nhất ta đã thấy rằng vấn đề đó đã theo thời gian mà thay đồi. Trúng thời kỳ khoa học chưa phát triền thì câu hỏi làm người ta băn khoăn là : chúng ta có thê « biết » được không? chúng ta có thê tìm hiểu vũ - trụ được không ? Tới khi khoa học đã trả lời câu bồi đó bằng một cái gật đầu rất quả quyết thì vấn đề đó biến thành vẩn đê giá trị của tri thức : cái « biết » của chúng ta đáng giá bao nhiêu ?",
+      "",
+      "Nhưng tuy câu hỏi đó là cỗi rễ cho những cuộc tranh luận giữa những triết nhân mà không ai biết như vậy. Người ta coi nó ngang hàng với những vấn đề khác của triết học, như : tự do ý chi nhân cách - ý thức và vô ý thức v.v. Cũng như ông Jourdain cả đời làm văn xuôi mà không biết, triết học xoay quanh vấn đề giá trị của tri thức mà không hay.",
+      "",
+      "Cái công trình thứ nhất của Kant chính"
+    ],
+    "page_35": [
+      "là đã vạch rõ ra điều đó, và làm cho câu hỏi : cái \"bết\" của chúng ta trị giá bao nhiêu thành trung tâm của triết học, hay nói cho đúng hơn đã làm cho các triết nhân khác nhận thấy rằng vấn đề đó là vấn đề quan trọng hơn cả.",
+      "",
+      "Trước khi tim xem Kant đã làm thế nào đề đạt tới mục đích ấy, chúng ta nên xét qua cuộc chuyền biến của vấn đề giá-trị của tri-thức qua các thời đại và các câu trả lời của những bậc tiền bối của Kant.",
+      "",
+      "I rorg thời kỳ loài người còn dò dẫm tim hiểu vũ trụ, như chúng ta đã thấy câu hỏi làm họ băn khoăn là: Lý - trí của người ta có thể tìm « biết » tới chân lý được khơng ?",
+      "",
+      "Có hai học thuyết trả lời câu hỏi đe hai cách khác nhau ;",
+      "1/ Độc-đoán - chủ-nghỉa cả quyết rằng tri thức của nhân loại có thế thẩn tới chân lý tuyệt đôi được. Trong chủ nghĩa đó la lại cần phân biệt hai phái :",
+      "A/ Tự nhiên độc đoán chủ nghĩa - Tâm lý học cho chúng ta biết rằng thái độ tối sơ của óc người ta là hễ đã cho một điều gì là phải, một sự vật gì là thật, một lý thuyết gì là chân lý, thì cứ lự"
+    ],
+    "page_36": [
+      "nhiên đi theo, không nghĩ ngợi, không phê bình, không hẽ tưởng tượng rằng có thể có một giả - thuyết nào khác nữa.",
+      "",
+      "Tư tưởng triết học cũng giống như tư tưởng thông thường. Thái độ đầu tiên của nó là tưởng tượng rằng có thể tìm ngay tới những chìa khóa của vũ trụ. Vì thế nó tự phụ rằng có thể tìm tới chân lý tuyệt đối, xây dựng nên những hệ thống cao kỳ. - như những hệ thống của những triết nhân Hy-lạp trong tới sơ thời kỳ dễ tìm tới nguyên tố của vạn vật chẳng hạn, - mà không hề tự hỏi rằng những điều đó, lý trí của con người có thể làm nổi không, tóm lại người ta không hề nghĩ đến vấn đề giá trị của trí thức.",
+      "",
+      "B) Độc đoán chủ nghĩa chinh thức - Tới khi bị hoài-nghi chủ-nghĩa làm cho điên đảo, độc-đoán - chủ-nghỉa mới nhận thấy thái độ đó có nhiều khuyết điểm, và đến lúc ấy mới chính thức thành một chủ nghĩa, dựa vào một học thuyết đã giảng nghĩa lý trí một cách hẳn hoi - Học thuyết đó là duy-lý-luận. Trước hết cần làm vững giá trị của lý trí. Chủ nghĩa ấy bèn cho rằng nguyên ủy của lý trí, giác quan không hề biết"
+    ],
+    "page_37": [
+      "được, lý trí, là một cái ở ngoài thực tại và thực nghię̀m mà thực nghiệm cũng không thể giảng nghĩa được điều đó. Vì thế, lý trí làm cho ta trực tiếp biết đến chân lý tuyệt đói.",
+      "",
+      "Ta sẽ có dịp phê bình chủ nghĩa này sau.",
+      "2. Hoài-nghi - chủ nghĩa : chủ nghĩa ấy là một phảa động tự nhiên đề cãi lại những điều quá đáng của phái độc đoán. Về phương diện tâm lý, thì chủ nghĩa ấy phát sinh hợp với lúc tư tưởng của loài người băt đầu nghi ngờ, vì đã tìm đến nhiều điều mâu thuẫn nhau, và khồng biết nghiêng về bên nào.",
+      "",
+      "Trong chủ nghĩa này cũng lại có hai phái :",
+      "a) Binh luận hoài nghi thuyết - Khi tư tưởng, vì đứng trước nhiêu vấn đề phức tạp, bắt đầu phê bình sự vật, thì thuyết này phát sinh. Đó là một việc lớn trong lịch-sử tư tưởng nhân loại.",
+      "",
+      "Trong triết học Hy Lạp thì ngụy-biện phái đại diện cho thuyết kê trên. Ta đã biết những 'riết nhân ngụy-biện chủ trương những gì rồi.",
+      "b) Hoài nghi thuyết chinh thức - Đến thời kỳ thứ hai, chủ nghĩa hoài nghi mới thực thành hình. Nó không chủ trương"
+    ],
+    "page_38": [
+      "rằng lý tri của nhân loại khóng tim tới được chân lý, vì nói thế tức là nói chắc, nói quyết đoán, là không hoài nghi nữa. Nó chỉ nghỉ điêu: lý trí của con người có thê tìm biết chân lý một cách chắc chắn. Muốn chứng minh cái nghi ngờ ấy, nó viện ra nhiều lẽ : lẽ thứ nhất là giác quan của chúng ta hay sai nhầm, mà sự suy luận của chúng ta cũng vậy, lẽ thứ hai là những du luận thường hay trái ngược nhau cũng như tư tưởng của những triết nhân : Đó là lẽ mà nhũng người « hoài nghi » hay dùng nhất và khéo dùng một cách khôi hài rhất. Pascal đã nói rằng: \"Ăn câpp, gian dâm, giết con, giết anh, giết em, đều đã dược coi là nhũng đức-bạnh - lẽ thứ ba có tính cách triết học hơn : muốn tìm biết chân lý người ta phải đặt ra một giả thuyết - đề giả 3 g nghĩa giả thuyết ấy lại căn có một giả-thuyết khác. Rồi cứ như thế mãi, lý tri không đi đến chân lý mà chỉ đi đến những giả thuyết.",
+      "",
+      "Tất cả những lẽ đó bị khoa học đánh đồ rất dễ dàng. Khoa học đã chứng minh một cách không ai có thể cãi được là lýtri có thê đạt tới những chân lý chắc chắn được. Vì thế ngày nay hoài-nghi-thuyết chỉ còn là một đân đề cho các nhà văn,"
+    ],
+    "page_39": [
+      "hay các nhà truyền giáo, muốn làm giảm. giá trị của lý trí, dề tăng thêm giá trị của đức tin » (Pascal)",
+      "",
+      "# 8. Binh-luận-thuyết của Kant. - ",
+      "",
+      "Đến thời kỳ khoa học đã giải quyết họ triết học vấn đề tìm biết rồi, thì triết học phải đồi vấn đề đó thành vấn đề giá trị của tri thức : cuộc thay đồi ấy là công trình của Kant.",
+      "",
+      "Sau khi khoa học phát minh, triết học có một thời kỳ bị lung lay, vì những quan niệm cựu truyền về vũ-trụ bị lật đồ hết.",
+      "",
+      "Giữa lúc ấy thì bình-luận-thuyết của Kant xuất hiện. Khoa học đã trả lời rằng nhân loại có thê tìm biết được. Nhưng sự suy luận của khoa học dựa lất cả vào lý trí, vào những ý tuồng, những luật của lý trí mà ai cũng công nhận : ta gọi những ý tưởng căn bản ấy là : khái niệm. Kant bèn đặt câu hỏi : Giữa những khái niệm ấy có những giây liên lạc nào ? Tại sao không cần đến thực nghiệm mà một sự liên lạc chặt chẽ đã nới liền được những khái niệm đó ?",
+      "",
+      "Và khi ấy, mục đích của triết học"
+    ],
+    "page_40": [
+      "đã được vạch rõ : « Định chắc phạm vi của lý trí và nọ̣i dung của nó một cách đầy đủ theo những luật phô cập ». Nói tóm lại, tìm biết giá trị của lý trí, tức là căn nguyên của khoa học.",
+      "",
+      "Tìm biết giá trị của lý trí, nghĩa là phê bình những nguyên tắc của lý trí những luật tiên thiên, (nghĩa là có truóc thực nghiệm) của lý trí. Và tắt cả vấn đề ấy còn lại là một vấn đề dễ bình luận. Nói theo Kant thì :",
+      "\"Một cuộc phê bình và chỉ một cuộc phê bình tháu gồm tất cả triết học. Yà Binh luận thuyết đối với nhũng học phái tầm thường của triết học cũng như thiên-văn học đối với chiêm-tinh-thuật vậy \"",
+      "",
+      "Tóm lại sự bình luận giá trị của tri thức từ thời Kant thành vấn đề chính của triết học.",
+      "",
+      "Đặt một vấn đề lên thảm không phải là giải quyết được vấn đề ấy. Vi thế, cậu trả lời của Kant có một giá trị của nó, nhưng không phải là câu trả lời hoàn toàn, và sau Kant, vấn đề đó không phải là được coi như đã giải quyết xong xuôi. Cho đến ngày nay, câu trả lời của Kint cũng bị nhiều học thuyết phản đối, nhưng"
+    ],
+    "page_41": [
+      "dù sao, chúng ta và tất cả các triết nhân cũng đều phải chịu on Kant là dã vạch rõ câu hỏi cho những người đi sau biết mà tìm cách trả lời. Vi thế Kant chính là một trong những người có công lớn nhất với triết học hiện đại."
+    ],
+    "page_42": [
+      "."
+    ],
+    "page_43": [
+      "# CHƯƠNG THƯ HAI ",
+      "",
+      "## Duy-lý-luận của Kant",
+      "",
+      "Sau khi đặt câu hỏi một cách minh bạch, Kant bèn tìm cách trả lời. Nhưng muốn giải quyết một vấn đề rộng rãi như vấn đềgiá trị của trí thức không phải là dễ dàng. Vì thế học thuyết của Kant riêng về vấn đề giá trị ấy cũng đã rất phức tạp.",
+      "",
+      "Muốn giải quyết môt vấn đề phức tạp cần phải chia những câu hỏi nhỏ ở trong câu hỏi lớn thánh từng loại : nói dằn dị hơn, phải làm việc cho có phương pháp-không những thế lại còn phải dựa vào những nguyên tắc của tiền-nhân đề suy lý.",
+      "",
+      "Vì vậy trước hết, chúng ta hãy xét qua,"
+    ],
+    "page_44": [
+      "xem những nguyên tắc ấy là nguyên-tắc gì, và phương pháp suy lý của Kant dựa vào những nguyèn-tắc nào. Thế cũng chưa đủ, chúng ta còn phải vạch rõ Kant dã bắt dầu từ vẩn đề nào đề đi tới vấn đề nào.",
+      "",
+      "# A. Thứ tự suy lý của Kant ",
+      "",
+      "Trước khi muốn giả lời câu hỏi « Lý trí cơ thể tìm biết chân lý tuyệt đối được khóng? \" ta cần phải hiểu lý trí là gì, nọ̣i dung của lý trí có những gì ? những nguyên tắc nào chi phôi sinh hoạt của lý trí ?",
+      "",
+      "Tất cả những câu giả nhờc của Kant về những vấn đề ấy họp lại thành một học thuyết người đời sau gọi là duy lý-luận.",
+      "",
+      "Đã biết những luật lệ chỉ huy đời sống của lý trí, Kant mới chính thức dùng học thuyết của mình về lý trí đề trả lời câu hỏi : \" Người ta có thể biết chân lý tuyệt đối được không ? \" và Kant trả lời : không.",
+      "",
+      "Câu trả lời đó của Kant là học thuyết mà ta gọi là tương-dối-luận. Trong chương này, chúng ta chỉ xét về duy"
+    ],
+    "page_45": [
+      "lý luận của Kant còn tương đối luận thì chúng ta sẽ xét đến trong chương sau.",
+      "",
+      "Muốn nghiên cứu về nội dung của lý tri và do đó tìm xem lý trí có năng lực nào cũng lại cần suy lý cho có thứ tự. Vì thế trước khi xét đến học thuyết của Kant, chúng ta cần biết rõ những nguyên tắc làm căn bản cho phương pháp suy luận của triết nhân ấy, rồi mới đặt rõ câu hỏi và tìm xem Kant trả lời ra sao ?",
+      "",
+      "# B. Phương pháp suy luận của Kant ",
+      "",
+      "Phương pháp ấy là luận lý hình thức. Luận lý này do Aristote cho khuôn mực và mãi tới gần đây cũng vẫn còn được công nhận. Vì thế, Kant dùng nó cũng không có gì là la.",
+      "",
+      "Muốn suy luận cần phải dựa vào những nguyên tắc làm căn bản. Những nguyên tắc ấy nhiều khi chúng ta không nghĩ đến, vẫn dùng đến luin mà không biết, chẳng khác nào một người đang đi không lê ý đến việc minh đang dùng những bắp thịt nào.",
+      "",
+      "Cùng với Leibniz, chúng ta xếp những nguyên tắc ấy vào hai luật lớn;"
+    ],
+    "page_46": [
+      "1.) Đờng nhất nguyên tắc (principe d'identité). Ta không nên quèn rằng luận lý của Aristote lại dựa vào vũ-trụ-quan của Aristote: Theo ông tở của luận lý ấy, vũ trụ là do nhiều vật bất di bất dịch họp thành, chẳng hạn cái núi bao giờ cũng là cái núi, cái cây này bao giờ cũng vẫn là cái cây. Vậy suy tưởng nghĩa là đặt ra những khái niệm, mồ một vật trong vũ trụ lại có một khái niệm đi kèm đề tả rõ tính chất của vật ấy - vật ấy đã không thay đồi thì khái niệm cũng không thay đồi.",
+      "",
+      "Trong sự suy luận cũng thế, chúng ta đặt ra nhiều đề từ, đề hình dung những ý tưởng, vậy suốt trong cuộc suy luận những đề từ ấy lúc nào cũng phải y nguyên, không thay đồi thì cuộc suy luận mới có thê có được.",
+      "",
+      "Vay những đề từ phải đồng nhất và dặ: biệt : một ý tưởng nào đúng là đúng, sai là sai, không thề vừa đúng vừa sai được. Những nhà luận lý nói một cách vẫn tắt rằng: A là A.",
+      "",
+      "Vì thế luận lý ky nhất là sự mâu thuẫn và đồng nhất nguyên tắc có một nguyên tấc nữa đi kèm ngay bên là : mâu thuẫn nguyên tắc : hai ý tưởng trái nhau không thề nào cả hai cùng đúng"
+    ],
+    "page_47": [
+      "hay cùng sai được. Trong hai đường tá phải chọn lấy một. A với B mâu thuẫn nhau : hoặc là A đúng hoặc là B đúng. Không thế nào cả A lẫn B cùng đúng cả. Vậy ta phải chọn lấy A hoặc lấy B.",
+      "",
+      "Có một vật mà một người bảo đen, một người bảo trắng thì bắt buộc ta phải chọn lấy một trong hai nhờ quỵết đoán ấy.",
+      "",
+      "Vậy trong sự suy luậu, điều cốt yếu là tránh cái máu thuẫn : đã nói một điều thì không được nói điều trái lại : dã bảo một cái gì là đen thì không được bảo nó trắng.",
+      "2; Sung túc lỳ do nguyên tắc. - Theo nguyên tắc này thì «không có việc gi xảy ra mà không có một nguyên nhân», hay một a lý do sung túc \" nghĩa là một lý do đủ đề giảng nghĩa việc ấy, đủ đề làm cho việc ấy xầy ra. Tóm lại trong vũ trụ cái gì cũng có thề giảng nghia được.",
+      "",
+      "Nhưng ta có thế giảng nghĩa một hành vi theo hai cách : một là giảng nghia băng nguven-nhán của nó, hai là giảng nghĩa bâng mục - đích của nó. Vậy nguyên tắc này có thê chia làm hai phằn :",
+      "a) Quan hệ nhân quả nguven tắc.-Tất"
+    ],
+    "page_48": [
+      "cả mọi sự việc đều có một nguyên nhân, và trong nhữg trường hợp giông nhau thi nhữg nguyên nhân giống nhau lọi có kết quả giông nhau. Nguyên nhân, hay nói cho vẫn tất hơn nhân ở trên quả và có đủ năng lực dề làm cho quả xảy ra. Trái lại quả không có ảnh hưởng gì đến nhân.",
+      "b) Chung cục nguyên nhân pháp tắc hay muc đích nguyên tắc - Không những ta giảng nghĩa sự vật bằng nguyên nhân của nó, ta lại có thế giảng nghĩa bằng mục đích của nó nữa. Aristote nói : «Tạo vật không làm gì mà không có mục đích». Leibniz gọi những mục đích ấy là chung cục nguyên nhân, nghĩa là những cái «đi đến », mà có năng lực không kém gì những nguyên nhân",
+      "",
+      "Giá trị của những nguyên tắc kè̉ trên ta sẽ có dịp nói đến sau. Ta lại sẽ có dịp phè bình cả vũ trụ quan trên đó Aristote dã xây nên luận lý hình thức. Hiện thời ta chỉ nên biết rằng những nguyên tắc do ngày nay hoặc là không được công nhận nữa hoặc là vẫn được công nhận nhưng đã phải dời thay rồi.",
+      "",
+      "Nhưng theo các triết nhân cô-điền, thì chính những nguyên tắc ấy cùng với một vài ý thức của nhân loại như ý thức"
+    ],
+    "page_49": [
+      "về thời gian và không gian, ý thức về tuyêt đơi, về nhân quả chính là nợi dung của lý trí,",
+      "",
+      "Và đến đây, ta đã có thè̀ đặt câu hỏi một cách minh bạch, định văn đề một cách rõ ràng cho giông vớ vẩn đề mà Kant đã tìm cách giải quyết.",
+      "",
+      "# C. Vấn đề l'́́ tri ",
+      "",
+      "Vớ mấy uguỳ̀n tâc cựu truyền, các triết nhân cô điền đã tưởng biết rõ nội dung của lý trí. Vi vậy không ai tự hỏi rằng những nguyên tắc ấy :",
+      "a) Có thật băt di bất dịch khơng?",
+      "b) Có thật phải là nội dung của lý trí không?",
+      "",
+      "Ngày nay câu hỏi trên đã được trả lời bằng chữ không, 1 hưng câu hỏi dưới vẩn là một vấn đề chưa giải quyết xong hẳn, tuy quan niẹ̀n cô-điè̀n về lý trí đã bị những họ: thuyết mới làm cho ai cũng nhận thấy sự sai lầm. Vi thế hiện bây giờ, các triết nhân nghiên cứu vẽ nội dung của lý trí vẫn còn phải tìm cách giải quyết vấn đề: những nguyên tắc của lý trí ấy chính là lý trí hay chỉ là những sản vật đã kết tinh lại của lý tri mà cái quan niệm tĩnh về lý tri ấy"
+    ],
+    "page_50": [
+      "ta có thề nhận được không hay phải lấy một quan niệm động thay vào ? Lý trí có phải tînh như triết học từ xưa đến nay vẫn công nhận không hay thực ra có tinh cách động, sáng-hóa luôn, và tự tạo ra những nguyên tắc làm khuôn mực cho sự suy luận.",
+      "",
+      "Nhưng vẽ đời Kant vẩn đề lý trí chưa được định rõ như thế. Những học thuyết thời ấy chưa đặt nỗi những câu hỏi ấy. Đứng trong phạm vi của những nguyên tắc nhất định, không chuyển, không biến, các triết nhận không nghĩ đến vấn đề phê - bình mà chỉ dám tìm cách giảng nghĩa những nguyên tắc ấy. Vì thế câu hỏi vẽ thời ấy không phải là :",
+      "«những nguyên tắc cựu truyền của lý trí có thực là nội dụng của lý trí không ?\" mà là «tinh cách của những nguyên tắc ấy ra sao ?\"",
+      "",
+      "Đặt câu hỏi như thế thì thấy ngay hai cách trả lời.",
+      "",
+      "Một đàng thì ta thấy những nguyen.tắc được áp dụng vào thực nghiệm. Một đôi khi, chính thực nghiệm lại làm nầy ra những nguyên tắc ấy nữa. Do đó, có người nghĩ rằng lý tri là do thựcnghiệm mà có và chỉ là sản vật của"
+    ],
+    "page_51": [
+      "thực nghiệm. Đó là học thuyết của kinh nghiệm chủ nghĩa.",
+      "",
+      "Một đàng nữa thì ta thấy những nguyên tắc của lý trí chi phối thực nghiệm. Và lại nội dung của những nguyên tắc ấy không có liên lạc gì đến thực nghiệm cả. Do đó có nguời nghĩ rằng những nguyên tắc ấy có cỗi rễ ở những chốn cao siêu hơn thực nghiệm và vì thế, có nảy ra quan niệm riêng, có một lý tri thuần túy (raison pure) ở ngoài thựcnghiệm. Đó là học thuyết của duy lġ chủ nghĩa.",
+      "",
+      "Như vậy, từ chỗ đi tìm tòi những «tính cách của những nguyên tắc lý trí» các triết nhân đã thiên sang vấn đề \"nguồn gốc của lý trí» và đó mới chính là câu hỏi mà Kant đã tìm cách trả lời trong duy lý luận của ông. Nhưng sau khi trả lời câu hỏi ấy, Kant lại tìm cách giải quyết ngay vấn đề : lý trí có thể đạt tới chân lý tuyệt đối được không?",
+      "",
+      "Trước khi xét đến hai câu trả lời của Kant, ta nên phác qua những học thuyết và lý lẽ của kinh nghiệm chủ nghĩa vì duy lý chủ nghĩa nhiều khi chỉ là phản động của chủ nghĩa trên.",
+      "",
+      "Ta đã biết theo kinh-nghiệm-luận, lý"
+    ],
+    "page_52": [
+      "trí hoàn toàn do thực nghiệm má có. Locke thuyết minh rằng tinh thần của người ta khi mới đẻ là một bạch bản chưa có mót chữ gi in lên trên cả. Dần dằn, nhớn lêı những kinh nghiệm thâu thái được trong đòi sống mới in lên trên bản ấy thành tri khôn, tức là lý trí Condillac lại còn rút trí khôn người ta lại những cái nhỏ hơn và cho rằng tất cả ly tri chỉ là những cấm giàs (nghĩa à những trạng thái mà các giác quan : mât, mũi, tai, lưỡi, tay, đem lại cho ta)",
+      "",
+      "Hume bạo dạn hơn, dám nghi ngờ cả nhân quả nguyên tắc va cho rằng nhũng quan niệm vê nhân quả chỉ do thói quen má có. Trong tinh thần có một hiện tượng đạ̃ biệt là liên tuởng: vi dụ: trông thấy một cái cây tôi liên tưởng đến một con chim - trông thấy một người cao tơi liên tưởng đến một người thấp - nghe tiếng quạ kêu, tôi liên tưởng đến một đám tang v.v... Quan niệm về nguyên nhân cũng thế, chì là một sự liền tưởng. Lần đầu tiên tôi thấy một hòn bi đụng vào một hòn khác khiến hòn này lăn đi thì tôi lấy làm lạ Rồ đến lần thứ hai, lăn thứ ba cũng thế"
+    ],
+    "page_53": [
+      "tôi thấy hễ một hòn bi chạm vào một hòn khác, thì hòn sau này lăn đi. Cứ như thế sau thành thói quen, hễ cứ thấy một hòn bi chạm vào một hòn bi khác là tôi biết trước rằng hòn sau này sẽ lăn đi : đó là quan niệm về nguyên nhân. Vậy nguyên nhân là một kết quả của liên tưởng, chứ không bao hàm một ý có năng lực, có sức mạnh gì cả. Nói rộng ra, lý tri cũng vậy, chỉ là một thói quen mà thôi.",
+      "",
+      "Chính họ: - thuyết trên đây của Hume đã có ảnh hưởng rất lớn tới tư tưởng của Kant, và khiếa Kant tỉnh giấc mơ « độc đoán chủ nghĩa ». Kant dám nghỉ ngờ những lý thuyết chủ trương rằng lý trí có thê tìm biết chân lý tuyệt đối được, và từ sự nghi ngờ ấy, Kant đã xây đắp nên một nẹ̃a triết học và đạo đức mới hẳn.",
+      "",
+      "# D - Duy-1̣̂-luận của Kant ",
+      "",
+      "Những hinh thái tiê 1-thiên của tri thức.",
+      "Trước hế: Kant trả lời Hume. Theo Kant, nếu như Hu ne nói, lý trí chì̀ là thói quen có tinh cách hoàn toàn chủ quan nghĩa là thay đồi theo từng người) thì tri thức của nhân loại không còn có"
+    ],
+    "page_54": [
+      "giá trị gì nữa. Nhưng trong sự thật thi khoa học lại có một giá trị thật hẳn hoi. Vậy thì ta cần phải xét xem tại sao khoa học đã thành công và trong những điều kiện nào ?",
+      "",
+      "Muốn giảng nghĩa sự thành công ấy, trước hết phải làm một cuộc cách mạng trong triết-học cũng như khi xưa Copernic đã làm trong thiên-văn-học.",
+      "",
+      "Trước Kant, ai cũng tin rằng tri tuệ theo sự vật mà thay đồi hoặc sinh hoạt. Nhưng Kant thuyết minh rằng trái lại chính những sự vật xoay chung quanh trí tuệ và chính trí tuệ xếp đặt và chi phôi sự vật.",
+      "",
+      "Lẽ tất nhiên trước khi có kinh nghiệm, nghĩa là trước khi hành động, trước khi sống, chúnz ta không « biết » một điều gì Như 1 g không phải vì thế mà trí tuệ do kinh nghiêm cấu tạo nên, vì chính trong sự \"biết\" do kinh nghifm ta phải phân biệt hai diều :",
+      "một là «bản chất» và hai là « hình thức » của những cái « biết » ấy.",
+      "",
+      "Thi dụ : tôi tròng thấy một vật, một cái bàn chẳng hạn, tôi « biết» cái bàn là gì. Nhưng trong sự « biết » ấy tòi phải phân biệt :"
+    ],
+    "page_55": [
+      "a) những dều giác quan cho tôi biết về cái bàn. Ví dụ: tay tôi cho tôi biết rằng cái bàn nhẫn và lạnh, mắt tôin cho tôi biết rằng nó hình chữ nhật: những điều đó là «bản chất» cái \"biết\" của tôi về cái bàn.",
+      "b) nhưng ngoài cái «bản chất» ấy, óc tôi phải tồng hợp những điều giác quan mang lại cho tôi, và thứ nhất là phải đặt cái bàn ấy vào trong khóng gian. Nếu óc tôi không dặ: cái bàn ấy vào trong khóng gian chẳng hạn, thì tôi sẽ « biết» một cái bàn ra thế nào ?\" chán bàn ở chổ này, mặt bàn ở chổ kia chẳng hạn - Vậy không những óc tôi tồng hợp những cảm giác. nó lại còn in lên trên bản chất của sự biết về cái bàn một hình thú́c của sự biết ấy, hình thức ấy đây là không gian,",
+      "",
+      "Một thí dụ nữa dễ hiểu hơn :",
+      "Tôi ngắm mộ! lực sĩ đang chạy. Mắt tôj thu những hình ảnh của người ấy trong giay thứ-nhất, thứ-hai, thứ-ba, thứ-tư v.v... Những hình ảnh ấy là «bản chất» của cái « biết » :ủa tôi về lực sĩ ấy. Nhưng bản chất ấy không đủ là sự biết đó vì óc tôi còn phải đem những hình ảnh xếp đặt theo thời gian. Nếu không xếp đặt theo thời gian chẳng hạn, thì đáng nhẽ thấy"
+    ],
+    "page_56": [
+      "mộ: người mới đầu đứng im :ồ do chân lên, tôi lại thấy một người mới đầu do chân lên sáu mới hạ xuống - Hoặc đáng nhẽ thấy một người chạy vẽ đằng trước tói lại thấy một người chạy giật lùi. Thời gian chính là hình thức của cái biết của tô: về người lực sĩ đó.",
+      "",
+      "Vậy chúng ta phải nhớ kỹ : muốn «biết» phải tồng hợp «bản chất, là cái do sự vật mà đến (bởi các giác quan) và «hình thức» là cái do trí tuệ mà đến.",
+      "",
+      "Những «hình thức, ấy có trước hay sau kinh nghiệm? Lẽ tất nhiên là phải có trước vì nếu nó khồng có trước thì lấy gì đề tông hợp với «bản chất» của cái « biết ». Mà đã không có gì tồng hợp với bản chất ấy thì sao có cái « biết» co nhận thức dược.",
+      "",
+      "Một khi sự nhận thức không có, sự biết không có, người ta tuy hữu giác mà vô tri, và như thế thì sao mà có kinh nghiệm được (vì kinh nghiệm là gì nếu k :ông phải là những cái « biết» nhỏ suc tích lại).",
+      "",
+      "Như thế Kant dã giảng nghĩa tại sao ta có thè̀ « biết », tại sao khoa học có thè̀ thành công, và đã chứng minh tính cach iien-thien (nghĩa là có trước kinh nghiệm - có ngay khi mới đẻ) của những"
+    ],
+    "page_57": [
+      "hinh thái của tri thức (tức là hình thức của sự « biết» kể trên).",
+      "",
+      "Nhũng hình thức ấy chia làm ba loại : a) Những hình thức của cám-giác.",
+      "b) Những hình thức của tri - năng.",
+      "c) Những hình thức cỉa lý - tính.",
+      "a) Nhũng hình thức tiên thién của cảm giác. Không gian và Thời gian - Trong sự cảm - giác (Sinnlichkeit) ta đã thấy có những phần tử tao hơn là những sự kích thich mà giác quan dem đến cho chúng ta. Nh ưng sự kích thích ấy nếu thuộc về ngoại-tai-cảm-giác thì xếp đặt 'rong không gian và nếu thuộc về nọ̣i-tai cảm-giác thì xếp đặt theo thời gian.",
+      "",
+      "Váy không gian và thời gian là gì ? Đó không phải là những cái có thật ơ ngoại giới như Descartes hay Newton đã tưởng.",
+      "",
+      "* Thời gian không phải là một cái có thực ơ ngoại giới, nó cūng khơng phải là một liên quan, một bản chất, một cái ngả́u nhièn mà có, nó là một diền kiện chủ quan, điều kiện ấy khiển cho tri tuệ của người ta có thè xếp đặt tất cả các sự vạt theo một luật nhất dịnh : nó là một trực - giác thuần túy»."
+    ],
+    "page_58": [
+      "Còn không gian thì :",
+      "«Khór.g gian cũng không phải là một cái gì khách quan và có thực; nó cũng không phải là một bản chất, một liên quan hay một ngảu tinh; nó nhu là một búc vê phác tri tuệ, búc vê ấy có tinh cách chủ quan và lý tưởng đè có thè xếp đặt tất cả những sự vật của nội - tại cảm giác theo một luật nhất định \".",
+      "",
+      "Vậy đôi với Kant thời gian và không gian là những hình thức mà trí tuệ in lên trên bản chất của những cảm giác chứ không có thụ:. Không gian và thời gian chỉ có trong tri-tuệ và là những trạng-thái của trí-tuệ. Đó không phải là một sự thực mà cũng không phải là những ý tưởng, những khái niệm.",
+      "",
+      "Tóm lại đó là những trực giác tiên thiên, những hình thức thuần túy của sự nhận biết. Những hình thức ấy in lên trên «bản chất» của tri - thức mới làm nảy ra những quan niệm sai nhầm là không gian và thời gian có thực.",
+      "",
+      "Kant rất chú ý đến chỗ : hai hình thức đó có tính cách tiên thiên và viện bốn lẽ dễ bênh vực học thuyết của mình.",
+      "1.) Trước hết không gian đã là « hình thức \", là điều kiện thiết yếu của kinh"
+    ],
+    "page_59": [
+      "nghiệm ngoại tại, thì không thè̀ nào lại do kinh nghiệm mà có được,",
+      "2.) Người ta không thể náo tuởng tượng rằng không cg không gian tuy vẩn có thể tưởng tượng được rằng không có một vật gi ở trong shòng gian.",
+      "3.) Không gian có tính chất vô hạn. Trái lại kinh nghiệm chỉ dem đến cho cái biết của ta những diều hữu hạn. Vay không gian không phải do kinh nghiệm dem đến cho chùng ta.",
+      "4.) Những lẽ có giá trị nhất là tính cách thiết yếu và phổ cặp của những nguyên tắc của kỷ-há-học.",
+      "",
+      "* Nếu khóng gian là mót khái niệm do kinh-nghiẹm ngoại - tại mà có thi nhû̃ng nguyên tắc đầu tiên của sổ học sẽ có tinh cách ngả̉u hữu (nghĩa là có cũng được mà không có cũng được) của những cảm giác. Và: *Giữa hai chấm chỉ có một con đường thẳng », sẽ không phải là một điều cần thiết mà chỉ là một sự ta nhan thấy do kinh nghiem mà thôi. Khi ấy, ta sẽ phai nói hẹp lại rằng theo nhĩ̛ng điều chiém nghiệm cho đến ngày nay, không có không g'an nào có nhiểu hơn bà chiều \"(chiểu dài, chiều rộng và chiều sâu)"
+    ],
+    "page_60": [
+      "Đối với thời gian cũng vậy, những định luật vê thời gian như a thời gian chỉ có một chiểu », «những khoảng thời gian khác nhau không bao giờ lại đồng thời mà chỉ có thể nới tiếp nhau » không thể nào do kinh nghiệm mà suy ra được vì kinh nghiệm không khi nào cho phép chúng ta quyết đoán như thế, vì không thê có một tith cácl khai quát, phổ cập như thế.",
+      "",
+      "Vậy không gian và thời gian là những hình thức tiên thíên của cảm giác, và vì tính cách tiên thiên ấy nên những định luật về số học mới có tính cách quyết đoán và phổ cập. Nhưng chính cũng vì thế nên chúng ta khong thê biết đến chinh nhû̃ng sự vật, những sự vật bẳn nhiên được mà chỉ biết về phương diện đó là những cái mà kinh nghiệm có thể nhận xét trong không gian và thời gian ; trí tuệ người ta chỉ có thê biết những hiện tưởng (xem chương 111)",
+      "b) Những hinh thức tiên thién ${ }^{\\text {s }}$ của tri nãng (bay trí tuệ, trí khen, trí thông minh)",
+      "",
+      "Trí năng có phận sự là đem đến cho"
+    ],
+    "page_61": [
+      "những hiện tượng, một tinh cách duy nhất, trong một phạm vi nào đó. Muốn thế, trí năng nới những hiện tượng vào nhau bằng một vài khái niệm, như khái niệm về quan hệ nhân - quả chẳng hạn.",
+      "",
+      "Cảm giác dã mang lại cho trí năng sự « biết những hiện tượng ». Nhưng biết những hiện tượng rời r hau cũng chưa đủ gọi là biết, còn phải phán đoán nghĩa là tông hợp những hiện tượng hay nớ hiện tượng nọ với hiện tượng kia bằng những giây liên lạc đặc biệt mà ta gọi là khái-niệm.",
+      "",
+      "Thi dụ : có hai ý tuởng do giác quan mang lại cho trí năng tôi, chẳng hạn số ba và số năm. Biết rằng có số ba và sớ năm cũng chưca là biết, trí tuệ phán đoán và nói : năm nhiều hơn ba. Giữa sớ năm và sớ ba có một liên quan về lương.",
+      "",
+      "Không những trí năng liên hợp nhiều hiện tượng, nó lại còn phán đoán về mệt ý tưởng nào nữa, chẳng hạn một ý tưởng nảy ra trong óc tôi : linh hồn Trí năng tôi nói : linh hồn bất diệt, đó là một khái niệm về chất.",
+      "",
+      "Hoặc giả có hai ý tưởng hay hai biện tượng đi đơi với nhau. Tôi lại cần xét"
+    ],
+    "page_62": [
+      "xem ảnh hưởng của hai ý tưởng đó đối với nhau thế nào hoặc là một hiện tượng này là nguyên nhân của hiện tượng kia : khi ấy giữa hai hiện tượng có một liên-quan về nhân quả. -Hoặc là hai hiện tượng làm cho nhau cùng thay đồi, hiện tượng nọ chịu ảnh hưởng của hiện tượng kia, khi ấy, liên quan giữa hai hiện tượng thành một liên quan hổ tương.",
+      "",
+      "Những thí dụ sơ sái kề trên khiến cho ta hiểu thế nào là một cơ-bản-quan niệm : đó là những cách phán đoán đề tơng hợp các hiện tượng do giác quan mang lại cho trí năng.",
+      "",
+      "Xét kỹ các hình thái của sự phán đoán, Kant phân biệt tất cả mười hai cơ-bản quan-niệm chia làm bốn loại là : Chất, Lượng, Liên - quan, Hinh - thái. Dưới đây là bản kẻ những cơ bản quan-niệm ấy.",
+      "",
+      "| LUỌNG | CHẤT | LIÊN QUAN | HÌNH THÁI |",
+      "| :--: | :--: | :--: | :--: |",
+      "| Một | Thực | Thực thề và <br> ngấu nhiên | Khả năng |",
+      "| Nhiều | Phủ định | Nhân và quả | Thực tại |",
+      "| Tất cả | Hữu hạn | Hô tương | Thiết yếu |",
+      "",
+      "58"
+    ],
+    "page_63": [
+      "c) Những hình thức tiên thién của lý tinh",
+      "",
+      "Còn lý - tinh ( Vernunft) thì là « cơ năng của những nguyên tắc : ; nhờ có lý tinh nên ta mới có thê suy luận được. Vậy công dụng đằu tiên của lý tinh (hay lý tri) là xây đắp luận lý. Nhưng ngoài công dụng đó, lý tinh còn có một công dụng \"thuần túy\" hay \"siêu việt \" là tiếp tục công cuộc hợp nhất và dung hóa tri thức ở trên hằn thực nghiệm đề lên tới những nguyên tắc chứa đựng tất cả các điều kiện của mợt loại hiện tượng nào mà chính nó không có điều kiện gì, nói tóm lại, tới tuyệt đối.",
+      "",
+      "Như thê lý tinh làm nảy ra những ý niệm siêu việt (idées transcendentales): ý niệm vê linh hồn hay nci theo Kant, ý niệm của cái \" tôi nghĩ\" tức là toàn thể những điều kiện của trí nghĩ, - ý niệm về vũ trụ tức là toàn thê các điều kiện của các hiện tượng, - ý niệm về Thượng Đế tức là toàn thê các điều kiện của tất cả tri - thức.",
+      "",
+      "Nếu ta coi những ý niệm ấy là những điều do sự ham biết, ham tìm hiểu của tinh thần thì những ý niệm ấy có thật."
+    ],
+    "page_64": [
+      "Nhưng nếu ta muốn hóa những tư tưởng ấy thành thực-tai thì ta nhận ngay thấy những ý niệm siêu việt ấy không thê có trong thực nghię̣m được.",
+      "",
+      "Điều đó rất dễ hiểu vì những ý niệm ấy là những « hình thức »không có «bản chất » và vì thế lý - tính không thê nào tìm biết chân lý tuyệt đối được : mỗi khi đi về đường ấy chúng ta gặp những sự mâu thuẫn không tài nào giải quyết nỗi.",
+      "",
+      "# E. - Những dặc-tinh của duy-lý-luận ",
+      "",
+      "Trên đây ta đã phác qua duy-lý-luận của Kant. Ta đã hiểu thế nào là những hình thức tiên - thiên của tri-thức, thế nào là bản-chất của sự vật. Xét kỹ học thuyết đó ta nḃận thấy ba tinh cách chính:",
+      "1.) Tinh cách tiên-thiên. - Theo Kant cũng như theo tất cả các triết nhân chủ trương duy lý luận, trong trí tuệ có những phần tử tiên thiên. Kant công nhận rằng thực nghiệm có giá trị riêng nhưng lại thuyết minh rằng thực nghiệm và kinh nghiệm chỉ «có », khi có những «hình thức» bay «cớ bản quan niệm » mà trí tuệ in lên trên vạn vật. Vậy trí tuệ có ngay từ khi chúng ta mới sinh đẻ."
+    ],
+    "page_65": [
+      "Nhung không những triết nhân phải phân tích nội dung của trí tuệ mà lại còn phải có giảng nghĩa những tác vu của trí tuệ nữa. Khi Kant quyết đoán rằng trí tuệ có tính cách tiên thiên, Kant đã từ chối không giảng nghĩa điều đó. Kant phân tách hẳn lý-tinh với thực-nghiệm",
+      "",
+      "Đã thế, Kant lại phủ nhận những hệ thống huyền bí của tiền bối, mà không lấy gì thay vào đấy, khiến cho câu hỏi : tại sao trí tuệ nguời ta lại như thế? không có nhờỉ giải (xem phần thứ tư).",
+      "2.) Tinh cách bao trùm và thiết yếu của lý-tinh",
+      "",
+      "Những nguyên tắc của lý tinh, theo Kant có một giá trị phổ cặp, nghĩa là ở khắp các trường hợp đều có giá trị. Những hình thức của tri thức cần thiết cho tất cả sự « biết » các cuộc thực nghiệm : đó là những khuôn mực bất di bất dịch của nhân-loai tư tưởng. Và muốn biết một ý tưởng đúng hay sai, người ta cũng lấy những khuôn mực ấy làm đích, fàm tiêu chuầz. Do tinh cách ấy, học thuyết của Kant có hai ảo - tưởng giơng như tất cả các học thuyết thuộc về phái duy-luận.",
+      "a) Tư tuởng suy luận : gồm có những nguyên tắc nhất định là tất cả tư tưởng"
+    ],
+    "page_66": [
+      "'của nhân loại người ta chi có thè suy nghĩ trong phạm vi những nguyên tắc ấy.",
+      "b. Tư tuởng nhân loại cũng bất di bất dịch như những nguyên tắc đó.",
+      "3.) Tinh cách hoạt động của tinh thằn.",
+      "",
+      "Tinh thần theo Kant, không phải là một bạch bản thụ động chỉ đề thâu nhận những điều do kinh nghiệm mang lại, mà có tinh cách hoạt động.",
+      "",
+      "Nhưng cái hoạt động ấy có tinh cách gì ? Đó không phải là cách hoạt động của tinh thần đẻ̉ tự thích-nghi theo hoàn cảnh mà là cách đem những bình thức đã định trước in lên trên sự vật.",
+      "",
+      "Nếu cần tóm hết cả duy lý luận trong một câu, ta sẽ nói: «Tri thức nghĩa là trí tuệ đem những luật của nó bắt vạn vật phải theo \" hay \"Biết nghĩa là trí tuệ in những hình thức của nó lên trên vạn vật»",
+      "",
+      "Nói như thế ta sẽ thấy rõ ràng tinh cách đặc biệt của triết học Kant."
+    ],
+    "page_67": [
+      "# CHƯƠNG THỬ BA ",
+      "",
+      "## Tương-dòi-luận của Kant",
+      "",
+      "DEN đây, ta mới thật vào đến vân-đề đã nói đếa từ đầu cuốn sách này: vân đề giá trị của tri-thức.",
+      "Ta đã hiểu, theo Kant, thế nào là biết, ta đã biết nợi dung của tri thức có những gì ? Ta lại nhớ rằng giá trị của tri thức có liên - quan chặt chẽ với nợi dung ấy.",
+      "",
+      "Nhờ thế, chính nợi dung ấy, đã chứa đủ nhũng lý luận để Kart theo quan điểm của mình mà trả lời hai câu hỏi ;",
+      "a) Cái ta biết do lý trí đáng giá bao nhiêu?"
+    ],
+    "page_68": [
+      "b) Ngoài cách biết đó, còn có cách biết nào khác nữa không ?",
+      "",
+      "# A. Đặt rõ câu hỏl ",
+      "",
+      "a) Cái biết bấng lý trí, ta nên nhận rõ. Đây chính là cái biết do khoa học. Khoa học đã tìm ra nhưng kết quả mà ngày nay ai cũng công nhận cả. Vậy ngày nay, chúng ta không cần phải tự hỏi rằng: «Tri thức có thể có fược không? vì tri thức hiện có thật rồi. Ta chỉ còn cần tự hỏi, «Tri thức ấy làm thế nào đã có ? Khoa học làm thế nào đã thành công? Vấn đê ấy, tuy vậy không kém quan hệ, vì một sự nhận thức muốn đạt tới chân lý và có một tính cách khách quan cần phải có những điều kiện đặc biệt. Những điều kiện ấy là những điều kiện nào? Trong khoa học những điều kiện ấy đã được thực hiện thế nào ?",
+      "b) Còn một vấn đề thứ hai nữa cũng thuộc về tri-thức-luận, đó là câu hỏi : ngoài khoa học và ở trên khoa học, có còn một cách nào nữa đề tìm tới chân lý không ? Có còn một cách nhạ̣n-thức nào nữa đạ̀ có thể tìm biết những thực"
+    ],
+    "page_69": [
+      "thè̀, nghĩa là chính những sự vật chứ không phải bề ngoài của vũ trụ mà thôi, có một cơ-năng nào khiến ta có thể giảng nghĩa nỗi thế giới được không?",
+      "",
+      "# B. -Tuơng-dối-luận của Kant ",
+      "",
+      "1.) Ta đã biết qua Kant trả lời câu hỏi trên thế nào rồi. Nay ta thử vào sâu vấn đề ấy hơn nữa.",
+      "",
+      "Trước hết, ta nhận thấy rằng Kant đứng vào một tình thế rất khó khăn; học thuyết của Hume phá đồ những thành kiến cha triết học cựu truyền, thứ nhất là nguyên tắc về quan hệ nhân quả là một trong hai nguyên tắc thiết yếu của lý trí. Nguyên tắc ấy đã bị coi như một thói quen (xem chương II) thì lý trí là một cái dựa vào nguyên tắc ấy cũng bị coi như một thói quen chủ quan, tùy theo mỗi người thay đồi và không có giá trị thực tế.",
+      "",
+      "Nhưng trong sự thật thì trái lại, khoa học thành công rực rỡ. Kant bèn tìm cách giảng nghĩa tại sao khoa học có thê thành công được.",
+      "",
+      "Nếu cứ đứng trong quan điểm cựu"
+    ],
+    "page_70": [
+      "truyền mà suy luận, nghĩa là cho rằng tinh thần xoay chung quanh sự vật thì Kant không thể trả lời được Hume, vi khi ấy tinh thần chỉ còn là một kết quả của sự vật, và quanh đi quần lại, ta lại bị dẫn đến chỗ tinh thần là một thói quen.",
+      "",
+      "Vì thế Kant phải đảo ngược quan điểm ấy lại. và nói : \" Sự vật xoay quanh tinh thần ». Khi ấy \"biết\" không còn nghĩa là in những kinh nghiệm lên trên bạch bản của tinh thần nữa mà là « in những hình thức của tri tuệ lên van vạt \".",
+      "",
+      "Qian niệm ấy vạch ra một cách rõ ràng hai tính cách tương đối và khách quan của tri thức.",
+      "a) Tri thức có tính cách tương đối, vì theo quan niệm của Kant, tri thức dựa vào nội dung của lý trí. Vậy nếu nọ̣i dung ấy thay đồi, tri thức cũng sẽ thay đồi. Vi dụ hình thức tiên thién của cảm giác là thời gian và khủng gian. Tất cả các cảm giác về bên ngoài của chúng ta đều xếp trong không gian, tất cả các cảm giác trong tinh thần, trái lại, xếp trong thời gian. Nếu, chẳng hạn, vì một lẽ gì hình thức tiên thién của ngoại"
+    ],
+    "page_71": [
+      "tại cảm giác không phải là không gian nữa mà là thời gian chẳng hạn, thì khi nhin một cái cây ta sẽ thấy nhiều hình chồng chất lên nhau, từ cái mầm cho đến cái lá con, cái thân nhỏ, và cái cây cao ngày nay. Khi nói chuyện với bạn ta, cảm giác của ta sẽ cho ta thá́y cái tê bào nhỏ xíu trong bụng mẹ đứa bé mới ra đời, cậu học trò, và người bạn nhớn của ta cùng một lúc, cùng một chổ mà hình ảnh của bạn ta sẽ không còn là hình ảnh hiện thời của giông người nữa.",
+      "",
+      "Vậy ta kết luận với Kant rằng lý trí không thê biết tới những \"thưe thê̂\" (noumènes) được, mà chỉ có thê biết những sự vật theo như trí tuệ của chúng ta nhận xét, nghĩa là bề ngoài của vũ tru. Cái bề ngoài ấy, chính là những \"hiện tượng\" của tự nhiên.",
+      "",
+      "Như vậy, phạm vi của khoa học đã được định rất rõ ràng : khoa học chỉ có giá trị trong sự giảng nghĩa các hiện tượng, mà trí thức của nhân loại thì chỉ tìm đến được những cái «tương đôii», nghĩa là những cái phải dựa vào một cái khác, không tự nó chừa cái lý do tồn tại của nó. Vậy cái mộng tìm biết"
+    ],
+    "page_72": [
+      "những thực thè̀, tức là chân lý tuyệt đối, đã bị tan vỡ.",
+      "",
+      "Câu kết luận ở đây là : « Không có gì tuyệt đối trír chinh nguyên tắc ấy \".",
+      "b) Tinh cách khách quan của tri thức. Ta đã thấy những « điều» chúng ta biết, có tinh cách tương đối : đó khong phải là chân lý thực thụ mà chỉ là thực tại xét qua khói óc của chúng ta. Nhưng chinh cái «biết» của chúng ta thì có tinh cách khách quan, nghĩa là nó có thực ở ngoài chúng ta và không thay đồi theo từng người.",
+      "",
+      "Trước hết ta đã biết rằng những hình thức tiên thiên của cảm giác cũng như những cơ bản quan niệm của tri năng, rất cần cho thực nghiệm và thực nghiệm chỉ «có» khi nào những hình thức tiên thiên ấy có. Ta lại nhớ rằng chính sự tông hợp của « hình thức» và « bản chất» cấu tạo nên sự biết, nên kinh nghiệm, và sở dĩ chúng ta biết là vì chúng ta đã in những. hình thức ấy lên trên bản chất nhận thức của chúng ta.",
+      "",
+      "Ta nhắc lại một lần nữa không có những \"hinh thức tiên thiên\" thì không có kinh nghiệm. Vậy mà trong sự thật, ta thấy kinh nghiệm có, mà có một cách khách quan nghĩa là không phải do chúng ta muốn"
+    ],
+    "page_73": [
+      "hay không mà có. Thật vậy, có ai chi muốn thu tháp những kinh nghiệm mà kinh nghiêm tự nhien đến ngay đâu. Kinh nghiệm do bên ngoài đến chứ không phải do bên trong.",
+      "",
+      "Kinh nghiệm đã có thì những hình thức tiên thiên kê trên cũng phải có thật, có thật nghĩa là có một cách khách quan, có ở ngoài chúng ta.",
+      "",
+      "Do đó ta có thê hiểu tại sao theo Kant, tri thức có tính cách khách quan. Vả lại, những nguyên tắc tiên thiên ấy không những chỉ là những luật chi phôi tư tưởng của \"riêng tôi» mà còn chi phôi tư tưởng của tất cả mọi người. Ai «biết» cũng là do ở những khái niệm về không gian và thời gian. Ai phán doán cũng là bằng mười hai cơ bản quán niệm xếp thành bốn loại: lượng, chất, liên quan, hình thái. Vậy những nguyên tắc ấy có một giá trị phổ cạpp, nghĩa là một giá trị bao trùm, một giá trị chung. Và như thế tri thức có một giá trị «khách quan»: nó không thay đồi theo từng người; với ai nó cũng giải dúng những nguyên tắc, những hình thức tiên thiên của nó.",
+      "",
+      "Ta kết luận rằng phạm vi của khoa học có giới hạn, nhưng trong phạm vi của nó"
+    ],
+    "page_74": [
+      "khoa học lại có một giá trị hẳn hoi. Và cái giá trị của khoa học không còn là một sự thạt mà các triết nhân không giảng nghia được. Kant đã thuyết minh rõ ràng tại sao khna học thành công tại sao khoa học là chân lý. Vì chân lý bây giờ không phải là sự hóa hợp tri thú́c với nhũ̃ng thú́c thè̀\" siêu việt nữa ; tri thức không muốn tìm biết « bản chất » mà đi về phia «hình thức ». Chân lý không có gì lạ lùng cả, đó chỉ là « sự hóa hợp của chính tri thức với tri thức, hay với những vật chung càa tri năng và lạ̣ tinh cũng vạ̣g \"",
+      "",
+      "Nói tóm lại, trước những câu hỏi : «Cái biết do khoa học trị giá bao nhiêu? - Tại sao khoa họs đã thành công? Kant trả lời :",
+      "«Khoa học không thè̀ tìm biết những thực thè mà chỉ có thê tìm biết những hiện - tượng - Khoa học đã thành công vì lẽ trên, vì nó tìm giảng nghĩa những hiện - tượng là những điều nó có thè̀ giảng nghĩa nồi».",
+      "",
+      "2.) Nhưng hãy còn câu hỏi thứ hai nữa: «Khoa học đã không tìm biết được những thực thè̀ thì có một cách biết nào khác ở trên khoa học dề tìm tới chân lý tuyệt đới được không ?n"
+    ],
+    "page_75": [
+      "Kant trả lò̀i câu hỏi đó như thế này: những phái thuộc vê độc đoán - chủ nghĩa có ảo tưởng là tìm biết nỗi chân lý tuyệt đối, biết những \"thực thè̀ » biết đến chính sự vật. Tuy đó là một ảo tưởng nhưng ảo tưởng ấy thật là a tự nhiên và không thê tránh được », và * nguời nào khôn ngoan nhất cũng không thề vứt bỏ hẳn những ảo tưởng đó được».",
+      "",
+      "Nguyên do của điều ấy rất giản dị : lý tính, như ta đã thấy là « cơ năng của các nguyên tắc» là cỗi rễ của sự suy luận, và công việc của lý tính chính là tìm cách vượt qua phạm vi thực nghiệm khoa học, đi tới chốn vô điều kiện, tới tuyệt đối, tới sự hợp nhất tư tưởng một cách hoàn toàn. Vi vậy bay cao là một nhu cầu của lý tính, và những người khôn ngoan nhất, nghĩa là những người có một lý tính phát triền nhất, lại chính là những người hay tìm cách giảng nghia vũ trụ, hiểu rõ những thực thè̀ nhất.",
+      "",
+      "Nhưng nhu câu đó của lý tính không phải do ở ngoài mà có : nó không có tính cách khách quan. Sở dĩ lý tính muốn giảng nghĩa vũ trụ không phải là vi vũ trụ có. thể giảng nghĩa được. Lý"
+    ],
+    "page_76": [
+      "tinh muốn tìm biết chân lý tuyệt đối không phải là vì chân lý ấy có thê biết được. Không phải vì chính trong vũ trụ có một nhu cầu định rõ nhũng thực thê mà lý tính cũng thầy có nhu cầu đó.",
+      "",
+      "Tinh cách muốn lên cao mãi, tinh cách siêu việt của lý tính có một nguyện nhân nọ̣i tại. Đó là một nhu cầu chủ quan. Học phái dộc doán đã nhãm nhu cầu chủ-quan ấy với sự cân dùng định rõ những thực thè về phương diện khách quan.",
+      "",
+      "Lý tinh sở dĩ muốn vượt khôii phạm vi thực nghiệm là vì nó muốn liên hợp những ý niệm của chúng ta đê tiếp tục cho trọn vẹn công việc của cảm giác và trí năng, chứ không phải vì nó muốn giảng nghĩa và thấy cân giảng nghĩa vũ trụ. Nhưng người ta đã ngộ nhận tinh cách ấy của lý tính và vì thế có cái siêu viẹ̣t ngoai quan, nghĩa là khuynh hướng, khiến chúng ta muốn dùng những khái niệm tiên\" thiên mợt cách siêu việt, nghĩa là muốn áp dụng những hình thức ấy trong những trường hợp vượt quá phạm vi lất cả các cuộc thực nghiệm, mà không b'ét răng trong sự taạt đó chỉ là những hình thức có"
+    ],
+    "page_77": [
+      "phận sự duy nhất là xếp đặt và chi phối thực nghiệm.",
+      "",
+      "Vì thế những siêu việt ý niệm (ý niệm về linh hồn và vũ trụ, về Thượng Đế) chính ra chỉ là những kết quả của tinh cách siêu việt của lý tinh lại được coi như những sự thật ở ngoài lý tính, như những chân lý khách quan; những đó chỉ là những phương pháp nguy biện.",
+      "",
+      "Ý niệm siêu việt đầu tiên thuộc về loại tâm lý: đó là ý niệm về một cái \"tôi\" thực tại về linh hồn. Người ta cho rằng trong thực tại tâm hồn chúng ta có tinh cách nhất trí, tất cả các cơ năng tác vụ về tâm thần đều hòa hợp trong linh hồn. Linh hồn là một cái có thật, và có tinh cách nhất trí.",
+      "",
+      "Nhưng thực ra, theo Kant, cái tinh khất trí ấy là tinh cách nhất trí của tư tưởng, của cảm giác, trí năng và lý tính. Đó là tinh cách nhất trí của những hình thức \"chứ không phải của những \"bản chất\".",
+      "",
+      "Vì thế ý niệm về linh hồn không đủ để chứng giải rằng linh hồn có thật, có ở ngoài ý nghĩ của chúng ta. Ý niệm siêu việt về linh hồn chỉ là một kết quả của lý tính, đó không phải là một điều"
+    ],
+    "page_78": [
+      "lý tinh nhạn thức được ở ngoại giới.",
+      "Vi thế linh hồn không phải là một cái khác hẳn đời sống của tâm thằn và làm căn bản cho đời sống ấy như người ta thường tuởng, mà chính đời sống của tinh thằn, chính những nhu cầu nội tại của lý tinh đã làm nảy ra trong óc ta ý niệm về lich hồn:",
+      "",
+      "Cái nhầm lớn của những học thuyết chủ chương rằng linh hồn có thực và có một cách khách quan, là đã lẫn cái «tôi» chính thực là «chủ» vớ̀ một cái «tôi» là « khách»",
+      "",
+      "Bản ngã theo Kant không phải là gl mà cũng không phải là một thực thê nào. Đó cũng không phải là một khái niệm hay một trực giác. Đó chỉ là một «hinh thức tiên thiên » của sự suy tưởng cũng như không gian là hình thức của ngoại tại cảm giác. Hinh thức ấy lại chính là một cơ-bản quan-niệm đẻ̉ tông hợp tất cả những phằn tử của tu tuởng.",
+      "",
+      "Nói tóm lại, đó là một hình thức không có bản chất. Vi thê, không có gì chứng minh rằng bản ngã là một khách quan thực tại.",
+      "",
+      "Ý niệm siêu việt thứ hai là ý niệm về"
+    ],
+    "page_79": [
+      "vũ trụ : người ta coi vũ trụ như là cái thân gồm tất cả những điều kiện trong đó những hiện tượng biến hóa. Nhưng vũ-trụ-quan đó chỉ dẫn tới những sự mâu thuẫn không thể giải quyết được.",
+      "",
+      "Thí dụ : « Đề : Tất cả những chất phức hợp (nghĩa là do nhiêu chất hợp thành) đều do những đơn-tử họp thành, và trong vũ trụ không có cái gì là không do những đơn-tử hợp thành. Thật thế, nếu những phức hợp chất không do nhiêu phần tử dẫn dị họp thành thì khi ta nghĩ rằng không có những phức hợp chất, ta sẽ phải nghĩ ngay rằng không có chất gì cả. Nhưng trong sự thật, sự phổi hợp chỉ là một ngẫu tinh. Vậy ta phải có thể bỏ sự phổi hợp mà không thủ tiêu bản chất.",
+      "",
+      "Phản đề : Không có một phức hợp chất nào lại do những đơn tử họp thành và trong vũ trụ không có cái gì có tinh cách đơn giản. Thật thế, tất cả những sự phổi hợp đều phải xảy ra trong không gian. Một phức hợp chất chiếm một chỗ trong không gian ấy. Vậy nó có bao nhiêu phần tử thì khoảng không gian bị nó chiếm ấy cũng có bấy nhiêu phần tử, mà những phần tử của nó lại có thể chia"
+    ],
+    "page_80": [
+      "nhỏ ra thành những phần tử nữa; cũng như những phần tử của khoảng không gian ấy. Vậy những phần tử ấy không có tinh cách đơn giản.",
+      "",
+      "Những sự mâu thuẫn đó, chỉ rõ rằng ý niệm siêu vệt về vũ trụ lại vẫn là một kết quả lý-tinh. Lý tính vì muốn tồng hợp hết cả những khái - niệm của trí năng mới làm nảy ra ý niệm đó.",
+      "",
+      "Và vũ trụ không phải là cái thâu gồm tất cả những điều kiện trong đó các hiện tượng biến hóa, vũ trụ không phải là khuôn mực của các hiện tượng mà là sự tông - hợp của những hiện - tượng ấy, theo lý tinh trong khuôn mực của những hình thức tiên thiên.",
+      "",
+      "Ý niệm siêu việt thứ ba là ý niệm về Thượng Đế. Ở đây cũng vẫn chỉ có sự nhầm lớn ấy. Người ta chứng minh thực tại của Thượng Đế bằng cách sau này : Thượng Đế là một đấng hoàn toàn mà sự « có » là một điều hoàn toàn. Vậy Thượng Đế «có \" thật.",
+      "",
+      "Kant đã vạch rõ rằng thuyết minh như thế là lẫn cái có ở trong lý tinh với cái có trong thực tại. Thượng Đế là một lý tưởng hình thức chứ không phải một thực thề."
+    ],
+    "page_81": [
+      "Từ ý niệm về Thượng Đế, ta chỉ có thê suy luận ra ý niệm của sự «có» nhưng \"có\" trong lý tính chứ không phải ngoài thực tại.",
+      "",
+      "Tóm tắt hết cả lại, ta nói rằng những ý niệm siêu việt ấy chi là những hình thức không có bản chất. Những ý niệm ấy có thật trong lý tính, cần cho lý tính, nhưng không phải là những cái có thật trong thực tại. Linh hồn, vũ trụ. thượng đế là những hình thức tiên thiền của lý tính, những khuôn mực đề xếp đặt những sự suy luận chẳng khác gì không gian và thời gian lê những hình thức tiên thiên của cảm giác, những khuôn mực đề xếp đặt những cảm giác ở trong và ở ngoài.",
+      "",
+      "Như thế, tri thức của nhân loại bị giam vào trong giới hạn của thực nghiệm, vào trong thế giới của những \"hiện tượng\", và theo Kant:",
+      "$1 \\cdot$ ) I.ý tính của người ta không đạt tới được chân lý tuyệt đối mà chi có thê tìm biết những hiện tượng.",
+      "2) Ngoài khoa học, không còn cách biết nào nữa."
+    ],
+    "page_82": [
+      "."
+    ],
+    "page_83": [
+      "# PHẦN THƯ BA ",
+      "",
+      "## LUÂN LÝ của KANT"
+    ],
+    "page_84": [
+      "."
+    ],
+    "page_85": [
+      "# CHƯƠNG THƯ NHẤT ",
+      "",
+      "## Vim đẻ đạo đức",
+      "",
+      "Cùng với Kant chúng ta đã đi lên chôn cao siêu nhất trong tư tưởng: Thuần túy lý tinh (Raison pure).",
+      "",
+      "Chúng ta đã tìm xem giá trị của lý tinh ấy đáng bao nhiêu, chúng ta lại biết lý tinh ấy hành động thế nào, và làm thế nào đẻ « biết».",
+      "",
+      "Chúng ta đã giải quyết xong vấn đề giá trị của khoa học. và định rõ phạm vi của khoa học ấy. Nói tóm lại, chúng ta đã trả lời được câu hỏi thứ nhất của triết học: \"Chúng ta có thê biết được những gi ? \"",
+      "",
+      "Giải quyết xong vấn đề ấy, Kant mời"
+    ],
+    "page_86": [
+      "đem thực hành lý thuyết của mình, và tất cả những qui tắc dễ thực hành lý thuyết ấy ta gọi là luân lý Kant.",
+      "",
+      "Muốn biết rõ nội dung của luân lý ấy, trước hết ta phải xét đến nội dung của vấn đề đạo đức, những câu trả lời mà loài người muốn tìm thấy trong luân lý, rồi mới nghiên cứu về những tính cách đặc biệt của Luân. Lý Kant và nội dung của luân lý ấy.",
+      "",
+      "Vấn đề đạo đức, tuy gần chúng ta hơn, vì nó có liên quan đến đời sống hằng ngày của chúng ta, nhưng cũng là một vấn đề phức tạp mà không quá tầm thường như ta tưởng. Thật thế, ta cứ xét đến thực tại của luân lý, luân lý trong đời sống hằng ngày cũng thấy nhiều câu hỏi khó trả lời.",
+      "",
+      "# A. - Thực tại luân lý ",
+      "",
+      "Trước hết ta đừng tưởng rằng \"đạo đức\" là một cái do những ông cụ râu dài, kính trắng gục đầu vào những quyền sách đầy đặt ra. Ta cũng đừng tưởng rằng Khồng tử có đặt ra luân lý thì nó mới có. Chịu khó quan sát chung"
+    ],
+    "page_87": [
+      "quanh ta một chút, ta thấy ngay rằng luán lý là cái có trong đời sống, đi đòi và đi liền với cuộc sinh hoạt của mọi người : Luán lý là một thực tại.",
+      "1.) Trạng thái chủ quan của thực tại luân lý.",
+      "",
+      "Trước hết, thực tại ấy, ta thấy nó ở chính trong chúng ta ; những hành vi của mọi người và của chúng ta, ta xếp thành hai loại : xấu và tốt hay thiện và ác.",
+      "",
+      "Trong tâm chúng ta có một qui tắc hay nói cho đúng hơn có những qui-tắc bắt ta làm điều này, không làm điều kia : đó là bồn phận .",
+      "",
+      "Chúng ta lại có ý thức rằng có những sự chúng ta được phép \" làm và một đòi khi có những điều «săn» phải cho chúng ta làm mà chúng ta có đủ năng lực đòi những điều ấy : đó là quyền lợi. Chúng ta lại tự nhận thấy phải chịu trách nhiệm những hành vi của chúng ta.",
+      "",
+      "Những ý thức ấy không nắm yên trong óc chúng ta, mà nảy nở và xuất ngoại bấng những nhớí phán đoán về giá trị của công việc mọi người, về giá trị hành động của ta, và bằng những tình cảm nhiều khi rất sâu xa như lòng hối hận"
+    ],
+    "page_88": [
+      "khi ta đã làm một điều không phải chẳng hạn",
+      "",
+      "Tất cả những ý thức những nhờ phán đoán và những tình cảm ấy ta gọi là lương tâm",
+      "",
+      "Vậy lương tâm chính là một chứng cớ ở trong ta của thực tại luân lý.",
+      "2) Trạng thái khách-quan của thực tại luân lý",
+      "",
+      "Nhưng chúng ta lại nhìn thấy thực tại ấy ở ngoài chúng ta, ở trong xã hội. trong đời sống và chứng cớ của nó chính là những phong tục.",
+      "",
+      "Trong xã hội mà ta sống, có những quan niệm riêng về danh dự, về công lý, về trách nhiệm, về thực thà, có những qui tắc đặc biệt có liên quan đến sự thực thà, sự kinh trọng mạng người, những bồn phận trong nhé, trong nghề nghiệp, trong quốc gia, những tục cưới xin, ma chay v.v..",
+      "",
+      "Chúng ta thử quan sát xem khi một trong những qui tắc ấy bị phạm, hoặc bị phá, trong xã hội đó xầy ra sự gì. Chẳng hạn chúng ta thử xem trong một tỉnh nhỏ, mỗi khi có một sự gì phạm vào những điều ấy, thái độ của mọi người ra sao. Người ta túm tụm nhau ở đường phố, đến chơi nhà chau, hẹn nhau, đến chỗ nào đề"
+    ],
+    "page_89": [
+      "nói chuyện về việc ấy. Rồi ai ai cũng tức giận. Từ những sự tức giận riêng ấy nầy ra một sự tức giận chung: đó là du-luận",
+      "",
+      "Như thế mỗi người có một luơng tâm riêng và những lương tâm ấy họp thành ương tâm chung : lương tâm chung ấy ta thấy nó ở dư luận, ở những qui tắc, những khuôn mực mà chúng ta băt buộc phải theo, những luạt lệ của xã hội.",
+      "",
+      "Tóm lại, luận lý khơng phải là một điều bịa đặt. Không những người ta thấy nó trong những cuốn sách của cá́ nhà đạo đức, nó còn là một thực tại, một thực tại chúng ta đang sống. Thực tại ấy có hai mặt: một mạ̣ khách-quan và một mặt chủ-quan, một mặt xã hội và một mạ̣ tâm lý.",
+      "",
+      "# B) Sự thiết yếu của Iuân-lý tư-tưởng ",
+      "",
+      "Trong tâm lý và trong xã hội đã có một nền luán tý tự nhiên, như vậy chúng ta có thê lấy thế làm đủ và chỉ việc theo những trực giác của lương tâm với những qui tắc thông thường được khơng?",
+      "",
+      "1.) Những câu hỏi của luân lý : Nếu ta tưởng có thê băt chước một con rùa, không nghĩ đắn gì, chỉ rút cồ vào trong"
+    ],
+    "page_90": [
+      "cái mai của chúng ta, nếu ta tưởng cbi nghe theo trục giác, lương tâm và vâng theo dư luận là đủ, thì đời sống sẽ sửa họ ta cái ào tưởng đó, và vạch cho ta thấy những cái nhầm của ta. Thực thế, như Hoffding đã nói : « Đời sống tự nó dẫn chúng ta đến những câu hỏi ; chúng ta chỉ có thể ngời yên khi mât chúng ta nhìn gần quá mà thôi \"",
+      "",
+      "Mà cái yên ồn đó lỏng lẻo biết bao. Chẳng hạn ngày nay cái yên ồn của một người đã nhắm mắt không nghĩ đến tất cả những vấn đề xã hội là những điều kiện của đời sống chúng ta : vấn đề về gia đình, học dường, lương tâm nhà nghề, chiến tranh và hóa bình, cần lao v... v... cái yên ồn ấy chỉ là một giấc ngủ mỏi lúc có thê bị phá bởi một ngujên nhân ngoại tại, Không cần ra ngoài phạm vi chủ quan, chúng ta cũng nhận thấy trong đời, có nhiều lúc chỉ nghe theo lương tâm và du luận cũng không đủ, chẳng hạn, khi sấp lập gia dirh, hay chọn nghề.",
+      "",
+      "Và lại cái lương tâm tự nhiên ấy, cái nguyên nhân mà chúng ta muốn lấy làm qui tắc hành động ấy, nhiều khi cũng băn khoăn và nhầm lẫn. Không"
+    ],
+    "page_91": [
+      "những thế, có nhiều khi lương tâm riêng và lương tâm chung phản đối nhau, lương tâm của ta và du luận của công chúng tranh đấu với nhau. Những khi ấy, nếu căn bản của chúng ta chỉ có hai phần tử ấy thì chúng ta sẽ hành động ra sao ?",
+      "2.) Vấn đề đạo đức. Như thế ta thấy sự nghĩ ngợi về luân lý - luân lý tư tưởng rất thiết yếu. Nhưng những câu hỏi lặt vặt trên không phải có thể tự nhiên ta có thê trả lời ngay được. Ta phải lấy một cái gì làm căn bản, lấy một vài nguyên tắc làm cơ sở, ta phải có một quan niệm chung về tất cả luân lý sinh hoạ! đó là điều ta cần giải quyết đâu tiên.",
+      "",
+      "Không những thế, chính cái luân lý tự nhiên ta dã nói ở trên cũng đặt cho ta một câu hỏi nữa : có nẹười đã nói rằng : \"Nếu đừng vẽ phương diện khách quan mà xét thi lương tâm của chúng ta thật là một sự bi mạt \"Thực thế, cái « tiếng nói» ở trong tâm chúng ta ấy, cái « tiếng nói \" bảo chúng ta làm điều này, đừng làm điều kia, chính thực nó là gì ? Tại sao chúng ta lại chia sự vật làm hai loại : xấu và tốt và cách chia ấy có ý nghĩa gi 1",
+      "",
+      "Chúng ta lại có những ý thức tự nhien"
+    ],
+    "page_92": [
+      "rè̀ bồn phận, quyè̀n lợi, trách nhiệm thật, nhưng ở trạng thái tự nhiên ấy đó chi là những trực giác lò̀ mờ mà không phải là những ý niệm rõ ràng sáng sủa.",
+      "\"Người ta nhiều khi tưởng nhũ̃ng điều phức tạp là dản dị, và những điều do một cuộc tiến hóa dài mà có là trực giác. Chúng ta biết rằng những thói quen của chúng ta, dần dần, có một tinh cách chắc chắn, đơn nhất và hoàn toàn đến nỗi làm ta nhầm là những bản năng mà không có thầy dâu vết gì của sự dò dẫm khi trước của những thói quen ấy. Những tinh cảm về luân lý cũng chẳng giống nhu thế sao?\"",
+      "",
+      "Trong một vấn đê, nó là tất cả vấn đề sống của chúng ta, ta khơng thè lấy những ý thức mập mờ đó iàm vật liệu đè xây đắp câu trà lời được. Vả lại, tinh chất đặc biệt của loài người là gì nếu không phải là làm cho những diêu thoạt tiên chi là trực giác và tự nhiên thành ra tư tưởng và hợp lý.",
+      "",
+      "Nhu thế chúng ta thấy trên những câu hỏi vè̀ luân lý có mợt câu bồi lớn, vấn đề đạo đức, - vấn đề tìm hiểu về luán lý và tìm những nguyên tắc chi phơi hành vi của loài người.",
+      "3.) Chúng ta đã biết rằng những ván"
+    ],
+    "page_93": [
+      "đề ấy ta không thể không giải quyết được ; mỏ̉i một hành vi của chúng ta chưua tăt cả một nên luân lý",
+      "",
+      "Chúng ta làm một việc gì cũng là trả lò̀i những câu hỏi ấy. Như Pascal đã nói «chúng ta đã lèn tunyền rồi» chúng ta không thè nào tránh những câu trả lời ấy được. Vậy câu hỏi duy nhất chỉ là : «chúng ta sẽ nhảm mắt đi theo trực giác mà trả lò̀i hay phải nghĩ ngợi đề cố nhin thấy rõ mà trả lò̀i ?\"",
+      "",
+      "Trả lời hăng cách nhảm mắt vâng the, trực giác, nghĩa là hành động không có tư tưởng, nghĩa là cho rằng bản năng có giá trị hơá lý trí, nghĩa là lấy sự rối loạn, vô nghĩa lý đẻ̀ t:ả lời.",
+      "",
+      "Và nếu như Pascal đã nói « tất cả nhân cách cỉa chúng ta là ở trong tư tưởng» thì chúng ta khơng còn phải ngần ngại gì nữa.",
+      "",
+      "Mà luân lý không là gì khác sự nghĩ ngợi về đời sống, do đời sống làm nầy ra, và nhờ đời sống dần dần trở nên có phương pháp và có qui củ."
+    ],
+    "page_94": [
+      "."
+    ],
+    "page_95": [
+      "# CHƯƠNG THƯ HAI ",
+      "",
+      "## Nhü̃ng dặc tinh cùa luân lý Kant",
+      "",
+      "Chúng ta đã biết rằng muốn trả lọ̀i những câu hỏi mà đời sống luôn luôn đặt cho ta, cần phải có một quan niệm về tất cả đớ̀ sống luân lý làm căn bản.",
+      "",
+      "Quan niệm ấy không phải là một sự lạ lùng gì : đó là sự tông hợp những ý thức tự nhiên về luân lý và những trạng thái của thực tại luân lý, sự giảng nghĩa thực tại ấy, hay sự xây dựng lại thực tại ấy cho hợp lý.",
+      "",
+      "Quan niệm ấy theo thời gian mà thay đồi, vì thế muốn hiểu rõ công nghiệp của Kant trong luân lý, chúng ta cần biết, trước Kant quan niệm ấy ra sao?"
+    ],
+    "page_96": [
+      "# A. Những quan niệm về luân lý sinh hoạt trước Kan: ",
+      "",
+      "Một quan niệm thứ nhất cho rằng luân lý có nguồn gốc ở một năng lực siêu việt, một năng lực lạ lùng, một ý muốn của Thượng đế. Thiện ác sở dĩ có là do Thượng đế muốn mà thôi : cái gì Thượng đế muốn, người ta gọi là thiện, còn cái gì Thượng đế căm, người ta gọi là ác. Và nếu Thượng đế muớn những điều mà hiện ta cho là ác thì những điều ấy ta sẽ cho là thiện. Vậy ta đừng tưởng rằng: Thượng đế muôn hành động vì hành động ấy thiện, mà trái lại hành động ấy thiện vì Thượng đế muốn nó.",
+      "",
+      "Đó là quan niệm của thần-học-phái. Đặc tính của quan niệm ấy là sự nghiêm khắc của những bồn phận : những bồn. phận là những điều Thượng đế muốn, và vì thế có một giá trị tuyệt đối.",
+      "",
+      "Một quan niệm nữa - quan niệm này phô thông hơn - muốn giảng nghĩa luân lý sinh hoạt bâng lý trí và chỉ mượn ở thực nghiệm sự quan sát này: người ta ai cũng muốn hạnh phúc, tuy mỗi người có một quan niệm về .hạnh phúc khác nhau. Cái hạnh phúc, ấy, nếu ta muốn"
+    ],
+    "page_97": [
+      "rõ nghĩa thì phải lên trên những hạnh phúc tương đố hằng ngày : đó là Chi thiện; chí thiện là gì ? Đó là sự hòa hợp của người ta với vũ trụ. Vũ trụ là một thứ tự hoàn toàn trong đó có những đẳng cấp các bản chất. Và đức hạnh chính là sự tự làm cho ta ăn nhịp với thứ tự ấy.",
+      "",
+      "Vậy hạnh phúc là điều hòa, là thich nghi. Sự hờ hợp ấy chúng ta phải thực hiện ở trong tinh thần chúng ta bâng đức công bằng, và trong xã hội nữa.",
+      "",
+      "Nói tóm lại, hạnh phúc với đức hạnh là một : phúc và đức đi liền với nhau, trộn lẫn với nhau. Nhưng hạnh phúc ở đây không chỉ những sự hoan lạc, hay tất cả các sự hoan lạc họp lại, mà là chỉ sự thực hiện đầy đủ của bản chất con người : chí thiện.",
+      "",
+      "Vì thế Piaton nói : \"Người hiền có thê bị đánh đập, tra khảo, hành hạ : mất có th? bị chọc thủng, tay chân có thê bị đóng đinh, mà vẫn còn thấy sung sướng hơn đứa ác ». Epicure thì bảo : « Nhà hiền triết bị vua xứ Phalaris bỏ vào một con bò bằng đồng rồi đốt lửa nuớng cũng vẫn co thê ở trong một hạnh phúc hoàn toàn ». Sénèque cũng"
+    ],
+    "page_98": [
+      "nói : « Hạnh phúc hoàn toàn nẳm trong đức hạnh » - Leibniz cho rằng chí phúc với hoàn toàn là một - và Spinoza quả quyết rằng: \"Chí phúc không phải là một kết quả đẻ̉ thường công đức hạnh, mà chính là đức hạnh ».",
+      "",
+      "# B. Những đặc tính của Luân lý Kant ",
+      "",
+      "Quan niệm về luân lý sinh hoạt của Kant là một cuộc cách mạng trong lịch sử đạo đức cũng như tri thức luận của Kant trong lịch sử tư tưởng:",
+      "1.) Sau khi phác qua các quan niệm của tiền bối của Kant, ta nhận ngay thấy rằng tất cả những quan niệm ấy đêu có tính cách huyền bí : luân lý có cỗi rễ hoặc là ở chính Thượng Đế, hoặc là ở những vũ trụ quan không có gì làm chứng cớ.",
+      "",
+      "Một trong những công trình lớn nhất của Kant chính là đã làm cho luân lý ra khỏi vòng huyền bí đó và xây dựng một nền đạo đức hoàn toàn trên nền tảng của lý trí.",
+      "",
+      "Trước hết, Kant phá đồ quan niệm cồ sơ cho rằng cỗi rễ của thiện và ác là"
+    ],
+    "page_99": [
+      "# ƠN ",
+      "",
+      "ở những ý muốn độc đoán của Thượng đế. Nếu thiện và ác chỉ là những ý muốn ấy thật, thì những bồn phân nghĩa là những mệnh lệnh của Thượng Đế sẽ không còn có giá trị và không đủ năng lực bắt ta vâng theo. Thực thế, sở dĩ người ta vâng theo Thượng đế, thờ kính Thượng đế, không những chỉ vì sợ mà còn vì phục. Nguồn gốc của cái phục ấy ở đâu ? - Chính ở chỗ : Thượng đế hợp với lý tưởng của chúng ta về cái thiện: như thế nghĩa là trước khi phục Thượng đế, ta đã có sẵn một quan niệm về luân lý rồi. Vâ lại bồn phận không phải chỉ là một mệnh lệnh : ta sẽ có dịp cùng với Kant xét đến nợi dung của bồn phận.",
+      "",
+      "Còn đối với quan niệm của triết học cồ điền về luân lý, nghĩa là của Platon, Aristote, Sénèque, Leibniz Spinoza v.v... thì Kant trả lời rằng : «Vũ - trụ - quan làm nền tảng cho quan niệm ấy là một cái mơ hồ ». Trong tri thức luận của Kant, ta đã thấy óc người không thê biết đến những thực thè̀. Vậy ta lấy cớ gì dám cả quyết rằng: Vũ trụ nghĩa là một sự hòa hợp hoàn toàn, mà dẫu có thật, sự hòa hợp ấy có phải là một thực thè̀ và một nguyên tinh của vũ trụ không,"
+    ],
+    "page_100": [
+      "hay trái lại chỉ là một công trình của tu tuởng, một \" hình thức» mà lý tinh in lên trên vạn vật.",
+      "",
+      "Không những thế, nếu luân lý chỉ là một sự hòa hợp thì luân lý sinh hoạt sẽ thiếu thốn vì không có những cuộc vật lộn, những cuộs bão táp trong tinh thần mà những sự tranh đấu ấy chính là một phần tử thiết yếu của luân lý sinh hoạt.",
+      "",
+      "Nói tóm lại, theo Kant, luân lý khờng thè lấy những điều huyền bí làm cỗi rễ. Trái lại những ý niệm huyền bí là những định tắc của luân lý, nghĩa là những qui tắc không thê dùng lý trí giảng rghĩa nỗi do luân lý mà có.",
+      "",
+      "2) Luân lý của Kant có một đặc tính thứ hai là dành cho «bồn phận» một chỗ rất quan trọng.",
+      "",
+      "Những học thuyết cờ điền cho rằng «bồn phận» dẫn đến hạnh phúc và phải phụ thuộc hạnh-phúc. Kant thuyết minh rằng trái lại hạnh phúc và cái thiện chỉ là những cái phụ thuộc của Bồn Phận.",
+      "",
+      "Tại sao một hành vi về luân lý có giá trị? Có phải là vì kết quả của hành vi đó không? Không phải vì uếu chỉ lấy kết quả mà đo giá trị của một công việc thì chúng ta sẽ đến những cái nhầm rất lớn. Nếu thế"
+    ],
+    "page_101": [
+      "thì cái gì làm tiêu chuâ̂n cho giá trị của một hành vi ? - Đó là cái \"ý muớa\", nguyên chất của cái \"ý muốn \" đã làm cho ta hành động. Thí dụ: một người muớn ám sát một người khác, nhưng đến lúc do súng bấn lại bân trượt mà trượt trúng vào một con rân sâp cân chết người thứ hai này - Kết quả của hành động ấy tớt nhưng ý muốn của nó xấu, Vi thế nên hành động ấy xấu. Vậy một hành động «thiện» khi người ta có ý tốt và những cái lương tâm ta thường cbo là «thiện» cũng chỉ là thiện ý (bon e rolonté) Thiện ý không phải chỉ là ý muốn hánh động cho hợp với qui tắc luân lý mà còn là ý muớn hành động chi vi kính trọng qui tắc ấy mà thôi. Nếu chẳng hạn tôi muốn hành động theo luân lý nhưng không phải chi vi kính trọng luận lý mà còn vì tôi muốn được tiếng tăm, hay muớn lừa dới thiên hạ thì tôi không có thiện ý, mà vì không có thiện ý nên hành động của tô̂i không có giá trị về luân lý - Vi thế Kant nói :",
+      "\"Tư hinh dung ra chinh qui-tắc luân lý rồi lấy sự hình dung ấy làm nguyền tà̀: đề định hướng cho ý chí, chứ không"
+    ],
+    "page_102": [
+      "lấy kết quả ta mong đợi làm nguyên tắc ấy, - Chĩ có hành động nhu thể mới là \"thién», là «luân lý»",
+      "",
+      "Nói rõ hơn, muốn cho những công việc của ta có một giá trị luân lý, ta phải rõ những luật đạo đức, trông thấy rõ những luật ấy và có ý muốn hành động cho hợp với những luật ấy, chỉ vì kính trọng những luật ấy chứ không phải vì ta theo đuòi một kết quả gì.",
+      "",
+      "Nhưng muốn hình dung những luật luân lý cho rõ ràng không phải là dễ, và muốn hành động chỉ vì kinh trọng những luật ấy lại là một cái khó thứ hai.",
+      "",
+      "Cái khó ấy có cội rễ ở chính nợi dung tinh thần : ngoài ý chí chúng ta lại còn có tình cảm, vì thế nên ý chí bị nhiều cái ngăn trở mà những điều ngăn trở ấy thuộc về chính chúng ta.",
+      "",
+      "Nếu ta dem tông bọ̣̣ ý thức về «thiện $g$ » và ý thức vê những sự ngàn trở do nội dung của tâm lý chúng ta mà có ấy, thì ta cấu tạo nên ý thức vê bồn phận : vì có nhẽng sự ngăn trở của tinh thần chúug ta nên sự ý chí váng theo những luật luân lý đối với ta có tính cách bó buộc. Mà trong sự thật thì những cái gì có tính bó buộc? - đó chính là những"
+    ],
+    "page_103": [
+      "mệnh lệnh. Ta kết luận rằng : \"Bồn phận là mệnh lênh.\"",
+      "",
+      "Mệnh lệnh ấy không phải là một mệnh lệnh giả định, nghĩa là bảo chúng ta làm một việc gì là đề đến một kết quả khác. Ví dụ: «Nếu anh muốn khỏe mạnh thì anh phải tiết độ.\" - Bồn phận - và chỉ có bồn phận - là một mệnh lệnh quả quyết, một mệnh lệnh không có điều kiện gì làm hẹp phạm vi lại, một «vô thượng mệnh lệnh» - ví dụ : «anh phải có tiết độ ». Thề thực của bồn phận là : «Làm cái gì phải làm-kết quả ra sao mặc nó.\"",
+      "",
+      "Như vậy, bồn phận là một qui tắc nghiêm khắc, một luật lệ bó buộc, mà nhũng luật lệ ấy làm tiêu chuẩn cho giá trị của các hành động về luân lý. Khi nào mợt hành động có thể bị khiển trách ? Khi có phá nhũng luật lệ ấy. Thực vậy, cùng một hành động mà có thể được khen hay chê, tùy theo những luật lệ ấy đã có hay chưa - Sự giết người trong thời bình là một việc ác nhung ngoài chiến trường không còn tính cách ấy, vì lúc bấy giờ luật cấm giết người không còn nữa - Những luật lệ ấy chúng ta không được phép cãi rằng nên có » hay «không nên có », nó « có thật» hay « không có thật »..."
+    ],
+    "page_104": [
+      "Một tinh cách nữa của bồn phận tà tinh cách hợp lý. Bồn phận và lý chỉ là một. Và ý thức vê̂ bồn phận không hơn không kém chính là «ý thức về giá trị tuyệt đối của một sự thực \" Bồn phận, nghĩ cho cùng, chỉ là một sự thiết yếu về suy luận, một điều má suy luận cho ta biết rằng không thè trái lại được.",
+      "3,1 Vî thế Kant xây nên luân lý của minh trèn lý tri và chỉ trèn lý tri mà thôi. Đối vời ông, luân lý nghĩa là lý tri : Đó là đặc tính thừ ba của luân lý Kant.",
+      "",
+      "Lý tinh như ta đã biết có tinh cách lièn thién. Không những thế lý tính lại có ha ${ }^{i}$ trạng thái : một trạng thái thuần tủy có. vượt khỏi phạm vi thực nghiệm tim đến những chốn cao siêu đẻ̉ giải quyết những vấn đề huyền bí, một trạng thái thực hành đẻ chỉ huy sự hành động của con người. Hai trạng thái đó điều có tinh tièn thién.",
+      "",
+      "Lý tinh thuần túy đã làm nảy ra những ý niệm siêu việt về linh hồn, vũ trụ và Thượng đế thì lý tính thực hành cũng làm nảy ra khái niệm về Bồ̀n phán. Vậy ý niệm về bồn phận không phải do ngoại giới đem vào cho ta, không phải"
+    ],
+    "page_105": [
+      "do kinh nghiệm mà có. Tuy ta có thê tìm tháy ỳ niệm ấy bâng cách giải tích lương tám thông thường, nhưng y niệm ấy có tính cách tiên thiên.",
+      "",
+      "Nói cho rõ hơn, chúng ta sinh ra đời đã có ngay một ý thức-vê bồn phận, ý thức ấy dựa vào những ý thức của lý tri về chân lý. Đối với chúng ta bồn phận là những cái hợp lý nhất. Vậy ta không nên tưởng rằng tới khi ra đời, dân dà ta mới do kinh nghiệm mà biết thế nào là bồn phận. Trái lại trí óc ta in lên trên những hành vi của ta cái « hình thức » ý niệm về bồn phận và do đó ta mới biết hành vi nào phải, trái, thiện, ác",
+      "",
+      "Như the muôn tách riêng ý thức về bồn phận ấy ra, muốn cho ý thức ấy có một tính cách thạt thuần túy, muốn trông thấy rõ những luạt luân lý, chúng ta phải loại tất cả những phần tử hậu thiên của tinh thần do kinh nghiệm cảm giác, tình tự, ích kỷ mang lại và tất cả những gì có liên lạc đến hạnh phúc của chúng ta."
+    ],
+    "page_106": [
+      "."
+    ],
+    "page_107": [
+      "# CHƯƠNG THƯ BA ",
+      "",
+      "## Luân lý của Kant",
+      "",
+      "Sau khi đã biết rõ nhũng nguy ền tắc căn bản trên đó Kant xây một nền luân lý mới, ta vào vấn đề phân tách nội dung của nền luân lý ấy .",
+      "Ở đây chúng ta mới thật được biết Kant trả lò̀i- câu hỏi : «Chúng ta phải làm gi ? » ra sao.",
+      "",
+      "Trong luân lý của Kant chùng ta phân biệt hai phấn : một là những nguyên tắc đề hành động, tức là phần luân lý chính thức, và hai là những định tắc tức là những ý niệm siêu việt không thè giảng nghĩa được của luân lý.",
+      "",
+      "Những nguyên tắc hành động, trong"
+    ],
+    "page_108": [
+      "luân lý Kant, đều do khái niệm về bồn phận mà ra cả. Vì thế trước hết chúng ta cần xét đến vô - thượng - mệnh - lệnh và những hình thức của nó.",
+      "",
+      "# A. - Vô-thượng-mệnh-lệnh và ba thè thú́e của nó ",
+      "",
+      "Ta đã biết khái niệm về bồn phận là một cái đi liền với bản tinh của con người, do đặc tính của người ta mà có.",
+      "",
+      "Trong thiên nhiên cái gì cũng bị những định luật chi phối và hành động theo những luật ấy, chỉ có người là hành động theo hình dung của những luật lệ. Vậy đó chính là đặc tính của người. Giưra \"hình dung\" ấy với những điều \"ngăn trở chủ quan\" có một sự tranh đâu. Sự tranh đấu đó làm nầy ra ý thức của luân lý mệnh lẹnh và mệnh lệnh này trái với mọi mệnh lệnh khác có tính cách \"vô thượng\" nghĩa là quyết đoán.",
+      "",
+      "Như vậy mệnh lệnh luân lý ấy chỉ chú ý làm thay đồi « hình thức» của những hành vi, nghĩa là cái phần của hành vi gồm có ý muốn chứ không chú ý gì"
+    ],
+    "page_109": [
+      "đều phần kết quả vật chất vì như thế, những lệnh đó sẽ bị phụ thuộc vào sự có thê thực hành được hay không, và sẽ không còn tinh cách vô thượng nữa.",
+      "",
+      "Nói rõ ràng hơn, luân lý của Kant chú trọng đến cách chúng là hành động tức là hình thức của hành động chứ khồng chứ ý đến kết quả của hành động ấy.",
+      "",
+      "Và sở dĩ những bồn phận có tính cách vô thượng chích là vì nó không chú ý gì đến kết quả cả.",
+      "",
+      "Ví dụ : luân lý mệnh lệnh nói : « anh phải tiết độ ». Nếu chú ý đến kết quả, nó sẽ nói : « nếu anh muốn được khỏe mạnh ». Nhưng khi ấy mệnh lệnh đó sẽ bị phụ thuộc vào kết quả ấy, vì nếu có người nói : « tôi kheng muốn khỏe mạnh » thì lệnh «anh phải tiết độ » sẽ không còn giá trị nữa.",
+      "",
+      "Vì thế ta nhắc lại một lần nữa : vô thượng mệnh lệnh chỉ chú ý đến hình thức của hành động.",
+      "",
+      "Nhưng cái hình thức cần yếu cho luán lý hành động ấy là gì ? - Đó là tính cách chung cho tất cả mọi truờng hợp, tính cách phổ cặp : hợp lý nghĩa là phổ cặp.",
+      "",
+      "Một luật, luân lý chính là một luật mà ta cho rằng đối với ý chí của tất cả mọi"
+    ],
+    "page_110": [
+      "người đều có giá trị cả và khi nào một ý gì được ai cũng coi như thế thì hóa thành một luật luân lý :",
+      "1.) Vi thê, thê thức đậu tiên của Luân lý mệnh lệnh là :",
+      "",
+      "Hành động thế nào cho phương châm hành động cảa minh có thê được ý chi làm cho thành một luật phô cặp của Tụ. Nhienn»",
+      "",
+      "Như thế tự tử là hành động trái luân lý, vì người muốn tự tử không thê làm cho phương châm hành động của anh ta thành phô cạp được. Ta thử tưởng tượng nếu phương châm ấy được phô cạp, tự nhiên sẽ biến thành gì. Luật phô cạp trong tự nhiên là làm nảy nở sự sống. Chúng ta cũng ở trong tự nhiên, vậy tự tử chính là tự mâu thuẫn với minh người hay hứa hão huyền cũng thế, không thê làm cho phương châm hành động của anh ta thành phô cạp được : khi ta hứa với ai một điều gì chính là vì ta tin rằng người ấy còn tin ở nhờ hứa đó. Vậy hứa hão là tự mâu thuẫn với ta, là tự mâu thuẫn với lòng tin của chính ta - Người nào khơng chịu trau dồi thien tài của mình hoặc lãnh dạm trước cái đau khô của người khác cũng vậy tự mình"
+    ],
+    "page_111": [
+      "máu thuẫn với ý chí của mình vì người ta ai cũng có ý chí mà ý chí có mục dích là đem những luật của nó bắt vạn vật vâng theo.",
+      "2.) Không những ý chí thay đồi theo những luật phô cặp hướng vè chiều này hay chiều kia bởi những luật ấy, mà còn do những mục đích nữa. Nhưng nhữg mục đích thường, những mục dich chủ quan đều có tính cách tương đối và chỉ có thê tạo nên những mệnh lệnh giả dịi $h$ : ví dụ một mục đích của n goời : sức kí ỏe Mục đích ấy chỉ có thê tạo nên mệnh lệnh này : « nếu anh muốn khỏe, anh phải tiết độ». Vậy chỉ có một mục đích bản nhiên, nghĩa là một mục dich chính nó làm mục đích cho nó, một mục đích không phải là đề dấn đến một mục đích khác là có thê tạo nên một vô thượng mệnh lệnh. Nói rõ ràng hơn : thường chúng ta theo đuôi nhiểu mục đích. Nhưng những mục đích ấy chỉ là những phương tiện đề đạt tới những mục đích khác. Vi thế những mệnh lệnh bảo ta hành động đề đạt tới những mục đích thứ nhất lại còn bị những mục dich thứ hai làm điều kiện, làm hẹp giới hạn lại. Ví dụ: mục đích gần của ta là tiết độ. Nhưng mục đích ấy chỉ là một"
+    ],
+    "page_112": [
+      "cách giúp chúng ta đạt tới một mục đích thứ hai : sức khỏe.",
+      "",
+      "Như vậy, mệnh lệnh ; \"anh phải tiết độ\" bị mục đích thứ hai đó \"nếu anh muốn khỏe» làm hẹp giới hạn lại. Vị thế mệnh lệnh bị hạn định ấy không tìm cách là một bồn phận và không đủ là một bồn phận cho ý chí lấy làm tiêu chưằn nữa.",
+      "",
+      "Trái lại, một mục đích bần nhiên, nghĩa là một mục đích không làm phương tiện đẻ đạt tới một mục đích nào khác, mót mục đich chính nó lại là mục đích của nó, thì có thẻ tạo nên một vô thượng mệnh lệnh Vi dụ : nếu ta chỉ muốn tiết độ đẻ tiết độ thì mệnh lệnh «anh phải tiết độ» sẽ có tính cách vô thượng ngay.",
+      "",
+      "Nhưng mục đích nào có thẻ là mục đích bần nhièn ấy? Những vật vô tri hay những sinh vật vô tri chỉ có một giá trị tương đõi. Chỉ sinh vật có lý iri là có một giá trị tuyệt đối : đó là loài người; vì thế, thẻ thức thứ hai của vô thượng mệnh lệnh là :",
+      "\"Hành động thế nào đẻ coi nhân loại ở chinh thân ta và ở người khác như mợt mục đich chứ không phải một phương tiện»",
+      "",
+      "Thử xét lại bốn thi dụ đã kè trên, ta thấy : người tự tử coi chính thân anh ta như một phương tiện, chứ không phải"
+    ],
+    "page_113": [
+      "một mục đích, vì không ai lại tìm cách phá mục đích của chính mình. Người không giư nhờì hứa cũng vậy, coi người khác như một phương tiện, vì nếu ta coi người khác như một mục đích cuối cùng thì không bao giờ ta lại tìm cách đánh lừa ai. Còn người đẻ̉ cho thiên tài của mình mai một hoặc lãnh đạm với cái đau khễ của người khác thì coi tất cả nhân loại như một phương tiện chứ không phải là một mục đích bản nhiên nữa.",
+      "3.) Sau hết, nguời ta đã bảa nhièn là một mục đích rồi thì không thè̉ là một đồ dùng đẻ̉ vâng theo những luật của ngoại giới được. Người chỉ vâng theo người, và những luật chi phối hành động của người chính ở lý trí người mà phát sinh. Vì thế ý chí không chịu ảnh hưởng của ngoại giới và hoàn toàn độc lập. Do đó, nảy ra nguyên tắc:",
+      "\"Suy tuởng ý chi của nhân loại nhu một cái gì cai quà̀n hết vạn vật\"",
+      "Và cũng do đó, nầy ra quan niệm một xã hội lý tưởng và có hệ thống trong đó mỗi người tự coi mình như một mục đích bản nhiên, và tất cả mọi người coi nhau như những mục đích bản nhiên. Mỗi người trong xã hội ấy vừa lập pháp vỉa vâng theo"
+    ],
+    "page_114": [
+      "pháp luật ấy; Nói tóm lại một xã hội thực hiện lý tính.",
+      "",
+      "# B - Nhũng định-tảe của lý-tinh thực hành ",
+      "",
+      "Luân lý của Kant tận cùng bằng một cái vỗ cánh bay lên thật cao: thực thế, theo Kant, luân lý đem ta từ thế giới bề ngoài, thế giới của cảm giác lên một thế giới cao siêu hơn : thế giới của nhit̃ng «thực thè̀». Muốn thế, luân lý phải dựa vào những nguyên tầ: tuy không giảng nghĩa được nhưng hợp với những quan niệm của lý tính : đó là những định tắc của lý tắc thực hành.",
+      "",
+      "Những định tắc ấy là :",
+      "1) Tự do: Nghĩa là ý chí có thè̀ hoạt động ở ngoài phạm vi ảnh hưởng của những ngoại tại nguyên nhân định hướng cho ý chi ấy : Ví dụ, một vô thượng mệnh lệnh bảo ý chí làm điều nọ hoặc đừng làm điều kia; ý chí có thè hoặc vâng theo, hoặc không theo lệnh ấy mà không bị bó b ợc gì cả. Chỉ khi nào có sự tự do ấy, một hành động mới có một giá trị luân-lý. Vì thế muốn có bồn phận thì phải có tự do. Nhà thi sĩ Schiller đã tóm"
+    ],
+    "page_115": [
+      "tất tất cả lý luận ấy trong một câu :",
+      "\"Anh có thể, vậy anh phải\"",
+      "Một dòi khi Kant còn coi tự do và bồn phận là một. Thực thế, theo Kant, ý chí hợp với luân lý là ý chí hành động do hình dung của những bồn phận, chứ không do một điều gì của kinh nghiệm hay của giác quan mang lại.",
+      "",
+      "Cái năng lực có thể hành động ở ngoài những điều kiện của kinh nghiệm ấy chính là sự tự do vậy.",
+      "",
+      "Sở dĩ sự tự do ấy có được là vì người ta vừa là một « thực thề» vừa là một hiện tượng.",
+      "",
+      "Nếu ta chỉ coi người là mộ! hiện tượng ta sẽ nói rằng tự do ấy không có. Vì nếu người là một hiện tượng, thì cũng như những hiện tượng khác, phải biến hóa trong thời gian và chịu những điều kiện của thời gian. Ở đó, những nguyên tắc làm cho y chí khuynh hướng vẽ chiều nọ hay chiều kia đều nắm trong một chổ không thuộc về phạm vi ảnh hưởng của người ta : thời gian. Vì thế nếu người chỉ là một hiện tượng thì chúng ta có thể biết được những hành động của hắn oũng như có thể biết những sự biến hóa của các hiện tượng trong vũ trụ."
+    ],
+    "page_116": [
+      "Nhưng người lại còn là một \"thực thè̀ n và biết mình là một thực thè̀ nữa. Đã là một thực thè̀, hân vượt khỏi phạm vi thời gian, ra khỏi được những diều kiện của \"hình thức tiên thiện \" ấy, và không còn gì có thè được coi là đã xảy ra trước hành đợng của ý chí hân. Khiến hân có thè̀ tự coi là chi vâng theo những luật mà hân tìm thấy trong lý tính của hân.",
+      "",
+      "Vậy tự do của người ta chính là sự vượt khỏi phạm vi của thời gian.",
+      "2.) Linh hồn bất diệt. -Quan niệm rằng linh hồn của tính cách bất diệt là định tắc thứ hai của luân lý Kant.",
+      "",
+      "Định tắc ấy cầu thiết cho luân lý vì ở đờ ta đang sống có nhiêu trở lực cho hành động của ý chí.",
+      "",
+      "Ý chí chỉ có thè̀ hành động hoàn toàn theo luân lý, khi nó không bị những trở lực ấy kìm hãm nữa ; và chỉ trong đời sống sau đời hiện tại, nghĩa là trong đời sống mai sau của linh hồn, là ý chí có thè̀ đạt tới bực ấy bởi một cuộc tiến hóa vô cùng.",
+      "3.) Định tắc sau cùng của lý tính thực hành là Thực tại của Thượng Đế. Thượng Đế có thật vì lý tính của ta thấy cần có một đấng gì siêu việt tổng hợp hai phần"
+    ],
+    "page_117": [
+      "tử: bồn phận và đức hạnh -Nếu có thượng đế, lý tính mới có thê suy tưởng nồi chi-thiện và chi phúc; nếu, trái lại, chúng ta muốn tơng hợp hai phân tử ấy, thì cũng là vì những nguyên nhân ta có thê biết được - mà khi ta đã biết nguyên nhân khiến ta muốn tông hợp đức hạnh và bồn phận thì ta không còn đủ đức hạnh mà tông hợp hai phăn tử ấy, vì sự tông hợp bấy giờ không còn là một kết quả của những luật tự nhiên nữa.",
+      "",
+      "Nếu cầu tóm hết cả luân lý của Kant ta sẽ nói :",
+      "« Luân lý sinh hoat và lọ̀ tinh sinh hoạt là một» -",
+      "",
+      "Quan niệm ấy là căn bản của tất cả những nguyên tắc Kant dạy chúng ta. Những luật của luân lý và những luật của ly tinh chỉ là một, vì những luật nào khiến chúng ta suy luận đúng lại là những luật giúp chúng ta hành động công bằng.",
+      "",
+      "Và như thế, suot trong tác phầm của Kant ta thấy lọ̀ tinh luồn luôn hoạt động, phá hoại rồi lại sáng hóa, đạp đồ những nguyên tắc cồ diền rồi xây đắp nên những nguyên tắc mới thay vào đấy."
+    ],
+    "page_118": [
+      "Không những thế, lý tinh ấy còn tự giải thích và tìm trong nội dung của nó tất cả những nguyên tắc thiết yếu của khoa học và luân lý để cho ta có đủ phương tiện mà thực hiện lý tưởng làm người."
+    ],
+    "page_119": [
+      "# PHẦN THỨ TU ",
+      "",
+      "## PHÊ BÌNH TRIÊr HỌC KANT"
+    ],
+    "page_120": [
+      "."
+    ],
+    "page_121": [
+      "# CHƯƠNG THỦ NHẤT ",
+      "",
+      "## Khuyêt dièm của triêt học Kant",
+      "",
+      "Tới đây, ta đã xét qua được nhũng phần tử quan trọng nhất trong triết học Kant, tuy còn chưa được biết những ý kiến của ông về những vấn đề nghệ thuật, tôn giáo v. . . v. . .",
+      "",
+      "Ta đã thấy Kant làm đảo lộn hẳn triết học ra sao và những quan niệm của ông khác những quan niệm cô điền thế nào ? Đặt họs thuyết của Kant bền những học thuyết thời ấy và những học thuyết thời trước, ta thấy rõ giá trị sự nghiệp của Kant.",
+      "",
+      "Nhung luật chung của triết học cũng như của nhân loại vẫn là tiến hóa. Vi thế nhờ những người đi sau Kant, ngày nay ta đã có thề nhận rõ chân giá trị của"
+    ],
+    "page_122": [
+      "triết học Kant hơn và cũng nhờ thế chúng ta mới dám tìm những khuyết diè̀m của một hệ-thống triết học cao siêu và chặt chẽ trong những hệ-thống chặt chẽ nhất.",
+      "",
+      "Tất cả học thuyết của Kant, như chúng ta đã biết, đều dựa vào một vấn đề chính: giá tri của tri thức.",
+      "",
+      "Vậy trước khi sang những vấn đề khác chúng ta bäy thử xét xem những khuyết điềm trong tri-thức-luận là những gì?",
+      "",
+      "# A - Những khuyết điềm trong tri thức luận của Kent ",
+      "",
+      "Muốn phê bình tri thức luận của Kant, khỏ̉ng có phương pháp gì hay hơn là theo đúng thứ tự của chinh Kant.",
+      "",
+      "Vi vậy, trước hết chúng ta hãy xét về giá trị của duy lý luận sau mới phê bình Tương đơi luận.",
+      "",
+      "## 1. + Duy lý-luận",
+      "",
+      "Nhắc qua lại những tinh cách của duy lý luận một lần nữa không phải là thừa vì trong khi xét lại từng phần tử của học thuyết ấy, chúng ta sẽ nhân dịp đó tìm những khuyết điềm của từng phần tử một."
+    ],
+    "page_123": [
+      "1) Ta còn nhớ tính cách thứ nhất của duy lý luận là tinh cách tiên th'ên. Kant công nhận rằng thực nghiệm có quan trọng nhưng theo Kant thực nghiệm sở dĩ có được là vì trước nó đã có những hình thức tiên thiên của tri thức. Như vậy Kant cho rằng tri tuệ người ta mới sinh ra đã có một nội dung nhất định. Nhưng chỗ yểu của Kant là không giảng ngkĩa được nội dụng ấy - Vì khi đã cho rằng những phần tử của trí tuệ có tính cách tiên thiên là đặt một cái có sẵn, là quay lưng không giảng nghĩa gì nữa.",
+      "",
+      "Đã thế Kant lại không dựa vào một hệ-thống có tính cách huyền bí như tiền bối của ông đề giảng nghĩa tính cách tiên thiên ấy bằng cách làm cho người ta thành một thê khác hẳn vạn vật và bâng cách làm cho lý trí thành một cái huyền bí và có tính cách tuyệt đối.",
+      "",
+      "Vì thế, khi đọc xong duy lý luận ta băn khoăn không trả̉ nhờ được câu hỏi : tại sao trí luệ ta lại có những hình thức tiên thiên trong một khuớn mực chật hẹp và bất di bất dịch như thế ?",
+      "",
+      "2.) Trong duy lý luận ta lại thấy lý tính có tính cách phổ cạ̣p và thiết yếu. Theo Kant, những hình thức tiên thiên"
+    ],
+    "page_124": [
+      "là điều kiện thiết yếu của tất cả những sự nhận thức và làm tiêu chuẩn cho chân lý. Tóm lại, giá trị của lý tinh là một giá trị tuyệt đối.",
+      "",
+      "Đó là chỗ yếu nhất của duy lý luận.",
+      "Sở dĩ Kant quyết đoán nhự vậy vì Kant là một \" nạn nhân \" của hai ảo tuởng cựu truyền.",
+      "a.) Kant đã tuởng rằng tu tuởng luận lý là tất cả tu tuởng của nhân loại, nghĩa là tu tuởng của người ta chỉ nghĩa là suy luận. Vì thế nên tất cả học thuyết của Kant đều xây dựng trên lý tinh tức là cơ năng của sự suy luận.",
+      "",
+      "Đó là một ảo tuởng mà mãi tới ngày nay người ta mới bỏ được-Tư khi Aristote đặt khuôn mực cho luận lý hình thức, các triết nhân đều tuởng rằng người ta chỉ có thê nghĩ ngợi bâng cách suy luận và khi suy luận thì chỉ có thê suy luận bâng những nguyên tắc của luận lý nghĩa là đồng nhất nguyên tắc (có máu thuẫn nguyên tắc đi kèm) và sung túc lý do nguyền tắc (có nhân quả nguyên tắc đi kèm)",
+      "",
+      "Đó là những tu tuởng sai lầm : trước hết tu tuởng không phải chỉ có thê hoạ! động bâng suy luận - Thật vậy, trong khi mê hoảng, trong lúc ngủ, trong tôn"
+    ],
+    "page_125": [
+      "giáo, tâm lý có những cách phát triễn khác hẳn sự suy luận - ấy là không kề trực giác là một cách biết của tư tưởng ở ngoài hẳn lý tính (xem : triết học Bergson của giáo sư Lê chí Thiệp) và cả đến tư tưởng của những triết nhân cũng không hẳn đã hoàn toàn là suy luận, vì còn có những ý thức về sự may rải ngẫu hữu, về tự do ý chi là những ý phủ nhận suy lý.",
+      "",
+      "Và giả thứ nếu nay, cùng với Kant, chúng ta có nhận rằng tư tưởng chị có thê hoạt động bằng cách suy luận thì cũng còn nhiêu cách suy luận, chứ không phải chỉ có một cách suy luận trong phạm vi nhỏ hẹp của mấy nguven tắc mà Aristote đã định rõ.",
+      "«Xưa nguời ta nói: đồng nhất nguyên tắc là một luạt tuyệt đối của tinh thôn và tu tuởng khơng thê nào vuợt qua nguyen tắc ấy dược; đó là một diều lầm lâm : trong nhû̃ng giấc mơ, nhû̃ng lúc hoảng hốt, trong tón giáo, những sự máu thuần luồn luồn xảy ra: luy thế những người ốm nhû̃ng người mê hoảng, vần nghĩ ngợi và nhiêu khi lại còn tin chắc nữa. Vậy đồng nhát nguyên tắc không phải là một luật của tư tuởng, đó là một luật mà người ta"
+    ],
+    "page_126": [
+      "bất ta tuởng váng theo khi ngươi ta muốn suy nghĩ cho hợp với lý tinh.\"",
+      "",
+      "Nhung không những chỉ trong những lúc ốm hoặc mê, tư tưởng mới vượt khỏi phạm vi của đồng nhất nguyên tắc.",
+      "",
+      "Tâm lý học cho ta biết rằng tư tưởng của đứa trẻ không đề ý đến sự mâu thuẫn một chút nào cũng như tư tưởng của những dân tộc Mọi. Chẳng hạn., bộ lạc Boroto (ở xứ Ba Tây) nói với mọi người rằng họ là những con vẹt đỏ, mà không những câu ấy nghĩa là theo tin ngưỡng của họ sau nãy họ sẽ hóa thành những con vẹt đỏ đâu, họ quả quyết rằng: hiện thời họ đang là những con vẹt đỏ.",
+      "",
+      "Nhưng ta hãy rời những rừng rậm xứ Ba Tây mà trở vẽ những xứ văn minh nhất Âu châu với những triết nhân là những người đáng thay mặt cả nhân loại.",
+      "",
+      "Ta sẽ thấy rằng không có những người nào hay mâu thuẫn bằng những vị ấy và không có tư tưởng nào chứa đựng mâu thuẫn bằng tư tưởng triết học Như thế, có phải là tư tưởng triết học không có giá trị gì không? - Hẳn là không và nhờỉ giải của những sự mâu thuẫn ấy có"
+    ],
+    "page_127": [
+      "lẽ một học phái cận đại đã tìm được: đồng nhất nguyên tắc chỉ có giá trị ở ngoài thời gian, nghĩa là khi ta muốn suy luận trong một lúc nhất định nào thôi. Còn nếu ta muốn suy luận lâu dài thì nguyên tắc ấy không có giá trị nữa : trong hai ý tưởng mâu thuẫn nhau, ta không bắt buộc phải chọn lấy một và cho một ý tưởng nhất định là đúng đề loại ý tưởng kia. Trái lại, cả hai ý tưởng ấy đều có một phương diện đúng và một phương diện sai. Tư tưởng khi ấy chỉ là tìm cách dung hóa tông hợp cả hai ý tưởng mâu thuẫn nhau ấy trong một ý tưởng mới đê tìm cách làm mất ạư mâu thuẫn ấy đi.",
+      "b) Ảo tưởng thứ hai đã làm Kant suy luận nhầm là tin rằng :",
+      "",
+      "Chinh tu tuởng luận lý cũng có một hình thức bất di bất dịch nhu nhũng nguyê̂n tắc căn bản.",
+      "",
+      "Kant cho rằng lý tính không có tiến hóa chuyển biến. Vì thế nhũng hình thức tiên thiên của lý tính, theo Kant, có một tính cách bất di bất dịch. Trái lại, khoa học cho chúng ta biết rằng, cj̃ng nhu vạn vật tinh thần không tĩnh mà động luồn và những cơ bản quan niệm của"
+    ],
+    "page_128": [
+      "lý tinh ấy cũng không khác gi, luôn lưôn thay đồi : chẳng hạn những quan niệm vè thời gian và không gian hay quan niệm về nhân quả.",
+      "",
+      "Ta lấy quan niệm về nhân quả tức là nguyên tắc làm căn bản thứ hai của luận lý mà xét : khi xưa lúc khoa học mới phát hiện người ta cho rằng nguyên nhân làm nầy ra kết quả, và ở trên kết quả, vì chỉ có nguyên nhân có ảnh hưởng đến kết quả chứ kết quả không có ảnh hưởng gì đến nguyên nhân. Nhưng ngày nay, khoa học cho ta biết rằng nguyện nhân không còn giữ địa vị ấy và ý thức về nhân quả ngày nay chỉ còn là một ý thức về sự liên lạc giữa những hiện tượng ý thức những luật của vũ trụ",
+      "",
+      "Vậy cái lầm căn bản của Kant là cho rằng lý tính có tính cách băt. di bất dịch",
+      "3) Sau hết cái lầm chung của Kant cũng như của tiên bối của ông, nghĩa là các triết nhân thuộc vê kinh nghiệm phái là muốn tách riêng tư tưởng và thực nghiệm.",
+      "",
+      "Vi thế kinh nghiệm phái thì nhắm mắt tin rằng có một tri giác khách quan khiến tư tưởng không cân hoạt động. Còn Kant thì có ảo tưởng là có một tri thức"
+    ],
+    "page_129": [
+      "hợp lý làm tư tưởng không phải hỏi han thực nghiệm nữa,",
+      "",
+      "Trong thực tại, trái lại, tư tưởng với thực nghiệm luôn luôn đi đôi với nhau và «tri thức của nhân loại sở dĩ có giá trị là nhờ ở sự phối hợp chặt chẽ của lý tính và thực nghiệm»",
+      "",
+      "# II Những khuyết diềm của tuơng dối luận ",
+      "",
+      "1) Tương đơi luận do duy lý luận mà có. Vi thế nên những cái lầm của nó cũng không khác những cái lầm của học thuyết trên.",
+      "",
+      "Trước hết, tuơng đởi luận ấy dựa vào quan niệm của Kant về nội dung của tinh thần, mà theo quan niệm ấy lý tính có tính cách bất di bất dịch và cách biết hẳn thực nghiệm. Ta đã biết tính cách ấy gây cho học thuyết của Kant nhũ̃ng câu hỏi nào. Bây giờ ta chỉ nên vạch nhũ̃ng ảnh hưởng ấy của nhũ̃ng câu hỏi đó :",
+      "a) Khi cho lý tính là một thực thè̀ không thè̉ giảng nghĩa được, Kant làm ta có thè̉ tin rằng tất cả tri thức của người ta đều có tính cách ngẫu hũ̉u (nghĩa là có cũng không được và không có cũng được)."
+    ],
+    "page_130": [
+      "Khi ấy ta có thê từ đó dễ dàng bước sang hoài-nghi-châ-nghĩa vì đã có tính cách ngẫu hữu, tại sao tri thức của người ta lại không có tính cách khác hẳn những tính cách Kant vạch cho ta biết.",
+      "b) Trong tương đối luận, Kant lại không giảng nghia cho ta biết tại sao ngưới ta có thê biết được, tại sao bản chất và hình thức của tri thức có thê phối hợp với nhau. Kant coi đó như là một sự lạ lùng tự nhiên mà có, và như thế đã không coi trọng lý tính là cơ năng muốn tìm giảng nghia tất cả.",
+      "2') Xét đến quan niệm về những thực thê và những hiện tượng của Kant ta cũng lại thǔy những khuyết diễm ấy.",
+      "",
+      "Quan niệm về những thực thê không có ích lợi gì cho tri thức mà chỉ làm giảm giá trị của tri thức. Cái lầm của Kant ở đây vẫn là do quan niệm «tĩnh \" của Kant về lý tính mà ra.",
+      "",
+      "Thực thế, theo Kant lý tính người ta sở dĩ không tìm biết tới những thực thê được là vì trên con đường đi về tuyệt đối ta gặp những sự mâu thuẫn không thê giải quyết được.",
+      "",
+      "Những sự mâu thuẫn ấy không giải quyết được thật, nếu ta muốn dùng cái"
+    ],
+    "page_131": [
+      "ly̆ trí « tĩnh » mà suy luận. Nhưng nếu ta dùng một lý trí khác một lý trí «động» mà suy luận thì biết đâu ta không có thê vượt qua được những trở lực ấy.",
+      "",
+      "Nói tóm lại, khuyết điểm lớn nhất của tri thức luận của Kant, chính là một phương pháp suy luận sai lầm dựa vào một quan niệm «tĩnh» của lý trí.",
+      "",
+      "Khi đem áp dụng học thuyết của Kant về luân lý ta cũng vẫn nhận thấy cái khuyết điểm lớn ấy nhưng ở đây, những khuyết điểm ấy hiện ra với một tính cách hơi khác.",
+      "",
+      "# B. Những khuyết điềm trong Luân lý của Kant ",
+      "",
+      "1.) Ý tưởng làm căn bản cho nên luân lý của Kant là : «Luan lý sinh hoat với lý tinh sinh hoat là một».",
+      "",
+      "Chúng ta đã biết rằng luân lý có một tính cách tiên thiên, và thực tại luân lý là một cái không ai ehối cãi được (xem phần thứ hai chương I) Vậy nói rằng luân lý do lý tính mà có là một sự lầm lẫn. Hơn nữa, từ chối không chịu nhận chân tinh chất đặc biệt của phũ̉ng hành vi luân lý mà cho rằng hành vi ấy"
+    ],
+    "page_132": [
+      "chẳng khác gì một hành vi của tri tuệ là một cái lầm nũ'a.",
+      "\"Nhiều điều hợp với lý tinh của chúng ta mà chúng ta chưa cho rằng hợp luán lý».",
+      "",
+      "Trái lại, có nhũ̃ng tình cảm ra ngoài phạm vi của lý tinh mà chúng ta cho rằng rất hợp với luân lý, và chỉ quan sát quanh ta, ta cũng thấy có nhiều người nghe theo « trái tim » cũng vẫn ở được trong phạm vi luân lý.",
+      "2.) Yếu điềm thứ hai của luân lý ấy là nhũ̃ng «định tắc của lý tri thực hành». Nhũ̃ng định tắc ấy thật ra là những ý thức huyền bí, Kant không giảng nghĩa được. Vi thế nó làm cho luân lý của Kant kém tinh cách hợp lý.",
+      "",
+      "Nguyên do ở đây vẫn là quan niệm tĩnh vẽ lý tinh của Kant. Vi cho rằng lý tinh có một giá trị tuyệt đối nên Kant mới cho rằng luân lý có thê đem chúng ta đến thế giới của những thực thè (vì luân lý, theo Kant, là lý tinh.)",
+      "3.) Tất cả nền luân lý của Kant xa cách hẳn tự nhiên, vì thực nghiệm xa cách lý tinh. Cho nên ta thấy Kant cho rằng tự nhiên phản đối luân lý và đạ̃e tinh của luân lý sinh hoạt là trạng thái bó buộc của những bồn phận."
+    ],
+    "page_133": [
+      "Bồn phận ấy, Kant cho là nguồn gốc của lất cả luân lý và Kant dùng lý tinh đề định nghĩa nó. Nhưng tâm-lý-học cho ta biết rằng trong những xã hội sơ khai người ta không có ý thức gì về bồn phận. Vậy tất cả học thuyết của Kant đề giảng nghĩa bồn phận không đò̀ cho ta được hài lòng, và ta chỉ có thê nói rằng : bồn phận có một giá trị trong luân lý nhưng ý thức của bồn phận không phải là căn bản luân lý. Bồn phận cố cho hợp với lý tinh nhưng bồn phận với lý tinh không phải là một.",
+      "4.) Sau hết, luân lý của Kant đã quên mất \" ý thức về thiện \" về \"hạnh phúc \" hay nói cho đúng hơn Kant muốn đuồi ý thức ấy ra khỏi luân lý của ông. Nhưng chính vì thế, ông đã quên một phần quan trọng của những hành vi luân lý là phần kết quả và nội dung của hành vi ấy.",
+      "",
+      "Cư nhắm mắt đi theo luân lý của Kant có khi ta đi ngược lại với luân lý. Chẳng hạn, nếu nghe Kant, ta sẽ cho rằng lòng nhân-ái chỉ là một phương tiện của người ta dê hành động theo luân lý, đề đem mình đến gần đức hạnh hơn. Như vậy, lòng nhân ái sẽ chú trọng về người «cho » hơn là người « nhận » Cái quan trọng"
+    ],
+    "page_134": [
+      "là ý muốn của người cho còn những kết quả bị đầy lui xuống hàng thứ hai, và có khi bị quên mất nữa.",
+      "",
+      "Trong thực tại, trái lại, muốn tìm biết giá trị của một hành vi luán lý ta không được phản đối ý muốn và kết quả : Làm việc từ thiện không những là để cho chính ta khá mà còn để làm cho người khác cũng được khá : vì vậy nếu ta khá mà kẻ được bồ thi thêm lười biếng, gian dối thì hành vi của ta chưa bần đã có giá trị. Như thế, từ thiện nghĩa là tìm cách làm thực hiện xã hội lý tưởng của ta, mà trong xã hội ấy có cả ta nữa."
+    ],
+    "page_135": [
+      "# CHƯƠNG THƯ HAI ",
+      "",
+      "## Kant trong Lịch sù triêt học",
+      "",
+      "San khi đã xét đến những khuyết diêm của triết học Kant, chúng ta có thê có khuynh hướng ngộ-nhận địa vị của Kant trong lịch sử triết học.",
+      "",
+      "Vi Kant chiêm một trong nhũng chóp núi của tư tưởng nhân loại.",
+      "",
+      "Nếu đặt Kant vào thế kỷ thứ mươi tám ta sẽ thá́y học thuyết của Kant không có một khuyết diêm nào. Nhưng đặt Kant vào thế kỷ thứ hai mươi ta đã thấy có nhiêu triết nhân khác chỉ trích học thuyết của ông.",
+      "",
+      "Vậy muốn nhận rõ chân giá trị sự nghiệp của Kant, chúng ta phải đặt sự nghiệp ấy vào trong sự tiến hóa của nhân loại, và"
+    ],
+    "page_136": [
+      "học thuyết của Kant ta phải đặt vào lịch sử của triết học.",
+      "",
+      "Ta đã biết tất cả học thuyết của Kant đều xây trên lý tính. Vấn đề lý tính ấy chinh là vấn đề tri thức, một trong hai vấn đề loài người chưa giải quyết được hẳn hoi.",
+      "",
+      "Trước Kant, và suốt từ Aristote, Platon, quan niệm của triết học về lý tính như ta đã thấy là một quan niệm tĩnh. Nguyên do của quan niệm ấy chính là vũ-trụ-quan của các triết nhân thủa ấy : khoa học chưa phát minh và chưa cho triết học được biết vũ trụ có những tinh cách gì. Vi thế theo sự quan sát tầm thường, người ta tưởng vũ trụ là \"tĩnh» và do đó, cho rằng lý tính cũng bất di bất dịch như vũ tru. (xem phần thứ hai, chương il $-B-1$.)",
+      "",
+      "Tuy quan niệm đó sai lầm, nhưng lý tính có tinh cách bất di bất dịch ấy cũng đủ giải quyết cho người ta những vấn đề thường thường bằng hai nguyên tắc : đông nhất và máu thuẫn.",
+      "",
+      "Tới khi khoa học phát minh và làm cho vũ trụ quan đó bị đảo điên, các triết nhân cũng vẫn tìm cách gìn giữ hai nguyên tắc đó, và ai cũng cho rằng đó là hai luật thiết yếu của tư tưởng mà tư tưởng không thể"
+    ],
+    "page_137": [
+      "nào thoát khòi pham vi của hsi nguyên tắc ấy được - nhưng có nguyên tắc ấy thì khoa học thành công là một sự lạ - các triết nhân bèn dùng một nguyên tắc mới đề giảng nghĩa inh cách của những hiẹn tượng : ấy là nguyên tắc nhân quả.",
+      "",
+      "Khoa học thực nghiệm phát triền rất nhành chóng và đồng thời làm cho lý tinh tiến hóa theo - những các triết nhân vân cô thuyết minh rằng tư tưởng chưa ra khòi khuôn mực mấy nguyên tắc : đồng nhất và nhân quả.",
+      "",
+      "Khoa học vẫn iiến và có một lúc nguyên tắc nhân quả không đủ bênh vực nỗi tất cả quan niệm tĩnh vẹ lý tinh nữa.",
+      "",
+      "Giũa lúc ấy thì Kant xuất hiện.",
+      "Nhu vậy ở trong học thuyết Kant, ta nhận thấy hai phân tử ; một phằn tử cũ: ấy là quan niệm cô truyền vè lý tinh và một phần tử mới : ấy là quan niệm mới về giá trị của khoa học",
+      "",
+      "Vì thế, Kant chiếm một chồ đặc biat trong lịch sử triết học tây phương. Ấy là chỗ giao nhau của triết học mới và triết học cũ.",
+      "",
+      "Và tuy Kant không biết thế, nhung chính ông đã làm một cuộc cách mạng trong triết học dễ nhân loại trông thấy"
+    ],
+    "page_138": [
+      "những vấn đề mới và những bầu trời mới.",
+      "",
+      "Quan niệm tĩnh của lý tri đến Kant là lên tới chỗ cao nhất; đi quá Kant ta sang ngay quan niệm mới về lý tinh. quan niệm động. Vì thế Kant vừa là một chỗ tận cùng vừa là một chỗ bắt đầu : tận cùng cửa nền triết học cũ, bắt đầu của triết học mới.",
+      "",
+      "Kant là chỗ tận cùng của triết học cũ về nhiều phương diện:",
+      "",
+      "Lý tinh bất di bất dịch, với Kant đã đi đến chỗ cao nhất của nó - Luân lý cồ diền, một nền luâa lý dựa vào sự phân tách của lý tính và thực nghiệm cũng đi đến chỗ cùng.",
+      "",
+      "Thực vậy, Kant đã tìm hết cách đề cứu vã̃n các quan niệm tỉnh về lý tinh, nhưng rồi cũng phải chịu rằng lý tinh bất di bất dịch chỉ có thể biết được những hiện tượng, và vì thế không đủ là một phương tiện đề suy luận của triết nhân; chính do lẽ ấy nên Kant quả quyết rằng huyền học không thè có được, mà huyền học lại là phần cao nhất của triết học vậy.",
+      "",
+      "Kant lại còn tìm cách cứu vãn cái luân lý dựa vào sự phân tách của lý"
+    ],
+    "page_139": [
+      "tinh và thực nghiệm nhưng rồi cũng phải chịu và hạn định luân lý trong một khuôn khô nhỏ hẹp và bó buộc.",
+      "",
+      "Như thế, Kant đã dẫn chúng ta lên những chốn cao siêu nhất của tư tưởng. loài người mà không giải quyết được những vấn đề làm diên đảo triết học thời ấy.",
+      "",
+      "Bên phân tử cũ đó tạ thấy một phân tử mới và Kant đã mở đường sho triết học hiện tại bằng nhiêu cách.",
+      "",
+      "Cứ riêng bằng cách thuyết minh rằng lý tinh chỉ có thê tìm biết những hiện tượng, Kant cũng đã là người đi trước của tất cả nhũng triết nhân hiện đại, vì như vậy Kant đã chứng minh rằng căn bản cũ của triết học đã đến lúc mục nát.",
+      "",
+      "Nhưng không những Kant có công một cách tiêu cực như thế, ông lại còn sửa sọạn dọn đường cho triết học mới một cách tích cực nữa. Nhận thấy rằng vấn đề quan trọng chinh là vấn đề tìm một cái gì mới thay vào căn bản cũ của triết học, tức là cái quan niệm tĩnh về lý tinh ấy Kant bèn chứng minh rằng tất cả các vấn đề triết học đèn xoay chung quanh vấn đề giá trị của tri thức :"
+    ],
+    "page_140": [
+      "Binh-luận-thuyết của Kant chính là bước đầu tiên của triết học mới vậy.",
+      "",
+      "Các triết nhân đi sau Kant nhờ thế tròng thấy rõ con đường phải theo ? vấn đề phải giải quyết : ấy là vấn đề tim mợt cái gt mới thay vào quan niệm cồ truyền về lý tinh đề làm căn bản cho triết học.",
+      "",
+      "Khi ấy có hai học thuyết ra đời một học thuyết chủ trương rằng lý tinh sở dĩ từ xưa đến nay không tim đến chân lý được là vì quan niệm tĩnh về lý tinh đã kìm hãm nó lại - Muốn tìm tới chân lý ta chỉ cần thay vào một quan niệm mới của lý tính :quan niệm động; mà lý tính chuyên biến ra sao ? giống như vạn vật - Tim ra những luật chuyên biến của vạn vật, rồi do đó thấy những luật chuyên biến của lý tính, áp dụng lý tính ấy vào sự nghiên cứu vạn vật đó là mục đích của triết học.",
+      "",
+      "Một học thuyết nữa chủ trương rằng lý tính như Kant đã thuyết minh, không có giá trị tnyệt đối trong sự nhận thức vậy ta phải tìm một cách biết khác.",
+      "",
+      "Một nhờiglải đã do ông Bergson trình bầy : đó là cách biết bằng trực giác. cách biết không do lý tính và không có tính"
+    ],
+    "page_141": [
+      "cách gián tiếp của lý tính nữa : ý trực giác đem thẳng chúng ta vào trong lòng sự vật.",
+      "",
+      "Hai học thuyết ấy hiện cũng đương phát triển và hiện nay ta chưa biết sẽ dẫn triết học tới những chân trời mới lạ nào, những thế giới ký ảo nào nữa."
+    ],
+    "page_142": [
+      "."
+    ],
+    "page_143": [
+      "# KÊT LUẬN"
+    ],
+    "page_144": [
+      "."
+    ],
+    "page_145": [
+      "Đến đây tôi tưởng đã cố vạch rõ được những điều chúng ta cần biết nhất về học thuyết của Kant và những đặc tính của học thuyết ấy. Trong khi giải tích nội dung của học thuyết ấy, tôi lại đã cố vạch ra hai vấn đề quan trọng của triết học và phác qua những câu trả lời của các triết nhân cô kim.",
+      "",
+      "Nhưng tới ngày nay. hai vấn đề ấy vẫn chưa được giải quyết xong xuôi, và có lẽ nhân loại sẽ không bao giờ trả lời hẳn được hai câu hỏi :",
+      "\"Chúng ta có thê biết những gì ?\" và \"Chúng ta phải làm gl?\""
+    ],
+    "page_146": [
+      "Vì mỗi khi tiến tới một giai-đoạn nào, một trạng-thái mới mẻ của hai vấn đề ấy lại sẽ nảy ra. Nghĩ cho kỹ đó chính là điều kiện của cuộc tiến hóa qua các thời đại của nhân loại vậy.",
+      "",
+      "Làm cho độc giả trong khi tìm biết Kant nhận thấy rõ tính cách quan trọng của hai vấn đề, ấy là ý nguyện cao nhất của tôi. Và nếu khi gấp cuốn sách nhỏ này lại bạn đọc nhận thấy không thế nhắm mắt bỏ mặc những vấn đề triết học — như một con rùa rụt đầu vào trong mai của nó — mà cần phải tìm xem cách trả lời hai câu hỏi đó thì người viết sẽ sung sướng mà nghĩ :",
+      "",
+      "“Lo gì tất cả những ý nghĩ của bao nhiêu người, một ngày kia, không họp lại thành một phương châm hành động thích đáng với thế giới đang đảo điên, nhân loại đang thay đổi này !n . . .",
+      "",
+      "### CHUNG"
+    ],
+    "page_147": [
+      "# PHỤ LỤC ",
+      "",
+      "## TỬ KHẢO"
+    ],
+    "page_148": [
+      "."
+    ],
+    "page_149": [
+      "Trong cuốn sách này, mổi khi gặp một chữ dùng đặc biệt trong triết học, chúng tói thuờng trực-liếp hay gián-liếp thích nghĩa ngay dề trành cho độc giả không sở dắc về triết học nhũng sự hiểu lầm hoặc bỡ ngỡ. Nhưng cònit chữ thông thuờng chưa giáng nghĩa chúng tôi xin kè duới đây - Nhũng nhờ thích nghĩa đều trích răt sơ lược trong cuốn *Triết học tự vựng giản yểu» của chúng tói. (Tân-Viẹ̀t sắp xuất bản)",
+      "",
+      "Bản năng: Chỉ những hành động có tinh cách tự nhiên, gồm những cử chỉ tự nhiên, phức tạp, hợp với một mục dich nhất định nào dê dãa tới muc dich ấy. Ví dụ: bản năng làm tỗ của con chim.",
+      "Bản nhièn : tuyệt đới, không cần đến một diều kiện nào, mợt muc diễm nào làm dấu chúng - Mục dich bản nhiên : mục dich tự nó làm mục dich cho nó, mục dich không phải là dễ dẫn dến một mục dich khác nữa, không làm một phương tiện dề dạt tới một mục dich thứ hai.",
+      "Chi phổi : cai quản, chỉ huy - làm cho phải đi theo một con đường nhất định nào, phài có những tinh cách nhất định nào."
+    ],
+    "page_150": [
+      "Chủ-quan : thuộc về chủ thè̀, thuộc về chinh người đang hành động hay đang suy luận - thuộc vê bên trong, vê tinh thằn. Do đó, chủ quan : tùy theo ý thích, khuynh hướng riêng, tùy theo từng người mà thay đồi.",
+      "",
+      "Co nang, tác $u_{u}$; chỉ chung tất cả những hành động thuộc về một loại chung nào của một cơ thè̉, một bộ phận, một tế bèo nào, - nghĩa là tất cả những hành động thuộc vê một trạng thái nhất định của đời sớng cơ thê, bộ phận, hay tế bào ấy. Vi dụ: Dinh dương tác dụng hay dinh dưỡng cơ năng: chỉ tất cả những hành động đê nuôi cơ thê, và làm cho cơ thê phát triên thêm (chẳng bạn: tiêu hóa - tuằn hoàn - hô hấp v.v...)",
+      "",
+      "Di chất: do nhiều chất khác nhau họp thành - không thuằn chất.",
+      "Đồng chất : do nhiều phằn tử giống nhau họp thành - do một chất duy nhất họp thành - không chứa dựng nhiều chất khác nhau.",
+      "",
+      "Giả định: khơng chắc chắn - không quyết đoán - dựa vào trí tưởng tượng - Mệnh lệnh giả định : mệnh lệnh khơng quyết đoán, phải dựa vào một diều kiện nào"
+    ],
+    "page_151": [
+      "- mệnh lệnh bảo chúng ta làm một việc gì đề đi đến một kết quả. Ví dụ : nến anh muốn được lên thiên đường, thì anh phải thương người nghèo.",
+      "Giả thuyết: một học thuyết giả định ra, không có gì chúng thực - một thuyết đặt ra trước khi thực hành, trước khi được thực nghiệm chứng thực.",
+      "Hệ-thống : chỉ sự tông hợp tất cả những ý tưởng của một triết nhân thành mot khôi đề giảng nghĩa sự vật- Trong khôi ấy, ý tưởng nọ có liên quan chặt chẽ với ý tưởng kia đến nỗi, nếu một ý tưởng ấy bị phá đỗ, cả khối sẽ bị đỗ theo rất dễ dàng.",
+      "Khách-quan: có ở ng oải tinh thần, và không cần phải dựa vào nhận thức của tâm lý thuộc về bên ngoài, thuộc về sự vật, trái với chủ quan .",
+      "Khẳng định : cho rằng đúng - quả quyết rằng hợp lý, hay nhận rằng có thực,",
+      "Lý tri, hay lý tinh : cơ năng khiến ta biết phân biệt «thật giả » (đừng nhầm với lương tà n là cái khiển ta biết phân biệt « phải trái ») - cơ năng của sự phán đoán, phê bình và suy luận ."
+    ],
+    "page_152": [
+      "Mâu-thuẩn : trải ngược cả vè̀ phằm lẳn vè̀ lự̛̣ng. Điè̀n cũ : Có kẻ bán giáo (mâu) vá mộc (thuẫn) - Nói đến giáo, anh ta rao rằng : «giáo này đâm gì cũng thủng\" Nói đến mộc anh ta lại rao rằng: « mộc này gì đâm cũng không thủng ». Có người hỏi « vậy nếu lấy giáo của anh đâm vào mộc của anh thì sẽ xầy ra sự gì ?\" Anh ta không trả lò̀ được.",
+      "Mụe-dich : cái ta theo đuồi - môt trong hai động cơ của hành động (động cơ kia là nguyên nhân;",
+      "Nguyên-tử : chỉ phần tử nhỏ nhất của muôn vật. Theo Démocrite, muôn vật đều do những phần tử rất nhỏ không thê chia đôi được họp thành : những nguyên tử ấy đồng chất, và hình thức giống nhau.",
+      "Nhận-thức : sự nhân « biết» của tâm lý, sự « biết » những sự vật của ngoại giớiđồng nghĩa với tri thức.",
+      "Nhất tri : tính cách của một cái gì «nguyên » chưa phân lách thành những phần tử nhỏ và không thể phân tách như thế được tính cách của một cái gì do nhiều phần tử họp thành một khói :",
+      "Nội-dung : những cái đựng ở trong -"
+    ],
+    "page_153": [
+      "những tinh chất, những phần tử họp thành một ý tưởng ấy.",
+      "Phần tử : cái gì dản dị đề họp thành một cái phức tạp - không nên lầm với bọ phận - Bộ phận bé hơn «tất cả » nhưng cũng phức tạp không kém gì cái «tất cả \" ấy",
+      "",
+      "Ví dụ: những phần tử họp thành thân thè̀ là : dưỡng khí, khinh khí, sắt v.. v.. Những bộ phận của thân thè̀ là đầu minh và từ chi.",
+      "",
+      "Phồ cặp: chung - đúng trong tất cả các trường hợp - chung cho tất cả nhân loại - đại đồng, không có lính cách riêng.",
+      "",
+      "Vi dụ luật phổ cặp - ý tưởng phổ cặp.",
+      "Phủ định : trái với kLẳng định - cho rằng không có hoặc có nhưng sai sự thực không nhận rằng có thực hoặc hợp lý.",
+      "Phức tạp : không dản dị, do nhiều phân tử khác nhau họp thành - râc rối, khó phân tách, không nhận được ngay, không hiểu được ngay.",
+      "Phương tiện : chỉ chung những hành động đẻ̀ thực hiện một mục đích nào. Ví dụ: kẻ nào đã muốn mục đích thì phải muốn những phương tiện."
+    ],
+    "page_154": [
+      "Thiết yảu: không thè̉ khơng có, bay không thè̉ khác được. Có những sự thiệt yếu do suy luận (Vi du: bồn phàn luân lý, theo Kant) và do những luật vật chất (Vi du : nước rập tất lửa)",
+      "Thực nghiệm : nghiệm ở sự thực mà biết - thực hành một giả thuyết dễ xem đúng hay sa:, dùng thực hành mà thử giả thuyết ấy - Thực nghiệm chủ nghĩa: chủ nghĩa chỉ tin ở thực nghiệm, ở những cái có thè̉ thấy trong thực tại, vì thế cho rấtg ngoài khoa học, không còn cách nào dễ tìm biết những sự vật nữa.",
+      "",
+      "Thực tại : có thật, có một cách bản nhiên, có ở ngoài chúng ta - không phải chỉ do óc chúng ta tuởng tượng má có, không phải chỉ có trong óc chúng ta Thực tại lại còn chỉ tất cả những cái \"có» như thế.",
+      "",
+      "Thuyết minh : chứng giải một điều gì làm cho người khác hiểu, và nhận thấy điều ấy hợp lý, vạch rõ sự thực - Lại có nghĩa là do suy luận mà từ những ý tưởng đơn giản, vạch rõ những ý tưởng phức tạp."
+    ],
+    "page_155": [
+      "Tiên-thiên : có trước kinh nghiệm, có ngay khi mới sinh và vì thế không dùng thực nghiem đề giảng nghĩa được - Ý niệm tiên thién: ý niệm do sự phát triển tự nhiên của lý tính mà có, chứ không phải do thực nghiệm làm nảy ra Suy luận tiên thiên : phương pháp suy luận không dựa vào những việc xảy ra trong sự thật mà chỉ căn cứ vào những qui tắc, những khuôn mực của lý tính.",
+      "Tiéu-chuẩn: dã̃u biẹu khiến ta có thê chắc chắn nhận được một vật gl trong những vật khác. Ví du ; tiêu chuẩn của chân lý : dấu hiệu khiến ta có thề nhân được chân lý một cách chắc chắn, khiến ta có thê biết chắc khi nào một ý tưởng hay một học thuyết đúng với sự thực.",
+      "Tồng quát : coi những tinh chất riêng của những cá nhân là những tính chất chung của cả một giơng nói, coi những tính chất của môt vài sự vật là tính chất chuug của cả một loại sự vật. Ví dụ : thấy một vài người An nam lười biếng, chớ vội tông quát, \" Người An nam lười biếng ».",
+      "Tri thức : chỉ sự nhận biết của tâm lý - lại chỉ tắt cả nhũng cái ta « biết », tắt cả những hiện tượng về tâm lý có tính cách"
+    ],
+    "page_156": [
+      "khách quan và tượng hình, nghĩa là đem đến cho tri tuởng mot hinh thức có tinh cách bản nhiên. Tri thức luận: chỉ chung những học thuyết bàn cãi về vấn đề giá trị của tri thức.",
+      "",
+      "Trực giác: chỉ tất cả những cách nhan thức, những cách « biết ». trực tiếp của tâm lý, nghĩa là không cần đến suy luận, đến lý trí làm trung gian.",
+      "Trực tiếp: thẳng, ngay, kbông cần đến một cái gì làm môi giới. Trái với gián tiếp; không thẳng, cần nhờ đến một trung gian.",
+      "Tuyệt đối : tự mang cái lý do tô̂n tại của minh, không cần đến một chứng cớ gì, một điều gì làm đích so sánh - vô diều kiện - chán lý tuyệt đối : chán lý không cần so sánh với một tiểu chuân náo cũng được chứng nhận, chán lý « thực tai», chán lý « bản nhiên », chán lý chỉ dùng đẻ̉ làm tiểu chuân cho những chán lý khác.",
+      "Tuờng đối : cần phải dựa vào một cái gì - không tự minh chửng dẫn nỗi sự thực của minh - Chân lý tương đối, chân lý không \" bản nhièn \", phải dựa vào một tiêu chuân náo mới được chứng nhận,",
+      "152."
+    ],
+    "page_157": [
+      "Vũ-trụ-qúan : quan niệm về vũ tru cách giảng nghia vũ trụ, bay giảng nghia những hiện tượng trong vũ tru.",
+      "Ý chi : thường còn gọi là nghị lực Trong tâm lý, ý chí là một hình thức có nghĩ ngợi, và có ý thức rõ rệt.",
+      "Ý thức : trực giác của tâm lý khiến ta có thè̀ nhin thấy rõ ràng hay lò̀ mò̀ những hành động của chính tinh thần chúng ta."
+    ],
+    "page_158": [
+      "."
+    ],
+    "page_159": [
+      "# MỤC LỤC ",
+      "",
+      "Trang",
+      "Tiêu sử của Kant ..... 7",
+      "Phần thứ nhất",
+      "Nhũng vấn đề chính của triết học ..... 11",
+      "Phần thứ hai",
+      "Tri thức luận của Kant ..... 27",
+      "Chương thứ nhất :",
+      "A - Vấn đề giá trị của tri thức ..... 29",
+      "B - Binh luận thuyết của Kant ..... 29",
+      "Chuong thứ hai :",
+      "Duy lý luận của Kant ..... 39",
+      "A - Thứ tự suy lý của Kant ..... 40",
+      "B - Phương pháp suy luận của Kant ..... 41",
+      "C - Vấn đề lý tri ..... 45",
+      "D - Duy lý luận của Kant ..... 49",
+      "E - Những đặc tinh của duy lý luận ..... 60",
+      "Chuơng thứ ba :",
+      "Tương đối luận của Kant ..... 63",
+      "A - Đặt rõ câu hỏi ..... 64",
+      "B - Tương đối luận của Kant ..... 65",
+      "Phần thứ ba",
+      "Luân lý của Kant ..... 79",
+      "Chương thứ nhất :",
+      "Vấn đề đạo đức・ ..... 81",
+      "A - Thực tại luân lý ..... 82"
+    ],
+    "page_160": [
+      "# MỤC LỤC ",
+      "",
+      "Trang",
+      "B - Sự thiết yếu của luân lý tư tưởng 85",
+      "Chương thứ hai :",
+      "Những đặc tính của luân lý Kant ..... 91",
+      "A - Những quan niệm về luân lý sinh hoạt trước Kant ..... 92",
+      "B - Những đặc tính của luân lý Kant ..... 94",
+      "Chương thứ ba :",
+      "Luân lý của Kant ..... 103",
+      "A - Vô thượng mệnh lệnh và ba thê thức của nó ..... 104",
+      "B - Những đặc tính của lý tinh thực hành ..... 110",
+      "Phần thứ tư",
+      "Phê bình triết học Kant ..... 115",
+      "Chương thú' nhất :",
+      "Khuyết điểm của Triết học Kant ..... 117",
+      "A - Những khayết điểm trong tri thức luận của Kant ..... 118",
+      "B - Những khayết điểm trong luân lý của Kant ..... 127",
+      "Chương thú' hai :",
+      "Kant trong lịch sử triết học ..... 131",
+      "Kết luận ..... 139",
+      "Từ khảo ..... 143"
+    ],
+    "page_161": [
+      "."
+    ],
+    "page_162": [
+      "# SẮP CÓ BẢN ",
+      "",
+      "## TRIẾT HỌC NIETYSCHE",
+      "",
+      "Mọt triết học đau đớn, lạ lùng, làm ta kinh dị",
+      "Một triết học tràn đầy nhựa sống Một luồng mắt nhìn vào tương lai loài người.",
+      "Một triết lý của nghệ thuật. Những lời thơ thám trầm rà chuốt như những viên ngụe.",
+      "Những phương châm cứng cỏi đã làm đảo lộn luân lý Âu châu.",
+      "\"TỦ SÁCH TRIẾT HỌC\" TÂN VIỆT",
+      "49 - Takou - Hanoi",
+      "![img-0.jpeg](img-0.jpeg)",
+      "",
+      "GIA 1550"
+    ]
+  }
+}
