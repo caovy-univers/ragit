@@ -13,3 +13,6 @@
 # Windows Zone Identifier and macOS Finder metadata files
 *:Zone.Identifier
 .DS_Store
+
+# Model files
+models/
