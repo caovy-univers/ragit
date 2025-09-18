@@ -1,0 +1,1922 @@
+{
+  "metadata": {
+    "title_main": "Hiến-pháp thường-thức",
+    "title_alt": "Notions élémentaires de Droit constitutionnel",
+    "authors": [
+      "Nguyễn Phương Nam"
+    ],
+    "authors_id": [
+      "2465"
+    ],
+    "publisher_id": "3303",
+    "publisher": "Éditions Tân Việt",
+    "publication_place_id": "3216",
+    "publication_place": "Hà Nội",
+    "publication_date": "1944",
+    "source_description": null,
+    "genres": [],
+    "issn": null,
+    "identifiers": {
+      "H-ID": "4411",
+      "url1": "http://catalogue.bnf.fr/ark:/12148/cb35756669c",
+      "url2": "https://gallica.bnf.fr/ark:/12148/bpt6k42434406"
+    }
+  },
+  "text_body": {
+    "page_1": [
+      "# (BnF Gallica ",
+      "",
+      "## Hiên-pháp thung-thúc / Ng. Phung Nam"
+    ],
+    "page_2": [
+      "# (BnF) Gallica ",
+      "",
+      "Nguyên, Phung Nam. Auteur du texte. Hiên-pháp thung-thúc / Ng. Phung Nam. 1944.",
+      "",
+      "1/ Les contenus accessibles sur le site Gallica sont pour la plupart des reproductions numériques d'oeuvres tombées dans le domaine public provenant des collections de la BnF. Leur réutilisation s'inscrit dans le cadre de la loi $n^{\\circ} 78-753$ du 17 juillet 1978 :",
+      "",
+      "- La réutilisation non commerciale de ces contenus ou dans le cadre d'une publication académique ou scientifique est libre et gratuite dans le respect de la législation en vigueur et notamment du maintien de la mention de source des contenus telle que précisée ci-après : «Source gallica.bnf.fr / Bibliothèque nationale de France » ou « Source gallica.bnf.fr / BnF ».",
+      "- La réutilisation commerciale de ces contenus est payante et fait I'objet d'une licence. Est entendue par réutilisation commerciale la revente de contenus sous forme de produits élaborés ou de fourniture de service ou toute autre réutilisation des contenus générant directement des revenus: publication vendue (à l'exception des ouvrages académiques ou scientifiques), une exposition, une production audiovisuelle, un service ou un produit payant, un support à vocation promotionnelle etc.",
+      "",
+      "",
+      "## CLIQUER ICI POUR ACCÉDER AUX TARIFS ET À LA LICENCE",
+      "",
+      "2/ Les contenus de Gallica sont la propriété de la BnF au sens de I'article L.2112-1 du code général de la propriété des personnes publiques.",
+      "",
+      "3/ Quelques contenus sont soumis à un régime de réutilisation particulier. Il s'agit :",
+      "",
+      "- des reproductions de documents protégés par un droit d'auteur appartenant à un tiers. Ces documents ne peuvent être réutilisés, sauf dans le cadre de la copie privée, sans l'autorisation préalable du titulaire des droits.",
+      "- des reproductions de documents conservés dans les bibliothèques ou autres institutions partenaires. Ceux-ci sont signalés par la mention Source gallica.BnF.fr / Bibliothèque municipale de ... (ou autre partenaire). L'utilisateur est invité à s'informer auprès de ces bibliothèques de leurs conditions de réutilisation.",
+      "",
+      "4/ Gallica constitue une base de données, dont la BnF est le producteur, protégée au sens des articles L341-1 et suivants du code de la propriété intellectuelle.",
+      "",
+      "5/ Les présentes conditions d'utilisation des contenus de Gallica sont régies par la loi française. En cas de réutilisation prévue dans un autre pays, il appartient à chaque utilisateur de vérifier la conformité de son projet avec le droit de ce pays.",
+      "",
+      "6/ L'utilisateur s'engage à respecter les présentes conditions d'utilisation ainsi que la législation en vigueur, notamment en matière de propriété intellectuelle. En cas de non respect de ces dispositions, il est notamment passible d'une amende prévue par la loi du 17 juillet 1978.",
+      "",
+      "7/ Pour obtenir un document de Gallica en haute définition, contacter",
+      "utilisation.commerciale@bnf.fr."
+    ],
+    "page_3": [
+      "HIÊN PHÁP THƯỜNG THỨC CHÍNH TRI ĐẠI CƯƠNG",
+      "![img-0.jpeg](img-0.jpeg)",
+      "",
+      "TAP CHI QUAN AM",
+      "Tập mời s3 38 - Avril 1944",
+      "TAN-VIET"
+    ],
+    "page_4": [
+      "MAK DKOOHY .DA",
+      "",
+      "HT DMOUHT GAHY K3IH",
+      "",
+      "# KOUD IAG ",
+      "",
+      "MA KAUD IHO YAT",
+      "+681 HITA - 88 32 iNm 46T"
+    ],
+    "page_5": [
+      "# CAI CHINH ",
+      "",
+      "Vi tinh thê, cóng việc ăn loát không được như ý, mong bạn đọc hiểu cho. Truớc khi dớ sách, xin chú ý chữa dúm mấv lỗi nãng nè sau đây :",
+      "",
+      "| traing dúng |  | IN LA | XIN CHƯA LAI LÀM LA |",
+      "| :--: | :--: | :--: | :--: |",
+      "| 11 | 8 | Nước A | Nước A |",
+      "| 13 | 7 | Cúng có một bản văn | Cũng có một vài bản văn |",
+      "| 23 | 11 | theo tuỳ từng chế độ | tuỳ theo từng chế độ |",
+      "| 11 | 22 | 10 chưc cuộc cứ mòi hội nghị | 10 chưc cuộc bầu cử một hội |",
+      "| 12 | 15 | tức khi tu chính | tất khi tu chính [ooh] |",
+      "| 30 | 12 | B. - Trao việc kiêm soát cho | B Trao việc kiêm soát cho |",
+      "|  | 14 | những cơ quan chính trị. | những cơ quan tư pháp |",
+      "| 44 | 10 | sung sướng, những sư tự do và sung sướng, những sự tự do | sung sướng, những sư tự do của cá nhân... (in thừa 7 chứ ơ, giũa) |",
+      "| 36 | 3 | Nếu vua lầm lẫn có trời biết | Nêuvua lầm lẫn đa có trời biết |",
+      "| 52 | 13 | công việc của âm lý | công việc của tâm lý |",
+      "| 63 | 4 | những được bỏ phiếu | những ai được bỏ phiếu |",
+      "| 73 | 9 | lấy mấy nhìu người ứng cử | tấy mấy nghia người ứng cử |",
+      "| 75 | 1 | in khác mâu những là phiếu | in khác mâu đề trông ngoat |",
+      "|  |  | phản đối chính phủ đề trông | đã biết ngay (in nhắc lại mấy 7 chứ) |",
+      "|  |  | ngoài đã biết ngay | 7 chứ) |",
+      "| 77 | 4 | Đã biết chủ quyền là sử quốc dân | Đã biết chủ quyền là ủ quốc dân |",
+      "| 81 | 21 | theo chính thề náo cả | theo chính thề này cả |",
+      "| 92 | 18 | đem mệnh lệnh khiến cho | đem những mệnh lệnh của cử tri đột lộn trến ghế rồi yên ôn mà trở về nhà s. Quan niệm uỷ nhiệm mệnh lệnh khiến cho |",
+      "| 128 | 14 | đó là một chính thê có nghị | đó là một chính thê có nghị |",
+      "|  |  | viện là chính thê dân hiền | viện. Có nghị viện là chính thê dân biêư. |",
+      "| 136 | 2 | và sẽ đáng làm trong tài | và sẽ đứng làm trong tài |",
+      "| 151 | 15 | sang đến tên chén Phi | sang đến tên sa mạc chán Phi |",
+      "| 164 | 1 | phap một chủ nghĩa | nhạt một chủ nghĩa. |",
+      "| 172 | 6 | cuộc tranh đấu cho cách tờ chức dân. | cuộc tranh đấu cho cách tờ chức dân chủ |",
+      "| 182 | 12 | chính phủ trung ương và chính hãng tình | chính phủ trung ương và chính phủ hãng tình |",
+      "",
+      "Ngoài những lỗi trên đây, còn một vài lỗi nhỏ, và những lỗi trong sách sếp đặt đề mực (chữ to nhỏ không đúng) vi tinh thế, mong đọc giả iropg xe!"
+    ],
+    "page_6": [
+      "# HYIHO IA3"
+    ],
+    "page_7": [
+      "# RA THANG AVRIL 1944 - TAP MOI 5638 ",
+      "",
+      "## QUAN ÂM TAP CHI",
+      "",
+      "MỎI THANG RA MỘT KỲ",
+      "",
+      "Tòa báo: 12, Route Sinh-Tư - HANOI Chủ nhiệm : LUONG-VAN-TUAN",
+      "",
+      "Mỗi sổ đăng trọn một thiên khảo cứu hoặc cảo luận về một vấn đề triết học, văn học, sủ học, khoa học, xã hội học, chính trị học, kinh tế học v.v.",
+      "",
+      "Sổ nay đăng",
+      "",
+      "## HIÊN PHÂP",
+      "",
+      "THƯƠNG THỨC",
+      "Tác giả:NG. PHUONG-NAM",
+      "![img-0.jpeg](img-0.jpeg)"
+    ],
+    "page_8": [
+      "# THÔNG CHÉ PÉTAIN ĐÃ NÓI: ",
+      "",
+      "Học sinh cần phải luyện tập thân thể cho tráng kiện để, bây giờ đủ sức học hãnh, mái hậu đủ sức tham dự việc cải tạo quốc gia.",
+      "![img-0.jpeg](img-0.jpeg)",
+      "",
+      "10\\%AH - wí duid 01001 21 1000 201",
+      "![img-1.jpeg](img-1.jpeg)",
+      "oả1 0001 uí 0016 0016 1010 0011 0001 3000",
+      "1001 ú 1001001011111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111"
+    ],
+    "page_9": [
+      "# NG. PHƯƠNG NAM ",
+      "",
+      "![img-0.jpeg](img-0.jpeg)",
+      "",
+      "TAP CHI QUAN AM",
+      "Tệp mới số 38 - Avril 1944",
+      "TAN VIẾT"
+    ],
+    "page_10": [
+      "# TỦ SÁCH DỊCH",
+      "",
+      "## ĐẶ XUẤT BẢN",
+      "",
+      "Thế giới mới — giá **0$45**",
+      "Thanh niên trước thế giới mới **0$45**",
+      "Nghệ thuật làm việc (thiết)",
+      "Vườn hồng — giá **1$10**",
+      "Nghìn lẻ một đêm (quyền I in lần thứ hai **2$50**, quyền II và III đang in lại những quyền IV, V, VI mỗi quyền **2$50**",
+      "Tây sương ký — giá **8.50**",
+      "Ly Tao — giá **6$00**",
+      "",
+      "## ĐANG IN",
+      "",
+      "Truyện di thường của Edgar Poe",
+      "Bản dịch của Mộng Huyền",
+      "Thôi thực kỳ văn",
+      "Bản dịch của Nguyên-Lợi và Nguyên-Mông-Chi",
+      "",
+      "Nhà xuất bản Tân-Việt"
+    ],
+    "page_11": [
+      "# LƠI ĐAU ",
+      "",
+      "Ngươi Au có môt quan niệm «duy vạt vè̀ chinh trị. Theo họ, cóng việc trong mợt nước hay, dở là ở cách tợ chức. Vi vậy họ chú ý đặc biệt đến cách tô chức chinh trị hay kinh tê của quốc gia.",
+      "",
+      "Cho nên nhũng phương pháp chugên môn của nhà chinh trị Au Tây, nhờ kinh nghiệm, trải hưng vong mà có nhiêu dièm rất đặc sắc. Riêng vì lẽ ấy cũng dáng nghién cứu rò̀i.",
+      "",
+      "Nhung ngoái ra, trong chinh-trị-hoc Au Tây lại có một vài lý thuyết căn-bân rất quan trọng cho đới sống ngày nay nữa. Làm người thế kỷ hai mươi không sao bỏ qua được.",
+      "",
+      "Vi nghĩ như thế, chúng tôi mạo muậ̣"
+    ],
+    "page_12": [
+      "viết ra cuốn sách này, cố gắng trình bầy giản dị một vài lý thuyết thông thường, với một vài phép tô chức chuyên môn. Sự phân tích còn rất sơ sài, vì bất tài, vì tình thế, không sao cố gắng hơn được, xin bạn đọc thấu cho.",
+      "",
+      "Cuối sách, bạo dạn thêm mộ: chương tìm hiểu những khuynh hướng lộn trong chính trị học hiện đại: lời thỏ, ý kém, không lúc nào dám tự coi là tìm được chân lý. Còn ba chương trên nói về hiến pháp, ý niệm dân chủ, và ý niệm phân quyễn thì là những môn «cô điền » trong khoa chính trị.",
+      "",
+      "Đường xá, việc khó, chúng tôi trình bày sách này cũng biết là quá sức mình, nhưng chỉ vì mong giúp ích bạn đọc đói chút mà «dám liều nhắm mắt đưa chân», mong được nghe thức giả gắn xa chỉ giáo.",
+      "",
+      "Nguyễn-phương-Nam",
+      "(Vuờn cúc Hà-Lăng",
+      "ngày rằm tháng hai giáp-thân)"
+    ],
+    "page_13": [
+      "# Cbtrong I ",
+      "",
+      "HIÊN PHÁP"
+    ],
+    "page_14": [
+      "$$",
+      "\\begin{aligned}",
+      "& \\text { 1. } \\\\",
+      "& \\text { 1. }",
+      "\\end{aligned}",
+      "$$"
+    ],
+    "page_15": [
+      "Trong lịch sử, đã thực-hành không biết bao nhiêu chế-độ chính-trị. Nhưng đại khái ta có thể xếp các chính-thể trên thế-giới thành ba loại lớn :",
+      "1.) Chính-thề chuyên-chế (despotisme): ấy là chế-độ trong đó chính phủ (thường là một ông vua) nắm hết các trị-quyền của quốc-gia, mà không bị lệ luật nào giám sát cả. Dù chính-phủ có thiết lập luật pháp, thì luật pháp đó chính phủ cũng không bắt buộc phải noi theo,",
+      "2.) Chính-thề độc-doán (absolutisme): ấy là chế-độ trong đó nhà vua, tuy nắm hết các trị-quyền của quốc-gia, nhưng phải váng theo một vài luật-lệ đã có sẵn từ trước. Vị dụ: ngơi vua không được"
+    ],
+    "page_16": [
+      "truyền cho con gái mà phải trao cho con trai lớn - Những thuế má trong nước phải được dân chúng bằng lòng v.v...» Nhưng trong thực tế, chính thẻ dộc đoán không khác gì chính thẻ chuyên chế cho lâm vi nhà vua dù có không vâng theo những lệ-luật đã có sẵn, cũng không có ai trừng phạt nỗi.",
+      "3./ Hiến-chinh hay chính-thẻ có hiếnpháp (régime constitutionnel): ấy là chế độ trong đó có một hay nhiều cơ quan tuân theo một số lẹ-luật đã vạch rõ mà nắm các trị quyền của quốc gia. Những lẹ-luật tô̂i cao ấy tức là hiến-pháp vậy. Hiến-pháp một nước là tất cả những lẹ luật quan-hẹ đến nền tô-chức chínhtrị. Hiến pháp đó, chính-phủ phải vâng theo má không được phép thay đồi. Nếu phạm vào hiến-pháp, chính phủ sẽ có tội và có thẻ bị trừng phạt.",
+      "",
+      "Trong cuộc tiến hóa chính-trị của xã hội, hai chính thẻ chuyên chế và dộcdoán đã chiếm một địa vị đặc biệt. Các quốc-gia thời xưa đều tô chức theo hai chế-độ ấy cả. Nhưng bước sang thế kỹ"
+    ],
+    "page_17": [
+      "thứ XIX và thế-kỷ thứ XX, khắp trên thế-giới, dần dần nước nào cũng có một biến-pháp. Nước Nga là nước quân-chủ độc-đoán nhất Âu-châu đã có Hiến-pháp tự năm 1905. Thồ nhĩ kỳ có hiến-pháp năm 1908, nước Ba tư năm 1909, Trung. Hoa năm 1910, Ngoại Mông năm 1924. Nước A (Ethiopie) năm 1931, Mãn-châu năm 1932, Xiêm tức (Thái Lan) năm 1932, Ngày nay trên mặt địa cầu đâu đâu cũng đều thực-hành cách tô chức chính trị theo một hiến-pháp."
+    ],
+    "page_18": [
+      "# ![img-0.jpeg](img-0.jpeg) ",
+      "",
+      "![img-1.jpeg](img-1.jpeg)",
+      "![img-2.jpeg](img-2.jpeg)",
+      "![img-3.jpeg](img-3.jpeg)",
+      "![img-4.jpeg](img-4.jpeg)",
+      "![img-5.jpeg](img-5.jpeg)",
+      "![img-6.jpeg](img-6.jpeg)",
+      "![img-7.jpeg](img-7.jpeg)",
+      "![img-8.jpeg](img-8.jpeg)",
+      "![img-9.jpeg](img-9.jpeg)",
+      "![img-10.jpeg](img-10.jpeg)",
+      "![img-11.jpeg](img-11.jpeg)",
+      "![img-12.jpeg](img-12.jpeg)",
+      "![img-13.jpeg](img-13.jpeg)"
+    ],
+    "page_19": [
+      "# THIÊN I ",
+      "",
+      "## Hiến-pháp là gì ?",
+      "",
+      "Nước nào việc chinh-trị muốn tở-chức cha đáo, cúng phải có một hiến-pháp. Vậy hiến-pháp là gì ?",
+      "",
+      "Ta có thể hiểu chữ hiến-pháp theo hai phương-diện nội-dung và hình-thức.",
+      "",
+      "## 1 - ĐỊNH NGHĨA HIẾN - PHÁP VỀ PHƯƠNG - DIỆN NỘI - DUNG",
+      "",
+      "Trong một hiến-pháp, ta thấy có những điều lệ định rõ sự tở-chức, sự phânphối, việc giao thiệp các trị quyền của quốc gia.",
+      "",
+      "Còn luật pháp thông thường thì chỉ 10 chức sự sinh hoạt hàng ngày của cánhân trong xã-hội : giao thiệp người nọ"
+    ],
+    "page_20": [
+      "với người kia, nhà buôn nọ với nhà buôn kia v.v... Xem thế, hiến pháp có mục đích là tở chức sự sinh hoạt chính trị trong một quốc gia, và chỉ có mục đích ấy mà thôi. Hiến pháp nước nào cũng vậy.",
+      "",
+      "Nhưng tuỳ theo từng nước, hiến pháp có thể thay đồi về hai phương diện:",
+      "",
+      "Một là hiến pháp có thể hoặc do phong-tục định, hoặc do một bản văn định rõ.",
+      "",
+      "Hai là hiến pháp có thể hoặc dễ thay đồi, hoặc khó thay đồi.",
+      "",
+      "A - Hiến-pháp phong tục với hiến-pháp có chép rõ",
+      "",
+      "Hiến pháp một nước thường thường có chép rõ rệt trong một bản văn: ví dụ hiến pháp Mỹ, Nhật, Trung Hoa, v.v...",
+      "",
+      "Nhưng cũng có khi, không một bản văn nào chép rõ hiến pháp cả. Trong trường hợp đó, chỉ có phong-tục định rõ được hiến pháp thế nào: Ví dụ hiến pháp Anh Cát Lợi. Trên thế giới, ngày nay, có lẽ chỉ một minh nước Anh là tở-chức chính-trị theo phong tục."
+    ],
+    "page_21": [
+      "Không có bản văn nào ghi chép những lẹ luật tờ-chức nội các hay nghí-viẹ̣n. Nhưng phong-tục đã thu xếp sẵn cả. Cũng có một bản ván ghi chép các điều ước của nhà vua vớ dàn chúng, nhưng chi ghi chép sơ lược mợt vài ngayèntắc căn bản mà thôi.",
+      "",
+      "Các nhá pháp-học thường ca tung loai * biến-pháp phong-tục\" là dễ thay đồi, và dễ thích-ngh với cuộc tiến hóa xãhội. Chính phủ, nhờ chổ thiểu các bản văn, rõ rệt, có thể lưa tinh thế xã-hội mà dàn dàn thay đồi hiên pháp theo. Nhờ vậy, quốc gia tránh dược những cuộc cách-mang bất ngờ và nguy hiểm.",
+      "",
+      "Nhưng cũn nhiều người ưa loại b ến pháp có chép rộ hơn, và cãi lai rằng một hiến pháp lấy phong tục làm căn bản rất mờ mịt, và rất dễ bị người cầm quyền lợi dụng. Vi thế, phải định hiến pháp cho rõ rẹ̀t, đẻ̉ kiêm soát được những hành-động của chính phủ, và tránh được những sự thay đồi nông nỗi, nhẹ dạ.",
+      "",
+      "Và lại giá trị một hiến pháp, đáng bao nhiêu là còn tùy tâm tính của từng"
+    ],
+    "page_22": [
+      "đân tợc. Người Anh cát Lợ tinh bảo thủ nên mới vâng theo phong tục. Người Pháp tinh ưa thay đồi, và hám canh tân, tất phải ráng buộc trong một hiến pháp có chép rõ rệt.",
+      "",
+      "Không những thế, có phải ta được quyền chọn lọc đân. Nhà chính trị phải vâng theo điều kiện lịch sử Môt nước như Trunh-hoa hay Viêt nam, lấy đân ra hiến pháp phong tục. Thế tất phải thảo ra một hiến pháp rõ ràng, phân minh, chép trong một bản văn nhất định, rồi dựa vào đó mà tiến. Bèn châu Âu hay châu Á cũng thế, sau một cuộc cách mạng, không thể có hiến pháp phong tục là lẽ tự nhiên vậy.",
+      "",
+      "# B - Hiến pháp rắn với hiến pháp mềm ",
+      "",
+      "Ta đã biết nói dung hiến pháp là tất cả những luật lệ quan hệ đến nên tỗ chức chính-trị một nước. Nhưng các luật lệ ấy có giá-trị gì hơn luật pháp thông thường không?",
+      "",
+      "Ta không thể trả lời có, không nhất"
+    ],
+    "page_23": [
+      "# 1011 ",
+      "",
+      "đinh, vi giá trị của hiến pháp thay dồi tay theo từng xứ. Bén Anh cát lợi, cứ trong lý thuyết, những luật lệ trong hiến pháp không có giá-1ri gi hơn luật pháp thông thường. Cả hai loại luạt đó dền do nghị viên ban bố. Vi thế, muốn thay đồi nên tở chức chính trị, chỉ cần nghị viện baủ bố một đạo luật, không khác gì khi thay đồi luật đi đường hay luật vi cảnh, Lẽ tất nhiên, trong thực tế sự thay đồi không dễ dàng như vậy, vì động đến chính trị là chạm đến dân chúng, mà thay đồi sai với ý muốn dàn chúng là chính-phủ với nghị viện bị lung lay. Nhưng trong lý thuyết, sự thay đồi hiến-pháp thuộc về chủ quấn (compétenee) của nghị-viện thường ngày: nên ta gọi hiến-pháp nước Anh là một hiến-pháp mềm (contitutions souples), mềm vi dễ thay đồi.",
+      "",
+      "Đừng tưởng chỉ những hiến pháp phong tục mới có thể \"mềm\". Những hiếnpháp có chép rõ, nếu không bày dặt lệ luật phiền phức đề hạn chế việc thay đồi, cũng có thể «mềm» như vậy. Chẳng hạn, bản hiến-pháp 1848 nước Ý, chỉ cần"
+    ],
+    "page_24": [
+      "một đạo luật thường cũng đủ phải thay đổi.",
+      "",
+      "Song, hiến pháp \"mềm\" chỉ có ít mà hiến pháp rắn (constitution rigide) là phần nhiều. Những hiến-pháp \"rắn\" đó, muốn thay đổi phải cần đến nhiều hình-thức rất là rắc rối.",
+      "",
+      "2 - ĐỊNH NGHĨA HIẾN - PHÁP",
+      "VỀ PHƯƠNG - DIỆN KINH - TẾ",
+      "",
+      "Về phương-diện hình-thức, hiến - pháp khác luật phép thông thường vì phải cần đến những trường hợp đặc biệt, mới thảo ra công bố và thay đổi được.",
+      "",
+      "Luật pháp thông thường là những đạo luật do nhà lập pháp làm ra, trong những hình thức thông thường. Ví dụ, bên Pháp một đạo luật do nghị viện ứng thuận và do Tổng thống ban bố.",
+      "",
+      "Những luật thuộc về hiến-pháp, trái lại là những đạo luật do một hay nhiều cơ quan đặc biệt làm ra, trong những hình-thức đặc-biệt, Chẳng hạn, nghị viên không đủ quyền mà phải cần đến quốc dân hội nghị (hay quốc hội) — chẳng hạn"
+    ],
+    "page_25": [
+      "phải ít nhất là hai phần ba người có mặt trong quốc hội bằng lông, chứ không phải cứ nhiều người bằng lông hơn là được v.v.. - Cũng vì khi thiết lập hiến pháp phải cần đến những hình thức đặc biệt như thế nên khi thay đồi cũng cần những hình thức đặc biệt. Người ta gọi những hiến-pháp khó thay đồi ấy là hiến pháp «rắn » trải với những hiến-pháp «mềm» dễ thay đồi.",
+      "",
+      "Tóm lại :",
+      "Về phương diện nội dung, hiến-pháp khác luật thông thường vì chỉ có mục. đích tổ chức nền sinh hoạt chính trị trong nước.",
+      "",
+      "Về phương diện hình thức, hiến pháp khác luật thông thường vì phải cần đến những thề-thức đặc biệt mới có thề thiết lập hoặc thay đồi.",
+      "",
+      "Thường thường, hình thức và nộị dung phù-hợp với nhau, khi ủy những đạo luật «rắn» nhất trong nước chính là những đạo luật tổ chức đời sống chính trị. Nhưng cũng có phen hình thức không xứng đáng với nội dung, vì một"
+    ],
+    "page_26": [
+      "đạo luật không quan hệ gì đến chính trị cả mà cũng cần tố tụng phiền phức mới thay đồ được. Ví dụ như hiến-pháp nước Mỹ. Người nước ấy hễ không muốn chính phủ được tự ý động chạm đến sự vụ nào là đem sự ấy xếp vào trong hiến-pháp. Nên ta thấy trong hiến-pháp có cả những đạo luật nói về sự buôn bán, về thuế má nhập cảng, xuất cảng v.v... Ngược lại, cũng có khi những đạo luật rất quan trọng về chính trị không được xếp vào trong hiến pháp. Khi ấy, sự thay đồi rất dễ dàng, tuy rất quan trọng. Ví dụ những đạo luật tổ chức Thượng nghị viện bên Pháp.",
+      "",
+      "Song đó chỉ là số ít, và phần đông các hiến pháp đều chép rõ ràng -- nói riêng về chính trị - và khó thay đồi.",
+      "",
+      "# Giá trị đôi bên ",
+      "",
+      "Vậy rắn, mềm đằng nào hơn ?",
+      "Có người nói rằng hiến pháp mềm vì dễ thay đồi nên có thể biến hóa cho hợp với tình thế xã-hội. Còn hiến pháp rắn, vì khó thay đồi nên dễ chết."
+    ],
+    "page_27": [
+      "Nhưng nhiều người trả lời lại: một sự thay đổi hiến pháp là một việc rất quan trọng, không phải mỗi lúc mà tính đến được. Vì vậy cần hạn chế chặt chẽ. Và lại còn phải tùy theo nội dung hiếnpháp nữa. Nếu trong hiến pháp có cả những luật lệ linh tinh, tổ chức các sự vụ khổng có tính cách chính trị, thì cần phải dễ thay đổi là lẽ tự nhiên. Trái lại nếu trong hiến pháp chỉ vạch rõ có một vài nguyên-tắc căn bạ làm nền móng cho cả một chế độ thì khó thay đổi cũng không có gì hai.",
+      "",
+      "Những hiến-pháp \"rắn\" còn có một điều lợi nữa; là giúp cho dân chúng giám sát được những hành động của nghị viện. Nếu dễ thay đổi, có khi nghị viện vì nhẹ dạ, vì bị thúc bách, mà thay đổi nóng nổi và liều lĩnh. Tuy nhiên ta cũng nên nhớ rằng trong những chế-độ có hại viện, ít khi phải lo ngại về sự nóng nổi đó.",
+      "",
+      "# 3 - NHƯNG BẢN TUYÊN NGÓN ",
+      "",
+      "Ngoài những điều luật quan hệ đến sự"
+    ],
+    "page_28": [
+      "10 chức chính-trị, trong các hiến pháp ta thường thấy môt bản tuyền ngón, vạch rã các quyền lợi và các bồn phận của người dân. Bản tuyền ngón đầu tiên là ở hiến pháp Hợp chúng quốc (tức nước Mỹ) năm 1787. Sau đó đến bản tuyên ngón cách mạng Pháp 1789 (Déclaration des droits de l'homme et du citoyen). Năm 1918, khi thảo hiến pháp Liên bang Xo Viết, nhà lãnh tụ Lê-Nin cũng viết một bản tuyền ngón - Hiến pháp tạm thời Trung hoa trong thời kỳ huấn chính (nghĩa là thời kỳ dạy dặn làm chính trị) có một chương thứ hai nhan đề là : «nghĩa vụ và quyền lợi của nhân dân» cũng tức là một bản tuyên ngón vậy.",
+      "(Trong cuốn «Cuộc tiên hóa chính tr! nước Pháp » sắp xuất bản sẽ có phân tích những bản tuyên ngón Pháp, từ năm 1789 đến 1875)."
+    ],
+    "page_29": [
+      "![img-0.jpeg](img-0.jpeg)",
+      "",
+      "Vì có tính cách \"rắn\", nên các điều luật trong hiến pháp phải thiết lập, sửa đồi, và kiểm soát theo những hình thức đặc biệt.",
+      "",
+      "Ta hãy lần lượt xét đến từng việc đó:",
+      "",
+      "1 - THIẾT-LẬP HIỂN-PHÁP",
+      "",
+      "Có nhiều cách thiết lập hiến pháp, theo tùy từng chế độ chính trị.",
+      "",
+      "A - Trong chế độ quân chủ, sự thiết lập hiến pháp có hai hình thức:",
+      "",
+      "a) Nếu nhà vua có trị quyền thì ban cấp (octroi) cho dân một hiến pháp; vì dự hiến pháp Nhật-Bản 1889 thời vua Minh-trị."
+    ],
+    "page_30": [
+      "b) Nếu nhà vua hạ thấp trị-quyền của minh xuống hơn thì phải ký kết với quốc dân một điều ước (pacte). Trong trường hợp này, dân quyền đã cao ngang với quân quyền. Ví dụ những điều ước giữa vua với dân Anh-cát-lợi. Nước Anh xưa nhiều khi không có vua người Anh. Dân Anh bèn mời một ông hoàng ngoại quốc sang lên ngôi Hoàng-đế nhưng bắt phải ký kết với quốc dân những điều lệ rõ rệt để quyền lợi quốc dân khỏi bị xâm phạm.",
+      "",
+      "B - Trong chế-độ dân chủ, sự thiết lập hiến-pháp do dân chúng tự định đoạt theo hai hình-thức:",
+      "a) Hót-nghị láp-hiến (assemblée constituante) là hình thức thứ nhất. Dân chúng bầu lấy một hội-nghị lập-hiến rồi trao hân cho hội nghị ấy trách nhiệm thiết lập hiến pháp. Hinh-thức này dùng trước tiên ở Mỹ-châu, sau lạn sang Pháp và được dùng suốt thời kỳ cách mạng. Ta không nên làm hội-nghị lập hiến (assemblée constituante) với hội-nghị lập-pháp (assemblée législative). Hội nghị lập-hiến có tính cách quan trọng đặc biệt và chịu"
+    ],
+    "page_31": [
+      "trách nhiệm đặc biệt với quốc dân. Hơi nghỉ lập-pháp (thường là các viện) trái lại, chỉ có trách nhiệm là làm ra luật pháp thông thường, khi hiến-pháp đã định rõ. Vị thế, năm 1792, khi quốc vướng Pháp bị lật đổ, hội-nghị lập pháp từ giải tán, nhường quyền thiết lập một hiến-pháp mới cho một hội-nghị lập hiến, do dân chúng dễ cử riêng.",
+      "b) Phúc-quyết lập hiến (referendum constituant) là hình thức thứ hai đã thiết lập hiến pháp trong các nước dân-chủ. Trong hình thức thứ nhất (hơi-nghỉ lập-hiến) dân chúng trao hân quyền lập hiến cho các đại biểu và không dòm ngò gì đến việc ấy nữa. Vị thế bản hiến pháp do hội-nghị thảo ra, không cần phải đem hồi dân chúng xem có công nhận hay không.",
+      "",
+      "Trong hình thức «phúc quyết lập hiến » trái lại, dân chúng giữ quyền phúc đáp và quyết định. Bản hiến-pháp đã thảo ra phải đem hồi lại dân chúng, xem đại đa số có bằng lòng hay không. Nên trong hiến pháp cách mạng Pháp 1792, có khoản"
+    ],
+    "page_32": [
+      "răng: \"Chỉ biến pháp nào đó dân chúng công nhận mới có giá-trị\" - Nhà cách mạng pháp Danton, hồi đó cũng có nói \"chỉ có biến pháp do quốc dân công nhận rõ ràng mới gọi là biến pháp\".",
+      "",
+      "Quyền phúc-quyết của dân chúng trong việc lập biến có thể thi hành theo hai cách:",
+      "$1^{\\circ}$ ) Một là sau khi ủy ban lập biến hay hội nghị lập biến đã thảo ra một biến pháp, bản thảo ấy phải đem dẹ trình lại quốc dân một lần nữa. Nếu đại đa số công nhận, bản dự thảo sẽ thành ra hiến pháp chính thức.",
+      "20) Hai là chính phủ dẹ trình quốc dân một vài nguyên-tắc căn bản của biến pháp sắp thi hành, và xin phép quốc dân được toàn quyền xây dựng hiến pháp mới trên những căn bản ấy. Ví dụ: \"Chính-phủ dẹ trình quốc dân rằng biến pháp mới sẽ lấy những nguyên tắc sau đây tám căn bản (chổ này kể những nguyên tắc đó ra). Quốc dân có bằng lòng trào toàn quyền cho chính phủ thiết-lập biến pháp theo những nguyên tắc trên"
+    ],
+    "page_33": [
+      "đây khồng? Nếu quốc dân trả lời có, trách nhiệm lập hiến sẽ trao hẳn cho chính phủ.",
+      "",
+      "Bên Pháp, thời hai hoàng đế Nã pháLuân thứ nhất và thứ ba, hay dùng binh thức phúc quyết Nhung chính phủ thường khéo léo làm sai lạc câu hỏi đi để làm cho quốc dân không biết đường phán đoán nữa. Phương pháp công hiệu nhất là đem tên một người được yêu mến vào trong bản đệ trình quốc dân. Chẳng hạn đáng nhẽ hỏi:",
+      "«Quốc dân có công nhận hiến pháp sau đây không ? ? Chính phủ lại hỏi \"Quốc dân có thuận trao toàn quyền cho Nã-phá-Luân thiết lập hiến pháp theo những căn bản sau đây không? Khi có tên một người được tin cậy dân chúng thường quên cả phê phán mà trả lời «có»",
+      "",
+      "Hinh thức phúc quyết nguy hiểm ở chổ ấy."
+    ],
+    "page_34": [
+      "$$",
+      "\\begin{aligned}",
+      "& \\text { 2. - TU CHINH HIÊN-PHÁP } \\\\",
+      "& \\text { 1. - Hiến-pháp nào cũng phải } \\\\",
+      "& \\text { có thê sửa dồ được }",
+      "\\end{aligned}",
+      "$$",
+      "",
+      "Một hiến-pháp chi là một cách tở-chức chinh trị. Sư tở chức ấy phải tiến hóa cho hợp với điều kiện xã hội. Vì vậy, nhà lập hiến nào cũng phải lo định rõ việc tu chính (sửa đồi) hiến-pháp. Nếu không tiền liệu như thế, sẽ hoặc là xảy ra cách mạng, hoặc là sự tu chính xảy ra một cách phi pháp. Cứ đứng trong lý thuyết cũng thấy diên đó là phâi. Chủ quyền là ở quốc dân. Nếu quốc dân muốn thay đồi hiến pháp, không có lẽ gì đề từ chối được.",
+      "2. Tất cả mọl phấn tử trong hiến-pháp đều phải có thê sửa đồi",
+      "",
+      "Nhiều khi, nhà lập hiến nói rằng có một vài căn bản của hiến-pháp không thê sửa đồi được. Ví dụ trong hiến-pháp 1875 nước Pháp: « hình thức dân chủ cộnghòa không thê sửa đồi ». Nhưng thật ra nếu điều kiện lịch sử cho phép, người ta vẫn sửa đồi cả những căn bản ấy."
+    ],
+    "page_35": [
+      "Đứng trong lý thuyết, chú quyền là ố cả quốc dân. Nếu quốc dân muốn sửa dồi hẳn căn bản hiến pháp, cũng không có lẽ gì chính phả thoái thác được. Ví dụ sau này quốc dân Trung Hoa muốn vượt khỏi Tam dân chủ nghĩa đến một chinh thề mới. Lúc bấy giờ, chính phủ Trung hoa sẽ không có quyền từ chối, viện rằng chủ nghĩa đó là căn bản bất dịch của hiến pháp.",
+      "3. - Lúc nào cũng phải có thể sửa dồi hiến pháp",
+      "Các nhà lập hiến, nhiều khi, muốn bảo vệ cho công trình vừa xây dựng xong, bèn đặt luật lệ rằng phải một thời gian dài ngắn nhiều hay ít (ví dụ: hai ba năm, hai ba chục năm), quốc dân mới được phép bắt đầu thay đồi hiến-pháp.",
+      "",
+      "Hoặc nhà lập hiến cho phép đệ trình dự án thay đồi, nhưng dự án ấy phải trải một kỳ hạn mới bắt đầu có giá trị. Chẳng hạn trong hiến pháp 1791 của nước Pháp, một dự án phải được bốn khóa nghị viện liên tiếp nhau công nhận mới bắt đầu có giá trị, nghĩa là phả ${ }^{1}$"
+    ],
+    "page_36": [
+      "tám năm (mỗi kkóa là hai năm). Nhưng trong thực tế, ngay năm sau 1792, hiến pháp đó đã đở.",
+      "",
+      "Trong thực tế, khi tất cả dân chúng đã đòi hỏi sự thay đổi, tất khó lòng cưỡng lại nỗi. Muốn tránh cách mạng, hiến pháp lúc nào cũng phải có thể sửa đổi không nên hạn định quá sức cặn kẽ.",
+      "",
+      "Sự sửa đổi hiến-pháp đặt ra hai câu hỏi lớn:",
+      "",
+      "A. - Ai được quyền định đoạt sửa đổi?",
+      "",
+      "Câu trả lời thay đổi tuỳ theo từng khuynh hướng chính trị.",
+      "",
+      "Có khi muốn cho quyền hành-chính được mạnh, người ta đánh độc-quyền đề nghị cho chính phủ. Khi ấy chỉ quốc trưởng là được quyền định đoạt ta chính. Cũng có khi người ta đánh độc quyền cho một đảng phái.",
+      "",
+      "Nhưng thường ra, quyền định đoạt sửa đổi thuộc về việc lập-pháp. Viện đó do dân chúng đề cử, tất có liên-lạc trực-tiếp với dân chúng và biết rõ"
+    ],
+    "page_37": [
+      "ý muốn của dân chúng hơn.",
+      "Vậy nếu có một nghị-viên đề xuất việc sửa đồi và nếu nghị-viện bằng lòng thi thường ra là người ta lo đến việc sửa đồi liền theo. Những chế độ có hai nghị-viện tất không còn lo có những sửa đồi bắp tấp và nông nồi vì viện nọ đã kiềm soát và kìm hãm bớt viện kia rò̀i.",
+      "",
+      "Trong những chế-độ dân-chủ cấp tiến, cả nhân dân cũng được quyền đề nghị định đoạt sửa đồ nữa. Chẳng hạn trong chính thể Thuy-sĩ, nếu năm vạn người dân họp nhau lại xin sửa đồi hiến pháp, chính phủ phải tở chức ngay một cuộc toàn dân đầu phiếu. Trong các nước ở Hợp chúng quốc cũng vậy, khi nghị viẻn đã định sửa đồi rồi phải hỏi lại quốc dân : « Họi-nghẹ lập hiến hay không hội nghị lập hiến ? \" Nếu quốc dân trả lời có, chính phủ phải lập tức tở chức cuộc cử một hội-nghị lập hiến đặc hệt, có trách nhiệm là sửa đồi hiến pháp."
+    ],
+    "page_38": [
+      "# B - Rinh thức sửa ",
+      "",
+      "đồi như thế nào ?",
+      "Khi đã định đoạt rồi, phải lo đến việc tở chức sự sửa đồi. Việc tở chức ấy phức tạp lắm nhưng có mót điều hiên nhiên là sự sửa đồ phải có những hinh thức dặc biệt. Thuyết hinh-thức tương đương (parallélisme des formes) chủ trương rằng khi thiết lập hiến pháp theo hinh thức nào thì khi sửa dỗi cũng phải theo hinh-thức ấy. Khi thiết lập hiến pháp, nếu quốc dân đã đề cử một hội-nghị lập hiến thì khi sửa dỗi cũng vậy. Nếu quốc dân đã tham dự trực tiếp vào việc lập hiến, tức khi tu chính cũng phải tham-dư trực tiếp. Quan niệm đó thường khi kt ông dược áp dụng.",
+      "",
+      "Thực vậy, ta còn phải xét xem ý nhà lạ̣p hiến là muốn làm cho dễ dàng hay muốn cản trở sự sửa đồi. Khi nhà lập hiến muốn công trith của minh tồn tại dài lâu, tất sẽ tìm cách càn trở sự tu chính. Chẳng hạn, ông ta sẽ bắt phải theo đúng những hình thức khi lập hiến."
+    ],
+    "page_39": [
+      "Trái lại, nếu ông ta muốn hiến pháp dễ thích nghi với hoàn cảnh xã hội, tất sẽ tìm cách làm cho việc sửa đổi được dễ dàng.",
+      "",
+      "Vả lại còn phải xét xem nói-dung hiến pháp có những gì nữa. Nếu nói-dung đó chỉ gồm một vài nguyên-tắc căn-bản, tất sự sửa đổi phải làm cho khó khăn Trái lại, nếu trong hiến-pháp có cả những điều luật nhỏ nhặt, không quan hệ gì đến đời sống chính trị, tất sự thay đồi có phần dễ dàng.",
+      "",
+      "Muốn làm cho dễ dàng như vậy, nhà lập hiến nước pháp năm 1875, không còn bắt buộc phải đề cử một hội nghị đặc biệt nữa. Chỉ cần hai nghị viện Thượng, Hạ góp lại thành một quốc hội (assemblée nationale) là đủ quyền sửa đổi hiến pháp.",
+      "",
+      "Muốn dễ dàng hơn nữa, nhà lập hiến nước Bỉ định rằng không cần đến một Quốc hội. Chỉ hai viện lập-pháp thông thường cũng có quyền sửa đổi hiến pháp. Duy đại đa số phải được hai phần ba nghị viện. Nhưng sau khi tu-chính hiến pháp"
+    ],
+    "page_40": [
+      "500 qàdq aồd aồam al qaò aồn, isi ià i 5 nghỉ viện phải giải tán đề quốc dân có dịp bảy tở ý kiến về sự thay đổi vừa xong.",
+      "",
+      "Sau hết cách thủ tiêu h ến pháp nhanh chóng hơn cả là cách-mang. Cách mạng chính trị nghĩa là lật đổ hiến pháp cũ để thiết lập một hiến pháp mới (ví dụ cách mạng quốc gia bên Pháp năm 1940) Muốn hiểu cách mạng giữ một địa vị quan trọng đến bực nào trong lịch sử ta chỉ cần nhớ rằng bên pháp tất cả các hiến pháp từ 1789 đến nay đều đã bị đổ vi cách mạng.",
+      "",
+      "Nhưng trong hiến pháp nhiều khi có những điều luật không quan hệ gì đến sự tổ chức chính trị : ví dụ những điều tệ về hỏa xa, về thuế đoan v...v. . Đối với những luật ấy, cũng có khi cách mạng có thái độ thủ tiêu, nhưng phần nhiều chỉ đem nó ra khỏi hiến pháp, và đặt nó xuống địa vị thích đáng của nó : địa vị một điều luật thông thường.",
+      "",
+      "Ví dụ như điều thứ 5 trong hiến pháp năm 1848 của đệ-nhị dân-quốc Pháp xóa bỏ tội tử hình trong việc chính trị. Hiến pháp 1848 nay không còn nữa, nhưng"
+    ],
+    "page_41": [
+      "# Bị ",
+      "",
+      "điều lệ đó nay vẫn còn, đây bị hạ xuống địa-vi một đạo luật thông thường mà thôi",
+      "3 - SỰ KIỂM SOÁT TÍNH CÁCH HỢP HIỆN CỦA PHÁP LUẬT Tử",
+      "",
+      "Nếu hiến pháp đã có tính cách «rắn», nếu hiến pháp là điều lệ tối cao trong quốc gia, tất một đạo luật thông thường kháng thè phản đối một đạo luạt hiến pháp được.",
+      "",
+      "Do đó phát hiện ra một vấn đề : kiềm soát xem nhà làm luật có tuân theo hiến pháp không, và những đạo luạt do chính phủ đề nghị hay ban bố có phản đối gì với hiến pháp. Lạ phải đặt cân hỏi này: một đạo luật không hợp hiến thì phải đối phó như thế nào?",
+      "",
+      "Những câu trả lời xếp làm hai loại : một loại chính trị, một loại tư pháp.",
+      "",
+      "A - Dành riêng việc kiềm soát cho một cơ quan chính trị",
+      "",
+      "Theo câu trả lời thứ nhất này, việc kiềm soát tuy có tính cách tư-pháp (caractère juridique) nhưng gây ra rất nhiều"
+    ],
+    "page_42": [
+      "ảnh hưởng chính trị. Vi thế phải thiết lập một một cơ quan đặc biệt, một bô phận chính trị ố cao dễ kiếm soát nghị viện với chính phủ. Việc ấy không thê dánh cho các cơ quan tư pháp thông thường, nghĩa là các tòa án được.",
+      "",
+      "Trong phần đông các trường họp, cơ quan kiêm soát tối cao đó là Thượng nghị v ện. Trong lịch sử nước Pháp, sự kiêm soát do Thượng nghị viện thường không có kết quả gì, vì hay bị chính phủ làm sai lạc đi.",
+      "",
+      "# B - Trao việc kiêm soát cho những cơ quan chính trị ",
+      "",
+      "Theo câu trả lời thứ hai, việc kiêm soát dù gây ra những ảnh hưởng chính trị sâu xa đến bực náo trước hết cũng chỉ là việc kiêm soát, nghĩa là một việc tư-pháp thuộc chủ̉ quán một tòa án.",
+      "",
+      "Vì vậy có nhiều chính thể hiện hành cho phép các tòa án được kiêm soát tính cách hợp hiến của pháp luật, trong một phạm vi nào. Sự kiêm soát ấy có thê thực hiện theo hai hinh thức :"
+    ],
+    "page_43": [
+      "# -xo) doào oá 0000 5b 3di 0da a1 aọiv ",
+      "",
+      "1 - Kiềm soát hoạt động (controle par voie d'action) Trong hình thức kiêm soát này, cá nhân được quyền khởi thẹ công, nghĩa là được quyền đem một đạo luật ra trước tòa án mà kêu rằng, luật ấy không hợp với hiến pháp, và xin bã bỏ. Hình thức này, cứ trong lý thuyết thì có thực hiện bền Mề tày-cơ (Mexique) và mang danh là Amparo. Bền Thụy-sĩ cũng có thực hiện một đội phần người dân Thụy-sĩ có quyền, đem một đạo luật địa-phương ra trước tọa án liên bang, trong kỳ hạn sáu mươi ngày sau khi luật pháp công bố. Kết quả của những điều khiếu nại ấy có thể là sự bãi bỏ một đao luật đã định đem ban hành.",
+      "",
+      "2 - Kiềm soát thụ động (controle par voie d'exception). Nhưng trong phần đông các chính hề, sự kiềm soát pháp luật chỉ có tính cánh thụ động. Cá nhân không được phép tấn công nhưng được quyền giữ \"thế thụ\". Nếu cá nhân phạm một điều đã bị luạt pháp cấm đoán, và nếu đạo luật cấm đoán đó trái với hiến pháp, trước tọa án bị cáo có quyềngc"
+    ],
+    "page_44": [
+      "viện ra như thế để được đặc cách (exception) thoát tội.",
+      "",
+      "Ví dụ: ở Hợp-chúng-quốc (États Unis tức nước Mỹ) có một đạo luật bắt buộc các phim phải kiêm duyệt trước khi đem chiếu lên màn ảnh cho công chúng xem. Một người chiếu phim không chịu kiêm duyệt và bị đưa ra tòaa. Ông ta khiến nại rằng luật kiêm duyệt trái với kiến pháp, vì trong hiến pháp có một khoản tuyên bố kỹ nghệ với lao công đều được tự do. Nếu tòa án chấp đơn khiếu nại, và công nhận như thế, người chủ phim sẽ đặc cách không phải phạt, nhưng đạo luật kiêm duyệt vẫn không bị bãi bỏ: sự kiêm soát chỉ có tính cách thụ động.",
+      "",
+      "Vậy trong hình thức kiêm soát này, cá nhân không được tự ý khêu gọi vấn đề mà phải chờ bị đòi hỏi mới được viện đến hiến-pháp để tự bênh vực. Tòa án cũng không có quyền bãi bỏ luật pháp mà chỉ được tha bỗng cho bị cáo.",
+      "",
+      "Hình thức kiêm soát thụ động được thực hiện thông thường tại Hợp-chúng-",
+      "",
+      "38"
+    ],
+    "page_45": [
+      "quốc. Tòa án cấp nào cũng được định đoạt xem một đạo luật do nghị viện dầu phiếu và chính phủ ban bố có hợp với biến pháp hay không. Có khi những cá nhân bị chính phủ đe dọa còn đến tòa án xin trước một bản chứng chỉ rằng đạo luật đe dọa đó trái biến pháp nữa.",
+      "",
+      "Một học giả Mỹ đã giảng nghĩa quyền kiểm soát đặc biệt ấy như sau đây : nhà tư pháp có phận sự là áp dụng pháp luật. Gặp trường hợp có hai đạo luật mâu thuẫn nhau tất phải cạn nhắc xem 1 nật nào ở trên, luật nào ở dưới. Luạt biến pháp tất nhiên ở trên luật thông thường. Vậy phải áp dụng biến pháp.",
+      "",
+      "Ngày nay, có nhiều khi các viên chủ tịch tòa án cố ý lạm dụng quyền kiểm soát của minh đề nghịch với pháp-luật Không những họ viện đến bản thân biến pháp, đề tha cho bị cáo mà có khi còn viện đến ý nghĩa hiến pháp nữa. Muốn tránh những sự lạm quyền ấy, nảy ra một lập lệ đặc biệt về sự hồi lại (recall). Nếu một tòa án tuyên bố rằng một đạo luật do dân chúng mong mỏi không hợp"
+    ],
+    "page_46": [
+      "Tư hiến pháp, án ấy sẽ để trình dán chúng dầu phiếu. Nếu được dán chúng bằng lòng đạo luật không hợp hiến từ nay sẽ coi là hợp hiến, tuy đạo án đã tươi bô không bị bác bỏ.",
+      "",
+      "Bên Pháp, ta nên nhờ không có dấu vết nào của sự kiểm soát hoạt động hày thư động. Không một tòa án nào được phép phê bình luật pháp. Phán sự duy nhất của các tòa án chỉ là thi hành luật pháp và xét xem luật pháp đó nhân dân có tuân theo hày không.",
+      "",
+      "Tuy nhiên, người dân nên có nghĩa là quý người đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là người dân đã có nghĩa là"
+    ],
+    "page_47": [
+      "# Chương 11 ",
+      "",
+      "## Ý NIÊM DÂN CHU",
+      "",
+      "Trong việc tồ chức chính trị một nước, vẵu dễ quan trọng hơn cả là vắn dê chủ quyễn (souveraineté). Ai được nắm quyền chính trị? Vị lẽ gì mà được nắm như thế? Một người hay một đoàn thề nắm quyền chính trị thì gây ra những ảnh hưởng nào. Ây là những câu hối ở chung quanh vẩn dễ chủ quyền vậy."
+    ],
+    "page_48": [
+      "# 12 ",
+      "",
+      "$$",
+      "\\begin{aligned}",
+      "& \\text { a ̛̉v , ovua lom pri daida ovua ós ofly gnost } \\\\",
+      "& \\text { aóyup óda ót a ̛̉v át ̇o avd gnost nsup so } \\\\",
+      "& \\text { \" l'1 daida aóyup mán ovub iA, (o)anlatsyuoas } \\\\",
+      "& \\text { rougo 1655 86dt vita mán ovub em ig 61 iv } \\\\",
+      "& \\text { yág lal l'1 daida aóyup mán ódl uxob lom yad } \\\\",
+      "& \\text { uso gnúúa ál yA oáu gnóud daá guúda a1 } \\\\",
+      "& \\text { yóv aóyup ódo ót a ̛̉v utuup guada ù iód }",
+      "\\end{aligned}",
+      "$$"
+    ],
+    "page_49": [
+      "# THIÊN 1 ",
+      "",
+      "## Vấn đề chủ quyền",
+      "",
+      "Vấn đề chủ quyền có hai câu hỏi:",
+      "1.) Chủ quyền của quốc gia.",
+      "2.) Chủ quyền trong quốc gia.",
+      "",
+      "## 1 - Chủ quyền của quốc gia",
+      "",
+      "a - Trước hết, chủ quyền của quốc gia là gì ? Ấy là một quyền lực tối cao và độc lập cai quản, thống xuất mọi sự vụ trong nước.",
+      "b - Chủ quyền ấy có giới hạn nào không? Quốc-gia có được quyền muốn làm gì thì làm không?",
+      "",
+      "Về phương diện quốc-tế, ngày nay có một khuynh hướng chủ trương rằng các quốc gia phải vàng theo một số qui-tắc chung : đó là những luật quốc tế vậy."
+    ],
+    "page_50": [
+      "Nhưng cũng có người chủ trương răng trên trường quốc tế, quốc gia muốn hành động thế nào cũng không ai căm đoán được (Vattel-Hegel).",
+      "",
+      "Về phương diện nọ́i vụ, quốc gia có được quyền muốn đối đãi với cá nhân thế nào cũng được hay trái lại phải giới hạn trong vòng tự do cá nhân? Câu hỏi này cũng khó trả lời không kém. Có phải chủ trương rằng quốc gia được toàn quyền hành động đối với cá nhân. Có phải trái lại quá quyết rằng quyền lực của quốc gia phải dừng lại ở chổ nào tự do cá nhân bắt đầu.",
+      "",
+      "Đặt vã̃n đề như thế thường là không trúng cách. Đem cá nhân chia rẽ với quốc gia là nhầm. Mục đích của quốc gia la giúp cho cá nhân được tự do và sung sướng, nhưng sự tự do và sung sướng, nhưng sự tự do của cá nhân chỉ thực hiện được trong vòng kỷ luật của quốc gia... Trước khi đạt đến tự do, phải có một thời kỳ quốc gia tổ chức các hành động của cá nhân đã. Ta phải đứng về một phương diện động"
+    ],
+    "page_51": [
+      "mới trả lời được đứng đắn.",
+      "",
+      "# 11 Chủ quyền trong quốc gia ",
+      "",
+      "Những câu hỏi chính trị hơn và quan trọng hơn là: Troug quốc gia chủ quyền ai được phép nắm? Ta nói rằng chủ quyền là của quốc gia. Nhưng quốc gia chỉ là một chữ. Trong sự thực, quốc gia thuộc về một người, hay một số người. Đó là ai ? Vì lẽ gì người ấy được phép nắm chủ quyền như vậy?",
+      "",
+      "Chỗ này có hai thuyết trả lời:",
+      "Một thuyết quân chủ, và một thuyết dân chủ.",
+      "",
+      "## § 1 - NHÛNG THUYẾT QUẤN-CHỦ",
+      "",
+      "Ta chỉ tóm tắt đại khái những thuyết này mà không vào sâu.",
+      "",
+      "Theo những thuyết quân chủ, trị quyền trong quốc gia là do Trời, do Thượngđế ban cho một nhà vua, hay một họ vua. Lòng giờ đã định, người trần không ai được trái. Nếu trái mệnh vua là trái mệnh trời vậy.",
+      "",
+      "Vua là thiên-tử, là con trời. Vì thế nhà"
+    ],
+    "page_52": [
+      "vua không bị quyền thế phàm tuc nào gám sát. Vua có tọi là chỉ tội vớ̀ trời, chữ không phải tợi vớ̀ nhận dâư. Nhân dâu chi được cúi đầu vâug theo, Nếu vua lầm lẫn có trời biết mà trứng phat.",
+      "",
+      "# \\$ 2 - THUYẾT DÂN-CHỦ ",
+      "",
+      "Thuyết này trái lại, nói rằng chủ quyễn trong môt nước, là ở quốc dân. Quốc dân trao quyễn cho ai, thì người ấy dước g ư.",
+      "",
+      "Bèn Tâu, ta có thể coi Mạnh tử là một nhà chinh trị có khuynh hường dân chủ Ông nói : \"Dân vi quý, xã tắc thứ chi, quân vi khinh \". (Dân là qui nhất, thứ đến nước, vua là nhẹ).",
+      "",
+      "Bèn Âu-Châu, tư tưởng dân chủ sớm này nở lẫm. Thời thượng cổ đã có những xã-hội dân chủ hy lap, la mã. Thời trung cô, trong xã hội Anh cát Lợi và xã-hội Pháp cũng có manh nha một tư tưởng trọng dân, nói rằng: quyễn lực của nhà vua là do dân chúng trao cho.",
+      "",
+      "Sang thế kỷ XVIII thuyết dân chủ bột"
+    ],
+    "page_53": [
+      "hưag trong triết học. Nhâ tư tưởng có công nhất trong việc truyền bá nó là Rousseau. Đại ý thuyết Rousseau như sau này :",
+      "",
+      "Khi người ta còn sống theo tự nhiên (état de nature), thì mỗi người ở riêng một minh, độc lập hoàn toàn. Nhưng sau cần đến nhau nên hợp quần lai. Khi tu họp như thế, người ta ký kết một điều ước xã-hội (contrat social). Vì điều ước ấy, mà tự ý bỏ quyền tự do của riêng từng người để thánh lập một chủ quyền duy nhất, cao hơn tự do cá nhân. Vì chủ quyền trong xã-hội do dân ước mà có nên phải thuộc về quốc dân Người dân nào cũng phải được quyền dự vào chủ quyền đó. Ấy là thuyết quốc dân chủ quyền (souveraineté nationale) vậy.",
+      "",
+      "Chủ quyền là ý muốn chung (volonté générale) của mọi người. Ý muốn ấy có mấy đặc tính :",
+      "1.) Một là nó đơn nhất, và không thể chia thành nhiều phần nhỏ được. Đã là một ý muốn, ai chia rẽ, cắt xén nỗi. Nên"
+    ],
+    "page_54": [
+      "chủ quyền quốc dân phải tập trung không thể chia cho nh iêu người hay nh ền doàn thê.",
+      "",
+      "2.) Hai là chủ quyền ấy không thể nhượng lại (inalienable) cho ai được, cũng như một ý muốn không thể nhượng lại cho ai. Một chính phủ không được phép nói rằng đã được quốc dân nhường chủ quyền cho đề làm việc. Rousseau, vị lẽ này, phản đối kịch liệt chính thê đạinghị (gouvernement représentatif). Theo ông, quốc dân không thể nhường quyền lập pháp cho một đoàn thể nghị viện nào.",
+      "",
+      "3.) Sau hết, chủ quyền quốc dân không thể mất được, dù quốc dân có quên không dùng đến nó (imprescriptible). Một nhà vua không được nói rằng từ trước đến nay quốc dân vẫn trao quyền cho mình, thì mình được phép giữ mãi.",
+      "",
+      "Rousseau kết luận: chủ quyền quốc dân không chia được, không nhượng được không mất được. Những chủ trương của Rousseau, sau trở nên \"linh hồn\" của các chính thê cách mạng nước Pháp từ"
+    ],
+    "page_55": [
+      "1789 đến 1848.",
+      "",
+      "Trong bản nhân quyền tuyên ngôn năm 1789, khoản 3 nói : « Căn bản của chủ quyền nào cũng là ở quốc dân. Không đoàn thể nào, không cá nhân nào được nắm một trị quyền không do quốc dân trao lại ».",
+      "",
+      "Điều thứ 6 « Luật pháp đem diễn giải ý muốn chung của mọi người ».",
+      "",
+      "Hiến pháp 1791, thiên thứ ba, điều thứ nhất : « Chủ quyền chỉ có một, không chia rẽ nhượng bộ, mất đi được. Nó thuộc về quốc dân. Không một phần dân chúng nào không một cá nhân nào được quyền giữ riêng nó.",
+      "",
+      "Tuyên ngôn cách mạng 1793, điều thứ 4 : « Luật pháp đem diễn giải một cách tự do và long trọng ý muốn chung của mọi người ». Điều thứ 25 « Chủ quyền là ở dân chúng, nó chỉ có một, không chia rẽ, nhượng bộ mất đi được ».",
+      "",
+      "Trong các hiến pháp cấm đai, cũng thấy vạch rõ quan niệm dân chủ đó. Hiến pháp Bỉ 1851 : « tất cả mọi trị quyền đều ở như quốc dân ». Hiến pháp Đức 1819"
+    ],
+    "page_56": [
+      "\"Trị quyên ở dân chúng\" Hiến pháp Ba Lan 1921: \"Chủ quyền của dân quốc Ba Lan thuộc về quốc dân\". Hiến pháp Hy Lạp 1927: \"Tất cả mọi trị quyền đều ở quốc dân định đoạt. Hiến pháp Trung hoa 1921 điều thứ hai \"Chủ quyền của Trung hoa là thuộc toàn thể quốc dân\" v.v...",
+      "",
+      "Ta có thể nói rằng quan niệm dân chủ ngày nay đã trở nên một quán niệm quốc tế rồi vậy.",
+      "nêd PHÊ BÌNH THUYÊT DÂN CHỦ",
+      "Ta phê bưh thuyết đó về ba phương diện :",
+      "\"Giá trị lý thuyết",
+      "nộp, Giá trị chính trị qáng lập, nộp, Giá trị thực tế, nộp, nộp, nộp, nộp, nộp, nộp, nộp, nộp, nộp, nộp, nộp, nộp, nộp, nộp, nộp, nộp, nộp, nộp, nộp, nộp, nộp, nộp, nộp, nộp, nộp, nộp, nộp, nộp, nộp, nộp, nộp, nộp, nộp, nộp, nộp, nộp, nộp, nộp, nộp, nộp, nộp, nộp, nộp, nộp, nộp, nộp, nộp, nộp, nộp, nộp"
+    ],
+    "page_57": [
+      "2.) Chú quyên ấy thuộe vê quốc dân, mà quốc dân là một «người» tưởng tượng, có ý muốn cũng như những người thực tại và ở trên những người thực tại.",
+      "3.) Chủ quyên nghĩa là ý muốn của cái người tưởng tượng mà ta gọi là «quốc dân» ấy. Vậy chủ quyên ở cao hơn là ý muốn của cá nhân và phải được vâng theo.",
+      "",
+      "Xem đó, ta thấy những chổ còn non của thuyết quốc dân chủ quyên.",
+      "",
+      "Trước hết, người ta coi quốc dân (nation) như một ngườ tưởng tượng, khác với những người trong thực tế. Đó là một điều thứ nhất không có tính cách khoa học. Vì quốc dân, trong thúyết Rousseau, là một «người» đặc biệt như thế, nên khi nghiền cứu vè các biếnhpháp, ta không nến lâm quốc dân (na(loa) với dân chúng (peuple). Chứ quốc dân có ý nghĩa trừu tượng, chữ dân chúng trái lại thiết thực hơn và dùng dè chỉ những người thực tai.",
+      "",
+      "Quốc dân, trong thuyết Rousseau, lại có một ý muốn riêng biệt, không lâm"
+    ],
+    "page_58": [
+      "được vớ ý muốn của những người thực tại. Đó là điều chủ trương quan trọng nhất của thuyết quốc dân chủ quyền (souveraineté nationale): yi cái người tưởng tượng mà ta gọi quốc dân ấy cũng biết \"muốn\" như người thật nên chủ quyền mới không chia rẽ, nhượng bộ hay mất đi được.",
+      "",
+      "Nhưng đó là điều thứ hai, kém khoa học. Ý muốn không phải là một sức mạnh huyền bí ở bên ngoài tâm-lý người ta. Nhà khoa học ngày nay nói rằng ý muốn là một công việc của tâm lý và thân thể, ở bên trong tâm lý, không thể có bên ngoài tâm lý và thân thể. Chỉ nơi nào có một thần-kinh-bệ thì mới có ý muốn. Một người tưởng tượng như \"quốc dân\" của Rousseau không thể có ý muốn được. Thực ra ý muốn của quốc dân chỉ có nghĩa là ý muốn một số người trọng dân chúng ý muốn của đại đa số những người được bỏ phiếu.",
+      "",
+      "Sau nữa, Rousseau chủ trương rằng người ta thoạt tiên sống trong một trạng thái tự-nhiên (État de nature) không có xã-hội, quốc gia gì. Sau bỗng bỏ trạng-thái ấy, đồng ý hy-sinh tự do cá nhân"
+    ],
+    "page_59": [
+      "đề thành lập quốc gia, và đề thiết lập một chả quyền tối cao trong quốc gia ấy. Vì lẽ đo, nên chủ quyền tối cao mới phải thuộc về quốc dân là người đã đẻ ra nó. ${ }^{21}$ uôib iôv nâb nôil ỏn yân",
+      "",
+      "Thuyết nay lại kém khoa-học một lần thứ ba. Xã-hội-hoc ngày nay cho ta biết rằng quốc gia với xã-hội không phải hỏng hề nhièn mà thành lập như thế. Trái lại, thời nào cũng đã có một xã hội. Duy có u xưa thì xã hội thô sơ, mà ngày nay xã hố d! mỗi ngày mỗi thêm chặt chẽ và rông rãi. ${ }^{22}$",
+      "",
+      "Vì vậy, chủ quyền có thuộc về quốc dân, không phải vì quốc dân đã đẻ ra xã-hội như Rousseau đã nói.",
+      "",
+      "Muốn sửa đổi thayết dân chủ cho hợp di với trình độ khoa-học hiện thời, ta phải thiết thực hơn, bớt «duỳ tâm » đi mà nói :",
+      "",
+      "Trong xã hội nào cũng có mâu-thuân! và tranh đấu. Chính nhờ tranh đấu nên mới có tiến hóa. Trong bộ lạc cô sơ thì! nguời khỏe tranh đấu với người yếu đẻ! cướp miếng ẩn, rồi bộ lạc nọ lại tranh đấu với bộ lạc kia nữa. Trong xã hói nô lệ, đến sau xã hội bộ lạc đó, thì"
+    ],
+    "page_60": [
+      "những người tự do tranh đấu với những kẻ nô-1ệ, đề đề nén và áp-chế họ, bắt họ phải làm trâu ngưạ bầu bạ: những người tư do Trong xã-bói phong kiến nảy nở trên dấn vết diêu tàn của xãhói nô lệ, thi cac địa chủ, tức là các tiểu sương, các chúa phong kiến, tranh đấu với bọn nóng nó, và bọn trung lưu sống ở các đô thị. Khi giai cấp trung. lưu ấy đạp đồ các triền vua phong kiến thi tự coi như kẻ cứu thế của xã-bói, và tuyên bố thuyết quốc dân chủ quyền vậy. 5 . 50",
+      "Quốc dân chỉ có nghĩa là những ngườ di bỏ phiếu, mà những người bỏ phiếu thi hoăc là những kẻ trung lưu (bourgeoisie), hoăc phải chịu ảnh hưởng sâu xa của những người trung lưu có học thức, có tiền bạc.",
+      "",
+      "Cho nên thời nào cũng yậv, chủ quyền trong quốc gia thuộc về phái nào, là phái ấy có một lợi khí để tranh đấu với kẻ địch. Trong xã-hói bọ lạc, còn chưa có quốc gia, nhưng chủ quyền trong một vùng thuộc về bọ lạc nào mạnh"
+    ],
+    "page_61": [
+      "nhất, và trong một bộ lac, chủ quyền thuộc về kẻ khỏe nhất và lắm muú mẹo nhất. Sang xã hội nô lệ, chủ quyền trong quốc gia riêng thuộc về những người tự do. Chỉ người tư do là tham dự trúctiếp vào việc chính trị. Kẻ nô lệ, trái lai, không có lấy một quyền sống nữa. Đến xã-hội phong-kiến, chủ quyền thuộc về các địa chủ, các tiều vương, các vua phong-kiến. Tới khi các nha vua phong kiến tiêu diệt lấn nhan, các chư hâu tan rã, giang sơn thu vao mót mồi, đất nưoc chi còn một nhà vua làm chủ, thì chủ quyền trong quốc gia là thucc nhà vua, và thuyết cuân chủ huyền bí, thuyết nhà vua là con trời bắt dãa hiện ra đời. Tiến một lực nữa lên xã hội ngày nay, công thương phát triền, các địa chủ, dù là vua chua, cũng không còn nắm được sự sống của quốc gia mà phải nhường trách nhiệm ấy cho các nhà kỹ nghệ và thương trai. Giai cáp công thương này nở nhanh chong di thường. Họ là những kẻ nóng nò thời xưa dã mua lại được tự do và ra ở các đô-thị. Tranh đấu"
+    ],
+    "page_62": [
+      "với lớp người phong kiến, họ thắng lợi rực rỡ và tuyên bố lớn lao rằng từ nay chủ quyền trong quốc gia sẽ chỉ thuộc về quốc dân. Họ tự coi là quốc dân ấy và thực bụng tin rằng cả những người khác nữa, cả các nhà nông, các thợ thuyền cũng là quốc dân. Nhưng họ không quên rằng ý muốn của quốc dân chỉ có nghĩa là ý muốn đai đa số những người bỏ phiếu và họ dùng đủ mọi phương pháp để trực tiếp hay gián tiếp danh quyền bỏ phiếu ấy cho riêng họ. (Dưới đây sẽ xét đến các phương pháp ấy).",
+      "",
+      "Nên thuyết dân chủ có giá trị là về một phương diện khác, chứ không phải về phương diện lý thuyết mờ hồ của lớp người trung lưu. Chữ quốc dân chủ quyền phải dồi làm dân chúng chủ quyền thì chữ dân chủ mới có nghĩa. Khi dồi đi như thế ta bước sang một phạm vi khác.",
+      "",
+      "# B. - Giá-trị chính-trị ",
+      "",
+      "Trên đã xét đến giá trị lý thuyết của chủ nghĩa dân chủ. Nay ta xét đến giá trị của chủ nghĩa ấy về phương-diện"
+    ],
+    "page_63": [
+      "chinh trị.",
+      "Dúng thuyết-lý viên vòng đề chứng minh rằng chủ quyền trong quốc gia phải thuộc về quốc dân là một điều lầm. Trái lại ta cần thiết thực và khoa-học mà tìm những lý do nó khiến ta nói rằng: chủ quyền trong quốc gia nên thuộc về dân chúng.",
+      "",
+      "Vấn đề ta đang tìm cách giải quyết là chủ quyền trong quốc gia phải thuộc về ai? Các nhà thuyết lý thời xưa đứng về một phương diện \"tĩnh\" mà chia ra một bên là nhà vua, một bên là quốc dân hình như từ xưa đến nay bao giờ cũng đã có vua với quốc dân vậy. Rồ sau đó, người thì nói rằng chủ quyền phảithuộc về vua (quân chủ) người thì cãi lại rằng chủ quyền phải thuộc về dân (dân chủ).",
+      "",
+      "Chúng ta ngày nay, khoa-học hơn, cần phải đứng về một phương-diện \"động\" đề giải-quyết vấn đề. Không phải từ xưa đến nay, bao giờ cũng có vua với dân, mà trái lại xã-hội đã trải qua nhiều chế độ, như trên kia ta vừa phác qua: chế độ bộ lạc, nô lệ, phong kiến, quân chủ,"
+    ],
+    "page_64": [
+      "dân chủ.",
+      "Hiện nay, hầu hết các nước trên thế thế giới đều đã lên đến chế độ dân-chủ. Thân b oặc còn một vài xứ có vua thì nhà vua cũng phải ban bố hiến pháp, và quốc dân cũng đang nói theo gót các nước khác.",
+      "",
+      "Cho nên theo cuóc tiến hóa xã hội mà nói, thuyết dân chủ ngày nay mới là thuyết hợp tiến hóa. Còn thuyết quân chủ có tính cách phản tiến hóa rõ rệt vì nó muốn dắt người ta trở lại những thời kỳ xưa. Ngay đến mót nước có cua như Anh cát lợi, chủ quyền cũng ở tròng tay dân chúng.",
+      "",
+      "Nhưng đối với những nước đã đến tính đỏ dân chủ rồi, thì phải tính đến việc vượt quá thuyết quốc dân chủ quyên nữa, vì nếu dứng lại ở đó thì cũng lại là trái với cuộc tiến hóa xã-hớk.",
+      "",
+      "Trên đã vạch những chỗ lầm của thuyết quốc dân chủ quyền và nói rõ vì sao quốc dân không phải là dân chúng. Quốc dân chỉ có nghĩa là đại đa số những người đi bỏ phiếu nghĩa là những người"
+    ],
+    "page_65": [
+      "có học thức, tiền bạc. Các nước dân chủ phải gắng vượt khỏi trình độ ấy mà đi đến chộ dân chúng chủ quyền (souveraineté populaire).",
+      "",
+      "Ta đã biết chủ quyền trong quốc gia chỉ là một lợi kíi để tranh đấu. Ngày nay trong nước nào cũng vậy, dân chúng mỗi ngày giữ một địa vị thêm trọng yếu hơn. Dân chúng đã có sức mạnh, dân chúng đã làm cho guồng máy kinh tế chạy, tất chủ quyền phải thuộc về dân chúng.",
+      "",
+      "Vả lại dân chúng là phần rất đông trong xã-hội. Chủ quyền thuộc về dân chúng tức là thuộc về phần rất lớn xã-hội. Quyền lợi dân chúng tức là quyền lợi phần lớn xã-hội. Nên khi chủ quyền thuộc về dân chúng ta không ngại rằng xã-hội bị thiệt thòi.",
+      "",
+      "Song dân chúng chủ quyền là một mục đích mà ta theo đuổi, chứ không phải một khởi điểm. Trước khi đạt tới mục đích ấy, ắt phải đi qua nhiều giai đoạn trung gian đã."
+    ],
+    "page_66": [
+      "Có một điều nữa cần phải nhớ rõ là dân chúng không phải những cái nhân không giây, không rễ. Trái lại người nào cũng sống trong một nghề nghiệp. Vì vậy phải để ý đến thế lực các nghiệp đoàn hay các đoàn thể khác, và phải chú trọng tổ chức những đoàn thể ấy.",
+      "",
+      "Đến đây, ta bước sang một vấn đề quan trọng khác: làm thế nào tổ chức chủ quyền dân chúng trong thực tế, và ta bắt đầu phê bình giá trị thực tế của thuyết dân chủ.",
+      "",
+      "C. - Giá trị thực tế",
+      "",
+      "Nói « chủ quyền phải thuộc về quốc dân» là một chuyện, tổ chức sao cho câu nói ấy thực hiện được lại là một chuyện khác,",
+      "",
+      "Trước khi vào đến những chi tiết tổ chức, ta cần phác qua một vài nguyên tắc sẽ làm căn bản cho mọi sự tổ chức sau này.",
+      "",
+      "Nói sơ lược, có hai khuy nh hướng dân chủ: một khuy nh hướng cá nhân, và"
+    ],
+    "page_67": [
+      "một khuynh hướng doàn thè̀",
+      "Khuynh hường thứ nhất coi quốc dân là những cá nhân khơng giay khong rễ. Khuynh hương đó chi biết đến cá nhân và lấy cá nhân làm đơn vi chinh trị (unité politique) - Quốc gia phài trong sự tự do và quyè̀n lợi của cá nhân. Trong phạm vi p̣̣áp luật, cá nhân muốn làm gí cūng được.",
+      "",
+      "Khuynh hướng thứ hai trái lại, cho rằng dân chúng khơng những là các cánhận, mà còn là các doàn thè nữa. Nói tự do cá nhân, theo khaynh hướng ấy là nhằm lẫn. Cá nhân phải sống trong điều kiện thế nào mới tự do được. Sự bất bình đẳng trong xã hòi khiến cho chữ tự do cá nhân chỉ là một chữ. Nếu khong đẻ̉ ý đến đời sống thiết thực của cá nhân, đời sống của cá nhân trong doàn thè̉, thì hai chữ tự do chỉ còn nghĩa là tự do bóc lột cho một phái và tự do chết đói cho một phái khác, như lời hơ̛og chế Pétain đã nói. Vi vậy quốc gia phải bạn chế sự tự do của phái này đẻ̉ nâng đở sự tự do của phái kia. Muốn"
+    ],
+    "page_68": [
+      "có tự do phải nói đến đoàn thể trước đã, sớup 100 láda udi gnóud daxudá",
+      "",
+      "Hải khuynh hướng ấy ngày nay tranh đấu với nhau thế nào, sau đây ta sẽ có dịp xét qua. Hiện thời ta cần bước sang vãa đề tổ chức. Sự tổ chức dán chủ đặt ra hai ván đề, 101 nốxup áv oh yi 1.) Hải chủ quốc dân có nghĩa thiết thực là những người đi bỏ phiến. Vậy trong quốc gia ai có quyền bần cử? Ấy là vấn đề bầu cử gnóda gaudo náo gnát 102.) Quốc dân có chủ quyền nghĩa là quốc dân quyết định việc chính trị. Những quyết định cách nào? Làm thế nào tham dự vào việc chính trị. Ấy là vần đề đạ biểu hay không đại biểu vậy, nơv, ủdo 10 m ai ỉdo nêan áo ob yi ủdo sủo 0 ydi 10̃di gnóc ióo nơb 2. ố gnoda guori náda áo sủo gnóc iob, náda áo síuga nóo ỉdo ob yi ủdo ỉsd id, ốdi nách ob yi áv iádq 10 m odo 10̣i oód ob yi ai iói ưda, oúda ỉádq 10 m odo ióo ióds sig sớup 26v iv, ion ãb nialo 2 ôdo gnód ốb 2án iádq sủo ob yi ụe ốdo nạd ỉádq nơuá, sisi ỉádq sủo ob yi ụe ốb gaán"
+    ],
+    "page_69": [
+      "![img-0.jpeg](img-0.jpeg)",
+      "",
+      "Câu hỏi quan trọng nhất trong vấn đề bầu cử là : những được bô phiếu? Tùy theo từng khuyah hướng, ta sẽ thấy quyền đầu phiếu được lan rộng hay hẹp Trước hết cằn xét xem vi sao người dân đi bô phiếu. Có hai câu trả lời",
+      "",
+      "1.) đi bô ph ến là một đặc quyền của người công dân",
+      "2.) đi bô phiếu la một chức việc của người dân.",
+      "1.-QUYÊN BĂU-CỬ VÀ CHỨC BẦU-CỬ",
+      "B. Bầu cử là một công quyền (électorat droit). - Theo thuyết thứ nhất này"
+    ],
+    "page_70": [
+      "mỏi người công dân phải có quyền bầu cử, cũng như là quyền sống, quyền ăn uống, v.v.. Mỗi người dân là một phần tử của quốc dân (nation). Chủ quyền đã thuộc về quốc dân, thì mỗi người dân phải được dùng một phần chủ quyền ấy. Cách dùng chủ quyền chỉ có một: ấy à bỏ phiếu đề phục đáp hay quyết định. Vậy bầu cử là một công qc yền. Đã là công dân thì tự nhiên phải có quyền bầu cử.",
+      "",
+      "Chính phủ chỉ được cấm bỏ phiếu những kẻ diên cuồng, hay còn chưa đủ năng lực pháp luật (incapable). Còn sự giấu nghèo không phải một cơ đề cấm đoán. Nền sự đầu phiếu phải có tính cách phổ thông (suffrage universel) Đảng tiêu biểu cho lý thuyết này là mấy câu nói sau đây của Robespierre: \"Chủ quyền là ở dân chúng, ở tất cả những cá nhân trong dân chúng. Tất cả các công dân dù là ai cũng vậy, được quyền tham dự vào tất cả các thứ bực bầu cử \".",
+      "B. Bầu cử là một chức việc (électorat fonction) Trái với thuyết bầu"
+    ],
+    "page_71": [
+      "củ công quyền, thuyết nuy nói : sự bầu cử là một việc đề cho người dân tham dự vào sự thiết lập ý muốn chung của quốc dân. Chủ quyền là thuộc về quốc dân, nhưng quốc dân có phải những cá nhân đâu. Ta đã thấy rằng quốc dân là một người tưởng tượng ở cao hơn những người thực tại. Vậy thì quốc dân chủ quyền không phải là cá nhân chủ quyền. Người dân, khi đi bầu chỉ làm một chức việc (fonction) mà quốc dân đã trao cho chứ không phải đã dùng một quyền lợi. Vì thế nên quốc dân có quyền chọn mặt mà gửi vàng, chọn người mà trao cho chức việc bầu cử.",
+      "",
+      "Đáng tiêu biểu cho thuyết này là mấy câu nói sau đây của Barnave : \"Người đi bỏ phiếu là một công chức không ai có quyền tự bỏ phiếu. Xã hội tùy theo ích lợi chung mà phân phối chức việc ấy. Chức việc bầu cử không phải là một công quyền \".",
+      "",
+      "Dưới sự tranh luận ý thuyết trên đây là một cuộc tranh luận kích liệt chính trị. Phải bầu cử công quyền muốn thiết"
+    ],
+    "page_72": [
+      "lập một nê̂n phô thông đâu phiến. Phái bầu cử chức viêc, trái ai, muốn hạn chế sự đâu phiếu của nhân dân. Tùy theo điều kiện lịch sử, phái no hay phái kia được thăng lợi.",
+      "2.- Phô thông đâu phiếu (Suffrage",
+      "thio nio oon unive sel)",
+      "Trong một nự̃e thi hành chế độ phô thông đâu phiếu, người dân nào cũng được quyền bầu cử. Nhưng nói người dân nào cũng được bỏ phiếu có lẽ quá đáng và không được rõ rệt: chẳng hạn những kẻ giết người, những kẻ diên cuồng dù ở chính thẻ nào cũng không được bỏ phiếu.",
+      "",
+      "Phô thông đâu phiếu chỉ có nghĩa là không có hạn định nào về dờng đòi, về tiền bạc, về học thú́c hay về quyền lực trong sự đâu phiếu. Một người con vua với một người con dân cũng bỏ phiếu như nhau, một người giàu với một người nghèo, mợt nhà thông thái với một rẹgưô nhà que, một ông thượng thư với một kẻ bạch dính, trong chế độ phô"
+    ],
+    "page_73": [
+      "thông đâu phiếu, đều được quyền bầu cử như nhau cả.",
+      "",
+      "Còn sự hạn định về phương diện năng lực pháp luật (capacité juridique) thì cần phải có là lẽ tự nhiên vậy. Một đứa trẻ nhỏ, một người điên là những kẻ không có năng lực pháp luật. Vậy thì hẳn không được tham dự việc chính trị trong nước.",
+      "",
+      "Ngày nay, quyền đầu phiếu trong các nước cấp tiến, lại san xẻ cả cho phải phu nữ. Ở Hợp chúng quốc, ở Anh, ở Nga, ở Đức, người đàn bà được quyền bầu cử giống hệt người đàn ông. Hiến pháp Lỗ (Roumanie). Nam tư lạp phu, cũng tinh đến việc phu - nữ đầu phiếu. Bên Châu Âu, hiện nay chỉ có nước Pháp nước Y, Thổ nhĩ kỳ và Thụy sĩ là còn ngăn trở phu nữ không cho tham dự việc bầu cử. Giáo sư Barthélémy, trên giảng đường trường đại học Paris đã nói : \"Cách đây hai mươi năm, những xứ nào đàn bà được bầu cử bị coi như những của la về hiến pháp. Ngày nay, những xứ nào phu nữ khôn; bỏ phiếu bị coi"
+    ],
+    "page_74": [
+      "như những của lạ còn sót lại của những thở cũ rịch nào *.",
+      "",
+      "# 3) NHƯNG PHƯƠNG-PHÁP HẠN CHÉ ĐẦU PHIÉU ",
+      "",
+      "Nên phô thông dã̃u phiếu chi thực-hiện trong những nước cấp tiến. Còn những nước hậu tiến thì thương dùng chế độ hạn chế bần cử (Suffrage restreint). Sự bạn chế ấy có rất nhiều thè thức, không kè làm sao cho xiết được. Chính phủ không thiếu gì phương pháp đè hạn chế quyên bần cử của nhân dân, Dưới đây chi lược phác sợ sãi mấy phương pháp lợu, và xếp tạm làm hai loại:",
+      "1.) Những phương pháp hạn chế cử tri.",
+      "2.) Những phương pháp hạn chế sự hô phiếu.",
+      "",
+      "## A. - Hạn thè cử tri",
+      "",
+      "Hiến pháp năm 1791 của nước Pháp phân biệt hai loại công dân : những công dân hoát động (citoyens actifs) được phép bạ̃u cử, và những công dân thụ động"
+    ],
+    "page_75": [
+      "(citoyens passifs) không được quyền bồ phiến.",
+      "",
+      "Các chế độ hạn chế đầu phiếu đều phân biệt dân chúng như vậy. Sự phân biệt cốt đề dành quyền bầu cử cho một lớp người. Quan niệm về lớp người hoạt động ấy thay đồ tùy theo từng chế độ",
+      "",
+      "1 - Phân biệt dòng dõi - Trước hết người ta có thể đem dòng dõi ra phân biệt. Trong xã hội Hy lạp xưa, chỉ những người tự do là có quyền bầu cử. Còn kẻ nô lệ không được quyền gì hết, cho đến khi nào được chủ thảo khoán cho dễ trở nên tự do. Trong hiến pháp Anh cát lợi cũ, chi những nhà địa chủ quý phái (từ tước Nam trở lên) mới được tham dự chính trị. Các điều ước của nha vua chỉ ký kết với những công dân tự do nghĩa là những địa chủ. Còn các nông nô vì không có tự do nên không được hưởng quyền công dân. Quốc dân trong hiến pháp Anh cát lợi cũ, chỉ là hạng người quý phái.",
+      "",
+      "2 - Phân biệt giàu nghèo - Sự phân biệt dòng dõi vừa bị đở, thì thường tiếp"
+    ],
+    "page_76": [
+      "đến sự phân biệt giàu nghèo. Chẳng hạn a) Muốn làm cử tri phải đóng một tền thuế đáng giá bao nhiêu đấy. Trong hiến pháp 1791, tiền thuế thâu ít nhất phải bằng ba ngày công thợ. Trong bản hiến pháp năm 1814, thời vua Lô-y 18 nước Pháp, phải đóng thuế ít nhất là ba trăm quan. Nên một nước Pháp đông ba mươi triệu dân mà hồi đó chỉ có vài vạn người được bò phiếu. Thậm chí cả các giáo sư các trường đại học, cả các giáo sư dạy chính trị cũng không đủ điều kiện bỏ phiếu nữa. Ông thuợng thư Guizot, khi các nhà trị thức đòi quyền bỏ phiếu, chỉ trả lời : « Các ông hãy làm giàu đi đã \" (Enri-chissez-vous d'abord).",
+      "b) Cũng có chế độ bắt buộc cử tri phải có ruộng đất, nha cửa, hay một bất động sản (immeuble) nào. Người ta thường tin rằng các chủ ruộng đất nhà cửa có tinh bảo thủ hơn là những kẻ không có sản nghiệp nhất định.",
+      "",
+      "Sự phân biệt tiền bạc còn nhiều thể thức, độc giả cứ tưởng tượng ra cũng thấy không sao kè̀ xiết được."
+    ],
+    "page_77": [
+      "3 - Phán biệt học thức tài năng: Chính đả̀ng nhất trong các phương pháp hạn định, (sự chinh đáng này chi có tinh cách tương đối) có lẽ là sự phán biệt thứ ba này, Chi những người có một học thức đến độ nào đấy mời được bô phiếu. Vi dụ : chị những người biết đọc và biết viết.",
+      "",
+      "Song, cũng nhiều khi, sự phán biệt học thức bị lạm dụng. Trong hiến pháp nước Mỹ, người da trắng muốn hạn chế quyền bằn cư của người da đen, đã có phen định luật rằng chi những người nào biểu được hiến pháp, và giảng nghĩa được một khoàn trong hiến pháp mới có quyền dầu phiếu. Độc giả cứ tưởng tượng cũng đủ thấy một luật lệ như thế dể lạmdụng đến thế nào.",
+      "",
+      "Theo ý chúng tôi, một nước mời tiến, có cần phán biệt chi có thể dùng cách thứ ba này đã là đủ lắm. Các thứ chữ mẹ đẻ thường dễ học, biết đọc biết viết chỉ mất vài tháng, ai muốn làm cử tri hãy có má học đi đã.",
+      "",
+      "Ngày nay, nhiều khi những sự phán"
+    ],
+    "page_78": [
+      "biệt trên đây bị bỏ không dùng, mà lại cần dến những sự phân biệt trái lại. Chẳng hạn người ta cūng có khi phân biệt dòng dõi, nhưng là cốt đề loại di những dòng quý phái : ví dụ bên Pháp, những người dờng dõi các họ vaa cũ không dược quyền ứng cứ ghế tông thống. Người ta cũng có khi phân biệt giàu nghèo nhưng là cốt đề loai những kẻ có tiền mà không làm gì. Ví dụ, có xứ chỉ những ai sống bằng việc làm của minh mới được bỏ phiếu đề bầu cử chính trị.",
+      "",
+      "# B - Hạn chế sự đầu phiếu ",
+      "",
+      "Ngoài các phương pháp hạn chế số người đầu phiếu vừa phác qua ở trên, còn có những phương pháp đề han chế hoặc làm sai lac sự đầu phiếu đi nữa.",
+      "1) Đầu phiếu gián tiếp, gồm nhiêu thứ bực: ấy là phép han chế thường hay được dùng hơn cả. Trong chế độ đầu phiếu trực tiếp (saffrage direct) thì nhân dân đề cử thẳng ngay các đại biểu của minh. Trong chế độ đầu phiếu gián tiếp trái lại những công dân hoạt động chỉ"
+    ],
+    "page_79": [
+      "được bầu các cử tri, rồi các cử tri ấy sẽ lại bầu các cử tri khác cứ như thế ba bốn bực. Hoàng-dế Nã phá-luân dệ nhất rất khôn khéo. tuyến bỡ thì bánh phổ thông đâu phiếu. Vậy người dân nào cũng được đâu phiếu cả Nhung nhân dân bhọ̀ng được trực tiếp bầu các đại biểu vào nghi viện, mà chi được bầu làm hai ba bực, lấy mấy nhin người ưng cử. Chính phủ sẽ lựa chọn các nghị viện trong số thi sinh ấy.",
+      "",
+      "# 2.) Đâu phiếu nhiếu lân ",
+      "",
+      "Cũng có khi chính phủ muốn bênh vực cho một lớp người nạo thì cho phép họ đâu phiến nhiễn lần hơn những kẻ khác Ví dụ như đạo luật đâu phiếu hai lần (loi du double vote) ngày 29 tháng sáu năm 1820, bên Pháp, thời vua Lô y 18 Đạo luật trừ danh đó định rằng : các cử tri trong một hạt có đóng thuế thân 300 quan sẽ bầu các đại biện hàng hat vào nghị viện. Nhưng một phần tư số cử tri các hat trong một quạ̣n sẽ họp lại thành cử tri hàng quạ̣n, đề bầu các"
+    ],
+    "page_80": [
+      "đại biểu của quận lên nghị viện. Thành thử số một phân tư giầu nhất quạ̣u do được bồ phiếu hai lần: một lần ở hơi dông bầu cử của hạt, và một lần nữa ở hơi đồng bầu cử của quận. Bên nước Bỉ cũng có một cách tở chức đâu phiếu nhiều lần rất đáng dễ y̛ vì nó cấp tiến hơn: mỗi công dân Bỉ được bô một phiếu vi là công dân. Lại được bô một phiếu thứ hai nếu có con và là chủ một gia dinh. Lại được bô một phiếu thứ ba nữa nếu có nhà cửa, ruớng đất hay bất dợng sản, hay tiền ký trong các quỹ dễ dành đáng giá bao nhiêu đấy. Lại được bô hai phiếu cuối cùng nếu có bằng cấp cao đủ dễ liệt vào hạng trí thức. Vậy một người trí thức, có con, có nhà cửa được bô năm phiếu cả thầy trong một lúc.",
+      "",
+      "Còn nhiều phương pháp dễ làm sai lạc sư dâu phiếu nữa: ví dụ có những cử tri chinh thức (candidature officiclle) được đặc quyền dùng các cơ quan của chinh phủ dễ tuyển truyền và cô dọng Có những lá phiếu phân dối chinh phủ"
+    ],
+    "page_81": [
+      "in khác mằu những lá phiếu phản đối chinh phủ đề trông ngoài đã biết ngay Hoặc sự bầu cử không thực hành bằng lá phiếu mà bằng mồm. Anh muốn bầu cho ai thi nói ra, và biên tên vào sô người ấy.",
+      "",
+      "Sự đâu phiếu còn gây ra không biết bao nhiêu điều khó khăn nữa, Khi nghiên cứu về chính trị nước Pháp, ta sẽ có dịp vào trong chi tiết rõ ràng hơn (1) và sẽ đem phân tích những phương thuốc của nhà chính trị hiện đại.",
+      "",
+      "$$",
+      "\\text { 4. - VẤN ĐỀ NGHIỆP-ĐOÀN }",
+      "$$",
+      "",
+      "Ngày nay trong nền tô chức chính trị thế giới đương có một con bão táp. Kết quả thế nào ta chưa thể biết được. Trong pham vi bầu cử, duy có điều. đặc biệt là phần đông gác chủ nghĩa đều hương về phía đoàn thể.",
+      "(1) Độc giả đón coi : Cuộc tiến hóa chính trr̨ nước Pháp - sẽ ra tiếp cuốn: Chính trị đại cương này cùng trong bộ HiếnPháp thường thức, quyè̀n 11."
+    ],
+    "page_82": [
+      "Từ trước đến nay, khi bầu cử, người ta chi biết đến cá nhân. « Một người dân cuột lá phiếu\" ấy la điệu chủ trương cựu truyền. Nhưng hiện thời, đã thấy manh nha một vấn đề nghiệp đoàn bầu cử. Cá nhân sống trong nghề nghiệp tất phải chú ý đến quuyền lợi các nghiệp doàn. Vì vậy phải cho phép nghiệp đoàn đề củ dai biểu dễ bênh vực quyền lợi mọi người trong đó.",
+      "",
+      "Chủ nghĩa nghiệp đoàn đã thực hiện ở Ý, Đức - Bén Pháp từ 1940 đến nay, dưới bóng thống chế Pétain, cũng đã thấy nói rất nhiều đến nghiệp doàn (corporation) - Dưới đây sẽ xét đến chủ nghĩa nghiệp doàn kỹ lưong hơn."
+    ],
+    "page_83": [
+      "# THIÊN ${ }^{111}$ ",
+      "",
+      "## Chinh thê dân-biều",
+      "",
+      "## (le gouvernement représentatif)",
+      "",
+      "Đã biết chủ quyền là cử quốc dân, lại biết sự bũu của có những hình thức bảo, nay ta phải xét xem quốc dân dùng quyền bầu cử ấy tham dự vào việc chính trị ra sao - Thoạt tiên, ta đã có thê thấy ngay ba phương pháp :",
+      "1./ Quốc dân tham dự trực tiếp vào việc chính trị.",
+      "2./ Quốc dân trao hân trị quyền cho những đại biểu.",
+      "3./ Quốc dân trao trị quyền cho đại biểu nhưng vẫn tham dự vào việc chính trị.",
+      "",
+      "Tuỳ theo từng phương-pháp ấy, ta"
+    ],
+    "page_84": [
+      "phân biệt được ba hình thức tổ chức chính trị:",
+      "",
+      "1. Hình thức trực tiếp (gouvernement direct)",
+      "2. Hình thức dân biểu (gouvernement représentatif)",
+      "3. Hình thức nửa dân biểu, nửa trực tiếp (gouvernement demi direct).",
+      "",
+      "1.     - DÂN CHỦ TRỊC-TIẾP",
+      "",
+      "Hình thức tổ chức thứ nhất này áp dụng đến triệt để những quyền tắc dân chủ. Dân chúng họp nhau lại từ quyết định tất cả các việc quan trọng trong xú́ làm luật pháp, nhiệm, miễn các công chức, và định việc hành chính. Rousseau, nhà đại biểu cho chính thể dân chủ trực tiếp có viết: \"Nếu có một dân chúng thân mình, dân chúng ấy sẽ theo chính thể dân chủ mà tự cai trị\".",
+      "",
+      "Lẽ tất nhiên, dân chúng không thể tự quyết tất cả các công việc phiền phức hàng ngày được. Dân chúng sẽ trao việc hành chính nhỏ, vụn vặt cho một nhóm đại biểu. Nhưng còn những việc lớn hay"
+    ],
+    "page_85": [
+      "cần đến nhiều thời giờ, thì dân chúng dành lấy quyền tự quyết định. Trong các việc đó quan trọng nhất là việc lập pháp. Vì thế đặc tính của chính thể dân chủ trực tiếp là không có một hội nghị lập pháp.",
+      "",
+      "Các dân quốc Âu Châu thời cổ đều tổ chức như thế. Dân chúng tụ họp tại những công viên lớn (forum, agora) để đặt pháp luật, định chiến tranh hay hóa binh, bổ nhiệm các quan tòa, chọn lọc các tướng cầm quân, phân xử các vụ kiện tung chính trị v.v... Nhưng các dân quốc ấy đều tổ chức xã-hội theo chế độ nô lệ. Bao nhiêu công việc của xã hội đều do bọn nô lệ gánh vác hết. Người dân tự do được đủ thời giờ tự hợp đồng dài ngày nay sang ngày khác.",
+      "",
+      "Ngày nay, bên Châu Âu còn một vài tổng ở Thụy sĩ tổ chức chính trị theo hình thức dân chủ trực tiếp: ta kể vài tên Glaris, Appengei Rhodes, Unterwelden. Mỗi năm các công dân trong những quốc gia tí hon ấy họp nhau lại, trên một cánh đồng cỏ, trong một thung lũng"
+    ],
+    "page_86": [
+      "hay trong một nhà thờ nến trời mưa. Chủ tịch là viên Landamman, nghĩa là một viên quốc trưởng đã được bầu năm trước. Hội nghị dân chúng tên là Landagemeinde. Trong mỗi khi hội họp như vậy, dân chúng định đoạt các việc quan trọng trọng năm, và do tay làm phiếu bầu. Viên chủ tịch trình lại các việc năm trước và dễ xuất chương trình nghị sự. Sau đó dân chúng bầu các đại biểu năm sắp tới, do tay đầu phiến về các dự án do chính phủ hay cá nhân để trình quyết định ngân quỹ v.v...",
+      "",
+      "Không cần giải thích đại dòng, ai cũng hiểu rằng chính thể dân chủ trực tiếp trên đây chỉ có thể thực hiện trong những quốc gia rất nhỏ bé, gồm vài ngàn công dân là cùng. Nên năm 1928, ông Urri tự thủ tiêu chính thể dân chủ trực tiếp. Nguyên do là vì những phái cấp tiến thấy chế độ ấy không còn tính cách dân chủ nữa. Sự đầu phiến công khai khiến cho nhiều khi người dân không dám phát biểu ý kiến thành thực, không những thế, người dân nghèo ở xa không có thời giờ về"
+    ],
+    "page_87": [
+      "Tự hợp được Và lại nên kinh tế phát triển, trong tổng không những có các gia đình có thô ở đây, mà còn có một số lớn người phương xa đến kiếm ăn nữa. Khi quốc gia đã đạt đến một phạm vi rộng rãi, chế độ dân chủ trực tiếp không thể áp dụng được. Quốc dân phải để cử những đại biểu rồi hoặc là trao hẳn chính quyền cho những đại biểu ấy, hoặc là tham dự một phần vào công việc của họ mà thôi.",
+      "",
+      "CHÍNH THỂ DÂN BỀU",
+      "",
+      "Trong chính thẻ này, trái bản roi chính thẻ dân chủ trực tiếp, dân chúng dân lấy những đại biểu rồi, trao hẳn quyền chính cho dân biết mà không còn ngại gì đến chính sự nữa. Người dân chỉ giữ việc hậu cử mà không còn giữ việc quyết định. Phần đông các quốc gia ngày nay đều tổ chức theo chính thẻ nào đó. Tôi phải là trong một người lớn không thể thực hiện chính thẻ dân chủ trực tiếp được."
+    ],
+    "page_88": [
+      "Nhưng còn một cơ thứ hai nữa, nói rằng dân chúng nhiều khi không đủ tài sức quyết định các việc phức tạp về chính trị, hay về các vấn đề chuyên môn (ví dụ: các vấn đề kinh tế - hành chính v.v...). Vì thế, dân chúng chỉ có thể đề cử ra những người có tài năng chắc chắn để trông nom các sự việc ấy họ, tuy vẫn giữ quyền kiểm soát hành vi các dân biến đó.",
+      "",
+      "Xem vâv, nhiều nhà chính trị có thể chủ trương rằng chính thể dân biểu không phải chỉ có một giá trị tiêu cực vì không thực hiện chính thể dân chủ trực tiếp được mà còn có một giá trị đặc biệt nữa: trong chính thể dân biểu, quyền chính được trao cho những người có tài nhái trong dân chúng.",
+      "",
+      "Nhà pháp học trừ danh Montesquieu (Mạnh đức tư cưu) đã vạch rõ điểm đặc biệt ấy của chính thể dân biểu: «Dân chúng biết chọn lọc một cách đáng phục những đại biểu để trao cho một phần quyền chính. Những dân chúng có thể biết giải quyết một sự vụ, biết nơi nào,"
+    ],
+    "page_89": [
+      "địp nào lúc nào, cần lợi dụng không? Không, dân chúng không biết được Trong các dân quốc đời xưa, có một chổ hồng lớn là dân chúng có quyền quyết định hoà động, điều mà dân chúng không đủ năng lực để làm, Dân chúng chỉ được tham dự vào việc cai trị ở chổ chọn lọc các đại biểu mà thôi. Điều ấy vừa tầm dân chúng lầm. Điều lợi của các nhà dân biếu, là họ đủ tài sức bán bạc các sự việc. Còn dân chúng thì không hợp vơi việc ấy».",
+      "",
+      "Không những các nhà thuyết lý chứng giải những điều lợi của chính thể dân biểu, họ còn cố gắng xây dựng một lý thuyết trừu tượng để làm căn bản cho sự tổ chức dân biểu.",
+      "",
+      "Lý-thuyết dân biệu gồm ba ý-niệm lớn:",
+      "",
+      "1) Ý niệm về sự trao quyền chính (délégation de pouvoir) ta đã biết theo những thuyết dân chủ trong nước, chủ quyền là ở quốc dân. Quốc dân có thể trao cho một hay nhiều người, một hay nhiều đoàn thể, sự thê-hánh chủ quyền"
+    ],
+    "page_90": [
+      "đó. Những người hay những doàn thể đã được chọn không phải năm được chủ quyền, mà chỉ được quốc dân trao cho sự thi-hành chủ quyền (exercice de la souveraineté) cũng như trong đời sống hàng ngày, ta có thể trao quyền lợi của ta cho một trang sự đem thi hành vậy. Quốc dân có thể trao sự thi hành cho một cơ quan dạy nhất, cũng có thể trao sự thi hành từng phần bù quyền một cho nhiều cơ quan khác nhau... ví dụ: quyền lập pháp trao cho nghị-viện, quyền hành chính trao cho một quốc trương, quyền tự pháp trao cho các yíca thăm phân v...v... Các cơ quan đó là đại biểu của quốc dân vậy.",
+      "",
+      "2. Ý niệm về sự đại biểu: (représentation) \"Một người đại biểu là một người thay mặt cho kẻ khác mà hành động những kết quả của hành động ấy xảy ra không khác gì khi kẻ được thay mặt, tự thân hoạt động\". Các nhà Pháp học định nghĩa hai chữ đại biểu như thế. Vậy những hành động của người đại biểu có giá trị ý như những hành động của"
+    ],
+    "page_91": [
+      "ngườ được thay mãi ra nhic nâu óngu",
+      "Nhạ thuyết lý chinh trị áp dụng quợt, niềa đó vào vần đề đán, biểu và nợi rằng những dân biểu là những người được cử ra đề thạ̣ mà́ cho quốc dân mà phát biểu ý kiến; va quyết định chính sự. Nên người dân, biền (représentant) khấc hẳn vơi người thừa hạnh (agent-commis). Kế thừa hành chí, là má́l gờng chự̣́ có, bồn phán là váng theo nghị quyết của quốc dân. Người dân biểu trái lại, là kế thay mặt quốc, dân, mà quyết định ọ̣up cộup",
+      "",
+      "Vi thê, ý muốn của các dán biền cũng có giá trị như ý muốn của quốc dân. Cũng vi thế những nghị quyết của các dân biểu, không cần ưphức để trinhp lais quốc dân nữa. Chính thế dân-biền/nhiều khi đi xa hẳn ý niệm dân chủ là ở chổ dở.",
+      "3.) Y niệm về sự ủy nhiệm (idée deí mandat) : Đã biết vi sao người dân, biền lại được quyền quyết định bỏ cho quốc dân, và vi sao người dân biểu lại có, thế thi hành chủ quyền trong nước, inay phải đến lúc đặt một câu hỏi nữa: quốc dân đã trao sự thi hành chủ quyền cho"
+    ],
+    "page_92": [
+      "ngươi dân biếu nhur thế nào? Trả lơr được câu bồi ấy tức là thấy rõ những mồi liên lac giữa người dân biểu vờ người đi bỏ phiếu vậy.",
+      "",
+      "Vi sao ngươi đại biểu: lại có quyền quyết định bọ kè được thay mặt? - Ấy là vi kẻ này đã ủy-nhiệm quyền quyết định cho người đại biểu của hâu. Sự ủy nhiệm ấy thường dồng thời định rõ phạm vi hoạt động của người đại biểu Người ủy nhiệm cho phép đại biểu được quyền quyết định đến đâu thường có nói rõ.",
+      "",
+      "Nhà chính trị áp dụng quan niêm thông thường đó mà nói rằng, người dân biểu đã nhận được sự ủy-nhiệm (mandat) của quốc dân nên được toàn quyền quyết định. Nhưng sự ủy nhiệm có hai hình thức trái ngược với nhau hẳn: Những ảnh hưởng cũng phản đối nhau hẳn.",
+      "a) Ưy nhiẹm mệnh lệnh (mandat impératif): Sự ủy nhiệm này đồng thời là một mệnh lệnh. Mỗi người dân biểu là do cử tri một địa phương bàu lèn. Vậy người dân biểu nào cũng có liên lạc mật thiết đến cử-trı địa phương của minh."
+    ],
+    "page_93": [
+      "và cḥ̛u ử-nhiệm của cử trí ấy. Khi bâu một người đại biểu, cử tri trong địa phương ủy thác cho dân bịè̀u trách nhiệm là thay mạt họ mà quyết định chinh sự hó cho họ.",
+      "",
+      "Vi sự ủy nhiệm ấy mà có mấy kết quả sao này :",
+      "",
+      "1 - Cử tri có quyền hạn định rố rệt phạm v quyết định của người dân biểu. Trước khi bầu cử, người dân biểu phải thỏa thuận với cử tri là sẽ quyết định như thế này, như thế nọ. Khi đã được bầu rồi, người dân biè̀u phải giữ đúng điều uoc của minh. Nếu không, người dân biè̀u sẽ sai với uỷ nhiệm của cử tri.",
+      "",
+      "2 - Khi nào cử tri không han định rõ rệt, ngươi dân biè̀u phải tuỳ theo ich lọ của cử tri ma hành đợng, chứ không được ch ều theo khuynh hướng của riêng minh - Ngươi dân biè̀u phải nhớ rằng minh quyết định hộ cho cử tri, và có thay mặt cử tri mới được quyết dịnh.",
+      "",
+      "3 - Nếu người dân biè̀u không lan"
+    ],
+    "page_94": [
+      "hải lòng cử tri, có thể bị cử tri rút sự nỷ nhiệm trở về. Lúc đó, người dân biểu sẽ không còn thay mặt ai, và quyết định họ cho ai được nữa.",
+      "",
+      "Người được nỷ nhiệm phải chịu trách nhiệm với cử tri của mình. Nếu làm hai đến quyền lợi của cử tri, có thể phải bồi thường được.",
+      "",
+      "Tóm lại, đặc điểm của thuyết hạn chế nỷ nhiệm là làm cho người dân biểu phải chịu quyền chỉ huy và kiểm soát trực tiếp của cử tri địa phương. Người dân biểu an tưởng của cử tri địa phương và phải chịu trách nhiệm với cử tri ấy. Dũng một câu ngắn ngủi và rõ rệt, ta nói: \"Tác được báu phải vâng theo người đi bầu\".",
+      "",
+      "B) Uỷ nhiệm đại diện (mandal représentatif)",
+      "",
+      "Một khuynh hướng thứ hai hiểu sự nỷ nhiệm chính trị trái hẳn lại.",
+      "",
+      "Uỷ nhiệm, trong đời sống thông thường, có nghĩa như trên kia vừa phân tích: Những ủy nhiệm chính trị không có"
+    ],
+    "page_95": [
+      "tinh cách cá nhân và địa phương. Nói rằng người dân biểu phải vàng theo ý muốn của cử tri địa phương tức là nói rằng cử tri ấy nắm được một phần chủ quyền trong quốc gia. Mà thuyết quốc dân chủ quyền dạy rằng chủ quyền không thể chia rẽ ra được (xem vấn đề chủ quyền).",
+      "",
+      "Vậy thì khi bầu một dại biểu, cử tri chỉ làm công việc là thum dư vào việc thiết lập một nghị việc, rồi tất cả nghị việc ấy sẽ thi hành quyền chính hở cho tất cả quốc dân. Mỗi người đã biểu là một phần tử của nghị viên nên thay mặt cho tất cả quốc dân chứ không phải cho riêng cử tri địa phương mình. Sự uỷ nhiệm chính trị có tính cách công đồng chứ không cá-biệt.",
+      "",
+      "Không những thế, sự ủy nhiệm chính trị có tính cách hết sức rộng rãi chứ không thể bị hạn chế. Khi bầu đại biểu quốc dân cẩn thận « chọn mặt mà gửi vàng». Người dân biểu lĩnh sự uỷ nhiệm là đại diện cho tất cả quốc dân trong việc cầm quyền chính, chứ không phải"
+    ],
+    "page_96": [
+      "Tinh mợt uỷ nhiệm bẹp bồ là phả quyết định thế này hay thế nọ. Vị thế ở đây ta chỉ thấy một sự ủy nhiệm đại diện (mandat représentatif) mà không còn dấu vết gì của sự uỷ nh ệm mệnh lệnh trên kia nữa. Người dân biện là người được chọn lọc vì tài cán riêng, chứ không phải vì hứa hẹn sẽ tuân theo mệnh lệnh quốc dân. Nên người dân biểu có quyền và có bồn phán đem tài cán của riêng mình ra dùng để giải quyết các vấn đề khó khăn chứ không được bo bo nghĩ ngợi : «cứ tri của ta sẽ phản động thế nào.",
+      "",
+      "Người dân biện, cũng vì lẽ ấy, có quyền dựa vào ích lợi chung của tất cả quốc dân mà phản đối quyền lợi của cử tri mình. Người dân biện được toan quyền hành động chứ không bị cử tri chi huy từng ly từng lý một nữa.",
+      "",
+      "Tóm lại, một người dân biện không phải một người đại biện của cử tri dễ bênh vực quyền lợi cử tri. Ông ta là một người có tài năng được chọn lọc để làm phận sự là thi hành quyền chính họ tất"
+    ],
+    "page_97": [
+      "cả quốc dân, chứ không phải cho riêng ai cả. Vì thế, cử tri địa phương không có quyền gì đối với dân biểu nữa. Trong quan niệm ủy nhiệm đại diện này \"kẻ được bầu ở trên ý muốn người đi bầu 2 . Đó là diểm đặc biệt nhất.",
+      "c) Cuộc tiến-hóa của chính thể dân-biểu về phía ủy nhiệm đại diện. Chính thể dân biểu chỉ có thể đi đôi với quan niệm ủy nhiệm đại diện. Nếu các dân biểu chỉ là những kẻ thừa hành mệnh lệnh của cử tri từng địa phương, thì những tài cán cửa họ không còn bao giờ được dùng đến nữa. Cái hay nhất của chinh thể dàn biểu, như ta đã thấy, là dùng được tài năng của những nhà chuyên môn đề giải quyết các vấn đề mà dân chúng khơng thể trực tiếp giải quyết nởi Trong quan niệm ủy nh ệm mệnh lệnh cái hay ấy đã mất hẳn.",
+      "",
+      "Trái lại nếu người dân biểu đứng đại diện cho tất cả quốc dân đề quyết định chính sư, thì được phép hoạt động theo khaynh hương riêng của minh. Tài cán riêng được đem dùng đến triệt để, trong"
+    ],
+    "page_98": [
+      "pham vi phung sự quyền lợi quốc dân. Người dân biểu không còn là một chiếc máy thừa hành như nhà nguyên lão, nghi viện nước Mỹ kia nữa. Ông ta thuyết minh dái dòng rằng một dự án kinh tế chính phủ có hại cho quyền lợi quốc dân xong dân đó rồi kết luận: « Nhưng mà cử tri của tôi đã ủy nhiệm cho tôi là phải bỏ phiếu ủng hộ. Vậy thì tôi bỏ phiếu ủng hộ». Nhà chính trị trừ danh Mirabeau, năm 1789 có nói: « Nếu chúng tôi bị xang buộc vì sự ủy nhiệm của cử tri thì chỉ có việc là đám mệnh lệnh khiến cho những sự bàn bạc, tranh luận trong nghi viện không còn trả lời gì nữa».",
+      "",
+      "Các nhà chính trị về khuynh hướng dân biểu đều thấu rõ như thế, nên trong các chính thể dân biểu (ví dụ: Anh thề nước pháp trước năm 1910), ta thấy được dùng hai phương thuốc san đậy để loại hẳn những ủy nhiệm mệnh lệnh:",
+      "",
+      "1. Cấm tiết lối ủy nhiệm mệnh lệnh trực tiếp hay gián tiếp. Một người dân biểu có quyền không cần giữ lời hứa của mình với cử tri. Ai bảo cử tri không"
+    ],
+    "page_99": [
+      "chọn lọc. Phải nhớ rằng khi bầu một người đại diện là trao bản quyền quyết định cho hắn. Phải chọn mặt mà gửi vàng chứ đừng có tin ở những nhờ bừa hào huyền. Không thể đem bản điều ước của người dân bị cử với cử tri ra mà đó người dân biểu. Bản điều ước ấy vô giá trị. Trái lại sở bầu cử lúc nào cũng có giá trị. Người dân biểu đã được bầu lên lúc nào cũng giữ vững được địa vị một người dân biểu.",
+      "",
+      "Có khi cử tri rất khôn ngổn dũng đến lời đơn từ chức để trắng (demission en blanc). Ông muốn được bầu làm đại biểu cho chúng tôi? Được làm. Ông có thân theo những mệnh lệnh sau đây khổng đãi. Có à. Vậy ông hãy viết sẵn một lá đơn từ chức, kỳ vào đó, và để trồng ngay tháng. Nếu ông không giữ lời hứa chung tôi sẽ đề ngay tháng vào lá đơn của ông mà gửi đến nghị viện.",
+      "",
+      "Các biến pháp dân biểu ngày nay đã quyết định rằng những lá đơn đó không có hiệu quả. Người dân biểu đã được bầu lên vẫn giữ vững được chức dân biểu."
+    ],
+    "page_100": [
+      "của minh như thường mà không bị rầy rà gi kết",
+      "2. - Nâng cao sự tự do thư tế của người dân biểu Người dân biểu thường mất tự do vi phải chiều ý cử tri dễ được bầu lại. Muốn tránh cái hai đó có hai phương pháp quyết liệt một là luyẹn bố người dân biện đã được đề cử Môt lần sẽ suốt đời là dân biễu Hai là tuyẹn bớ rằng ông ta sẽ không bao giờ còn được là dân biểu nữa. Không muốn dùng hai phương pháp cực điểm đó, có thể dừng giữa mà cho người dân biểu ở tại chức trong một thời hạn khá lâu đề khỏi lo lắng vẽ chuyện tái cử hay không tái cử. Nhưng nếu đề lâu quá, chính thẻ sẽ không còn tính cách dân chủ nữa. Không những thế lại phải ngăn cử tri, không cho phép lật đỏ dân biểu trước kỳ hạn. Bèn Mỹ có một hình thức đặc biệt, là sự bầu lạ (recall: nguyên văn là gọi lại) Nếu một số cử tri đòi hỏi, sẽ phải bầu lại một người dân biểu hay một công chức. Người ấy vẫn có quyền ra ứng cử Nếu được tái cử, những người đã xin bầu lại phải trả hết các tiền lệ phí."
+    ],
+    "page_101": [
+      "Cách hằn lại này làm giảm sự tự do của dân biểu nên không hợp với tinh thần chế độ dân biểu. Nó chỉ thực hiện trong những chế độ bán trực tiếp mà thôi.",
+      "",
+      "# 3. - CHÍNH THỂ BÁN TRỰC TIẾP (gouvernement semi-direct) ",
+      "",
+      "Chính thế này còn có tên là bán dân b ều (semi représentatif)",
+      "",
+      "Tên đó đã tỏ ra rằng nó có tính cách a trung dung s. Quốc dân cử những dân biểu đề thi hành quyền chính nhưng vẫn giữ quyền quyết nghị về các văn để quan trọng",
+      "A - Những phương pháp đề quốc dân tham dự vào quyền chính",
+      "",
+      "Có ba phương pháp đề quốc dân tham dự vào quyền chính, và kiểm soát hành động của các nhà dân biểu. Từ nhẹ đến nặng ta kè ra đây.",
+      "",
+      "1. Quyền phản đối (veio)",
+      "2. Quyền phúc quyết (referendum)",
+      "3. Quyền sáng chế (initiative)"
+    ],
+    "page_102": [
+      "# Quyền phán đồi của dân chúng (hay vét)",
+      "",
+      "Đó là phương pháp nhẹ nhất để tham dự vào việc lập pháp (làm luật). Nghi viện làm ra một đạo luật đó gọn gàng và đầy đủ. Nhưng đạo luật chưa có hiệu lực ngay. Cần phải chờ một thời hạn bao nhiêu ngay nữa. Nếu trong thời hạn đó, có một số bao nhiêu công dân xin đem nó ra để trình quốc dân, thì chính phủ phải tổ chức một cuộc toàn dân đau phiếu. Câu hỏi của chính phủ là: \"Dân chúng có muốn bãi bỏ đạo luật này không?\" Nếu dân chúng muốn bãi bỏ đạo luật sẽ thành ra vô giá trị.",
+      "",
+      "Vậy quyền vét là một phương pháp để dân chúng tham dự, gián tiếp vào việc làm luật. Hãy lập dây yt mạch nát.",
+      "",
+      "## Quyền phúc quyết (refereclum)",
+      "",
+      "Phúc là phúc đáp, trả lời. Quyết là quyết định. Theo câu trả lời của dân chúng mà quyết định là công dụng của sự phúc-quyết. Chính phủ phải hỏi dân chúng rồi tùy theo câu trả lời mà hành động. Sự phúc quyết có thể tổ chức trước khi làm luật hay sau khi làm luật."
+    ],
+    "page_103": [
+      "a/ Phúc quyết đề dò ý kiến dân chúng (referendum de consultation) thi phải tở chức trước khi làm luật. Gặp một vấn đề khó khăn, nghị viện không sao quyết định được chắc chắn thi phải tở chức một cuộc phúc quyết đề dò xem ý kiến dân chúng thế nào. Nhưng câu trả lời của dân chúng không rằng buộc được nhà làm luật : sự phúc quyết này chỉ có giá trị là một cuộc điều tra.",
+      "b) Phúc quyết ưng thuận (referendum de ratification) thi tở chức khi đạo luật đã sửa soạn xong và sắp sửa ban hành. Nó có giá trị hơn phương pháp veto, vì ở đây, đạo luật còn chưa xong, và chưa thành một đạo luật. Chỉ bao giờ công chúng ưng-thuận, đạo luật mới thành hình Câu hỏi của chính phủ là : ¿Dân chúng có công nhận đạo luật này không? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ?"
+    ],
+    "page_104": [
+      "hạub, động của dân biễu, có thể kê ra nọt sá trương hợp, trong đó bắt buộc nha lam luạt phải tờ chức phúc quyết đề quốc dân có dịp can thiệp. Trong những trương hợp ấy, nếu không có phúc quyết, thì dao luạt không co giá trị.",
+      "2.) Phúc quyết tùy ý - Trong những trương hợp khác, nhà lam luật có thể khơng tự ý tờ chức phúc quyết được. Chỉ có phúc quyết khi viện dân biển muốn như thế, hoặc khi một số công dân đòi như thế, trong một thời hạn đã địnhQuá thời hạn đó, nếu không có ai đòi hỏi, phần đối gì hoặc nếu số người phản đối rất ít, không đủ số đã định trong biến pháp, thi đao luật cứ tư nhiên đem thi hành. Người ta coi là dân chúng đã gián tiếp trả lời ưng thuận, vì khơng đòi tờ chức dãn phiến.",
+      "3.) Quyền sáng chế của dân chúng (doit d'initiative) Hinh thức phúc quyết chỉ mới cho phép dân chúng tham dự vào quyền chính một cách tiêu cực : dân chúng không bằng lòng đạo luật nào thi sẽ không phải vàng theo đạo luật ấy."
+    ],
+    "page_105": [
+      "Quyền sáng chế tiến xa hơn, và khiến dân chúng có thê tham dự vào việc làm luật một cách tích cực : dân chúng muốn đạo luật nào, sẽ có thê̂ bất dân biển viện vâng theo mà phải đem ý muốn của dân chúng ra xét.",
+      "",
+      "Trong hình-thức sáng chế, nếu có một số dân công muốn làm một đạo luật, thì thảo một dự án, đưa lên nghị viện. Nến có đủ số tên ký trong dự án ấy, nghị viện bắt buộc phải đem nó ra xét, và đầu phiếu tỏ bày ý kiến về dự án đó.",
+      "",
+      "Y muốn của quốc dân có thể rõ rệt hay không rõ rệt. Nếu rõ rệt, thì hẳn dư thảo của quốc dân hoàn toàn khác nào một đạo luật. Nếu không rẽ rệt, quốc dân có quyền chỉ đòi nghị viện làm ra một đạo luật về vấn đề này hay vấn đề khác.",
+      "",
+      "Có khi quyền sáng chế còn đi xa hơn nhiều nữa. Bản dự thảo đã sửa soan rõ rệt và kỹ càng sẽ đem dệ trình hẳn quốc dân, trong một cuộc phúc quyết, mà không cần phải qua nghị viện. Kh đó, dân chúng mới thật tham dự trực tiếp vào việc làm luạt vậy."
+    ],
+    "page_106": [
+      "Trong các chinh thể bán dân biểu, quyễn can thiệp của dân chúng thường mô̂i ngày một rộng hơn và sâu hơn. Mới đâu còn ở phạm vi hiến pháp, sau dân chúng thường được can thiệp vào các đạo luật thông thường, sau đến cả các việc hành chính quan trong, như việc ngoại giao chăng hạn. Bên Thuy sĩ, ta thấy chinh phủ đem các điều ước ngoại giao ra dẹ̀ trích cả vói dân chúng.",
+      "",
+      "# B - Phê bình sự tham dự của ",
+      "",
+      "dân chúng vào quyền chính",
+      "1.) Lợi, ai cũng thấy rõ : Sư tham dự ấy hợp với ý niệm dân chủ hơn chinh thê dân biểu nhiều lâm. Nó ban chế quyễn lực của nghị viện. Nó khiển cho đại đa số trong viện luôn luôn tuong hợp với đại đa số trong quốc dân. Nó tránh cái bạ̣i là nghị viện không hợp với sự thật trong nước. Vì thế nó là một phươngpháp dần hóa dễ giữ trật tự.",
+      "3.) Hai, có nhiều người viện ra, nhưng ta có thể cãi lại dễ dang,"
+    ],
+    "page_107": [
+      "a/ Dàn chúng bất lực là điều được viện ra trước nhất. Dàn chúng không đủ sức phán đoán, ấy là ý kiến một số lớn nhà cầm quyền Nhưng thực ra, đối với những vấn đề rõ rệt và thiết thực, dàn chúng đủ sức phán đoán lắm chứ, chẳng hạn dàn chúng đủ sức đề trả lời chắc chắn rằng muốn hay không muốn sự bất buớc đi hoc.",
+      "b/ Trong sự phúc quyết, khóng có bán bạc tranh luận là điều được viện ra thứ hai. Trái lại, theo lời các nhà chính trị trong nghị viện được tranh luận đi lai. Sự tranh luận ấy khiến cho vấn đề được rõ ràng hơn nhiều. Ta có thể trả lơi 1al: truớc khi phúc quyết, các báo chi, tranh ảnh, các cuộc diễn thuyết tức là các cuộc bán bạc và tranh luận rồi.",
+      "c/ Hôi han mãi, dàn chúng sẽ chán khóng muốn trả lời nữa. Lẽ thứ ba này rất đúng. V1 thế, phải tránh không được hơi một chút gì cũng hôi đến dàn chúng. Phận sự các nhà dân biểu là thay mặt dàn chúng mà quyết định những việc cần thift."
+    ],
+    "page_108": [
+      "đ/ Tồ chức phúc quyết tốn kém là lẽ được viện ra thứ tư. Tà sẽ trả lời rằng nếu nhầm lẫn trong sự làm luật sẽ còn tốn kém hơn nữa.",
+      "c/ Sự phúc quyết làm mất giá trị của nghi viện là lẽ thứ nắm được viện đến Điè̀u này không dúng. Bèn Thụy sĩ, sự phúc quyết thường hay tiêu cực, nghĩa là dân chúng không công nhận các dự án của nghị viện, Tuy thế, không có xứ nào, các ông nghị được tái cử nhiêu lần hơn. Không có xứ nào «chức» nghị viện vững bền hơn, Ấy là nhờ ở sự phúc quyết dân chúng đã có quyền kiểm duyệt hành động của nghị viện, thì giữ nguyên các ông nghị cũ cũng không hại gì.",
+      "",
+      "Tóm lại, chỉ cần nhất là tránh sự lạm dụng phúc quyết. Các vấn đề nhỏ viện dàn biểu phải tự định đoạt lấy, không nên làm phiền dân chúng. Chỉ nên tở chức phúc quyết trong những trường bợp rất quan trọng.",
+      "",
+      "Trong các biế̉n pháp thiết lập gần đây hình thức phúc quyết rất là thông dụng Tại Thụy Sĩ, hình thức đó được dùng đã"
+    ],
+    "page_109": [
+      "tư lâu lâm. Tại Hợp chúng quốc cũng vậy. Sau cuộc chiến tranh 1914-18, các hiến pháp Đức, Tiệp khắc, Ái nhi lan, Hy lap đều dùng đến hinh thức đó cả. Trong bản kiến quốc đại cương của Tôn dật Tiên, khoản thứ ba cũng có nói rằng: «... Chính phủ phải chỉ dẫn cho dân biết dụng quyè̀n tuyền cử, quyè̀n bại quan, quyè̀n sáng chế và quyè̀n phúc quyết $»$."
+    ],
+    "page_110": [
+      "![img-0.jpeg](img-0.jpeg)",
+      "![img-1.jpeg](img-1.jpeg)",
+      "![img-2.jpeg](img-2.jpeg)",
+      "![img-3.jpeg](img-3.jpeg)",
+      "![img-4.jpeg](img-4.jpeg)",
+      "![img-5.jpeg](img-5.jpeg)"
+    ],
+    "page_111": [
+      "# Churong III ",
+      "",
+      "## Ý NIEM PHÂN QUYÊN <br> Chinh - thè đại - nghị"
+    ],
+    "page_112": [
+      "# 111 paoundo. ",
+      "",
+      "## 1.1.1.1 MAMI KAMI Y",
+      "",
+      "![img-0.jpeg](img-0.jpeg)"
+    ],
+    "page_113": [
+      "# THIÊN I ",
+      "",
+      "## Y-niệm phấn-quyền",
+      "",
+      "Sư phấn-quyền (la séparation des ponvoirs) chi là một nghẹ̣ thuật 10 chức chinhtrị trong nước, chứ không phải một định luật thiêng liêng mà dân chúng nào cũng phải vâng theo.",
+      "",
+      "Nhà văn hào đã làm cho phân quyền trỏ nên một nguyên tắc thiết yếu của nến tổ chức chính trị biện đại tả một người Pháp tên Montesquieu.",
+      "",
+      "A - Học thuyết phán quyền của Montesquieu",
+      "",
+      "Trong cuốn Vạn pháp tinh lý (Esprit des lois), Montesquieu khảo cứu vè các chinh thể, nhận thấy rằng hồi đó, sự"
+    ],
+    "page_114": [
+      "tự do được phát triền hơn cả là ở bên Anh cát lợi. Ong đi tìm lý do của sư phát triền ấy và thấy trong chính thê̂ nước Anh, quyền chinh không tập trung vào một cơ quan day nhất, mà trái lại, chia cho mấy cơ quan độc lập. Thành thử cơ quan nọ câa đối với cơ quan kia mà không cơ quan nào đủ sức mạnh để đanh đồ sự tự do cá nhân cả. Nguợc lại, trong xứ nào quyền chinh tập trung cả vào một cơ quan, dù đó là một nhà vua hay một viện dân biểu, bao giờ sự tự do của nhân dân cũng bị lấn áp.",
+      "",
+      "Nhĩng sự quan sát ấy dẫn Montesquieu đến mấy câu kết luận nỗi tiếng: « Người nào nắm quyền chính cũng có khuynh hướng maốn lạm dụng. Anh ta cứ đi cho đến tận chổ nào gặp giới hạn mới thôi. Muốn cho người ta không thể lạm dung quyền chinh đợợc, phải lấy sức mạnh của quyền chinh mà giới hạn quyền chinh».",
+      "",
+      "Mộı câa nữa cũng nỗi tiếng không kém - Nếu thế lực lập pháp (puissance législative) với thế lực hành chính (puissance"
+    ],
+    "page_115": [
+      "exécative) tu họp cả ở một người hay một doàn thê thi không có tự do.",
+      "",
+      "Xem đó, học thuyết Montesquieu không hề có một dọng độc đoán. Theo nhà bác học đó, sự phân quyền sử dĩ nên áp dụng là vì nó có ích lợi trong việc tô chức chilh trị. Nó bảo tồn được sự tự do của người dân. Chỉ có thế thôi.",
+      "",
+      "Kh noi rằng nên có phân quyền, Montesquieu không quả quyết rằng các quyền lực trong quốc gia phải chia rẽ hân nhau không được có liên lạc gì đến nhau cả. Trái lại, lúc nào ông cũng nhớ rằng các nguyên tắc chính trị phải hết sức mềm mại. Các quyền lực trong quốc gia tuy chia rẽ nhau nhưng vẫn phải liên lạc luôn với nhau, đề cho « sự việc có thê hòa hợp mà đi với nhau được».",
+      "",
+      "# B - Học thuyết phân quyêr trong các chủ nghĩa cách mạng Pháp ",
+      "",
+      "Cuộc cách mạng Pháp 1789 bùng nò, các nhà lý thuyết cách mạng thấy rằng sự phân quyền là một khí giới đặc biệt đề chống lại với sự chayên đoán của"
+    ],
+    "page_116": [
+      "nhà vua nên nâng nó lên làm một chù nghĩa thiêng liêng và trừu tượng.",
+      "",
+      "Chủ nghĩa phân-quyền ấy gồm ba phần tử:",
+      "1:/môt cơ quan: ví dụ: hội nghị lập-pháp, nhà vua, các tòa án.",
+      "2 / một chức việc mà cơ quan ấy phải làm : ví dụ : việc làm luặ', việc phân xủ̉,",
+      "3 / môt qugền lực cho phép cơ quan ấy thi hành chức việc của nó: ví dụ, hói-nghị lập pháp sở dĩ làm được luật pháp là vi có một quyền lạ̣p pháp. Nhà vua sở dĩ đem thi hành được luật pháp đã làm ra, là vi có môt quyền hành chính. Các viên thằm phán sở dĩ làm được việc xử kiện là vi có môt quyền tư-pháp. Có cần phân rẽ chính là những quyền ấy vậy.",
+      "",
+      "Song các quyền đó ở đâu mà đến? Nhờ ai mà có? Các nhà lý thuyết 1789 trả lời rằng những quyền đó do quốc dân trích ở chủ quyè̀n của minh mà trao cho từng cơ quan mót. Vậy quyền lập pháp, hanh chính và tư pháp"
+    ],
+    "page_117": [
+      "ià những phần tử của quốc dân chư quyền. Quốc dân trao từng phần đó cho nhiêu cơ quan khác nhau.",
+      "",
+      "Vi thế cơ quan nọ không có quyền dòm ngó đến công viếc của cơ quan kia. Ba cơ quan nắm ba quyền lực của quốc gia phải độc lập hẳn, riêng biệt hẳn. Nhà làm luật chỉ có việc làm luật Người thi hành chi biết việc hành chính Các quan tòa chỉ có việc phân xử. Cơ quan nào việc nấy.",
+      "",
+      "Bản nhân quyền tuyền ngôn năm 1789 khoản 16 nói rằng : \"Xã hội nào trong đó, sự tự do không được bảo lĩnh, sự phẩn quyền không được định rõ, thì không co hiến phap ». Xem đó, đủ biết trong lý thuyết 1789 , sự phân quyền quan trọng đến đâu.",
+      "",
+      "# C. - Ý niệm phân quyền hiện đại ",
+      "",
+      "Ngày nay, trải mấy thế kỷ hưng vong nè̀n chính trị lên lên, xuống xuống, không biết đã bao phen, nhà chính trị trải nhièn kinh nghiệm rực rỡ hay đau đớn, nên đã thấy rằng sự phần quyền chỉ là môt"
+    ],
+    "page_118": [
+      "nghệ thuật lỗ chức.",
+      "Có những người học non kính nghiệm it còn coi luật phản quyền như một chủ nghĩa thièng lièng bất khả xâm phạm. Thậm chí, người ta còn cãi nhau rằng trong mót quốc gia băt buộc phải có mấy quyền chính nữa.",
+      "",
+      "Nhà chinh trị học hiện đại, dùng phương pháp thực nghiệm, sẽ nói rằng muốn có bao nhiêu quyền cũng được,miễn tiện lợi thi thôi. Lệ cũ là có ba quyền lập pháp, hành chính, tư pháp. Nhưng Tôn Văn phân biệt những năm quyền trong hiến pháp Trung Hoa cũng không sao là quyền lập pháp, hành chính, tư pháp, kháo thí và giám sát.",
+      "",
+      "Ta chi nên nói rằng: muốn cho công việc trong quốc gia được chạy, muốn sự tự do của nhân dân khỏi bị lân áp, thì những chức việc của quốc gia (làm luật hành chính, tư pháp) nên giao cho những cơ quan riêng biệt, cơ quan no dối với cơ quan kia có đòi chút đọc lập. Thế là đủ.",
+      "",
+      "Ngày nay ai ai cũng công nhận rằng"
+    ],
+    "page_119": [
+      "quyền tư pháp (xử án) phải hoàn toàn độc lập mới mong công binh được. Duy chi có hai quyền lập pháp và hành chính là còn khó ban định rõ rệt.",
+      "",
+      "Nèn vấn đề ta sẽ xét đến trong tất cả chương này là vấn đề lập pháp với hành chính. Hai quyền lực đó có tinh cách chính trị đặc biệt phải tổ chức nó như thế nào? Có mấy cách tổ chức nó cả thảy?"
+    ],
+    "page_120": [
+      "# ![img-0.jpeg](img-0.jpeg) ",
+      "",
+      "![img-1.jpeg](img-1.jpeg)",
+      "![img-2.jpeg](img-2.jpeg)",
+      "![img-3.jpeg](img-3.jpeg)",
+      "![img-4.jpeg](img-4.jpeg)",
+      "![img-5.jpeg](img-5.jpeg)",
+      "![img-6.jpeg](img-6.jpeg)",
+      "![img-7.jpeg](img-7.jpeg)",
+      "![img-8.jpeg](img-8.jpeg)",
+      "![img-9.jpeg](img-9.jpeg)",
+      "![img-10.jpeg](img-10.jpeg)",
+      "![img-11.jpeg](img-11.jpeg)",
+      "![img-12.jpeg](img-12.jpeg)"
+    ],
+    "page_121": [
+      "![img-0.jpeg](img-0.jpeg)",
+      "![img-1.jpeg](img-1.jpeg)",
+      "![img-2.jpeg](img-2.jpeg) Quyền lạ̣p-pháp thường do viẹn dạ̉nbiểu nâm. Quyền hành-chinh thi ở trong tay chính phủ. Tô chức hai quyền láppháp va hanh-chinh tức la tô chức nghi viẹn với chính-phủ vay, 0003 301 IV . nly",
+      "Thoạt lién, ta đã có thê thẩy ngay có ba phương pháp: nờo ởn 35 iv 283",
+      "1/ Quyền hành-chinh phụ thuộc vào quyền lập pháp: chính-phủ phải cúi đầu triẹt đề váng theo nghi-viẹn : mổi liẹn lạc chì có một chiêu. nọiv-idgn sú̀ 5h",
+      "2/ Quyền lập-pháp với quyền hànhchinh chia rẽ hân nhau, kháng hèn náo"
+    ],
+    "page_122": [
+      "can thiệp đến bên nào : mối liên lạc bị cắt dứt hẳn.",
+      "3. Quyền hành-chinh cộng tác với quyền lạp-pháp hai bên ảnh hưởng lẫn đến nhau, mối liên lạc có hai chiều : chính phủ có quyền đối với nghị viện. Ngược lại nghịviện cũng có quyền đối với chính-phủ : chính thê sau cùng này tên là chínhthê đái nghị (régime parlementaire).",
+      "1 - Quyền hành-chinh phu-thuộc vào quyền lập-pháp. Phượng pháp tở chức thứ nhứt loại hẳn ý niệm phán quyền sang một bên : căn bản của nó, la bao nhiêu quyền chính phải ở trong tay viện dân-biểu cả Viện dân biểu do quốc dân đề cử nên được nắm trọn vẹn chủ quyền trong quốc gia. Vi thế không cần phải thiết lập một chính phủ nào bên ngoài nghị viện. Lo các việc hành chính đã có từng nỷ-ban chuyên môn do nghị-viện đề cử ra. Những nỷ-ban ấy khác nào một chính-phủ, nhưng là một chính-phủ chịu mệnh lệnh riềtdễ của nghị-viện.",
+      "",
+      "Tóm lại, trong phương pháp này, viện lạp-pháp giữ cả quyền hành chính nữa"
+    ],
+    "page_123": [
+      "Quốc gia do nghị-viện cai trị (gouvernement d'assemblée).",
+      "",
+      "Chính thế hói-nghị cai-trị đã thực-hiện trong lịch-sử nước Pháp nhiều phấn (1) thứ nhất những khi nào hiến pháp còn chưa định rõ.",
+      "",
+      "Hiện nay, trong những nước nào có một đảng phái mạnh-mẽ cầm chủ quyền cũng thực-hiện một chế độ ấy. Vị dụ quốc dân đảng Trung Hoa, quốc gia xã hội đảng bên Đức, Phát xít ở Ý, v.v... Các đảng lớn ấy có hội nghị toàn quốc. Hội nghị đó đề cử những uỷ ban trung ương chấp hành để lĩnh đạo việc tổ chức hành chính trong quốc gia. Ở đây không phải nghị-viện cầm-quyền pửa, mà, là một đoàn thể khác: đảng phái chính-trị (2).",
+      "",
+      "Nhưng ta vẫn thấy một đặc-điểm cũ: là không có sự phân quyền lập pháp với hành chính. Hai thứ quyền đó tập trung cả trong tay một đoàn thể. Đảng chính trị hay nghị-viện vừa làm luật, lại vừa cử",
+      "",
+      "1 - Dòn coi: cuộc tiến hóa chính-trị nước Pháp",
+      "2 - Xem phần «phụ lục»"
+    ],
+    "page_124": [
+      "những uỷ ban dê trong nom việc hành chính.",
+      "",
+      "Sư tập trung quyên chính có nhiều điều lợi trong lúc tính thế hồn dọn, vì nó tránh được những sự bất hòa nguy hiểm giữa chính phủ với ngụt-viện. Nhưng khi tính thế đã phẳng lặng, khi trật-tự đã trở lại, nó có cái nguy hiểm là hay lăn áp người dân.",
+      "",
+      "Vì thế bên Pháp, khi tính thế đã yên ơn, bao giờ chính thê cũng trở lại với ý niệm phấn quyền.",
+      "",
+      "2 QỴ̀̂̂N HÀNH CHINH CHIA RÊ VỚI QUYÊN LẬP PHÁP",
+      "",
+      "Phương pháp thứ hai, trái lại, áp dụng quan niệm phấn quyền đến triệt-dễ. Nghị viện với chính phủ có giá trị ngang nhau Hái hóa đều do dân chúng dẻ cứ, mở bên giữ một phận sự và nắm một quyền lực riêng biệt. Vì thế không bên nào được ra quá phạm vi của mình dẻ cạn thiệp đến việc bên kia.",
+      "",
+      "Chính thê phân quyền triệt dẻ áp dụng nhiều lần trong lịch sử nước Pháp. Nhưng"
+    ],
+    "page_125": [
+      "phần nhiều đều bị đỏ, vì khi nghi viên với chính phủ bất hòa với nhau, người ta không có cách gì giải quyết. Lúc đó, hoặc là nghi viên, hoặc là chính phủ phải ra ngoài hiến pháp để kéo lấy phần thắng lợi. Hiến pháp bị đỏ dễ dàng như không.",
+      "",
+      "Nhưng, trái với nước Pháp, bên Hộp chung quốc, chính thể phản quyền lỗi tài được rất lâu mà hứa hê bị đỏ lâu nào từ 1787 đến nay. V vậy, nói đến chế độ phản quyền, ta không thể bỏ qua chính thể Hợp chung quốc được.",
+      "",
+      "Chính thể Hợp-chung-quốc",
+      "",
+      "Trong chế độ chính từ đó, quyền ráp pháp thuộc về nghi viên, và quyền hành chính về chính phủ và quyền đứng đầu là viên Tôn, trông. Vậy ở hai thế lực đừng bền nhau: quyền lãi luật của nghi viên, quyền hành chính của Tổng thống. Hai thế lực đỏ cứ trông lý thuyết thì giá trị ngang nhau. Viện Tổng thống không được quyền can thiệp vào công việc của nghi viên, nghi vị ngược lại cũng không được đóng chai đến công"
+    ],
+    "page_126": [
+      "việc của viên Tống thống.",
+      "",
+      "1) Sự tự do của viên Tống thống có nguồn gốc đâu tiên ở cách bầu cử. Tống thống Hợp chúng quốc do dân chúng đề cử, chứ không phải do nghi viện bầu lên. Vì thế đối với nghi viện, Tống thống là ngang háng. Nếu viên Tống thống do nghi viện đề cử, ông ta sẽ mất hẳn tự do chính trị. Theo hiến pháp, cuộc bầu cử Tống thống tổ chức như sau đây: mỗi nước trong Hợp chúng quốc cử lấy một số người đi bộp hiến. Số cử tri ấy bằng số đại biểu của mỗi nước trong nhị viện. Thế là có tất cả 513 người được cử lên. Những người ấy sẽ bị lấy một Tống thống. Theo hiến pháp mỗi xứ được toàn quyền lựa chọn những người đi bầu Tống thống. Thoạt kỳ thủy thì nghi viện hàng xứ cử những người đó, nhưng từ năm 1868, thì quốc dân đề cử thẳng những người đi bầu. Lệ ở nay đã thành một phong tục.",
+      "",
+      "Không nhugg thế, khi cử những người đi bầu Tống thống, dân chúng còn"
+    ],
+    "page_127": [
+      "ra mệnh lệnh buóc ho phải bầu cho người nào nữa. Thánh ra khi cuộc dê cư các người đi bầu vừa xong, người ta đã biết được rằng ai sẽ là Tờng thống. Ma Tờng thống, trong thực tế, là do dân chúng trực tiếp chọn lọc.",
+      "",
+      "Phương pháp đề cư trực tiếp đem lại cho viên Tờng thống một quyền lực rất lớn. Khi dân chúng chọn một viên Tờng thống la có ý muốn choá một người có tài đặc biệt, đề người đó đem tài năng ra mà lo việc cóng. Vi thế, viên Tờng thống không bị phu thuóc gì vào nghỉviện cả.",
+      "2) Tờng thống Hợp chúng quốc dược toàn quyền hành động trong các việc hành chính. Ơng được quyền theo khuyh hươnz riêng mà quyết định, chứ không phải chiều theo ai cả. Khi quốc dân trào cho ai chiếc ghế Tờng thống, là trao cho người ấy tất cả các việc hành chính quan trọng trong nước.",
+      "",
+      "Muốn bảo họ sự tự do của viền Tờng thống hiến pháp không cho nghị viện được can thiệp gì đến chính trị của viền Tờng"
+    ],
+    "page_128": [
+      "thống cả.",
+      "a/ Nghi viẹn khóng có quyên gì đối vói bản thân Tờng thö̀ng, về phương diện chinh trị. Lẽ tất nhiên, nghị viện có quyền buóc tội viên Tờng thống, và xú ăn vẽ phương diện \"hịna\" (point de vue pénal) nghĩa là vẽ phương diện các tội lỗi trong đời sống. Ví dụ, khi viên lồng thống giết người, hay thut ngàn quỳ ăn hồi lọ, phân quốc. Nhưng vè phương diện chính trí, dù viên Tờng thống có theo con đường chính trị nào, nghị viện cũng không sao lặt đồ được.",
+      "b) Nghi viên cũng không có quyền gì đối với các kẻ thừa hành của tông thống Viẹc Tờng thống muốn chọn lọc ai làm người chân tay cũng được, mà muốn phê bô ai cũng được từ do. Các viên bị thư (secrétaire) tức là các thượng thư giúp đỡ tởng Thống tráng nom ưng bô và do Tờng thống tự ý nhiệm, miễn. Ho không e sợ gì nghị viện, và không chịu trách nhiệm chính trị gì trước nghị viện cả Trái lại. họ phải triệt để văng theo mệnh ẹnu cửa tởng thống. Mọi lần, tởng"
+    ],
+    "page_129": [
+      "thống Wilson, đau bệnh, người chán tay của ông là viên bi thư Lansing hơi họp các bí thư khác lại, đề vạch ra một đường chính trị. Khi khỏi bệnh, tổng thống Wilson viết cho ông Lansing mấy chữ: «Tôi phải đánh bãi bỏ ông, vì ông đã muốn tìm ra một đường chính trị khác tôi, mà theo hiến pháp, chỉ con đường chính trị của tôi được chỉ huy toàn sự.» Tổng thống Jackson phê hò hai viên bi thư tài chính liền nhau, cho đến khi thấy một viên bi thư thứ ba chịu theo mệnh lệnh của mình. Xem đó quyền của tông thống thực lớn lao vậy. Các viên bi thư đối với tông thống thì thế, nhưng đối với nghị viện lại không phải chịu trách nhiệm gì. Lẽ tất nhiên về phương diện «hình», các viên bi thư cũng có thể bị kết tổi như tông thống. Nhưng về phương diện chính trị sự trách nhiệm không hề có. Nghị viện không có quyền đem chính phủ ra chặt vấn. Nếu có động lòng tó̉y không bằng lòng, thì cũng chỉ là không bằng lòng mà thôi. Không như bên Pháp, một sự không bằng"
+    ],
+    "page_130": [
+      "loòng của baì viện đủ làm vớt chính phủ. Các viên bi thư lại Hợp chúng quốc khờng họp thành một nợi các. Bén Pháp các ông thượng thư họp thành nợi các dưới quyền chủ tịch của một thủ tường Bao nhiêu việc chính trị quan trọng đều định đoat trong nợi các cả. Tại Hợp chúng quốc khờng thế: Đường lối chính trị là do tông thống định đoat Các viên bi thư, người nào phận ấy chỉ có việc là phụ vào theo. Tông thống có thường hội họp các viên bi thư lại thật đấy, nhưng không cần theo ý kiến của họt đồng đó. Có một làn tông thống Lincoln bàn cãi với các viên bi thư, và thấy các viên do đồng thanh phân đối ý kiến của minh liền kết luận: « Bày phiếu a không b, một phiếu «cớ, \" vậy phía «cớ, thắng lợi * 8: ) Song nếu Tông thống được tự do, trong phạm vi hành chinh thì nghị viện được toàn quyền hành động trong phạm vi lập pháp. Không cần tông thống triệu tạp, nghị viện cũng có quyền họp. Và muốn họp thế nào, bao nhiêu lâu cũng"
+    ],
+    "page_131": [
+      "được. Tờng thông không có quyền giải tán Thượng hay Hạ-nghi-viện, cũng không có quyền sáng chế, nghĩa là dệ trình sang nghĩa viện bản dự thảo của một đạo luật. Đù có đưa sáng thì cũng không có ảnh hưởng gì khác nào * gây dập xuống nước sùng hẳn lên trời, mà thôi.",
+      "",
+      "Đến đây, sự phân quyền vẫn được thực hành triệt đề. Nhưng ta đã thấy bất đâu có những chổ khổ. Lấy một đạo luật về ngàn quỹ ra làm thí dụ, ta thấy nghĩa viện bất buộc phải đề ý đến hảa dự thảo của chính phủ. Thế là đã phải cộng tác với nhau rồi vậy. Lại những khí nghị viện với Tổng thống bất hòa phải giải quyết ra sao? Nếu không tinh trước, tất mơt bên sẽ tìm cách làm lệch cán cân dễ lấy phần thắng lợi.",
+      "",
+      "Chỗ này chính thể Hợp chúng quốc đã phải rời bỏ chủ nghĩa phân-quyền mà tiện liệu một vai mối giao thiệp giữa hai quyền hành chính và lập pháp.",
+      "",
+      "1/ Trong một vài trường-hợp, nghị-viện được quyền tham-dư vào việc hành-chính. Các cao chức ở Hợp chúng quốc, các viện"
+    ],
+    "page_132": [
+      "chức ngoài giao, các viên thẩm phán của tớa án tố cáo và các viên chức nào quan trong phải được thương nghị viện bằng lông thì tông thống mới được quyền bồ nhiệm.",
+      "",
+      "Không những thế, các điều ước ký với ngoại quốc phải được hai phần ba thượng nghị viện bằng lông mới có giá trị. Nên về việc ngoài giao, ý kiến viên Tổigthống phải tương hợp với ý kiến Thượng nghị viện.",
+      "?/ Ngược lại, trong một phạm-vi nhỏ Tờng thống được quyền tham dự vào việc táp-; hấp. Đường chính trị của Tờng-thống phải kinh trợng pháp luật, Vi thế nghị viện có thể làm ra những đạo luật dễ hạn chế hành vi của Tông thống được. Nhưng tông thống được quyền hồi lại ý kiến nghị viện về một đạo luật mà ông phản đối. Đao luật nào do nghị viện ưng thuận cũng phải qua tay Tông-thống Nén viên Tông-thố 1g không đồng ý, thì có quyền không ký, mà đưa về nghị viện xin đâu phiếu lại. Đạo luật đó phải được hai phần ba nghị viện ưng thuận"
+    ],
+    "page_133": [
+      "mọt lần thứ hai mời có giá trị. Q lỵền hói lại của Tờng thống Hợp chúng quốc vi vậy đã cả người gọi là mợt quyền veto. Nhưng veto là phản đối hiệu ngh ệm. Còn quyền hỏi lại không cho phép Tờng thống cương với pháp luật.",
+      "",
+      "Các viên tớng thống của Hợp chúng quốc thường dùng đến quyền « hỏi lại » do nó là viên sôi nặng đề kéo lại cán cân cho thăng bằng. Tờng thống Cleveland đã được đặt tên là «tờng thống veto» Quyền hỏi lại có hiệu nghiệm thực tế rất tớn, vì một đạo luật đã bị hỏi lại như thế phải được hạ phân ba nghị viện ưng thuận mót lần thứ hai mời có giá trị. Mà trong các hội nghị thì thường đa số chỉ hơn thiền số mót vài chục phiến.",
+      "",
+      "Chính thẻ Hợo chúng quốc khiến ta thấy rằng không thể nào tở chức một chế độ phản quyền triệt để được. Đời sớng quốc gia cần một đường lối chính trị duy nhất. Muốn đến chổ duy nhất đó phải có giao thiệp, liên lạc giữa nghị v ện với chính phủ, giữa quyền hành chính với quyền"
+    ],
+    "page_134": [
+      "# lập pháp ",
+      "",
+      "Lấy sự lỗ chức mối liên lạc ấy lắm căn bản để cấu tạo hiến pháp là múc đích một loại chính thể thứ ba, mà ta gọi là chính thể đại nghị (gouvernement parlementaire)",
+      "3. - QUYÊN HÀNH CHINH CÔNG TÁC VỚI QUYÊN LẬP, PBẢP CHINH THÊ ĐẠI NGHI",
+      "",
+      "A - Định nghĩa",
+      "Chinh thể đại-nghị là chính thể nào? Không nên trả lòi : đó la một chính thẻ có nghị viện là chính thể dân biền (régime - représentatif). Chinh thể đa nghị khơng những có nghị viện mà còn có nhiều dặc tinh khác nữa.",
+      "",
+      "Muốn thầy rõ đặc diềm của chính thể đại nghị, ngay tự bây giờ ta có thẻ nói vân tất: đó là chính thể trong đó chính phủ (tức là các ông thượng thư họp thành nọ́ các) chịu trách nhiệm chính trị trước nghị viện. Nói một cách khác, nếu nghị viện phân dối, nọ́ các phải « rơi »."
+    ],
+    "page_135": [
+      "Vi đặc điểm ấy, chính phủ phải cọng tác với nghị viện. Quyền hành chính phài cọng tác với quyền lập pháp. Ta khờng còn thấy hai bên tuyền bố: \"Anh đi đường anh, tôi đi đường tôi ». Trái hi cả đơi bên phải cần đến nhau, và giúp đờ lẫn nhau. Hai bên cũng có cách làm cho nhan phải « rơi » nữa.",
+      "",
+      "Giáo sư Barthélemy, trong những sàch dạy học trò ban cử nhân, thường dịnh nghĩa chính thè đại nghị như sau nà̀: * Chinh thè đại nghị là chính thè̀ trong đó sự điều khiển các việc công là kết quả cuộc cọng tác giữa nghị viện vơi một quốc trưông vô trách nhiệm, abò ở một nợi các có trách nhiệm».",
+      "",
+      "Vậy, theo giáo sư đó, chính thè đại nghị gồm có ba cơ quan : một nghị yiện, môt quốc trưông bù nhìn, không dư vào, việc chính trị với một nợi các giữ quyè̀n chính và chịu trách nhiệm. Trong bó ba ấy, thiếu một, là chính thè̀ không còn tinh cách đại nghị nữa.",
+      "",
+      "Giáo sư Hauriou, cũng trong một cuốn sách dạy học trò ban cử nhân luật, định"
+    ],
+    "page_136": [
+      "nghĩa chính thế đại nghị là « một chính thế mà căn bản là chế độ dân biểu và sự phân quyền mềm mại - trong chính thế ả̛y quyền hành chính với nghi viện luôn luôn công tác với nhau, nhờ sự trung gian của Nọi các - Nọi các cùng vơ Quốc trưởng giữ quyền chính sự, nhưng chỉ có thế cầm quyền khi được lòng tín của nghị viện, vì phải chịu trách nhiệm chính trị trước nghị viện đó n.",
+      "",
+      "Nhờ định nghĩa đã đầy đủ lâm - Dny chỉ thiếu một điều là chính phủ có quyền giải tán nghị viện nữa.",
+      "vơa B - Những đặc điểm của chính-thế đại-nghị",
+      "1) Đặc điểm thứ nhất : cơ quan hành chính với cơ qu n lập-pháp phải phân biệt: Quyền hành chính trao cho mọt Quốc trưởng không có trách nhiệm chính trị. Của quyền lập pháp thị trao cho nghị viện. Vì thế, một căn bản của chính thế đại nghị là sự phân quyền. Cơ quán hành-chinh không phải mót bọ phận phụ thuộc vào cơ-quan lập-pháp."
+    ],
+    "page_137": [
+      "Không phải một kẻ thừa hành những mệnh lệnh của nghị viện, mà là một kẻ ngang hàng; địa vị của quyền hành chính ngáng với địa vị quyền lập pháp.",
+      "",
+      "Vì tính cách bình đẳng ấy nên quyền hành chính trao cho một Quốc trưởng «bất khả xâm phạm» - Nhà chính trị nói rằng: Quốc trưởng đó không có trách nhiệm chính trị. Quốc trưởng có thể là một nhà vua hay một tổng thống. Hình thức ấy không quan hệ gì. Có vua cũng được, miễn là nhà vua chịu đứng ở một địa vị bổ nhìn về phương diện chính trị như vua Anh cát lợi. Điều quan trọng là Quốc trưởng đối với nghị viện phải được độc lập, nghĩa là trong thời hạn nắm quyền chính, không phải e ngại gì về địa vị của mình cả. Sự độc lập ấy rất rõ rệt khi Quốc trưởng do dân chúng trực tiếp đề cử lên. Nhưng dù Quốc trưởng có do nghị viện đề cử, một khi cuộc đề cử đã xong, ông cũng không còn phải lo gì nữa, vì không thể bị nghị viện lật đổ được.",
+      "",
+      "Vì sao mà thế? - Về Quốc trưởng"
+    ],
+    "page_138": [
+      "không có trách nhiệm chính trị. Thế nào là không có trách nhiệm chính trị? Trong các chính thể có vua, sự vô trách nhiệm ấy thường đưa xa đến triệt đẻ. Các hiến pháp thường nói : bản thằn nhà vua (thiêng liêng và bất khả xâm pham : (inviolable et sacré) Mấy chữ đó có nghĩa là nhà vua không thê bị kết tội - Nhưng đả̉ng thời nó cũng có nghĩa là nhà vua không tham dự gì vào việc chính trị trong nước - Trong các chính thể cộng hòa (république) sự vô trách nhiệm của v ên Tờng thống thường hẹp hòi hơn. Viên Tờng thống cũng là một công dân. Vậy thì phải chịu trách nhiệm về việc hinh (responsabilité pénale) Sự vô trách nhiệm chỉ có giá trị trong phạm vi chính trị, khi viên Tờng thống thừa hành chức vu Tờng thống.",
+      "",
+      "Tóm lại, về phương diện chính trị, Quốc trướng hoàn toàn độc lập đối với nghị viẹn. Quyền hành chính đứng ngang háng với quyền lập pháp.",
+      "2.) Đặc dièm thứ hai: Quyèn hànhchinh vói quyền lập-pháp phải cộng-tác :"
+    ],
+    "page_139": [
+      "Nhung hai quyền hành chính và lập pháp, trong chính thê đại nghị luôn luôn cộng tác vơí nhau. Cộng tác nghĩa là bên no tham dự một phần vào công việc của bên kia. Cứ trong lý thuyết, công việc của cơ quan lập pháp là làm luật, nghĩa là làm ra các lệ chung đề tô chức sự sinh hoạt trong nước - và tinh toán ngàn quỹ nghĩa là phân phối các khoán thả, chi, các thuế má, các món tiêu lớn nhỏ. Còn công việc của chính phủ là lo các việc hành chính, nghĩa là việc đặt ra các lệ riêng đề tô chức sinh hoạt trong nưóc, sinh hoạt của từng người. Việc lợp pháp là việc đặt ra các luật chung, việc hành chính là việc đặt ra các lệ riêng lơi định nghĩa thông thường là như thế.",
+      "",
+      "Nhung trong chính thê đại nghị, mội cơ quan lấn sang phạm vi bên kia đòi chút. Chẳng hạn, hiến pháp cho phép Quốc truờng đặt ra các lệ có tính cách công đồng. Ngược lại, nghị viện có quyền đặt các đạo luật có tính cách riêng biệt (ví dụ một đạo luật ban cấp tiền tử tuất cho một người vợ góa - hay tiền trợ"
+    ],
+    "page_140": [
+      "cấp cho một nhà thông thái v... v...) Kbã ấy, Quốc trưởng dùng đến quyền lập pháp, và nghị viện dùng đến quyền hành chính. Thánh ra đòi bèn đã phải cộng tác gián tiếp với nhau rồi. Sự công tác còn chặt chẽ hơn nữa, vì quyền hánh-chính với quyền lập pháp còn có ảnh hưởng lẫn lộn đến nhau.",
+      "",
+      "3.) Đặc điểm thư ba: Quyền hành chính với quyền lập pháp có ảnh hưởng lẫn lộn: Trong chính thẻ đại nghị, hai quyền hành chính và lập pháp cần phải luôn luôn đi đòi với nhau để cân đối lấy nhau. Tổ chức khéo léo sự giao thiệp giữa hai quyền do, người ta sẽ tránh được những sự xô xát.",
+      "",
+      "Vì thế, trong chính thẻ đại-nghị, nhà lập hiến đã chú trọng đặc biệt đến vấn đề ấy. Nghị viện có ảnh hưởng đến chính phủ, song ngược lại chính phủ cũng có ảnh hưởng đến nghị viện. Hai ảnh hưởng đã họp thành một thế quân bằng vững trái.",
+      "",
+      "4) Chính phủ ảnh hưởng đến nghị viện. Trước hết, các viên thượng thư luôn"
+    ],
+    "page_141": [
+      "luôn dụng chạm với nghị viện. Trong chính thể đại nghị, các bộ trưởng phải luôn luôn diễn thuyết, trình bầy quan niệm của mình với các dân biểu. Nhờ đó, mà có thể ảnh hưởng đến người nghe.",
+      "",
+      "Các viện bộ trưởng sẽ chọn lọc trong nghị viện, và có quyền can thiệp bất cứ lúc nào vào các cuộc tranh luận của nghị viện, để trình bầy quan niệm của chính phủ, và cố gắng làm cho quan niệm ấy thẳng. Nếu các viên bộ trưởng lại là lãnh tụ những đảng chiếm đa số, ta đủ thấy ảnh hưởng của chính phủ có thể mạnh mẽ đến bực nào. Ta còn có thể nói rằng: chỉ huy các cuộc tranh luân trong nghị viện chỉ h là những viên bộ trưởng nữa.",
+      "",
+      "Chính phủ còn ảnh hưởng đến nghị viện, vì giữ quyền triệu tập bay trì hoãn các buổi họp, tuyên bố mân khóa, hay triệu tập cáo phiến bất thường. Nhờ quyền đó, chính phủ có thể quyết định được khi nào, và trong bao nhiêu lâu nghị viện sẽ họp để làm việc.",
+      "",
+      "Còn một cách ảnh hưởng mạnh mẽ"
+    ],
+    "page_142": [
+      "hơn nữa là giải tán nghị viện. Dưới đây ta sẽ xét đến nó sau.",
+      "",
+      "Sau hết chính phủ được dự một phần vào việc làm luật. Trong các chính thề có vua, nhà vua thường được quyền duyệt y (droit de sanction). Nếu nhà vua không duyệt y một đạo luật do nghị viện dầu phiếu, đạo luật đó không có giá trị. Trong các chính thề công hòa (nghĩa là không có vua) quyền duyệt y ấy thường quốc trưởng không được hưởng. Một đạo luật hễ được nghị viện ưng thuận là xong. Nhưng chính phủ có nhiều cách hoạt động Chính phủ có quyền sáng chế, lại giữ độc quyền công bố và phát bớ các đạo luật. Nhiều khi quốc trưởng lại được quyền «hỏi lại» nghị viện nữa. Nhờ những cách đó, phần đông các đạo luật do nghị viện dầu phiếu là đều do chính phủ đề nghị, hoặc do chính phủ nâng đỡ.",
+      "b/ Nghị viện ảnh hưởng đến chính phủ. Ngược lại, nghị viện cũng có ảnh hưởng chặt chẽ đến chính phủ, nhờ ở quyền kiểm soát những hành vi của nợi các. Nghị viện không thê thay chăn quốc"
+    ],
+    "page_143": [
+      "trường được. Nghị viện không thể tư thầu thi hành những chức việc hành chính. Nghị viện cũng không thể bó buộc quốc trường phải đi theo một đường lối chính trị rõ rệt nào : chính thể đại nghị không cho phép nghị viện lấn áp cơ quan hành chính. Nhưng nghị viện có quyền kiểm soát đường lối chính trị của chính phủ. Nghị viện có quyền chất vấn nội các về bất cứ một vấn đề nào. Và nếu không bằng lòng, nghị viện lật đổ nội các.",
+      "",
+      "Nhưng chất vấn, và kiểm soát bằng cách nào? Bằng rất nhiều cách khác nhau: đặt câu hỏi viết, hay hỏi miệng, tranh luận với đại biểu của chính phủ, tổ chức những cuộc điều tra v.v.. (1)",
+      "",
+      "Và kết quả của những cuộc chất vấn ấy là sự sống còn của nội các. Đến đây ta thấy hiện ra tính chất đặc biệt hơn cả chính thể đại nghị: các viên thượng thư phải chịu trách nhiệm chính trị trước",
+      "(1) - Muốn thấy rõ những phương pháp của nghị viện, đón coi : «Cuộc tiến hóa chính trị nước Pháp»."
+    ],
+    "page_144": [
+      "nghị viện. Trách nhiệm ốy không những có tính cách cá biệt, mà còn là một trách nhiệm liên đờ.",
+      "",
+      "Trong chính thẻ đại-nghị, các viện bộ trưởng phải chịu trách nhiệm về ba phương diện: trước hết là trách nhiệm về phương diện \"hộ\" (responsabilité civile), nghĩa là trách nhiệm tiền bác đối với cá nhân và đối với quốc gia, Chẳng hạn, một viên bộ trưởng không biết đúng ngàn quỹ có thẻ phả bởi thường cho quốc gia, hoặc bồi thường cho một cá nhân bị thiệt hại.",
+      "",
+      "Thứ hai đến Trách nhiệm về phương diện \"hịnh\" (responsabilité pénale) nghĩa là trách nhiệm về các tội lỗ, về các hành vi trái với pháp luật. Một viện thượng thư gíê người, hay ăn bối lộ, phải ch o trạ̣h nhiệm về những tội lỗi ấy và có thẻ bị kết án. Nhưng đáng dẻ ý nhất cho chúng ta, là trách nhiệm về phương diện chính trị (responsabilité politique). Chịu rách nhiệm chính trị nghĩa là có thẻ bị khiếu trách và lật đỏ, vì một việc tuy rất thực"
+    ],
+    "page_145": [
+      "thà, rất hợp pháp, nhưng bị coi là lầm lẫn về đường lối chính trị. Trách nhiệm chính trị của nội các khiến nghị viện có phương pháp tỏ bày sự bất mãn của đại đa số về đường lối chính trị của chính phủ.",
+      "",
+      "Các viên thượng thư chỉ chịu trách nhiệm chính trị ấy đối với nghị viện mà thôi. Lẽ tất nhiên, họ phải chịu trách nhiệm trước Quốc trưởng là người đứng đầu cơ quan hành chính, nhưng ngoài Quốc trưởng, chỉ nghị viện là lật đổ được họ.",
+      "",
+      "Trách nhiệm chính trị đó, nội các phải chịu thay cho cả quốc trưởng nữa. Quốc trưởng không chịu trách nhiệm gì cả, vì những mệnh lệnh của quốc trưởng phải có một viên thượng thư ký thêm vào mới có hiệu lực. Khi ký thêm vào một mệnh lệnh của quốc trưởng, viên thượng thư đã gánh vác lấy trách nhiệm chính trị họ cho quốc trưởng vậy. Vì thế, nghị viện có thể kiểm soát đến cả hành vi của các viên thượng thư.",
+      "",
+      "Vì phải chịu trách nhiệm chính trị,"
+    ],
+    "page_146": [
+      "nên các viên thượng thư trong chinh thế đại nghị, giữ một địa vị thực ba đặc biệt Trong những chính thế khắc, ví dụ chính thế dân biểu của Hợp chúng quốc, môt viên thượng thư chỉ là một công chức tối cao, trong một ngưnh hành chính Viên thượng thư, nhiệm hay miễn là tuỳ ý quốc truởng. Đó chỉ là một kẻ thừa hành mệnh lệnh một kẻ phụ họa theo vào đường lối chinh trị của tởng thống",
+      "",
+      "Trong chính thế đại nghị, trái lại, các viên thượng thư không những là công chức tối cao trong các ngành hành chính mà còn là lãnh tụ chính trị, và thứ nhất là lãnh tụ chính trị, thuộc vè một đảng phái, lĩnh đạo chương triạh của đảng phái ấy. Quốc truởng chọn những viên thượng thư, không những vi đó là những nhà hành chính giỏi, mà thứ nhất ví đó là những nhà chính trị có tiếng tăm, có thế lực trong nghị viện. Muốn cho nợi các đượclòng tin của nghị viện, Quốc truởng phải chọn nhân viên của nợi các đó trong các đảng phái chiếm đại đa số. Cho nên, trừ những trường hợp đặc biệt không kê."
+    ],
+    "page_147": [
+      "còn thường ra trong chính thê đại nghf các vién thượng thư khóng phai là những kê thừa hành dác lực của Quôc trưởng, mà là những nhà lãnh tạ chinh trị, đại biểu cho các đảng phái chiém đại đa sổ trong nghị viẹn, Nén có nhiều người gọi chính thê đại nghị là cách tô chức \"chính trị đảng phái\" (gouvernement de parti).",
+      "",
+      "Riêng chịu trách nhiệm chính trị, tấ các viên thượng thư phải nắm được tấ cả thực quyê̂n Quốc trưởng, vì không chịu trách nhiệm gì nên chỉ đứng đó làm vì mà thốt Trong chính thê nào cũng vậy, quyền lực bao gỉ̉ cũng di đòi với trách nhiệm, khóng chịu trách nhiệm gì thi cũng không có quyền lực gì cả.",
+      "",
+      "Vi thế, thực quyên trong chính thê đại nghị là ở trong tay các viên thượng thư Muốn mọi công việc được hóa hợp tiến hành, các viên thượng thư phải họp nhau lại thánh mợt nợi các (cabinet). Đường lối chính trị là do nợi các định đoạt.",
+      "",
+      "Nọi các là mót 00 quan đặc biệt của chính thê đại nghị, khóng có trong những"
+    ],
+    "page_148": [
+      "chế độ khác. Nọi các là cơ quan hành chính tối cao, cơ quan chi huy tất cả các công sở. Lẽ tất nhiên, Quốc trừ̛ng có quyền tham dư vào nọ̉i các. Nhưng ông sẽ chi có địa vị một viên cố vãr. Y kiến của ông sẽ dược chú ý đặc biệt nhưng khơng phaii mot đường lối bó buộc. Đường lối chính trị boàn toàn do nọ̣i các tư ý định đoạt. Chính phủ tức là nọ̣i các. Nên nhiễn ngườ gọi chính thê đại ngh; là chính thể nọ̣i các (goaver. nement de cabinet).",
+      "",
+      "Xem vậy, cơ quan hành chính gớm ha ${ }^{i}$ phần tử : mọ̣t Quốc trưởng không chịu trách nhiệm gì, nhưng cũng không có quyễn lực thiết thực gl, và một nọ̣i các nẫm tất cả quyễn hành chính - Nọi các ấy. dưới quyễn chủ̉ lịch của một viên thủ tường, sẽ định đoạt đường lối chính trị của chính phủ.",
+      "",
+      "Cũng lại vl phải chia trách nhiệm nên nọ̣i các có mấy đặc tính sau đây:",
+      "",
+      "1 - Các viên thượng thư phải cùng một khuynh hướng, cùng một ý kiến. Có thể, nhàn viên trong nọ̣i cút mời vạch rã"
+    ],
+    "page_149": [
+      "môt đường lối chính trị chung cho cả mọi phần tử trong chính phủ được.",
+      "",
+      "2 - Các viên thượng thư phải họp thành một khối chặt chẽ. Nếu một ông thượng thư bị đồ là tất cả nội các đồ theo",
+      "",
+      "Thành ra các viên thượng thư trong chính thể đại nghị, phải chịu hai tầng trách nhiệm: một trách nhiệm cá nhân về các hành vi của riêng từng người Và một trách nhiệm liên đới về các nhân viên khác trong nội các.",
+      "",
+      "Trách nhiệm chính trị của các viên thượng thư là căn bản của chính thể đại nghị - Nhờ trách nhiệm ấy luôn luôn nghị viện công tác với nội các trong công việc chính trị. Quốc trường không thể theo một đường lối chính trị trai ngược với ý muốn của nghị viện được, vì phải nhờ một nội các làm trung gian mới thì hành được quyền chính. Mà nội các thì cử trái ý với nghị viện là bị lật đổ ngay để nhường chỗ cho một nọii các khác, hợp với ý muốn của nghị viện hơn."
+    ],
+    "page_150": [
+      "4.) Đặc điểm thứ tư của chính thê đại nghị: quyền giải tán.",
+      "",
+      "Nhưng nếu thế, thì chính phủ phải váng theo nghị viện mất rồi, còn đâu đứng được ngang hàng nữa ? Quyền hành chính bị quyền lập pháp lấn áp như vậy, làm sao mà ảnh hưởng lại cho có hiệu quả được ?",
+      "",
+      "Chó này, ta phải nhắc đến một đặc điểm thứ tư của chính thê đại nghị: ấy là quyền giải tán nghị viện của chính phủ. Thiếu đặc điểm đó, chính thê đại nghị sẽ gãy hẳn một bánh xe, không sao chạy đều hóa được nữa.",
+      "",
+      "Nghị viện đã có ảnh hưởng sâu xa đến chính phủ như thế, tất chính phủ cũng phải có một phương pháp gì chống lại. Ta ví dụ rằng chính phủ không đồng ý với nghị viện. Đáng nhẽ, chính phủ bị lật đỏ. Nhưng các nhân viên trong nội các thấy rằng hành vi của chính phủ hợp với ý muốn của dân chúng, tuy không hợp với sở thích của đa số trong nghị viện. Lúc đó, tín chắc ở sự tán thành"
+    ],
+    "page_151": [
+      "của quốc dân, chính phủ có thè̀ tuyền bő giải tán nghị viện, hay it ra cũng giải tán Hạ-nghị viện. Giải tán xong, tất phải bầu cử lại Kết quả cuộc bầu cử ấy sẽ chứng tỏ rằng mót bên nghị viện, mót bên chính phủ, bên náo đã hành đồng hợp với ý muốn của dân chúng hơn. Nên trong nghị viện mới, đa số vẫn thuôc về phái phân đôî chính 'phủ thì không còn nghi ngờ gì nữa, chính phủ chỉ còn việc xin từ chức - Còn nếu, trái lại, đa số trong nghị viện mới thuộc về phái tán thành chính phủ, thì nghị viện cũ đã không đại biểu được đúng ý muốn của dân chúng. Và chính phủ có thè̀ vững lòng đứng lại mà nối tiếp đường lối chính trị.",
+      "",
+      "Ta cần phải h ễu rõ ràng địa vị của \"quyền giải tán\" trong chính thè đạinghị. Không nên tưởng làm rằng giải tán nghị viện là phạm đến chủ quyền của quốc dân. Chính phủ chỉ được phép giải tán đề hỏi lại quốc dân mà thôi. Nên ngay sau khi giải tán, phải tở chức cuộc bầu cử một nghị viện mới Trong"
+    ],
+    "page_152": [
+      "cuộc bầu cử ấy, quốc dân sẽ tỏ rõ ý kiến và sẽ đáng làm trọng tài phàn xử sự bất hòa giữa nỗi các với nghỉ viện.",
+      "",
+      "Nhưng nếu chính phủ giải tán nghị viện, ma không chịu trung cầu ý kiến dân chúng là hanh đọng sai với những nguyên tắc dân chủ. Kh ấy, chính phủ trở nên độc tài, và chính thể đại nghỉ cũng không còn nữa.",
+      "",
+      "Quyền giải tán, trong chính thể đại nghị, có mục đích là để quốc dân luôn luôn được dịp tổ bầy ý kiến và tham dự vào quyền chính. Mỗi lần giải tán nghị viện mỗi lần tổ chức một cuộc bầu cử lại, la dân chúng được mời làm trọng tài.",
+      "",
+      "Cho nên trong những xứ nào, quyền đó thường hay được dùng đến, chính phủ với nghị viện co địa vị ngang nhau và chính phủ có thể đứng được lâu dài nếu biết điều khiển chính trị hợp với sự mong mỏi của dân chúng. Trước khi phản đối chính phủ và đòi lật đổ nợi các, nghị viện phải nghĩ ngợi kỹ càng vì nếu phản dối một chính sách được dân chúng tán-"
+    ],
+    "page_153": [
+      "shành, sẽ bị giải tán ngay. Nhớ đó, chính phủ có đủ quyền lực đề giữ vững giây cương chính trị.",
+      "",
+      "Trái lại trong những xứ nào chính phủ khong có quyền giải tán, hay không dùng đến quyền ấy, thì nghị viện trở nên một thế lực lớn lao vô hạn, chỉ huy tất cả mọi việc trong xứ. Hễ nội các hành động trái ý đói chút là bị lật đồ ngay. Sự thay đồi nội các sáy ra luôn luôn, chính phủ không đủ thời giờ cũng không đủ quyền lực mà lo toan các việc trowg xứ. Chính thế đại nghị khi ấy, chạy sai lạc hẳn. Cán cán nghiêng về một bên, sớm chầy chẳng bao lâu thế nào cũng có biến."
+    ],
+    "page_154": [
+      "# ![img-0.jpeg](img-0.jpeg) ",
+      "",
+      "![img-1.jpeg](img-1.jpeg)",
+      "![img-2.jpeg](img-2.jpeg)",
+      "![img-3.jpeg](img-3.jpeg)",
+      "![img-4.jpeg](img-4.jpeg)",
+      "![img-5.jpeg](img-5.jpeg)",
+      "![img-6.jpeg](img-6.jpeg)",
+      "![img-7.jpeg](img-7.jpeg)"
+    ],
+    "page_155": [
+      "# Churoug IV ",
+      "",
+      "## NHƯNG CUÔC CHUYÊN HU'ÓNG TRONG CHÍNH",
+      "",
+      "TRI HOC HIÊN-DAI"
+    ],
+    "page_156": [
+      "# 41 ",
+      "",
+      "## 42"
+    ],
+    "page_157": [
+      "# THIÊN 1 ",
+      "",
+      "## Cuộe «khủng hoảng» của chế độ dân-chú",
+      "",
+      "Ngày nay, những đại cương về chinhtrị mà chúng toi vừa phân tích sơ sái ở trên đương trải một cuộc khủng hoảng lớn.",
+      "",
+      "Tái sinh từ đất Anh, bắt nguồn ở những chế độ Hy lap và La mã cô, chinh thê dân chủ đã lật đồ cách tở chức chính trị phong kiến, và tiến xa, lan rộng mãi mặc dầu các dộng vua hoảng hốt tim hết cách kim hãm nó lại. Đến dầu thế, kỹ thứ hai mươi nó lan khắp hoàn cầu sang đến tận châu Phi ruộng đồng châu Á. Thê rồi. đang lúc phát triền rực rỡ, bỗng ngấm ngầm xuất hiện một luồng tư tưởng phản động cứ mỏi ngày một"
+    ],
+    "page_158": [
+      "mạnh thêm. Chính thế dân chủ sụp đồ ở Âu châu, trong nhiều nước. Nó sụp đồ từ nước này qua nước khác, và hình như chỉ mỗi ngày một sụp đồ thêm. Cho đến ngày nay, cuộc khủng hoảng đương vào lúc dữ dội nhất, và đương hình như muốn kéo cả thế giới vào vòng trăm trăm. [tao. 951.]",
+      "",
+      "Số phần thếđộ dân chủ trong tương lai, hình như chúng ta còn chưa sao biết được. Phòng đoàn lúc này e còn quá sớm. Biết bạo nhiều học giả cho thâm con chăm tân nữa, huống chi khối óc thấp hòa của chúng tôi. Cho nên không lúc nào chúng tôi đâm cô ý nghĩ muốn đoàn trước khi hình thế giới. Chỉ có gắng đem áp dụng những nguyên tắc đã vạch trong mấy chương trên đây mà tìm cách hiểu một đời phần những cuộc chuyển hướng trong nền chính trị hiện đại. [tao.] [tao.] [tao.] [tao.] [tao.] [tao.] [tao.] [tao.] [tao.] [tao.] [tao.] [tao.] [tao.] [tao.] [tao.] [tao.] [tao.] [tao.] [tao.] [tao.] [tao.] [tao.] [tao.] [tao.] [tao.] [tao.] [tao.] [tao.] [tao.] [tao.] [tao.] [tao.] [tao.] [tao.] [tao.] [tao.] [tao.] [tao.] [tao.] [tao.] [tao.] [tao.] [tao.] [tao.] [tao.] [tao.] [tao.] [tao.] [tao.] [tao.]"
+    ],
+    "page_159": [
+      "# 1 - NHƯNG NGUYÊN NHÂN CHINH - TRI ",
+      "",
+      "Nếu chi đứng trong phương diện chính trị, ta khó lòng hiểu rõ cuộc khủng hoảng hiện đại. Thực vậy, cứ lấy chính trị ra mà nói, thì chính thế dân chủ thực là dẹp dẽ: người dân nào cũng được tự do, người dân nào cũng được tham dự vào quyền chính. Như thế, có sao trong nưoc lại còn có thể xảy ra những chuyện lòi thôi. Và dân chúng đã được chiếu dãi như thế, còn muốn đòi hỏi gì nữa ?",
+      "Nhưng nếu bước sang phương diện kinh tế, ta sẽ thấy dàn chung, kuông bằng lặng lạ vı những cờ chính đáng.",
+      "",
+      "## 2 - NHƯNG NGUYÊN NHÂN KINH TÊ",
+      "",
+      "Lý thuyết dân chủ năm 1789 lấy sư tử do cá nhân làm căn bản. Bôn phận các quốc gia là tìm hế cách dễ cho cá nhân được tự do thật rộng rãi.",
+      "",
+      "Sư tư do ấy chỉ bị bau chế đòi chút về phương diện chính trị bởi còn có"
+    ],
+    "page_160": [
+      "pháp luật, còn có tự do chính trị của những người khác. Còn về phương diện kinh tế, cá nhân được hoàn toàn tự do.",
+      "",
+      "Cho nên trong bản nhân quyên tuyền ngôn năm 1789 khoản thứ 17 nói rõ rằng: \"Quyền tư hữu là một quyè̀n thiêng liêng, và bất khả xâm phạm \" (La pro: priété est inviolable et sacrée). Không một chứng có nào khiến ta thấy rõ hơn tinh;cách \"giai cấp\" của chủ nghĩa 1789.",
+      "",
+      "Chỗ này, cần phải nhắc lại rằng cuộc cách mạng 1789 la công trình của giai cấp công, thương trung lưu (xem chương II : phê bình thuyết dân chủ). Quyền tư do kỹ nghệ, tự do thương mại, đối với giai cấp ấy là quyên sống còn, quy ên căn bản. Vi vậy, quốc gia phải kinh lıong sư lự do kinh tế của từng người.",
+      "",
+      "Chủ nghĩa 1789 có tinh cách \"cá nhân\" là ở đó. Nó tuyền bő rằng: Quốc gia chỉ được hoạt động trong phạm vi chinh trs, nghia là trong các việc trật tự, bảo an, ngoại giao, tài chính. Quốc gia là viên cảnh sát tối cao dễ giữ cho những nhà kỹ nghệ và thương mại được hoan"
+    ],
+    "page_161": [
+      "toàn tự do.",
+      "Giáo sư Haurion, mợt nhà chính trị học vĩ đại đã tạo ra cả một thế hệ chính trị hiện đại, làm tiêu biểu cho học thuyết đó, có viết : \"Cho đến bây giờ, cách tờ chức Quốc gia vẫn có tính cách chính trị, chứ không có tính cách kinh tế. Quốc gia có đất cát, có tiền tài, có ngân quỹ, có cả một bộ máy kinh tế, nhưng đó chi là một cách nuôi sống, một phương pháp dễ thi hành các chức việc, mà các chức việc đó của quốc gia, thì có mục đích cảnh sát, nghĩa là mục đích chính trị. Quốc gia không phải là một đoàn thể đề làm việc cho sự sản xuất các đồ dùng, quốc gia chi là mót cách sống chung của người ta, cách sống chung ấy từe là việc chính trị vậy\" - (1). Cũng giáo",
+      "(1) Jusqu'à présent, toute l'organisation de l'État a été politique, non point économique. L'stat a un patrimoine, des finances, un budget, cout un appareil économique, mais ce n'est là pour lui qu'un moyen de vivre, d'assurer ses services, et ces services, quand à eux, ont un but (Xem tiếp trang sau)"
+    ],
+    "page_162": [
+      "sư Hauriou, khi nghe thấy tin một nghiệp đoàn được chính thức công nhận là có năng lực chính trị, đã liêu lên: «Người ta ăn cắp mất Quốc gia của chúng ta rồi!» (On nous a volé notre Etat).",
+      "",
+      "Trong thời-kỳ kỹ-nghệ và thương mại mới phát triển, quan niệm trên đây được hoan nghênh đặc biệt. Thị trường còn rộng mở cho những người có tài chí, ai xông vào nghề buôn, kỹ nghệ, cũng có thể làm giàu được. Nên khắp các nước dầu đậu các lớp ngườ trung lưu cũng đòi cho được chế độ tự do cá nhân.",
+      "",
+      "Thương mại và kỹ nghệ còn có cơ phát triển thì chế độ tự do cá nhân còn được đón chào mừng rỡ, vì sự tự do kinh tế được reo rắc nơi nào, thì nơi đó xã hội được tân tới và thịnh vượng.",
+      "",
+      "de police c'est à dire un but politique. L'Etat n'est pas une association pour travailler ensemble à la production des richesses, il est seulement pour les hommes une manière de vivre ensemble, ce qui est essentiellement le fait politique.",
+      "",
+      "M. Hauriou - Cité par la Pradelle dans: Réforme de l'Etat (Bibliographie synthétique)"
+    ],
+    "page_163": [
+      "- Cứ như thế cho đến lúc xã hội hết đường tiến, trong cách tổ chức tự do kinh tế. Chế độ công thương tốt tươi lúc đầu, dân dân biến thành chế độ tư bản. Kỹ nghệ và thương mại dân dân tập trung lại trong tay những nhà tư bản kếch sủ, chủ các xưởng máy vĩ đại các đất đai rộng rãi, các hãng buôn có chi nhánh khắp hoàn cầu. Thị trường mỗi lúc một thấy eo hẹp, người ta đưa nhau đi tìm những chân trời mới, rồi đến khi khắp trái đất đã in vết chân nhà buôn, người ta sody ra tranh cướp nhau các thị trường còn mới mẻ. Còn trong nước, thì những sự mâu thuẫn mỗi ngày một rõ rệt. Thiếu thị trường các xưởng máy nghỉ việc, thợ thuyền thất nghiệp hàng hóa đồ xuống sông xuống biển. Thời kỳ thịnh vượng đã hết, sự túng thiếu bất đâu.",
+      "",
+      "Rồi xảy ra những cuộc đình công, bỏ việc để đòi tăng lương. Cuộc tranh đấu giữa cuủ với thợ. Chính phủ lúng túng, bị trói buộc trong lý thuyết tự do của những người năm 1789, không biết làm"
+    ],
+    "page_164": [
+      "thế nào, chay đông, chạy tày, vã̃a không làm sao giải quyết được những vấn đề xã hội, vi quyền tự do kinh tế vẫn phải coi là thiêng liêng. Vả lại dàn chúng thì khơng thấy sự thật. Chính phủ có động chạm đôi chút đến những kẻ có quyền kinh tế, thì họ kêu là chính phủ phạm đến quyền tự do công dân, quyền tự do mà bao nhiêu người xưa đã phải rỏ máu mới chiếm được. Dàn chúng nghe vậy, dở minh đôi chút là các chính phủ lại đànn ngồi yên.",
+      "",
+      "Nên, năm 1940, khi thống chế Pétain lên cầm quyền nước Pháp, đã thốt mấy lờ sâu sắc và đau đớn :",
+      "« Không có gì vô lý, rời rạe, trái ngược hơn là cái chế độ kinh tế nó đã bắt chúng ta phải chịu trong hơn năm mươi năm nay, những con sôi nỗi từng hồi diềm những cuộc tranh đấu kịch liệt, trong đó sự bãi công của thợ thuyền, với sự bãi việc của chủ, thi nhau xem bên nào Phá hoại được nhiều hơn.",
+      "",
+      "Luôn luồn các kè̉ có quyền viện đến sự tự do, vì nó mang lại cho họ một"
+    ],
+    "page_165": [
+      "thê lực thừa thãi khóng thê tha thứ được còn phấp luật, kíi can thiệp hộ cho những kè yếu duới, thì can thiệp vung về đến nỗi quay lại làm hai cho họ.",
+      "",
+      "Lịch sî̃ nhû̃ng đạo luật mà người ta gọi là a luật xã hội» của đẻ Tam dân quốc thực là đàng thương. Nó không năng cao được mực sống của thợ thuyền, nó cũng không hạ thấp được bọn phong kiến tư bản, nó chỉ phá đồ đến quá nửa nền kinh. tē quốc gia. Vì có́ gì mà thất bại hoàn toàn như vậy? Không phài vi sự bất lực hay sự tàn ác của người ta, mà vì sự yếu đuô̂i của quốc gia, sự thiếu thốn của bộ máy chinh phù̀.\"",
+      "(ll n'y avait rien de plus illogique, de p us incohérent, de plus contradictoire que le régime économique auquel nous avons dù pendant cinquante ans et plus une agitation chronique, jalonnée de conflits violents où la grève et le locke out se disputaient à qui accumulerait le plus de ruine.",
+      "",
+      "La liberté était perpétuellement invoquée par les puissants, à qui elle conférait"
+    ],
+    "page_166": [
+      "un intolérable surcroît de puissance, et la loi, lorsqu'elle intervenait en faveur des faibles, le faisait si madroitement qu'elle tournait en fin de compte à leur préjudice.",
+      "",
+      "C'est une pitoyable histoire que celle des lois dites «sociales » de la IIIème République. Elles n'ont pas relevé la condition ouvrière, elle n'ont pas abaissé la féodalité capitaliste, elles ont plus qu'à demi ruiné l'économie nationale. À quoi faut-il contribuer un échu aussi complet? non pas tant à l'incapacité ou à la méchanceté des hommes qu'à la faiblesse de l'État, à l'insuffisance de l'appareil gouvernemental.",
+      "",
+      "(Paroles du Maréchal Guyen I trang 55)",
+      "",
+      "Cũng thống chế Pétain vạch cho chung ta thấy thế nào là tự do, trong chế độ tự bấm tàn cự?",
+      "",
+      "\"Chúng ta sẽ không để cho họ bằng lòng tự do chết đói, dù sự tự do ấy cho họ quyền bỏ phiếu bốn năm một lần. (nous ne nous contenterons pas pour eux de la liberté de mourir de faim, même si cette liberté leur donne le droit de"
+    ],
+    "page_167": [
+      "deposer un bulletin de vote to as les quh tre ans dans une (urne). 1) or (ob (eal",
+      "",
+      "- Vâ lai, nâm 1940, su fur do - (s)r (re do trùu turong - côn có nghĩa gi đồi pơi ngươi tho thấ nghiệp, thag ngươi tỉu chủ phá sản, nêu khóng phai lá tu do đau đớn mà khóng có al cưu vót, trong một quốc gia bị thương? (que signifierait d'ailleurs en 1940, la liberté l'abstraite liberté - pour un ouvrir chômeur ou pour un petit patron ruiné, sinon la liberté de souffrir sans recours, au milieu d'une nation vaincue?)",
+      "",
+      "Tóm lại căn bản của chủ nghĩa 1789, đã bị cuộc tiến hóa kinh tế lật đồ hẳn Sự tự do kinh tế, khi trước, là một động lực tiến hóa, thì nay chỉ còn là một hàng rào ngăn trở tiến hóa. Nó có hai nghĩa khác nhau tuỳ theo từng người : là tự do kiếm tiền - và tự do chết đói. Những kẻ tự do chết đói không bằng lòng sự tự do ấy là lẽ tự nhiên.",
+      "",
+      "Cho nên khắp các nơi, nỗi lên những cuộc chỉ trích chính-thề dân chủ. Chính thê đó bất lực quá. Chính thê đó gây"
+    ],
+    "page_168": [
+      "ra những sự mâu thuẫn xã hội. Phải thay đồi nó đi; ấy là những lời người ta thường nói và đã có nhiều nơi, người ta thay đồi thiết thực.",
+      "Tìm xem người ta đã thay đồi, hay dịnh thay đồi chính thế dân chủ ra sao là mục đích chương thứ tư này vậy."
+    ],
+    "page_169": [
+      "# THIEN II ",
+      "",
+      "## Những khuynh - hướng của chính trị họe hiện đại",
+      "",
+      "Văn đề đã đặt như ở trên, ta hiểu rõ vi sao khuynh hướng chung của tất cả các nền chính trị hiện đại là hạn chế sự tự-do kinh-tế. Lý thuyết tư hữu bất khả xâm phạm, lý thuyết cá nhân tự do hoán toàn, ngày nay kbòng thê còn công nhận nữa.",
+      "",
+      "Đã đến lúc xã hội vượt quá cách tô chức cá nhân, đề đi đến một đời sống doàn thê. Người ta phải sống trong doàn thê, và sống cho đoàn thê. Cách tô chức kinh tế, hay chính trị cũng phải lấy doàn thê làm góc.",
+      "",
+      "Vi thế khắp các nơi hiện đang xuất"
+    ],
+    "page_170": [
+      "pháp một chủ nghĩa nghiệp-đoàn mạnh mẽ chúng ta luôn luôn nghe thấy nhắc đến nghiệp đoàn. Quốc gia, không những chuyên chú đến việc chính trị mà phải can thiệp vào quyền kinh tế. Và khi tở chức chính trị cũng phải lấy nghiệp đoàn làm gốc: ấy là lý thuyết thường viện đến thời nay.",
+      "",
+      "Nhưng có nhiều cách tở chức nghiệp đoàn. Có nhiều cách cái tạo quốc gia. Và chổ này mới là chổ chia rẽ. Muốn dễ nhớ, chúng tôi chỉ chia các chủ nghĩa chính trị hiện thời làm hai khuinh hướng lớn: một khuynh hướng phản đối hân chế độ dân chủ, và môt khuynh hướng muốn nối tiếp chế độ dân chủ.",
+      "",
+      "1.     - KHUYNH HƯƠNG PHẢN",
+      "",
+      "DÂN CHỦ",
+      "quốc",
+      "Lý thuyết",
+      "Những cuộc xô xát trong xã-hội là vì",
+      "tự do cá nhân mà ra cả. Mà chính thẻ",
+      "dân chủ là chính thẻ lấy tự do cá nhân"
+    ],
+    "page_171": [
+      "tám căn bản. Vây phải lát đô hẳn chính thê đó vời tất cả những kết quả của nó, trong đó có sự tự do cá nhân, Quốc gia phải nắm hết cả các quyền chính trị hay kinh tế, dù có lấn áp cá nhân cũng không quan hệ gì. Điều thiết yếu là đừng đề xẩy ra những cuộc khủng hoảng kinh tế nữa.",
+      "",
+      "Trong chế độ dân chủ, thứ nhất là chế độ đại nghị, chính phủ không làm được gì cả, vì bị thay đội luôn luôn. Các đảng phái trong nghị viện dâng xé chính quyền chia nhau, làm hại cho cả nước. Tốt hơn cả là phá hẳn tòa nhà nát ấy ma xây dựng một lâu đài mới.",
+      "",
+      "Căn bản của lâu đài này không phải sự tự do nữa, cũng không phải cá nhân mà là những nghiệp đoàn. Quốc gia sẽ bó buộc chủ cũng như thợ phải tổ chức thành nghiệp đoàn. Mỗi ngành sản xuất có một nghiệp đoàn gồm cả chủ lẫn thợ. Các nghiệp đoàn phải giao thiệp với nhau theo huấn lệnh của chính phủ. Cứ như thế sẽ tránh được các cuộc tranh đấu, khủng hoảng kinh tế."
+    ],
+    "page_172": [
+      "Chinh phủ phải có quyền lực thật lớn để thi hành tất cả mọi cuộc cải cách cần thiết. Phải bỏ hết những ý niệm vỹ dân chủ, về sự phân quyền đi. Bao nhiêu quyền sẽ ở cả trong tay chính phủ. Dân chúng sẽ là kẻ thừa hành mệnh lệnh chính phủ. Chính phủ khơng phải vâng theo dân chúng và nêu cần sẽ dùng đến sức mạnh.",
+      "",
+      "# B. - Thựe hành: ché độ đọc tài ",
+      "",
+      "Đem áp dụng vào thực tế, lý thuyết phân dân chủ đẻ ra những chế độ độc tài. Nỗi danh nhất hiện đại là ché độ phát xịt ở Ý và quốc gia xã hội ở Đức.",
+      "",
+      "Những tài liệu vẽ hai chế độ này rất ít, nên chúng tôi chỉ có thê lược phác ở đây chế do phát xit, la chế độ được nghiên cứu nhiều kơn.",
+      "",
+      "Chế độ phát xit lấy nghiệp đoàn làm căn bận. Bên Ý, trước cuộc chiến tranh này, chủ, thợ, các người làm nghề tự do (thày thuốc - nghệ sĩ v.v..) đều bắt buộc phải chịu khuôn khô của nghiệp"
+    ],
+    "page_173": [
+      "đoàn. Dù họ có không bằng lòng biến tên, nghiệp đoàn cũng cứ thay mặt cho họ. Ví dụ mỗi địa phương có một líéa doàn các thợ kim khi. Nghiệp doàn ấy nếu được chính phủ công nhận, sẽ làm đại biểu cho tất cả các thợ kim khi địa phương, dù họ có không muốn cũng mặc. Nghiệp đoàn có quyền thu thuế của thợ. Và nếu nghiệp đoàn đó ký một bản gíso kèo với chủ, thì tất cả các thợ kim khi, dù có biến tên hay không, đều phải vàng theo giao kèo đó.",
+      "",
+      "Chính phủ bồ nhiệm viên bí thư của nghiệp doan. Viên bí thư đó phát thẻ nghiệp đoan cho công nhân. Không có thẻ đó, bao nhiêu trách nhiệm đều phải chịu mà quyền lợi không được hưởng tí gi. Chẳng hạn, người thợ không có thẻ nghiệp đoàn thì không được bầu cử.",
+      "",
+      "Về phương diện chính trị, đặc tính của chính thẻ̉ phát xít là ý niệm phàn dân chủ. Phàn dân chủ ví :",
+      "1.) Khóng có sự phân quyền: nhà độc tài, đứng đầu đảng phát xít, nắm cả quyền lập pháp lẫn bá̧h chính."
+    ],
+    "page_174": [
+      "2.) Không có tự do dân chủ: nhân dân chỉ có bồn phận mà không có quyền lợi. Hoặc quyền lợi của nhân dân là tùy ở lòng thảo của thủ tướng đứng đầu chính phủ. Nghi viện không có quyền lật đồ chính phủ. Thủ tướng không chịu trách nhiệm chính trị gì hết.",
+      "",
+      "3.) Không cú hiến-pháp rõ rệt: hiến-pháp lúc nào cũng có thể thay đổi được. Tóm lại, trong chế độ phát xít, nhà độc tài bình như trở lại với chế độ quân chủ độc đoán thời xưa.",
+      "",
+      "Những chế độ độc tài thường xuất hiện trong những lúc tính thế nguy ngập nhưng ta tự hỏi đến khi thái bình sẽ trở lại, thì có thể giữ vững mãi được không? Vả lại nhà độc tài dù sao cũng vẫn phải dựa vào lòng tin yêu của nhân dân mà quyết đoán. Khi kẻ anh hùng đó chếđđi, một người khác có thể thay chân được không? Những câu hỏi này, lịch sử sẽ trả lời cho ta.",
+      "",
+      "2. - KHUYNH HƯỚNG TÂN DÂN-CHỦ A: Lý thuyết",
+      "",
+      "Khuynh hướng này cũng nhận rằng chế độ dân chủ cũ quá yếu đuối — yếu đuối 168"
+    ],
+    "page_175": [
+      "mi không ra thoát khỏi quan niệm kinh tế tự do.",
+      "",
+      "Nguyên nhân của những mối khủng hoảng trong xã-hội không phải là ý-niệm dân chủ, mà là sự tự do về kinh tế. Sứ tư do ấy bị đưa đi quá đà, dẫn đến chế độ tư bản. Muốn giải quyết vấn đề xã hội, không thể đi ngược lại lịch sử, trở về những ý niệm phản dân chủ. Trái lại phải tiếp tục công việc của người xưa mà làm cho chế độ dân chủ thực hiện được hoàn toàn.",
+      "",
+      "Thật vậy, sở dĩ sinh ra những cuộc khủng hoảng là vì dân chúng không thực là chủ. Nếu dân chúng thực nắm được chủ quyền quốc gia tất sẽ không xảy ra những cuộc rắc rối. Chỉ vì chủ quyền ở trong tay một thiểu số có thể lực mà sinh ra lôi thôi.",
+      "",
+      "Trước khi có tự do chính trị, phải có tư do sinh hoạt đã. Trước khi bình đẳng trong lý thuyết phải có bình đẳng trong đời sống. Người nào còn bị kinh tế bỏ bụơc tất chưa thể hưởng quyền dân chủ tự do.",
+      "",
+      "Chữ dân chủ, trong chế độ cũ, chỉ"
+    ],
+    "page_176": [
+      "có nghĩa là chủ quyền thuộc vê một sổ it. Phải làm cho nên dân chủ được thực hiện. Phải giải thoát cho số dóng về phương diện kính tế. Bấy giờ số dóng ấy sẽ dùng đến quyền chính thực thu.",
+      "",
+      "Cho nên chế độ tân dân chủ sẽ phải lo đến vấn đề «dân sinh» trước. Phải nên nhớ : tự do kinh tế trong chế độ cũ là tự-do giả dối. Muốn dân sinh được chắc chắn, hãy tổ chức và kiêm soát nên kinh tế trong quốc gia.",
+      "",
+      "Dân sinh chắc chắn rồi thi phải tinh đến « dân quyền ». Trả lại quyền chính cho nhân dân là một điều rất cần thiết. Khi dân chúng đã được tự do thực tế. khi dân chúng đã thoát khỏi vòng trói buộc của kinh tế, ấy mới là lúc nền a chân dân chủ » có thể thực hiện.",
+      "",
+      "Trong nền dân chủ mới mẻ ấy, chính phủ phải triệt để vâng theo dân chúng. Cách tở chức chính trị, hay kinh tế, cũng sẽ do dân chúng định doạt.",
+      "B. - Thực hành",
+      "",
+      "Chủ nghĩa tam dân. Đem thực hành, lý thayết tân dân chủ đẻ ra những chế độ rất"
+    ],
+    "page_177": [
+      "đặc biệt. Ta đã thấy trong lý thuyết ấy, trước khi tở chức dân quyền, phải qua một thời kỳ giải thoát cho dân sinh. Công việc đó phải cữn nhanh chóng quả quyết. Cho nên thời kỳ dân sinh, chính phủ cần có sức mạnh. Nhưng sức mạnh ấy là do dân chúng trao cho đề làm việc. hó dân chúng.",
+      "",
+      "Vi vậy, phải đến một thời kỳ, dân sinh đã giải thoát, chính phủ trả lại quyền chính cho nhân dân. Lúc bấy giờ mới thực đến thời kỳ dân chủ.",
+      "",
+      "Trong thời kỳ sửa soạn, chính phủ thường là cơ quan chấp hành của mợt đảng cấp tiến. Đảng đó nắm hết chinh quyền trong quốc gia, vì là phần tử cao nhất của nhân dân. Nhưng giải thoát xong cho dân sinh, đảng đó sẽ phải trả lại cho nhân dân tất cả các chính quyền.",
+      "",
+      "Gần chúng ta, có thuyết tam dân của Tôn Vấn hơi phảng phất giống như vậy. Trong phần phụ lục, chúng tôi có trích đăng bài dịch bản kiến quốc đại cương của nhà chính trị Trung Hoa - Bạn đọc nên xem kỹ sẽ thấy nhiều điều hay,"
+    ],
+    "page_178": [
+      "đáng ghi nhớ.",
+      "",
+      "Tóm lại, trước cuộc khủng hoảng biện thời của chính thể dận chủ, có hai khuynh hướng:",
+      "",
+      "Một khuy nh hướng đồ tất cả những cuộc tranh đấu cho cách tổ chức dân. Và cứ giữ vững căn bản kinh tế cũ (tuy có thay đổi đôi chút) mà chuyện chủ thay đồi chính trị.",
+      "",
+      "Một khynh hướng trái lại, nói rằng nguyên nhân cuộc khủng hoảng là tình hình kinh tế. Vì vậy cần tổ chức hảa lại nền kinh tế đó, rồi sẽ thực hiện một chế độ dận chủ công bình và thiết thực hơn.",
+      "",
+      "Vấn đề còn nhiều điểm khó khăn, vì phức tạp, chúng tôi chỉ có thể tóm lược như thế."
+    ],
+    "page_179": [
+      "# THAY LỜI KẾT LUẬN ",
+      "",
+      "1 - Một cuộc cách mạng không phải dùng các đạo luật hay các đạo sắc lệnh mà làm ra được. Nó chỉ có thể thực hiện khi quốc dân hiểu nó, và kêu gọi nó, khi dân chúng đi theo chính phủ trên con đường canh tân cần thiết \".",
+      "(Diễn văn ngày 11-10-1940)",
+      "2 - Người ta chỉ có thể thủ tiêu sự tranh đấu giải cấp bằng cách thủ tiêu những nguyên nhân đã đem các giải cấp ấy đối lập với nhau. Những nguyên nhân đó là sự thất nghiệp lúc nào cũng đề đầu đẳng, là nổi lo sợ đói rét nó đè nén trên gia-định, là sự làm việc không chủ vui vế của người thợ không nghề, là cái hang chuột trong thành phố xấu xa, ở"
+    ],
+    "page_180": [
+      "đó người thơ phải sống qua mùa rét, không ánh sáng, không lửa ấm, lá cuộc đời lang thang không ruộng đất, không nhà cửa.",
+      "",
+      "Còn sự bất công ấy tất không thể có hòa bình trong xã hội được.",
+      "",
+      "Luật pháp không thể sáng tạo trật tự xã hội, nó chỉ có thể công nhận trật tự mà người ta đã dùng một chính thể thu xếp dược ra.",
+      "",
+      "Thực ra, những nguyên nhân của sự tranh đấu giai cấp chỉ có thể thủ tiêu khi người vô sản hiện nay đang bị đè nén vì đời sống có dộc của mình, khi anh ta tìm thấy trong một đời sống cần lao đoàn thể, những điều kiện sinh hoạt tự do và xứng đáng, đồng thời với những lý do để sống và hy vọng .",
+      "",
+      "3 - Người trưởng đoàn là người biết làm cho người khác vừa vâng lời mình, vừa yên mến mình - Đó không phải là người áp bức ».",
+      "",
+      "# Thông Chế PÉTAIN ",
+      "",
+      "(Diễn văn dọc tại Saint Etienne Ngày 1er Mars 1941)"
+    ],
+    "page_181": [
+      "# PHU LUCA"
+    ],
+    "page_182": [
+      "."
+    ],
+    "page_183": [
+      "# Quốe dân chính phủ kiến quốc đại cương ",
+      "",
+      "(Đó là bản chương trình của Tôn Văn về công cuộc kiến thiết và tờ chức Trung Hoa dân quốc (1924).",
+      "",
+      "Khoản 1. - Chương - trinh kiến - thiệt Trung-Hoa dân quốc của quốc dân chính phủ sẽ căn cứ vào «Tam dân chủ nghĩa» và \"Ngũ Quyền hiến pháp» của dảng cách mệnh ta.",
+      "",
+      "Khoản 2. - Mục đích quan-trợng nhất của công cuộc kiến-thiết là sinh kế của quốc dân. Cho nên đối với bốn sự đại nhu cầu của nhân dân là Thực, Y, Chu Hành, chính phủ phải giúp dân mở mang nghề nông đề dân đủ cơm ăn, phát triền nghề dệt cho dân đủ 'áo mặc, khuyếchtrương kiến trúc cho dân đủ nhà ở. và"
+    ],
+    "page_184": [
+      "xảy dập đường sá đề cho tiện lợi sự giao thông.",
+      "",
+      "Khoản 3. - Mục đích thứ hai là «Dân quyễn », cho nên đối với trì thức và năng lực china trị của nhân dân, chính-phủ phải giáy bảo, chỉ dẫn cho dân biết sử dụng quyễu «tuyển cử» (droit de vote) quyễn «bồ̃ quan» (droit de révocation des fonctionnzires) quyễn «sáng chế» (droit d'initiative) và quyễn «phúc quyết» (droit de référendum).",
+      "",
+      "Khoản 4. - Mục đích thứ ba là «dân tọc ». Cho nên đối với những nhóm tiểu sổ dân tộc hêu yếu trong nước (như Mong. cồ, Tày-tang... chính phủ phải giúp đỡ họ đề họ tự quyết tự trị được; đội với những nước ngoài xâm lấn thì chínhphủ phải đề kháng và đồng thời tìm cách sửa đồi những hợp ước bất bình đẳng, đề cho nước ta được ngang hàng với liệt cường và nhất là độc-lập.",
+      "",
+      "Khoản 5.- Cuộc kiến-thiết tuần tự theo bá thời kỳ : 1.) Quân chính thời kỳ ; 2.) Huấn chính thời kỳ ; 3.) Hiến chính thời",
+      "173"
+    ],
+    "page_185": [
+      "Khoản 6.- Về thời kỳ quân chính thì nhất thiết moi việc là do quân chính định đoat. Chính phủ mót mặt dùng binh lực để tảo trừ những trở hưc trong nước, và một mặt tuyẹn truyền chủ nghĩa để khai hóa nhân tâm, mà cho cuong thành cuộc quốc gia thống nhất.",
+      "",
+      "Khoản 7.- Phàm hổ một tỉnh nào, cuộc binh định đã xong, thì phải bỏ ngay Quán chính mà đặt Huấn chính.",
+      "",
+      "Khoản 8.- Về thời-kỳ Hnấn-chinh, chính phủ phải phải những ủy-viên đã được huấn luyện và đủ tư-cách, về các « Huyện » giúp nhân dân gầy dưng nền tự trị. Phải điều tra rõ ràng toàn số nhân dân và diẹn tích địa thô trong huyện, rồi khi nào sự trị an được ôn thỏa đường xá trong huyện đều chuẩn bị, và nhân đân biết cách sử đưng bốn thứ quyền đã kề trên kia cùng là hiền rõ nghĩa vu của mình, rồi tuyen-thệ trung thành vời chủ nghĩa cách mệnh, thì bấy giờ sẽ được có quyền bầu cử huyện trưởng đề giữ quyền hành chính trong huyện, và bầu cử nghị viên đề giữ quyền lập pháp."
+    ],
+    "page_186": [
+      "Ay thế là huyện sẽ bắt đầu thành một huyện hoàn toàn tự trị.",
+      "",
+      "Khoản 9.- Trong một huyện hoàn-toàn tự trị thì nhân dặn có quyền trực tiếp bầu cử các quan viên, có quyền bãi bỏ quan viên, có quyền sáng chế pháp-luật và có quyền phúc quyết pháp-luật.",
+      "",
+      "Khoản 10. - Trong mỗi huyện, hễ thời kỳ tự trị bắt đầu thì phải định giá đất của tư-sản những tư gia trong huyện. Cứ chiểu theo giá của chủ đất khai, mà chính phủ địa phương thu thuế va đồng thời có thể mua lấy được. Từ lúc chủ đất đã khai giá rồi mà nếu như nhờ sự cải-lương của xã-hội mà giá đất lắng cao thì số tiền thêm ấy sẽ là của chung của toàn đán trong huyện được hưởng, chủ đất không được lấy làm của riêng minh.",
+      "",
+      "Khoản 11. - Tiền thuế đất hàng năm tiền lời về giá đất tăng cao, tiền thu nhập về đất công cùng là các thuế lợi tức về sông núi, khoáng sản, đều là thuộc quyền sở lĩnh của chính-phủ địa phương. Các thứ thu nhập ấy sẽ dùng đề mở mang kỹ nghệ trong xứ cùng lá chi phi về công"
+    ],
+    "page_187": [
+      "cuộc cứu tế như dục anh, dưỡng lão, tế bần cứu tại, y-bệnh và các công cuộc ích lợi chung khác.",
+      "",
+      "Khoản 12. - Nếu thu nhận của bản huyẹ̀n không đủ mờ mang công thương mà cần đến vốn ngoài thêm, thì chính phủ trung ương sẽ trợ cấp, rồi tiền lã sẽ chia đèn về ngàn quỹ chính (hủ Trung. ương và chính phủ địa phương.",
+      "",
+      "Khoản 13. - Về các khoản chi phí của quốc gia, thì ngân quỹ các huyện đều phải đóng góp, theo một con số má đại biểu quốc dân sẽ định hàng năm. Sổ ấy không được dưới $10 \\%$ và trên $50 \\%$ của số thu nhập của bản huyện.",
+      "",
+      "Khoản 14. - Mỗi huyện, khi đã tới được trình độ tự trị và chính phủ tự trị của bản huyện đã thành lập xong, thì có quyền cứ một người đại biểu, đề lập thành quốc dân đại biểu hội, mà tham dự chính sự trung ương.",
+      "",
+      "Khoản 15. - Phám các quan viên muốn dược tuyền cứ (élire) hay được ký bồ (nommer) bất cứ ở ngạch quốc gia hay ngạch địa phương đều phải thi mợt ký"
+    ],
+    "page_188": [
+      "thi của chinh phủ trang ương thiết lập.",
+      "Khoản 16, - Phàm toàn sổ các huyện trong một tỉnh đều tới trình độ tự trị, thi trong tỉnh ấy thời kỳ Hiến chinh đã có thê̂ bất đâu thi hành Đại biểu các huyẹ̀n co thể họp lại bâu tỉnh trương để giám đổn chinh phủ tự trị của bản tỉnh Cón ceng việc hành chính trong baa tỉnh. mathuộc vê phạm viquốc gia, thi tỉnh trương theo mệnh lẹnh của chính phủ trung ương.",
+      "",
+      "Khoản 17 - Trong thời kỳ này, quyễn hạn của chinh phủ trung ương và chinh hàng tỉnh sẽ định theo tinh chất của sự vụ. Sự vụ có tinh chất quốc gia (quan hệ đến toàn quốc) thì sẽ thuộ̣c quyễn chính phủ trang ương; sự vụ có tinh cách địa phương thì sẽ thuộ̣c quyễn chính phủ hà̀ng tỉnh. Chính thể sẽ không thiên vê sự tập quyễn hay sự phần quyễn.",
+      "",
+      "Khoản 18. - Huyện sẽ coi là «đànvi » hành chinh (unitéi administrative) của sự tô chức Trung quốc. Tỉnh tức là một cơ quan thông kết Huyện vơi Chinn phú Trung ương.",
+      "",
+      "Khoản 19. - Trong thời kỳ Hiến chinh"
+    ],
+    "page_189": [
+      "phũ trang ương sẽ phai thiết lập Ngũ viện đề thực hành. Ngũ quyền: \"Hành chính viện, Lập pháp viện, Tư pháp viện, Khảo thị viện và Giám sát viện.",
+      "",
+      "Khoà̀n 20. - Trong hành chính viện sẽ đặt tam những bộ sau này: Nộ̂̂ chính bọ, Ngoai giao bọ, Quán chính bọ, Tày chính bọ, Nọng khoảng bọ, Cọng thương bọ, Giáo dục bọ, Giao thông bọ.",
+      "",
+      "Khoàn 21, - Trước khi Hiến pháp hạn hành, thì các viên trương đến do quyền Tòng thống phê lập và độc xuất.",
+      "",
+      "Khoàn 22. - Thảo án Hiến-pháp sẽ to Lập pháp viện nghị thảo, và phải cấu cư vào bản chương trình \"Kiến quốc đại cương\" và những kinh nghiệm Va thành tích trong hai thời kỳ Quán chính và Huán chính. Va ngoài ra lại iny thời đem thảo án ấy tuyên truyền ở dân chúng đề tim cách mà sửa chữa và thi hành,",
+      "",
+      "Khoàn 23, - Nếu quá nửa số toàn tinh trong nước đã tới được hiến chinh thời kỳ, thì Quốc dân Đại hội sẽ kọp và quyết định Hiến pháp."
+    ],
+    "page_190": [
+      "Khoản 24. - Khi Hiến pháp đã ban bớ thi quyền chinh trị Trung ương sẽ do Quốc dân Đại hội điều khiển. Nghĩa là đởi với quan viên của Trung ương chính phủ, thì Quốc hội có quyền tuyền cử và bãi miễn và đởi với pháp luật của chính phủ, thì có quyền sáng chế và phú́cquyết",
+      "",
+      "Khoản 25. - Hiến pháp ban bớ, thì lập tức toàn quốc nhân dân y theo Hiến pháp mà thi hành cuộc đại tuyển cử toan quốc. Ba tháng sau khi cuộc tuyền cử ấy xong, thì Quốc dân chính phủ (tức là chính phủ của quốc dân đảng) sẽ giải tán và giao quyền cho chính phủ do quốc dân tuyền cử ra, và thế là chương trình kiến quốc sẽ thi hành xong.",
+      "",
+      "Tôn dật Tiên",
+      "Phan Anh dịch (Thanh Nghị sớ 49)"
+    ],
+    "page_191": [
+      "# MUC - LUC ",
+      "",
+      "Trang",
+      "Lòi đâu ..... 5",
+      "Chương I. HIẾN PHÁP ..... 7",
+      "Thiên I: Hiến pháp là gì ? ..... 13",
+      "1 - Định nghĩa hiến pháp về phương diẹn nợi dung ..... 13",
+      "2 - Định nghĩa hiến pháp về phương diện hình thức. ..... 18",
+      "3 - Những bản tuyén ngón. ..... 21",
+      "Thiên II : Sự thiệt lập, tu chính và kiềm soát hiến pháp ..... 23",
+      "1 - Thiết lập hiến pháp ..... 23",
+      "2 - Tu chính hiến pháp ..... 28",
+      "3 - Sự kiềm soát tinh cách hợp hiến của pháp luật. ..... 35",
+      "Chương II. Y NIỆM DÂN CHỦ ..... 41",
+      "Thiên 1: Vấn-đề chủ-quyền ..... 43",
+      "I - Chủ quyè̀n của quốc gia ..... 43",
+      "II - Chủ quyè̀n troag quốc gia ..... 45",
+      "1 - Thuyết quán chủ ..... 45",
+      "2 - Thuyết dân chủ ..... 46",
+      "3 - Phê bình thuyết dân chủ ..... 50"
+    ],
+    "page_192": [
+      "Tranẹ",
+      "Thiên II: Vấn đề bầu cử ..... 63",
+      "1 - Quyền bầu cử và chức bầu cử ..... 63",
+      "2 - Phô thông đầu phiếu ..... 66",
+      "3 - Những phương pháp hạn chế",
+      "dân phiếu ..... 68",
+      "4 - Nghiệp đoàn bầu cử ..... 75",
+      "Thiên III: Chính thế dân biểu ..... 77",
+      "1 - Dân chủ trực tiếp ..... 78",
+      "2-Chinh thế dân biểu, lý thugè",
+      "dân biểu. ..... 81",
+      "3 - Chinh thè̀ bản trực tiếp ..... 95",
+      "Chuong III: Y NIỆM PHÂN",
+      "QUYỄN CHÍNH THỀ ĐẠI NGHỊ ..... 105",
+      "Thiên 1: Y niệm phân quyên ..... 107",
+      "1 - Học thuyết phân quyên của",
+      "Montesquieu ..... 107",
+      "2 - Học touyết phân quyên trong",
+      "những chú nghĩa cách mạng Pháp ..... 109",
+      "3 - Y niệm phân quyên hiện đại ..... 111",
+      "Thiên 1: Những phương pháp tô",
+      "chức quyên hành chính",
+      "và quyên lập pháp ..... 115",
+      "1 - Quyền hành chính phụ thuộc",
+      "vào quyên lập pháp. ..... 116"
+    ],
+    "page_193": [
+      "# Trang ",
+      "",
+      "2 - Quyền hành chinh chia rẽ với quyền lập pháp",
+      "118",
+      "3 -Quyền hành chinh cộng tác với quyền lập pháp chính thế đại nghi 128",
+      "Chương IV. NHƯNG CUỘC",
+      "CHUYỂN HƯỚNG TRONG CHINH - TRỊ HỌC HIỆN - ĐẠI",
+      "Thiên I: Cuộc khủng hoảng của chế độ dân chủ",
+      "1 - Những nguyên nhân chinh trị",
+      "2 - Những nguyên nhân kinh tế",
+      "Thiên II: Những khuynh hướng. của chính trị học hiện đại 163",
+      "1 - Khuynh hướng phản dâu chủ 164",
+      "2 - Khuynh hướng tân dân chủ 168",
+      "Thay lời kết luận : Lời Thống",
+      "chê PETAIN 173",
+      "Phụ lụe : Bản kiến quốc đại cương",
+      "Tôn Văn 175"
+    ],
+    "page_194": [
+      "Đón coi :",
+      "HŨ-TRO THẤO LUẬN",
+      "CỦA",
+      "NHƯƠNG TỔNG",
+      "$\\mathbf{B}$",
+      "",
+      "- Một tư tưởng đặc biệt mới!",
+      "- Một học thuyết có căn cứ chắc chắn nơi khoa học:",
+      "- Một phương pháp mà người viết mong có thè̉ vĩnh-viễn bài trừ được chiến tranh, gáy dựng được hóa bình.",
+      "- Một con tim nóng hồi, một hàng lệ đầm đla, một tiếng kêu tha thiết vì nhân tâm, thế đạo.",
+      "",
+      "TAN VIET - 29 Lamblot - Hanoi"
+    ],
+    "page_195": [
+      "Các bạn yêu \"tho\"! Các bạn yêu \"đời\" Các bạn yêu \"hòa bình\" các bạn yêu \"nhân loại\".",
+      "",
+      "Hãy đón coi :",
+      "THƠ ĐỒ PHỤ",
+      "Bản dịch của",
+      "NHƯƠNG TÔNG",
+      "$\\mathbf{B}$",
+      "",
+      "Môt tập thơ vĩ đại, gồm hơn 360 bài, đủ các diệu, đủ các vế, lựa lọc những bài hay nhất trong 1405 bài của thi-sĩ, một thiên tài về thơ, chẳng những của nước Tần, của châu Á. mà lạ của cả thế giới, của cả muôn đời !",
+      "",
+      "Một trong sáu bộ sách tài tử ở Tâu mà Tân Việt sẽ xuất bản sau Tây suơng ký (đã hết) và Ly-Tao."
+    ],
+    "page_196": [
+      "Mời có bàn:",
+      "",
+      "TRUYỄN DI THƯỜNG của Edgar Poe (Bản dịch của Mộng Huyền)",
+      "",
+      "Dày 260 trang — bìa năm mán — Giá 4$50",
+      "",
+      "Còn một số ít",
+      "",
+      "|  Tỉng học Aristote | 3$80  |",
+      "| --- | --- |",
+      "|  Tỉng học Descartes | 4.50  |",
+      "|  Phật giáo triết học | 3.50  |",
+      "|  Học thuyết Freud | 2.50  |",
+      "|  Siêu hình học (quyền thương) | 5.00  |",
+      "|  Tỉng lý về vũ trụ và nhân sinh | 2.50  |",
+      "|  Thi hào Tagore | 4.80  |",
+      "|  Ván hào Tolstoi | 2.40  |",
+      "|  Tràng Ma Lâu Việt | 3.20  |",
+      "|  Ly Tao | 2.20  |",
+      "|  Phiếm luận về Auguste Comte | 3.00  |",
+      "|  Tìm nghĩa văn học | 2.20  |",
+      "|  Vàng Sao | 2.50  |",
+      "",
+      "Nhà xuất bản TÂN-VIỆT 29 Lamblot — Hanoi"
+    ],
+    "page_197": [
+      "«Lông người nguy 1 »",
+      "S. O. S. của Nghiêu-Thuẩn.",
+      "",
+      "Vương Dương Minh báo tiếp.",
+      "Ai toan cứu với lòng.",
+      "",
+      "# Đầy đón : ",
+      "",
+      "## VU'D'NG DU'D'NG MINH",
+      "",
+      "của PHAN VĂN HÙM",
+      "(Một quyền sách quý trong «Tủ sách triết-học» Tán Việt)",
+      "",
+      "Gôm «THÂN THÉ VÀ HỌC THUYẾT»",
+      "Thân thế của một bực anh háng, thao lược kinh luâa chẳng ahường chi Gia-Cát.",
+      "",
+      "Học thuyết của một bậc đại nho, học hành đạo - đức chẳng hồ với thánh - hiền.",
+      "",
+      "Nước Nhật dug tân một phần to nhớ Vương học. Tu, tề, trị Thống chế Pétain dương chủ trương, họ. Vương xưa đã thực hiện.",
+      "",
+      "NHÀ XUẤT BẢN TÁN-VIỆT",
+      "29, Lamblot - Hanoi"
+    ],
+    "page_198": [
+      "Độc giả chú ý :",
+      "Nơi trang 18 , giòng thứ tám :",
+      "2 - ĐỊNH NGHĨA HIẾN - PHÁP VỀ PHƯƠNG DIỆN HÌNH THÚC",
+      "ăn công sắp lộn :",
+      "VỀ PHƯƠNG DIỆN KINH TẾ"
+    ],
+    "page_199": [
+      "306 YÊH",
+      "",
+      ": ច្រលាខ រកំណត វេចនេទ ចុះ រងអស់ កឺត្រូវការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជាតិបត្តិការបានជ"
+    ],
+    "page_200": [
+      "HÃY BỌC:",
+      "",
+      "# Hai bộ sách mới trong : \"Tủ sách xã-hội\" TẦN - VIỆT ",
+      "",
+      "Tác giả: Ng.-phirong - Nam",
+      "1:/ Hiến pháp, thường thức (tức CHÍNH",
+      "TRI HỌC)",
+      "Đã có bán quyền 1",
+      "Chính trị đại cương",
+      "Đang in quyền II.",
+      "Cuộc tiên hóa chính trị nước Pháp",
+      "21/ Chính trị kinh tế hoc",
+      "Sáp phát hành quyền 1",
+      "Khuôn khô sinh hoạt kinh tế",
+      "Đang soan quyền II.",
+      "D. ̀ng cơ kinh tế hiện đại",
+      "",
+      "- Hai bô sách đề giúp người doe hiểu rõ xã hôi hiên đại và hớt băn khoăn trước những cuộc biến thiên lơa lao duơng làm chuyền dông thế giới.",
+      "- Hai bô sách phân tích rõ ràng cách tô chức chính trị và kinh tế của các nước nguài.",
+      "",
+      "",
+      "## NHÀ XUẤT BẢN TẢN VIỆT",
+      "",
+      "29 Lamolot - Hanoi",
+      "",
+      "Certifie exact l'insertion. Tirage. . . . . . .exemplaires",
+      "Le directeur gerant : LUONG-VAN-TUAN",
+      "Imprimerie QUANG-HOA - Hanoi"
+    ]
+  }
+}

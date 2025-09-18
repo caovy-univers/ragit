@@ -1,0 +1,1633 @@
+{
+  "metadata": {
+    "title_main": "Học thuyết Freud",
+    "title_alt": "Le Freudisme, essai",
+    "authors": [
+      "Kiều Thanh Quế"
+    ],
+    "authors_id": [
+      "2460"
+    ],
+    "publisher_id": "3303",
+    "publisher": "Éditions Tân Việt",
+    "publication_place_id": "3216",
+    "publication_place": "Hà Nội",
+    "publication_date": "1943",
+    "source_description": null,
+    "genres": [],
+    "issn": null,
+    "identifiers": {
+      "H-ID": "4412",
+      "url1": "http://catalogue.bnf.fr/ark:/12148/cb357595612",
+      "url2": "https://gallica.bnf.fr/ark:/12148/bpt6k42427346"
+    }
+  },
+  "text_body": {
+    "page_1": [
+      "# (BnF Gallica ",
+      "",
+      "## Hoc-thuyêt Freud / Tô Kiêu Phung"
+    ],
+    "page_2": [
+      "# (BnF) Gallica ",
+      "",
+      "Tô, Kiêu Phung. Auteur du texte. Hoc-thuyêt Freud / Tô Kiêu Phung. 1943.",
+      "",
+      "1/ Les contenus accessibles sur le site Gallica sont pour la plupart des reproductions numériques d'oeuvres tombées dans le domaine public provenant des collections de la BnF. Leur réutilisation s'inscrit dans le cadre de la loi $n^{\\circ} 78-753$ du 17 juillet 1978 :",
+      "",
+      "- La réutilisation non commerciale de ces contenus ou dans le cadre d'une publication académique ou scientifique est libre et gratuite dans le respect de la législation en vigueur et notamment du maintien de la mention de source des contenus telle que précisée ci-après : «Source gallica.bnf.fr / Bibliothèque nationale de France » ou « Source gallica.bnf.fr / BnF ».",
+      "- La réutilisation commerciale de ces contenus est payante et fait I'objet d'une licence. Est entendue par réutilisation commerciale la revente de contenus sous forme de produits élaborés ou de fourniture de service ou toute autre réutilisation des contenus générant directement des revenus : publication vendue (à l'exception des ouvrages académiques ou scientifiques), une exposition, une production audiovisuelle, un service ou un produit payant, un support à vocation promotionnelle etc.",
+      "",
+      "",
+      "## CLIQUER ICI POUR ACCÉDER AUX TARIFS ET À LA LICENCE",
+      "",
+      "2/ Les contenus de Gallica sont la propriété de la BnF au sens de I'article L.2112-1 du code général de la propriété des personnes publiques.",
+      "",
+      "3/ Quelques contenus sont soumis à un régime de réutilisation particulier. Il s'agit :",
+      "",
+      "- des reproductions de documents protégés par un droit d'auteur appartenant à un tiers. Ces documents ne peuvent être réutilisés, sauf dans le cadre de la copie privée, sans l'autorisation préalable du titulaire des droits.",
+      "- des reproductions de documents conservés dans les bibliothèques ou autres institutions partenaires. Ceux-ci sont signalés par la mention Source gallica.BnF.fr / Bibliothèque municipale de ... (ou autre partenaire). L'utilisateur est invité à s'informer auprès de ces bibliothèques de leurs conditions de réutilisation.",
+      "",
+      "4/ Gallica constitue une base de données, dont la BnF est le producteur, protégée au sens des articles L341-1 et suivants du code de la propriété intellectuelle.",
+      "",
+      "5/ Les présentes conditions d'utilisation des contenus de Gallica sont régies par la loi française. En cas de réutilisation prévue dans un autre pays, il appartient à chaque utilisateur de vérifier la conformité de son projet avec le droit de ce pays.",
+      "",
+      "6/ L'utilisateur s'engage à respecter les présentes conditions d'utilisation ainsi que la législation en vigueur, notamment en matière de propriété intellectuelle. En cas de non respect de ces dispositions, il est notamment passible d'une amende prévue par la loi du 17 juillet 1978.",
+      "",
+      "7/ Pour obtenir un document de Gallica en haute définition, contacter",
+      "utilisation.commerciale@bnf.fr."
+    ],
+    "page_3": [
+      "![img-0.jpeg](img-0.jpeg)",
+      "",
+      "Tahour"
+    ],
+    "page_4": [
+      "."
+    ],
+    "page_5": [
+      "# 200 TALAT 1052 07 ",
+      "",
+      "![img-0.jpeg](img-0.jpeg)"
+    ],
+    "page_6": [
+      "# TỦ SÁCH TRIẾT HỌC ",
+      "",
+      "BĀ XUẤT BẢN",
+      "Triết học BERGSON",
+      "Triết học KANT",
+      "Triết học NIETZSCHE",
+      "Triết học EINSTEIN",
+      "Triết học PHẬT GIÁO",
+      "",
+      "BANG IN",
+      "SIÊU HINH HỌC",
+      "Triết hoc DESCARTES",
+      "VƯONG DƯONG MINH",
+      "",
+      "Nhà xuất bản TẢN-VIỆT"
+    ],
+    "page_7": [
+      "# TÔ KIÊU PHƯONG ",
+      "",
+      "## HỌC THUYẾT FREUD",
+      "",
+      "![img-0.jpeg](img-0.jpeg)",
+      "",
+      "Nhà xuất bản",
+      "TAN-VIET",
+      "$16^{\\circ}$ Indoch",
+      "1516"
+    ],
+    "page_8": [
+      "# ![img-0.jpeg](img-0.jpeg) ",
+      "",
+      "![img-1.jpeg](img-1.jpeg)",
+      "![img-2.jpeg](img-2.jpeg)",
+      "![img-3.jpeg](img-3.jpeg)",
+      "![img-4.jpeg](img-4.jpeg)",
+      "![img-5.jpeg](img-5.jpeg)"
+    ],
+    "page_9": [
+      "# THAY LƠI TỰA ",
+      "",
+      "Tir Stefan Zweig đên Sigmund Freud",
+      "",
+      "Stefan Zweig tiê̂n-sinh là người thế nào trong vân-học quốo-lê?",
+      "",
+      "Tién-sinh là một dịch giả và bình giả có tiếng trước nhất đem truyền bá ở nước Đức các thi phầm tiếng Pháp của Baudelaire, Rimbaud, Samain, Marceline Desbordes, Valmere, Verhaeren.",
+      "",
+      "Tién-sinh là người bạn trận mọc của văn hào Romain Rolland trong hồi Au-chiên 1914 1918 : vá có lẽ là người tiêu biểu cho lòng tin tưởng bất diệi ở nền tri thức công cộng Au-châu, trong nhũng ngày súng nò dạn tay.",
+      "",
+      "Nhung tên-sinh chẳng phải một vân hào, sau trận Au-chiên, nòi tiếng nhớ ngọn bùi hăng hái b i bác nạn chiến tranh thảm khóc nhir bao nhiêu danh-sĩ đồng thời (Henri Barbusse, Romain Rolland...)."
+    ],
+    "page_10": [
+      "Tién-sinh là một nghẹ̣-sĩ thuằn túy, mà các năng lực sáng tạo hoan toon thoát ly ngoai cảnh, hoàn toàn tự chủ trước ảnh hưởng tung lẹe của nạn chiến tranh thảm khóc.",
+      "",
+      "Tién-sinh có thè̀ bảo là một người, mà cuộc đời là tinh chất của nghệ thugat; vò nghẹ̣ thuạt là cái nhìn đi sáu vào trung tâm dièm cuộc đời.",
+      "",
+      "Tién-sinh khóng lệ thuộc cái gì hết thảy!",
+      "Và cái gì khóng lạ tùng đối với tiên sinh hết thảy !",
+      "",
+      "Bất ký hinh thức nghẹ̣ thuật nào, bất luận hình thức náo của cuộc đò̀i đều có váng bóng ở thằn tri tiên-sinh.",
+      "",
+      "Lá thi-sĩ nồi danh hồi hãy còn trễ tuổi, là nhà cảo luận nhà tùy bút, nhà phê bình, là kịch-sĩ, ván-sĩ, tiên-sinh mò đến sợi giậy đàn nghẹ̣ thuật nào cũng bằng bàn tay một ông thầy.",
+      "",
+      "Điều đáng đề ý nhất, ở cá tinh nghẹ̣ s̃ của tiên-sinh là lóng dục học vân vô độ, tinh ham biết kháng báo giò thỏa mần, nó là vị thần ám ảnh, luồn luôn thú́c dục tiên sinh phai lăng da qua các đồng áng vân minh, nhận xét, ghi chép; có khi phải viếl nhũng tác phầm runy"
+    ],
+    "page_11": [
+      "động lòng minh ngay ở các quán trọ bên đường hay trong những khách lầu sang-trọng của bao nhiêu đó thành sáng lạn ánh đèn phồn hoa; phải đọc say mê tất cả sách vở; phải sưu tập kiên nhẫn của quê hương các danh nhân những thiên bút ký qui giá, với ý định ngày kia sẽ khám phá được trong đó nhiều bi ần vĩ liệt hãy còn dầu kin người đời.",
+      "",
+      "Thật khác nào một người tinh nhân thènh tâm mà hay tọc mạch đối với 7 hiên-tài hoặc ép buộc Thiên-tài phải tô giác sự bi ần của nó; mà làm thế, cũng chỉ là đề yên nó hơn.",
+      "",
+      "Nhờ ham biết, ham sưu tầm, tiên-sinh là người trước nhất nắm được then chốt học thuyết của Freud - nhà tâm-phân-học đại danh của thế giới, tạ-thế ngày 23 Septimbre 1939 tại Hampstead ở nước Anh.",
+      "",
+      "Stefan Zweig tiên-sinh ngày nay đã tạ-thế (1). Cái gì của tiên-sinh, chúng tôi xin kinh cần trả lại cho hương hồn tiên-sinh.",
+      "(1) Stefan Zweig và phu nhân sau khi rời bỏ ảo quốc đến cư ngụ tại thủ đô xứ Brésil-miềm Nam Mỹ. Ngày 24 Février 1942, đôi vợ chồng già ấy, đã tự kết liễu đời mình bằng độc dược."
+    ],
+    "page_12": [
+      "# LỜI MÓ! ĐẦU ",
+      "",
+      "Sức khỏe, đối với con người, là một sự tự nhiên ; còn bịnh tật là một điều phấn tự nhien.",
+      "",
+      "Cơ thể đứng trước sức khỏe và bịnh tật cũng như hai buồng phồi trước khi trời, cặp mát trước ánh sáng.",
+      "",
+      "Sức khỏe sanh hoạt và phát triền âm thầm ở con người đồng một lúc với tinh cảm giới ở cúóc đời. Thế nghĩa là lúc nào sự sinh hoạt và sức phát triền ấy cũng có ở con người.",
+      "",
+      "Bịnh tật trái lại dột ngột len vào cơ thể như một kẻ xa lạ, xuất ký bất ý cụng dầu vào tâm hồn hốt hoảng của cú nhân. Kẻ xa lạ ấy lê tất nhiên là ở phía ngoài dột nhập vào bên trong. Vậy thử hỏi ở đâu anh"
+    ],
+    "page_13": [
+      "ta đến? Nên van vì anh ta hay nên chế ngư anh ta?",
+      "",
+      "Cáo vút nhọn của bệnh tật vạch lên trên tinh cảm chân chịt lấy nhan, trái ngược nhan: lo sợ, tin tưởng, hy vọng, an phận, tủi phận, thất vọng nói xấu lẫn nhau.",
+      "",
+      "Bịnh tật giục bịnh nhàn han hỏi, nghĩ ngợi, ván vái, ngẩng lên quãng không một cái nhìn sợ sệt và tao trong tầm tưởng. một đấng vô hình mà anh ta có thể phục quị dưới chân xưng tội.",
+      "",
+      "Ghinh sự đau khô nó tạo ở con người cái tinh thần tôn giáo : lòng tin tưởng ở đấng vô hình, ở Thượng Đế.",
+      "",
+      "Sức khỏe nếu không bị gì lung lạc, thì con người tội gì lại phải thắc mắc lòi thôi vì một đấng vô hình. Người ta tự nghĩ như thế, và một khi người ta đau khô, người ta liền tìm cách khám phá sự đau khô của mình. Bịnh tật có đâu xám nhập vào cơ thể ta mà không nguyên cơ? Cơ thể ta phải đâu bị nung nấu bởi sốt rét mà không do một phần lồi tự ta!",
+      "",
+      "Cho rằng bịnh tật sở dĩ có là do sự thường phạt của một đấng vô hình, thế"
+    ],
+    "page_14": [
+      "nôn buồ dầu, hiện tượng của bịnh tạt lại dinh dáp đến tinh thần tộn giáo.",
+      "",
+      "Thượng đế! Chỉ có Thượng đế mới có thê bao bịnh tạt đề trừng phạt. Y̛ tưởng ấy đừng rất vững trong buồ rạng đông của lịch sử y khoa.",
+      "",
+      "Có độc, yếu ớt, bất lực, con người ngày xưa mỗi khi đau ốm chi biết biến dâng tâm hồn minh cho Thượng đế, không biết làm cách nào tự giải cứu hơn là rên rỉ van xỉn Thượng đế rủ lòng thương xót buông tha cìo minh.",
+      "",
+      "Nhưng làm sao có thế đạt tới đấng vô hình được? Làm sao tỉ cho Ngài tô minh đã biết lỗi, một khi minh không trông thấy chổ nào Ngài ngư. Bệnh nhân không biết gì cả! Thượng đế không bao giờ hiềa cho anh ta thấy. Ngài không bao gió thèm nghiêng minh xuống cuộc đời hèn của anh ta đâu! Ngài không buờn đề tai nghe coi anh ta nói gì đâu! Ngài cũng không thiết trà lời câu hỏi nào cho anh ta đâu?",
+      "",
+      "Con người, trong sự bất lực và thất vọng phải càu cứu đến một kẻ có thê làm mòi giới giữa Thượng đế và anh ta. Kẻ ấy ngày xưa là vì linh mục, con oung của"
+    ],
+    "page_15": [
+      "tòn giǎo.",
+      "Phấn đấu đề đòi sức khỏe, ngày xưa, không có nghĩa là đánh đồ bệnh tật mà chính là cố chính phục Thượng đế. Và bất luận y khoa nào, buồ dầu, cũng chi là mà thuật, tò̀r giáo, sự phấn động tinh thần của con ngươi trước quyền thuoởng phạt đà Thượng đế. Ngưòi ta đánh dồ sự đau đớn vật chất không phải bâng một kỹ thuật mà bằng một hành vi tôn giáo, Người ta khơng thèm tim biết căn bịnh, mà chi lụm hiểu Thượng đế. Người ta không chuyèn trị các biện tượng của chứng đau, cố đánh đuồi những biện tượng ấy hằng cầu khằn, lể bái, cúng tế. Vi người ta tuớng bệnh tật chi rời khôi con người cũng như khi nó đến, bằng con đường siêu tự nhiên, huyền bí, nhiệm mầu. Chi có một sức khỏe, một căn bệnh; và căn bệnh chi có́ một nguyên nhân, mợt phương thuốc cứu chữa thôi : ấy là Thượng đế. Và giữa Tbuợng đế vừi bệnh nhân chi có mợt kẻ mòi giới thôi : ấy là vì linh mục kẻ coi giữ cơ thể và tâm hồn.",
+      "",
+      "Ngày xưa, y khoa khơng được coi là một khoa học thực nghiệm mà nhụ̣ một huyền"
+    ],
+    "page_16": [
+      "bi có tánh oách tôn giáo.",
+      "Nguyên tắc trằn hủ ấy khóng mấy lúc rồi bị phá dồ. Người y sĩ dứng dậy đánh đồ vi linh mục, kéo bịnh tạt từ phạm vi siêu tự nhiên trở lại địa hạt tự nhiên, tim cách trừ bỏ những huấn điểu huyền hoặc của tôn giáo bằng những rễ cây gốc thuốc.",
+      "",
+      "Y khoa hiện thời, thành lập trên sự tri thức và hoán toàn thoát ly cùm xích tôn giáo, oăn cứ vào những điều chắc chắn tuyệt đối chớ khóng bao giờ chịu dựa vào trực giác của cá nhân.",
+      "",
+      "Một sự chuyên trị bây giờ không phải là một hành vi có tánh cách tôn giáo nữa mà là một việc hoàn toàn cứ ở lý trị sáng suốt của y sĩ. Ở chỗ y khoa ngày xưa đòi hỏi một chưyên chú tuyệt đối của tâm hồn, y sĩ ngày nay chỉ cần dùng sự sáng suốt và quả cẩm của minh đề thỏa mãn thôi.",
+      "",
+      "Y khoa hiện thời là một lối trị bịnh có tánh cách khơa học tuyệt đối; người bịnh bị coi như một đối tượng và cần phải có một tũái độ tiêu cực, nghĩa là không có điều gì phải hỏi ban cả, chỉ"
+    ],
+    "page_17": [
+      "việc ngoan ngoãn đề cho y sĩ trị bịnh minh.",
+      "Hãy còn một lối trị bịnh nữa; ấy là phương pháp chữa bịnh bằng tinh thần. Với phương pháp ấy, người bịnh không cần đến y sĩ, có thể tự chữa bịnh cho minh. Phương thuốc hay nhất đề trị bệnh thần kinh là, tinh thần của bệnh nhân. Người bịnh phải tập trung tất cả lực lượng tinh thằn của minh, gộp lại thành một khối ý-chí rắn chắc đề dùng ném ngã căn bịnh.",
+      "",
+      "Phương pháp chữa bịnh kỳ diệu ấy thật ra cũng không có gì là nhiệm mầu đâu. Nó chỉ theo quy tắc của những tương quan giữa cơ thể và tinh thần. Thế thôi!",
+      "",
+      "Chữa bình bằng y học và chữa bịnh bằng tinh thần, hai khoa ấy mấy thế, kỹ nay đã đi tách ra mỗi khoa một con đường) bây giờ đã bắt đầu xích lại gần nhau. Vì sau bao thế kỹ, người ta đã theo dẩu y khoa nghiên cứu hình thức và nguyên chất của cơ thể cá nhân bây giờ thì chính là láo người ta nên quay lại cái ý tưởng \"tinh thần đào tạo nên cơ thể».",
+      "",
+      "Quyền sách này khỏ̀ng có cao vọng về"
+    ],
+    "page_18": [
+      "lại lịch sử có hệ thống của các phương pháp chữa bịnh thần kinh.",
+      "ô' đây, chúng tôi chỉ theo văn hào Stefan Zweig chi rõ cách nào môt ý tưởng sanh sôi nảy nở ở cá nhân, cách nào ý tưởng ấy vượt ra khỏi cá nhân đề phát triền ngoài đời.",
+      "",
+      "Cả văn hào Zweig và lòi đều không phải là y sĩ hay là người đã mắc bịnh thần kinh. Chúng tôi chỉ đứng trong phạm vi giải phẫu tâm lý cá nhân mà trừ thuật"
+    ],
+    "page_19": [
+      "# CHƯƠNG NHẤT ",
+      "",
+      "## Một tàl năng xuất blện",
+      "",
+      "- Thứ hôi được bao nhiêu chán lý mợt thằn tri chỊu dựng và dám tuyền bő ra? Đó là điều đối với tôi lần lần đã trở nên cái chán hẹn độ của các giá trị. Làm lạc (tức là lòng tin ở lý tưởng) khơng phải là sự mù quáng; lầm lạc là sự hèn nhát . Mỗi một xám lấn. mỗi bước lướt tới sự hiểu biết là do lòng can đầm, tính cứng cỗi, sự trong sạch đối với chính minh mà ra.n",
+      "",
+      "Nietzsche",
+      "Muốn hiểu được bao nhiêu táo bao phá đở rồi biến thiết của học thuyết Frend, cằn phải hiểu qua tinh trang của nền tuán lý phong kiến mấy thế kỷ trước và rõ coi hồi đó người ta đởi với các"
+    ],
+    "page_20": [
+      "bản năng nhân loại có ý nghĩ như thế nào ?",
+      "",
+      "Chính bởi thế kỷ của chúng ta không hiểu được tai sao mấy thế kỷ trước lại nhiệt liệt công kích sự phát kiến ra các lực lượng bản năng của tâm hồn, nên cần phải quay lại nhìn nền luân lý phong kiến.",
+      "",
+      "Tất cả công đoàn nhân loại, liên hợp nhân bởi tinh thần tôn giáo hay quốc gia, đều vì bản năng bảo tồn, thấy cần phải thắng bớt lại những xu hướng tình dục và ham giết chóc của cá nhân, chận các xu hướng ấy sau những vòng thành của Lệ luật và Luân lý. Mỗi công đoàn đều phải tạo lấy cho mình những hình thức đặc biệt của Luân lý. Từ cổ thời cho đến ngày nay, mỗi công đoàn đều cố, bằng những phương tiện khác nhau, chế ngự các bản năng đầu tiên của nhân loại. Các nền văn minh cổ Hy Lạp tìm cách đàn hặc bản năng tinh dục của loài người, một cách rất nghiệt ngã, đề gót rửa nói giống, đào tạo nên một giống dân dông mãnh phù hợp với việc võ bị. Cơn Cơ đốc giáo thì đánh đồ"
+    ],
+    "page_21": [
+      "nhuc duc đê giải thoát tâm hồn. Gláo đường, chính là nhà tâm lý sáng suốt nhất, bởi b ết thú nhuc duc bao giờ cũng thô tục ở cós người, nên hăng hái chủ trương phải lấy tinh thần làm lý tưởng cuộc đời. Giáo đường đã cầm tủ, đã đưa lên giàn hỏa những kẻ nào nghịch lại chủ nghĩa minh.",
+      "",
+      "Bước sang thế kỷ XIX, thế kỷ của những cuộc khoa hoc phát minh, người ta không bắt cá nhân phải hoàn toàn đao đức, nhưng vẫn đề yên luân lý, bảo rằng không cần đả đảo luân lý một cách ồ a', mà bằng im lăng tốt hơn.",
+      "",
+      "Từ thế kỷ XIX đến sơ diệp thế kỷ XX, ở toàn cõi An châu, vấn đề tinh dục tuy cũng được thừa nhận, nhung lại chẳng được giải quyết rạch ròi và bị đầy nhe ra sau một tấm bình phong. Trước đó, một đạo binh canh gác gồm các giáo sĩ, giáo viên cấm thanh niên không được léo hánh tới. Không có một luồng gió mát nào thò̀ qua cơ thê thanh niên. Không có một lời thánh thật nào, một sự soi sáng nào đến mợn trớn tâm hồn họ.",
+      "",
+      "Hồ xưa, một đứa trẻ mười hai, mười"
+    ],
+    "page_22": [
+      "ba tuổi mới bước vào cuộc đời đã được tiếp đón một cách thành thật. Trong thế kỷ XIX, một khoa giáo huấn đáng ghét, bằng những phương tiện phản tự nhiên, ngăn cách nó với mọi điều thành thật. Không ai trước trẻ con nói chuyện mà không dè dặt về vấn đề tình dục. Vì vậy, trẻ con phải tìm biều vấn đề ấy với bọn gái nhà thồ hay với đám bạn bè lớn tuổi hơn nó.",
+      "",
+      "Dị hại của thế kỷ dè dặt và giả dối ấy, chúng ta đã tìm thấy ở một tình trạng thấp kém của tâm lý học, trong lòng một nền văn hóa cao siêu.",
+      "",
+      "Vì một khoa nghiện cứu tâm hồn dầu sâu sắc đến đâu, thử hỏi làm sao có thể phát triển được, nếu chính những kẻ đem tuyên truyền nó - giáo sĩ, giáo viên, nghệ sĩ, nhà báo học - lại là những kẻ giả dối và ngu muội?",
+      "",
+      "Sự ngu muội bao giờ cũng đề ra sự tàn nhẫn. Thế nên một thế hệ giáo viên tàn nhẫn, vì ngu muội, gây nên một vết thương không hàn được trong tâm hồn thanh niên, bằng cách mãi mãi bắt thanh niên phải tự chủ, phải xếp mình theo"
+    ],
+    "page_23": [
+      "quy củ của luân lý.",
+      "Nhiều thanh niên đang vào thời kỳ xuân tinh phát động chưa biết cơ thể đàn bà là gì, và ham biết điều đó lắm, lại gặp phải các \"nhà giáo\" ấy, tự xưng ta đây sáng suốt (!) bủo ho rằng: Không khéo các anh sẽ đánh mất oan uồng sức khỏe của các anh, dấn thân vào mót tật xấu ghê gớm !.. Thanh niên mất lòng tự ái vì những ̛̣uấn điều rồng tuếch ấy, càng dễ liều lĩnh cuộc đời họ. Sanh viên ở các trường đại hoc, trong số đó Freud bảo có minh nữa, lãnh giáo của các \"ông thùy\" ấy nhiểu lời dav, bảo rằng tất cả bịnh tinh dục đều không thể chuyển trị được",
+      "",
+      "Thế nên, có hàng van thanh niên, bị khung vào môt nền luân lý giả dối chật hẹp, bị gạt gẫm bởi hạng giáo sư thiền cận, suốt đời vẫn phải mang nặng trên vai sự dại đột của tuổi trẻ minh.",
+      "",
+      "Và bởi ở thời kỳ học thuyết Freud chưa xuất hiện, các y sĩ chuyên nghiệp không thể tìm ra được gốc căn bịnh - tức là Tịnh dục - và bởi tâm lý học thời ấy không dám dấn chân vào các địa hạt bí ẩn, thế nên các nhà thần kinh bệnh học, trong"
+    ],
+    "page_24": [
+      "những trường hợp khó khăn ấy, đành chịu bó tay thúc thủ. Không biết phải làm sao, họ đành đưa các kẻ mắc bệnh thần kinh vào nhà thương diên, ở đó người ta sẽ chayên trị họ theo bọn người mắc bệnh diên thiệt thọ.",
+      "",
+      "Trước khi học thuyết Freud xuất hiện, một kẻ chỉ yêu dồng tính (an homosexuel) - như đàn ông chỉ yêu đàn ông hay đàn bà chỉ yêu đàn bà - nếu đến tỏ thiệt với y sĩ, tất bị cự ngay! Vi viên y sĩ không thể nào chẳng nỗi nóng thấy mình bị quấy rầy bởi \"những điều chó đều\" như thế.",
+      "",
+      "Thời ấy, trong phòng khám bệnh, người ta không đề ý đến những điều ấy! Nhurg thử hỏi người ta đề ý đến điều gì mới được chớ? Với ai kẻ mắc bệnh thần kinh nên ký thác? Cánh cửa cứu rồi rào mở ra tiếp độ hàng vạn linh hồn đau khổ ấy? Các giáo thọ đại học đường tìm lối lảng tránh - Các quan tòa cứ bám riết vào luật lệ, đề khỏi phải phán đoán lội thôi! Các triết gia (ngoại trừ Schopenhauer) thích không nên đề ý đến! Xã hội nhằm mất lại và tuyên bố rằng những \"điều khó"
+    ],
+    "page_25": [
+      "mồ i a ấy thật là bất khả luận biện!",
+      "Tóm lại ; im lặng trong giáo giới, trong báo giới, trong văn giới, trong khoa học giới...",
+      "Vì thời đại trước học thuyết Freud là thời đại khoác mâu luân lý đạo đức lên trên tất cả sinh vật 1",
+      "Suốt cả một thế-kỷ dài dâng dặc, sự im lặng hèn nhát của luân lý giả đạo đức rởm án ngữ toàn cõi $A_{0}$-Chân.",
+      "Bỗng một tiếng ứng lên, một bóng người đứng dậy, lật đồ tất oủ.",
+      "Người ấy là bác sĩ Freud.",
+      "Người ấy là một vị bác sĩ trẻ tuổi, đứng ở chỗ khởi điểm là những cuộc nghién cứu chứng thẩn kinh loạn (hystérie), bàn về các lung lạc thằn kinh, sự dồn ép các bản năng tinh dục và về sự khả dĩ giải thoát các bản năng ấy.",
+      "Vị bác sĩ ấy không cô động rầm rót, không la lối um sùm. Chính trong binh tĩnh ông bảo rằng môt phần lớn các chứng bệnh thằn kinh đều do sự dồn ép dục tinh mà ra. Và chính sự. binh tĩnh ấy mới làm kinh ngạc các đồng nghiệp của ông.",
+      "Nhưng chẳng phải các đồng nghiệp ông"
+    ],
+    "page_26": [
+      "không biết bân năng tinh dục là gì. Trong những lúc trà dư tửu hậu, họ vẫn thường dem vấn đề tinh dục ra bàn kín với nhau.",
+      "",
+      "Nhung, dem vẩn đề ấy ra bày giải trước oông chúng ở Y Khoa Học Hội, họ cho là bẩn một tiếng sung lục liên giữa chốn giáo đường thâm nghiêm !",
+      "",
+      "Có nhiè̀a bạn thân khuyên Freud không nên đá động mãi đến vấn đề ấy trước công chúng, sợ có hại đến quyền lợi, địa vị ong.",
+      "",
+      "Nhung Freud chỉ nghĩ đến sự thành thật chớ không quan tâm đến sự thỏa mãn công chúng. Ông đã tìm được một con đường. Cứ do theo dó, ông tiến bước.",
+      "",
+      "Chinh sự ubấy nhởm của công chung đến nghe ong ở diễn đàn chứng tỏ cho ông thấy rằng dâu ông không co ý, ông cũng đã dại ngón tay trúng chổ dau; và mói lân đâu ong đã bất mạch trúng sợi gàn tay chánh. Ông lập tâm rốt vững, không dề bị mờ ám bởi các bực đàn anh, bị lay chuyền bởi lời trách móc của một nè̀n luân lý cổ nệ. Với một dõng cám bền bỉ, một gan dạ thiết thạch, một trực giác pai thường cấu tạo nên thiên tài oug,"
+    ],
+    "page_27": [
+      "Freud khơng dứt ngày một bóp mạnh trên chỗ đau, đề cho sau cùng mụn ghẻ bẩn mủ ra, vết thương được chóng lánh.",
+      "",
+      "Trong buồi dầu, đứng trước nú mịt, vị bác sĩ trẻ tuổi và có độc bầy còn chưa linh-cảm được những diều ông rồi sẽ khám phá ra trong gầm đen cõi tối vô cùng. Nhưng ông vẫn ức đoán được mọi điều bi hiểm nẫm trong vực thẳm. Má sự sâu thẳm bao giờ cũng quyến rũ, thói miên cuốn hát tinh thần sáng tạo.",
+      "",
+      "Tám lý học trước Freud bảo con người vãn minh ién dùng lý trí trăn áp bản năng. Freud đáp lại rõ ràng và rất nụ biệi rằng: bản năng không đề bị trăn áp đâu, và một khi người ta đã trăn áp bản năng, cũng vô ích mà tưởng bản năng có thể bị đánh đuồi đến tién mất luôn được! Họa chăng người ta chỉ có thể đuồi dần bản năng từ phần hữu thức đến phần vô thức là cùng. Bị đuồi dồn vào phần vô thức, - bây giờ còn cáng ngay hiểm nữa! - các bản năng đọng lại trong sâu kín tâm hồn và tày nên chứng thần kinh loạn.",
+      "",
+      "Theo Freud, các lực lượng bản năng của Nhục-Tinh (Libido), bị luân lý sĩ nhục, hợp"
+    ],
+    "page_28": [
+      "thành một toàn khối rất rắn chắc trong tâm hồn cá nhân. Toàn khối ấy không ai làm sao có thê đập phá, làm cho tiêu mất được, nhung trong một vài trường hợp ta có thê làm nó trở nên vô hại bằng cách đưa nó từ phàn vô thức trở lại phin hữu thức.",
+      "",
+      "Đê các bản năng ở phần hữu thức, luán lý cô thời cho là một hiềm tượng, Freud lại bảo là một phương thuốc cứu chữa.",
+      "",
+      "Dồn ép dục tinh, luán lý cho là phải lê, Freud thấy là mợt nguy hại.",
+      "",
+      "Điều gì nền xưa lối cũ dấu diếm, Freud đưa tất cả ra ánh sáng. Ông muốn lột trần ra tất cả hon là gòi kin lại. Duy chỉ có kẻ nào biết rõ được lực tượng của bản năng, kẻ ấy mới chế ngự được bản năng. Cũng như chỉ có những kẻ kéo được bình ma bóng quỷ ra khỏi bóng tối, kẻ ấy mời chế ngự được ma quỷ. Trách nhiệm của y khoa là phải đâu phủ im lặng lên trên mọi điều bi ẩn của con người, mà chính là phải bắt cac điều bi ẩn ấy tự biểu niệm.",
+      "",
+      "Những ý tưởng táo bạo của bác sĩ Freud chẳng những đã cải tạo được tâm hồn ta mà còn vạch rõ một con đường mới cho tất cả vấn đề trọng đại của nền văn hóa hiện"
+    ],
+    "page_29": [
+      "dại và mai sáu.",
+      "Bác sĩ Freud đã dày dạp dư luận, vượi qua bao nhiêu trở lực của buồ dầu... Sự thành công của mót kẻ cô dộc như ông thạt là vô cùng vẻ vang!",
+      "",
+      "Khoa học không có bồn phận ru ngủ, trái tim nhân loại bao giờ cũng ngây thơ bâng những mộng ảo mới. Sứ mạng của khoa học là truyền dạy cho người đời biết mạnh bạo và thẳng tiến trên quả địa cầu của chúng ta. Bất tay khoa học làm việc cứng cỏi của Freud là sức mạnh, nghiêm khắc của ông là luật lệ. Không bao giờ Freud diệm chỉ cho nhân loại một chổ trú ẩn tâm hồn nào siêu thực tế (vi như cõi thiên dang chẳng hạn) má luôn luôn ông chỉ cho người đời con dương úura đến bản ngã sâu thẳm của bọ.",
+      "",
+      "Nhớ sự cố gắng của Freud, một thế hệ mới đã nhìn thấy một thời đại mới vớl cập mất thấu triệt hon, tự do hơn, thành thạt hơn.",
+      "",
+      "Ngày nay nếu ở nhà trường, trong gia đinh, người ta đã biết yêu quý sự thạt, nếu người đàn bà đã nhìn nhận các ham muốn bí ẩn nhất của nàng, nếu chúng ta đã biết"
+    ],
+    "page_30": [
+      "kinh trọng trong cái gi thảm thiết ahất của cá nhân, thì chẳng những riêng chúng ta mà cả thế hệ của ta đều phải biết ơn bác sĩ.",
+      "",
+      "Freud là người trước nhất có can đảm dám biết và dám đem cái biết táo bạo của ông công bố với thời đại.",
+      "",
+      "Ngày nay, tuy hãy còn lắm chi tiết cần phải suy nghĩ lại về học thuyết Freud. nhưng một sự nghiệp như của Freud có phải tồn lại được do bởi lòng ghành tị của người đời dâu, mà chính bởi mối dây tương ál tự nó gây nêu vậy. Sự thành công duy nhất của một ý tưởng chinh là sự gia nhập của ý tưởng ấy v:o cuộc đời. V1 không gị lam sôi nồi lòng tin tưởng ở lẽ quan trọng của tinh thăn bằng công việc làm gia lăng sự thật trong toàn cõi vũ - tıu của một người bao giờ cũng yêu chuộng chân lý như bác sĩ Freud."
+    ],
+    "page_31": [
+      "# CHƯƠNG HAI ",
+      "",
+      "## Bứe chân dung",
+      "",
+      "\"Sự \"thành thật là nguồn gốc tất cả",
+      "thiên tài\" - BOERNE",
+      "",
+      "Đã hơn nửa thế kỷ nay, đời bác sĩ Sigmund Freud âm thầm chảy trong bfng tối. Sáu chục năm trong một thành phố ! Bốn mươi năm trong một căn nhà ! Khàm bịnh trong một gian phòng. Đọc sách trên mót chiếc phô-tơi. Làm việc vấn chương ở một chiếc bay-rò. Còn gì buồn tê̂ bâng cuộc đời phẳng lặng ấy?",
+      "",
+      "Làm cha sáu dứa con không hề có một nhu cầu riêng. Làm việc không hề có một say đâm nào khác hơn sự say đâm nghề nghiệp và thiên chức. Thời giờ tuy tân tiện nhưng rộng rãi, phung phi cho việc cong ich, không bao giờ mất mát nhứt mánu cho những cái kiều cách bề ngoài,"
+    ],
+    "page_32": [
+      "chô nhửng phằm hàm chức tuớc, danh dự giá trị vô nghĩa lý.",
+      "",
+      "Ở bác sĩ Freud - con người khả kính ấy - nhịp điệu của cuộc đời xếp minh một cách độc nhất và toàn thè dưới nhịp điệu bất dĩ, nhứt trí và nhẵn nại của việc làm.",
+      "",
+      "Mỗi tuần lễ của bao nhiêu tuần lễ trong 83 năm trường (Freud tho được 83 tuổi) của đờ bác sĩ Freud đều bị giam hãm vào cái vòng đóc nhứt vô nhị của một hoạt động không giới bạn. Ngày nào nhin ngày nấy! Làm việc! Làm việc! và làm việc! Mãi mãi không thôi! Trong suốt quãng thời gian ngồi giảng dạy ở đại bọc đường, đều có mỗi tuần một cuộc diễn thuyết. Còn vào mỗi chiều thứ tư, thi một cuôe kkai thông trí tuệ cho các món đồ ; mỗi chiêu thứ bảy một vàa bài giải trí.",
+      "",
+      "Ngoài ra sớm mai tới cHiều hay đúng hơn tới nửa đêm, mỗi giờ, mỗi phút, mỗi dày đều dùng vào công việc chữa bệnh dọc sách, nghiền cứu thí nghiệm về khoa họe.",
+      "",
+      "Niên lịch bất di bất dịch ấy của sự làm việc siêng oằn khộng hề có một tờ trắng!"
+    ],
+    "page_33": [
+      "Cái ngày không bao giờ tản ấy, hơn nửa thế kỷ, không hề đếm được một giờ rong chơi, ngơi nghỉ. Sự hoạt động viên miễn đối với khối óc luôn luôn hoạt động ấy tự nhiên cũng như sự vận chuyển huyết quẫn đối với quả tim.",
+      "Làm việc đối với bác sĩ Freud, là không phải một hành vi chi-phối bởi ý chí; mà trái lại là một cơ năng viên miễn và cố hữu của cả nhân.",
+      "",
+      "Từ năm bớn mươi tuổi trở đi, mỗi ngày bác sĩ Freud thì nghiệm, phân tách có đến chín mười, mười một lần. Thế nghĩa là chin, mười, mười một lần trong một ngày bác sĩ Freul dễ cả trí óc vào một vận động tinh thần ghê gớm, làm thế nào có thể nháp một vớ cái «đề mục » của minh, mà ông nghe ngóng, cám phân từng lời nói, trong khi trí nhớ ông, không bao giờ sai lạc, giúp ông so sánh các giải quyết của phán-tâm-học (psychanalyse) với bao nhiêu cuộc thi nghiệm về trước.",
+      "",
+      "Bác sĩ Freud sống như thế ứ lòng phân tâm-học. trong khi đồng thời ở mé ngoài ông nhân xét tâm hồn con người qua các bệnh nhân."
+    ],
+    "page_34": [
+      "Từ bệnh nhân này đến bệnh nhân kis, như thế nhiều lần mỗi ngáy, bác sî Freud không cần ghi chép chi cả cũng nhớ được những mối giây khơng dính đáp nhau của bao nhiêu số kiếp cá nhân mà ông thaoJúng trong tay và ông phân biệt được những chi tiết tinh tế, nhỏ nhặt nhứt.",
+      "",
+      "Một nỗ lực mãi mãi canh-tân như thế đòi hồi mót sốt sắng của thần tri, một săn đón của tâm hồn, một căng thẳng của các dây thần kinh mà phi bác sî Freud không kẻ nào có đủ sức chịu đựng nỗi trong hai ba tiếng đồng hồ. Sức mạnh thể chất và tinh thần của Freud không hề biết uê oải mệt nhọc.",
+      "",
+      "Buổi tối, công việc ở phòng thi nghiệm, công - iệc chữa bịnh giúp đời đã xong; mót công việc khác lai băt đầu: dụng tâm tác thành các kết quả thâu thạ̀p được sau những cuộc thi nghiệm.",
+      "",
+      "Công việc nhọc nhằn to tát ấy, bác sî Freud tự đâm đang lấy hơn mót rửa thế kỷ, không có lấy mót người phụ giúp. Cả đến một bức thơ tầm thường, Freud cũng tự tay viết lấy, không có thơ ký đánh máy cho. Bao nhiêu cuộc tìm tòi nghiên cứu,"
+    ],
+    "page_35": [
+      "từ buồ dằn đến lúc đat thành. Freud đèn mót minh khô cóng, chẳng nhờ cár đến ai cả Nhờ thế, Freud cung được cho các công việc của minh hình thức đàng hoàng.",
+      "",
+      "Và chính trong bầu không khí của sáng tao, cuộc đời thoạt trông hình như tầm thường của bác sĩ Freud mới nỗi hân lên, mới phát-hiện cái gì độc nhất vô nhị, cái gì khó sánh kíp của nó.",
+      "",
+      "Nhu mấy nhà sáng tạo ghê gớm HAENDEL, RUBENS, BAI ZAC, sự thông minh thừa thãi tỏ ra Freud có một sức khỏe chắc chắn. Mãi đến hằv tám mươi tuổi, viên y sĩ đại danh ấy không bao giờ đan ốm nguy kịch; nhà thám hiểm những chứng bệnh thần kinh ấy, không bao giờ cảm-giác một náo động thần kinh ; người dò xét sáng suốt các biến thái của tâm hồn nhân loại ấy nhà nghiên cứu tinh dục thường bị chê bai phi báng ấy trọn đời vẫn khỏe mạnh. Cơ thể Freud không biết cả đến một sự sô mũi nhức đầu tầm thường ; nhưng trở về già Freud có lần bị thương tish khá nặng, tưởng có thể vật ngã sức khỏe ghê gớm ấy. Thế mà một khi vết thương lành, sức khỏe xưa vìn lần lần hồi phục, chẳng mất mát một phần nhỏ"
+    ],
+    "page_36": [
+      "mọn nào. Đối với Freud, sức khỏe đi đôi với sự hô tấp, lúc không ngủ đi đôi với việc làm, sáng tạo đi đôi với cuộc đời. Và ban ngày nếu có làm việc nhiều, ban đêm mới có ngơi nghỉ đích đáng, đối với cơ hề lạ lùng ấy.",
+      "",
+      "Một giấc ngủ ngắn mà đầy đủ đồi mới vào mỗi buổi sáng sự khang kiện thể chất và tinh thần của Freud.",
+      "",
+      "Bề ngoài con người của Freud, vẫn ăn nhịp với lẽ quân hình của các năng lực nói quan của ông. Các nét, mọi vẽ của Freud đều cân đối, điều hòa. Vóc mình vừa vặn tác không cao lớn cũng không thấp bé : đâu đâu cũng quả là một sự vừa phải khuôn mẫu.",
+      "",
+      "Đã bao nhiêu năm rồi, các nhà mạn-họa đều thất vọng trước vẻ mặt bác-sĩ Freud mà hình trái xoan đều đặn không cung được cho ngòi bút họa sĩ một nét đặc biệt nào để ghi chép.",
+      "",
+      "Những bức ảnh Freud chụp tôii thơ ấu, nếu sắp gần nhau, theo thứ tư chụp trước sau, đều khó cho ta nhận thấy mọt nét đồi thay rõ rệt.",
+      "",
+      "Từ ba mươi đến năm mươi tuổi, các ảnh"
+    ],
+    "page_37": [
+      "của Freud cho ta thấy một diện mạo phương phi, một kẻ hùng tráng, một người có các nét mãl quá đều đặn.",
+      "",
+      "Cặp măt Freud tuy có nhiều bóng lối, nhưng với một ít mỹ càm, người ta chỉ tim thấy ở những tấm ảnh đã bầu mờ nhạt ấy có một gương mặt bác học, với một vẻ hùng tráng lý tưởng với một kiềng tâu lìa công phu, một gương mặt nghiêm mà hiền, hơi sa sầm lại mà thật thì như muốn phát ló một điều gì.",
+      "",
+      "Trước gương mặt Freud ằn nâu trong lẽ điều hòa cố-hữu của nó, người ta thấy rõ câu phải từ bỏ ngay tất cả xu hướng nghiên cứu trạng thái của ông đi!",
+      "",
+      "Nhưng mấy tấm hình của Freud trong những năm sau cùng bắt đầu phát-giác ít nhiều về ông. Vào cái tuổi già cỗi và bệnh tật bói mất đi nhiều nét tráng niên trên gương mặt lắm kẻ, chính vào tuổi ấy gương mặt Freud mới khoác lấy một vẻ đặc biệt. Kẻ từ lúc tóc pha màu sương tuyết, râu dưới không còn bao kín chiếc cằm bướng bỉnh và râu mép bớt rậm phớt bóng ít đi trên cái miệng nghiêm nghị, lúc mà xương lưỡng quyền nhó lên làm thóp lại"
+    ],
+    "page_38": [
+      "đời má bắt đầu thỏn, chinh vào lúe ấy, một cái gì tàn nhẫn, hữu hại phát lọ̣: ấy já ý chí rẩn chắc hất khả lung lạc của bản tính ông. Sâu thẳm hơn, tối tăm hơn, cái nbin của ông, trước kia dẫn dị bao nhiêu bảy giới phức tạp bấy nhiêu : nó dò dẫm, xoi mói, nhạn xét, thấu triệt... Mót vẹ̀t nhăn cay đắng bồ thành tử thương gò trán dầy dấu vết tàn phá của thời ginn và lao khô. Đói môi mỏng dếnh mím lại một cách khắc khồ như bao giờ cũng sẵn sàng hất ra một tiếng \"không\" hay một câu bält mãn ý : \"chẳng đúng đâu». Lăn thứ nhất người ta càm-giác được trong gương mã́! Freud tính nghiêm khắc và sự hằn hái nhiệt liẹ̀t của ông, và người ta đoán rằng đó khỏng phải là một ông già nhờ tuổi tác tan trở nên hiền hậu, lịch thiệp đâu mà quả là mót nhà giải phẫu tâm lý tàn nhẫn không đề cho ai gat gẫm. Đò là mót tâm hồn khả kính ; trước ông, ai cũng không dám nói láo. Vi chỉ mót cái nhìn hóai nuhi của ông hay từ bòng tối ra ánh sáng là đủ chận đường bao nhiêu sự giả trá ám muội rồi.",
+      "",
+      "Freud! Dễ thường đó là một kẻ gương"
+    ],
+    "page_39": [
+      "mặt rất khắc khô, có khi tàn bao, theo môt vài người nữa là khác! Nhưng đó quả là một người có được sức thấu triệt kỳ diệu vô cùng sâu rông. Đó không phải là một kẻ nhận xét tâm lý tầm thường, mà quả là một nhà tâm lý học nghiêm chính.",
+      "",
+      "Như NIETZSCHE triết lý với cây búa, Freud tron đời triết lý với chiếc dao mô xẻ nhỏ.",
+      "",
+      "Cái dao, chiếc búa, hai vật ấy không thê là vật dụng của những bàn tay dịu đàng được. Sự lễ nhượng, sự làm vui lòng thiên hạ, lòng thương hại tuyệt nhiên không thê hòa lẫn với tư tưởng sáng tạo cốt yếu của Freud mà ý nghĩ và sứ mạng là sự phát hiện cái gì cực đoan chớ khong phải cái gì điều hòa. Y chi phấn đấu của Freud bao giờ cũng đòi hỏi một rõ rệt, chớ không thỏa mãn được với một mập mờ. Còn nói đến lý lẽ, Freud muốn một sự chắc chắn : cái gì \"bình như hữu lý \" không có giá trị đối với ông. Chân lý trăm phần trăm! Với Freud, chỉ có thế thôi ! cái nhìn cửa ông muốn và luôn luôn phải thấy rõ tất cả biện tượng bằng ánh sáng trực t ếp.",
+      "",
+      "Thấy rõ rệt, nghĩ sáng suốt, hãnh động minh bạch đối với bác sĩ Freud khơng phải là mợt"
+    ],
+    "page_40": [
+      "cố gắn cũng không phải một hành vi của ý chí đâu, mà vẫn là thường sự! Nhu cầu giải phẫu, phấn tách ở ông là dĩ nhiên là trị̛́c giác. Mót khi Freud khỏng hiểu ngay và trọn một sự gi, khỏng ai có thể giải cho ông hiểu được. Mắt ông nhu thân tri ông rất chuyên chế và tuyệt nhièn không hề khî nào biết nhượng bộ.",
+      "",
+      "Và chính ngay vào lúc phấn đấu, môt minh với nhiều kẻ nghịch, sự thông minh của bản năng ấy mới tỏa ra đầy đủ.",
+      "",
+      "Tàn nhẫn, nghiêm khắc đối với bao nhiêu kẻ khác, Freud vẫn chẳng kém, hơn thế vớ chính minh. Quen khám phá một diều màn trà nhỏ nhặt trong sâu thẳm của tiềm thức, quen lật mặt những lời thú tội không được trang trực, Freud cũng quen kiềm sát nghiệt ngã bản tánh minh.",
+      "",
+      "Tư tưởng Freud không có gì là bất ngờ cả, họa chăng chỉ căn bản vào trực giác mà thôi. Có khi ông ngần ngại nhiều năm trước ngày quả quyết một điều ước dịnh. Bước từng bước không bao giờ hấp tấp, Freud ý chí dọn dẹp tất cả điều nghỉ hoặc trêu con đường noi dến chân lý. Người ta tím thấy trong bản thảo của ông rải"
+    ],
+    "page_41": [
+      "rác những lời ông tự cảnh cáo minh như \"Điều này chỉ là một ức thuyết\" hoặc \"tôi biết rằng trong cái tương quan ấy, tôi it có dược gì mới mẻ đề mà noi \".",
+      "",
+      "Sự can dám của bác-sĩ Freud bao giò cũng đến rất chậm, cùng một lúc với sự chắc tay trong lòng ông đối với mộ điều gi. Freud chỉ bày tỏ quan niệm minh, bao giờ ông vươ được qua khỏi nỗi lo sợ gán thềm cho nhân loại một viễn tượng mới.",
+      "",
+      "Nhưng khi nào Freud có một ý tuởng cần phải bảo vệ trước công chúng, ý tưởng ả̉y liền thấm nhập vào da thịt, nào, cán ông, biến thành một phần quan trọng của dời sống tinh thần ông.",
+      "",
+      "Sự chắc tay trong lòng Freud bao gió cũng đến chậm; nhưng một khi nó đến không gi còn có thể phà bỏ nó dược.",
+      "",
+      "Sự danh thép trong năng lực duy trì chủ trương của minh đối với tất cả mọi người của Freud khêến cho bao nhiêu kẻ nghịch Freud bảo ông la dộc đoàn và cả đến những người quen biết óng cũng phiền hà lén ông về điều ấy. Trạng thái ấy dính liền với bản tính ông. Nó pbat khởi do một trực giác và do một lối nhộn xét sự vật"
+    ],
+    "page_42": [
+      "dặc biệt. Cải gì đáng đẻ cái nhin sáng tạo của ông khải-quát, Freud có một cách nhin thấy mà không ai bao giờ nhin thấy được. Thí ông tư tưởng, Freud quên tất cả điều những kẽ khác tư tưởng về vấn đề ấy. Freud quan thiết các vấn đề của ông theo một nhượng pháp chắc chắn. Bất cứ chỗ nào trong quyển sách tâm hồn nhân loạ! uyển chuyên và phiền phức, Freud cũng luôn luôn dọc được một trang bay, đầy ý tưởng tân kỳ. Và một khi óc phê phán của ông bao quát được \"trang sách\" ấy, thoáng chốc ở thị quan của ông đã bắt đầu thai nghén một sáng tạo. Người ta có thê sửa chữa, phủ chính mót ý kiến làm lạc; ai làm sao khà dĩ canh cái được sự thâu nhận sáng tạo của một cái nhịn?",
+      "",
+      "Thế nên, thị-lực bao giờ cũng ngoại thuộc tất cả ánh hưởng mà sáng tạo bao gió cũng ngoài vòng cương tỏa của ý chí.",
+      "",
+      "Thế nào là sáng tạo? Nếu không. phải cái bi quyết nhin xét sự vật một cách chưa bao giờ thị-giác nhàn loại quan niệm được; nếu không phải biểu-niẹm điều lặp đi lặp lại nơi cửa miệng loại người nhiều lảa bằng một lối mới mẻ."
+    ],
+    "page_43": [
+      "Khó mà học theo dược, cái thị-lực, cái đói nhận xét sự vật bằng trực-giác của bác sĩ Freud",
+      "",
+      "Thế nên, Freud khơng bao giờ có ý bất buộc những kẻ dọc mình, nghe mình, phải tin minh, phục mink. Ong chỉ bày giải; thế thôi! Sự quá thãnh thật của ông khước từ cá đến việc phụng sự những tư tưởng quan trọng bằng một hình thức cám dỗ thơ mộng của văn chương.",
+      "",
+      "Đem sánh với văn chương Nietzsche một thứ văn chương rất hấp dẫn - lối văn của bác-sĩ Freud mời xem hình như lạt lẽo, tóc lốc, vô màu sắc. Nó không có g ${ }^{1}$ là êm ái, dịn dàng cả. Và chính đó là tôn chỉ hành văn của Freud, theo dùng câu nài của nhà văn Stendhal: \"Muốn dược kímnhàtriết-lý dứng đân, phải khó khan, sang sủa, không mập mờ ». Sự sáng sủa trong ngôn ngữ cũng như trong tất cả phát hiện của nhân loại, đối với Freud, là sự tốt nhất và là đáng hoan nghênh cuối cùng. Ông dè phu thuộc sự sáng sủa tất cả tiểu xảo văn thuật, tất cả giá trị nghệ thuật. Văn ông nhớ thế không rươm rà. Chẳng câu bao của ông, một kẻ học lực tàm thường kuông hiểu. Lối biểu niệm của ong cũng"
+    ],
+    "page_44": [
+      "như tư tưởng ông, luôn luôn xu hướng về sự xác thực. Nhưng có lẽ vì quá dân dị, lối văn ông thường nghèo binh tượng và dối nhiều.",
+      "",
+      "Thiên tài nào, theo Nietzsche, cũng có mang một miếng vải che mặt, Freud thì chọn miếng ohe mặt kín nhất: sự mặt nhiệm. Cuộc đời bề ngoài binh như dài các của Freud che đậy một đức làm việc siêng cần ở bên trong.",
+      "",
+      "Gương mặt Freud: một bậc thiên-tại, một bộ óc sáng tạo vơi bao nhiéu nét diềm tĩnh và dền dặn.",
+      "",
+      "Tác phẩm Freud: tông hợp của táo bạo và cách mạng, cái bọc lói thói dụng úược một khoa tự-nhiên-học đích xác.",
+      "",
+      "Thiên tai của sự dân dị, Freud thích phát biểu ra cái gì dân dị nhất ở thâu thề mình. Với ờng, ban dãu bao giờ cũng ciri xuất hiện có cái gì khuôn khô ; nhiên hậu những cái vượt khuôn khô thường lề mời phát hiện một cách sâu xa.",
+      "",
+      "Tóm lại: đối với bất kỳ sự gì, việc gì, Freud cũng có nhiều chỗ sở dắc hơn những điều ông pòat biểu ra. Tinh, thân sâu sắc ấy bao giờ cũng dấu diếm bớt một cái gí cố-hữu của nó."
+    ],
+    "page_45": [
+      "# CHƯƠNG BA ",
+      "",
+      "## Bước đâu",
+      "",
+      "Freud thú nhận trong tự truyện rằng: «Trong thời hoa niên của tôi, cũng như mãi về sau, tôi không bao giờ có cảm thấy riêng thich địa vị và nghề y sĩ».",
+      "",
+      "Nhung ông lại bảo: «Tôi dùng hơn bị chi phôi bứi một thứ khao khát hiểu biết, nó quan hệ đến các tương quan nhân loại nhiều hơn đến những vật tự nhiên».",
+      "",
+      "Chương trinh y học ở Đại học đường thành Vienne lại không có khoa nào nghién cứu về các \"tương quan nhân loại» cả.",
+      "",
+      "Và lại cậu sanh viên Freud bấy giờ còn cằn phải nghĩ đến việc mưu sinh, mưu thực; cậu chẳng đeo đuồi chi nguyện ngay được; cậu bắt buộc phải học theo các bạn những điều người ta giảng dạy trong 12 bán-ký"
+    ],
+    "page_46": [
+      "Ka dinh. Freud vừa càn học, vho tw ý thi-bành những cuộc nghiền cứu trịnh trong. Thế nên, các bài học của minh ơ Đại học dường, Freud thú thạt bao giờ minh làm cũng hơi chềnh mảng. Vi vậy, Freud dạu « Đốc lờ » khi chậm, vào năm 1881 - năm Freud được hãm lăm tuổi xuân.",
+      "",
+      "Trước ngã ba đường đời, ở tấm lòng sốt dẻo hoài-nghi tương lai của Freud, sã̃n sáng dự bị một khuynh hướng của thằn trí ơng, một khuynh hướng mà chàng bắt buộc phải dồi buồi dầu bằng một nghề khơng nghĩa lý gí dối với chàng cả: nghề y sī.",
+      "",
+      "Vi nghề ấy buồi dầu rộn ràng với những sự săn sóc chạy chữa bịnh nhan hãy còn \"nặng mùi nhà trường\" khơng cám dỏ được bộ óc mê thích những cái đại dồng phồ biến như Freud. Viên y sĩ tré tuồt Freud luôn luôn tìm cách kiến-thiết mợt tương quan giữa pham vi hành dộng và dịa hạt của tám hồn. Chàng chọn lấy khoa thằn-kinh bệnh-học (psychiatrie) và khoa giải phẫu bọ óc (anatomie du cerveau) làm khoa nghiền cứu; vì lúc ấy ở các giờ khai giảng tại y khoa học đường, vẫn"
+    ],
+    "page_47": [
+      "chưa có bàn riêng dến vấn đề giải phẫu tâm lý cá nhân.",
+      "",
+      "Khoa nghien cứu tâm hồn nhân loại mà ngày nay chúng ta không làm sao bỏ qua dược, khoa ấy, ngày truớc Freud đã phải phát-kiến ra. Quan niệm thời ấy coi tất cả hồn loạn tâm hồn như một sự thiên lệch của các dây thằn kinh, như một sự huyết dịch suy biến; người ta mải mê theo đuổi cái viễn tượng có thể do luờng các biến thái của tâm hồn, có thể nhân do san-dịnh lại mọi diều thic̉n lệch bâng cách dựa vào một sự hiểu biết bao gıờ cũng thâm viễn về các cơ quan và về những kinh nghiệm trong giới động vật. Thế nên, tru sở của tâm lý học, thời ấy, năm ngay trong phỏng thi nghiệm của khoa sinh lý học, nơi đó người ta tưởng có thê dùng con dao mô xẻ, ông kinh hiền vi va những động cơ diện khi dễ do luờng những rung động và xé dịch của các giây thằn kinh.",
+      "",
+      "Freud, bấy giờ cũng vậy, phải ngồi ở bàn mô xẻ, tầm kiêm, với các dụng cụ diện khi, những nguyès nhân không bao giơ phát-hiện một cách cu-thê, dưới một hinh thức dễ trờng thấy. Freud làm việc"
+    ],
+    "page_48": [
+      "nhiều năm ở phòng thi nghiệm của baị nhà giải phẫu đại danh Bruck và Meynert. Hai ông này không bao lâu đã nhin nhận tài truy tầm có tánh cách sáng tạo và độc lập ở Freud. Cả hai ông đều tim cách khiến Freud cọng sự với minh viên miễn.",
+      "",
+      "Nếu minh muốn, Freud rất có thể kế chân Meynert khai giẳng về khoa giải phẫu bộ óc. Nhung nghĩ sao rồi chàng không làm. Vả lại, các công việc tở chức ở đường đường của chăng, rất bợp với phương pháp của y khoa Đại học đường, cũng đã đủ cho người ta bầu chăng làm giáo thọ về khoa thân kinh học ở Đại học dưong thành Viennc (kinh đó nước Ảo).",
+      "",
+      "Chức ấy, thời bấy giờ, kệ ra cũng vinh điệu lắm dối với một y-sĩ mới hám lâm iuôi như chăng. Nhưng Freud chưa lấy thế làm mãn nguyện. Bán năng tự kiềm sát cố-hữu của chang bao giờ cũng thúc giục chăng phải tiến toi vu tiến tới mãi.",
+      "",
+      "Những lối chữa bịnh thân kinh của các nhà thằn kinh học đã dung nạp từ năm 1885, Freud đã học hỏi qua và cho rằng không có hiệu quả gì nhiệm mầu cả. Năung làm sao bây giờ ? Ô' kinh đó Ảo"
+    ],
+    "page_49": [
+      "quốc, Freud không tìm được ai sáng suốt hơn minh cả. Nghe nói ở thành Paris nước Pháp, lâu rồi người ta nghiên cứu khoa phân-tâm-hoc một cách khác la, Freud lòng nao nức viễn du cầu hoc. Chàng lai ngho nói ơ Pháp nhà giải phẫu Charcot có làm nhiều cuộc thí nghiệm la lùng dựa vào thói miên học.",
+      "",
+      "Càng nghe phong thanh, Freud càng nóng đến Paris. Vi những bài tuờng thuật các cuộc thí nghiệm ấy trên các tạp chí nguyệt san ở Paris gửi sang không lột được hết lòng hiếu kỳ của chàng. Xem báo, Freud chẳng hiểu rõ được tất cả những diều chàng muốn biết... Phải đi đến tận nơi. xem tận mắ\" những điều ấy, nhiên hậu mới nhận chân, mới khám phá. mời nhé phán, đánh giá nó được. Giáo sư BRUCKE giúp Freud xin được món tiền trợ cấp sang Paris.",
+      "",
+      "Thế là năm 1886, Freud sang Paris cầu học. Ở đó, không mấy lúc Freud đã thấy sống trong một bầu không khí mới mẻ khác la.",
+      "",
+      "Lần thứ nhứt,. Freud gặp ở Chawcot, một nhà y học không khinh bỉ sự tinh"
+    ],
+    "page_50": [
+      "dnc, mà coi nó nhu mót căn bịnh tâm hồn cằn phải nghién cứu học hỏi nhièn.",
+      "",
+      "Theo Charcot, tinh dục là mot đệu rất uyền chuyền, phiền phức. Những di hai của một tinh dục khón thỏa mãn đều góc ở những náo động thằn kinh ghê gớm. Trong những khi diễn thuyết trước cóng chúng, Charcot chi rằng sự bất đỏng, tê liệt của những kẻ bị thói miên có mặt tai đó có thê gọi hay làm tiên mất đi được bâng sự truyền cảm (Suggestion) vào bất kỳ lúc nào của trang thái hờnthuy (état de sommeil somnambulique); thế nên những té liệt ấy không phải là những sự phản-ứng vận-dộng của sanh lý đâu, mà quả là những kết quả của ý muốn chi-phối.",
+      "",
+      "Vi dầu những chi tiết của thuyết Charcot khơng phải nhất thiết đều được Freud cơng nhận, Freud cũng chịu rằng khoa thằn kinh học ở Paris có khác với khoa thằn kinh học tại Vienne. Ô' Pháp, người ta chú trọng khơng những các nguyên nhân sanh lý, thằn kinh, mà còn dễ ý cả đến những nguyên nhân siêu hình, thằn bi, Freud vui vẻ nhận thấy ở Pháp"
+    ],
+    "page_51": [
+      "khoa tâm lý học rất găn với ktoa nghien cứu tâm hồn ngày xưa; và chàng thấy thich kboa tâm lý ấv hơn khoa người ta đã day cho chàng từ trước.",
+      "",
+      "Nhr Brucke, Mevnert và Nothangel ngày trước ở Vienne, Charcot lúc này ở Paris cũng tim thấy ngay ở Freud một năng lực sáng tạo ; thế nên, ông dem ngay Freud và bằu không khí thân mật của minh. Ong giao cho Freud việc dịch các sách của ông viết ra tiếng Đức.",
+      "",
+      "Mấy tháng sau, khi Freud trở về thành Vierme, quan niệm của chàng đồi hẳn. Con đường Charcot vạch sẵn, mà Freud cùm giác mót cách mơ hồ, vẫn khơóng phải là con đường của Freud. Charcot nhà thông thái ấy, hãy còn quá thiền về sư kính nghiệm vật chất, má ít chú trọng đến những phát hiện của tám hồn; tuy nhiên mấy tháng sống gần Charcot cũng giúp ích được Freud; nó gợi cho viên y-sĩ trẻ tuổi một tinh thằn đọc lập, mợt sự can đấm mới. Và bây giờ, Freud thật rất có thề khởi-công việc sáng tạo của minh",
+      "",
+      "Trở về Vienne, việc trước nhứt của Freud"
+    ],
+    "page_52": [
+      "Hà phải tường thuật tai những diều chàng cầu học và đã sở-dắc được ở ngoai quốc Có thế, mời đền bồi được món tiền quốc. dân trợ cấp cháng sống những ngày ở Paris. Freud trinh bảy ở Họi Y-si bản tường thuật của chàng. Chàng thuạt rành rẽ các phương pháp tân kỳ và những cuộc thi nghiệm dựa vào thoi miên học của giáo su Charcot.",
+      "",
+      "Người ta «hoan nghênh » Freud bâng những nu cười hóm hỉnh : bồi người ta cho rằng: Cá nhân có thè̉ gây dược triệu chứng của bệnh đàn bà loan thần kinh (hysterie); còn việc cho biết trước có nhiêu trường hợp loan thần kinh của đàn ông, thạt khó mà tin được và buồn cười kám. Ban đầu, người ta thân mạt vô vai Freud bảo chàng rằng dễ thường chàng bị người Paris nói gạ rồ. Nhưng Freud bao giò̀ cũng bảo vệ lấy những điều minh đã khám phá ra được, nên người ta buộc lò̀g phải đóng trước lồ mũi Freud cánh cửa của phân-tâm học. ở đó người ta vân theo đuồ việc nghiên cứu tâm lý học mọt cách trịnh trọng và «khoa học» theo như người ta tưởng (!)"
+    ],
+    "page_53": [
+      "Từ đó, Freud đã là một nhân vật cồ quái dối vời hang thượng lưu tri thức thánh Vienne. Không còn bao giờ chàng dề chén đến nhà hội y-sĩ nữa. Về sau, nhớ mợt binh nhán có thế lực ủng ho (theo lời cháng thuât lại mşt cách vui vè̀), cháng được chức giáo tho ở y học víi. Nhưng không mót đồng nghiệp nào bằng lóng chàng cả, (Nguy lễ kỷ niệm năm bây nươi tuô̂i của Freud, Y học viện thành Vienne thờ ơ lãnh đạm, tuồng như không dề ý đến vậy).",
+      "",
+      "Phân đối việc chữa bệnh thận kinh bằng dược phầm và bằng những sự kich thich ngoài da, Freud không những mấ thanh thế ơ y học viện mà còn thiệt hại nhiêu về nỗi thân chủ ngày một kém đi.",
+      "",
+      "Từ đấy, Freud phài lo liệu lấy mợt miuh.",
+      "Freud biết rằng giải phẫu bó óc và nhu dưng máy móc nhân tạo đề đo lường các sự phấn đờng của thằn kinh bệ, làm thế người ta không hy vọng gi đạt đến những phát kiến rõ rệt được; Freud hiêu rằng với mợt xuất-phát-dịèm, hoàn toàn khác hẳn, nguời ta có thè̀ đến gần các bị ủn tâm hồn được. Nhưng mà làm thế nào bây"
+    ],
+    "page_54": [
+      "giờ? Sáng kiến ra một phương pháp giúp minh nắm được điều bí ẩn của tâm hồn, thiết tưởng chẳng phải một chuyện dung dị!",
+      "",
+      "Tâm kiếm phương pháp ấy, Freud đã phải dùng năm sáu chục năm cuối cùng của đời ông. Kinh thánh Paris, và thị trấn Nancy đã giúp ông ít nhiều bảy về để ông chóng đạt đến mục đích.",
+      "",
+      "Nhưng ở địa hạt khoa học cũng như trong phạm vi nghệ thuật, một tư tưởng độc nhất không bao giờ sản xuất ra được những hình thức rõ rệt; sự thai nghén đáng hoàn bao giờ cũng gốc ở cuộc gặp gỡ của một ý tưởng và một kinh nghiệm. Bấy giờ, chỉ cần một kích thích nhỏ nhặt cũng đủ cho niên lực sáng tạo xuất lộ.",
+      "",
+      "Kích thính ấy, chính bác-sĩ Joseph BREUER, mà Freud gặp ngày trước ở phòng thí nghiệm của giáo sư BRUCKE, ban cho Freud.",
+      "",
+      "Breuer là nhà y sĩ cần mẫn hoạt động nhất trong phạm vi khoa học, trước ngày Freud sang Paris, đã bày vẽ cho Freud về bệnh trạng chứng hystérie (chứng loạn thần kinh của đàn bà vì ý dám nung nấn trong"
+    ],
+    "page_55": [
+      "đầu óo) ở một thiếu nữ mà minh trị khôi được một cách bất ngờ.",
+      "",
+      "Thiếu nữ bình nhơn có đủ những biện chứng thông thường của bệnh hyslérie : té xùi, vặn mình vặn mấy, lương nặng mờ tối...",
+      "",
+      "Breuer bảo đã nhận thấy rguời thiếu nữ bệnh nhân ấy đỡ được dội chút, khi nào nàng có thể nói nhiêu về những chuyện kín của nàng với ông.",
+      "",
+      "Qua những lời tư thú gián đoạn của thiếu nữ, Breuer cảm thấy nàng như bao giờ cũng dấu diếm một điều cốt yếu; đó chính là nguyên động lực gây nên chứng hyslérie. Breuer nhấn-chân được thiếu nữ bệnh nhân có dồn ép, đè nén một điều nàng bao giờ cũng tò mò muốn biết mà không dám biết !",
+      "",
+      "Khai phá con đường đầy trở ngại đưa đến điều nàng không dám biết, Breuer thường thói miên người thiếu nữ.",
+      "",
+      "Trong khi bị thói miên, trong trạng thái mà ý muốn của thiếu nữ mặt đi. Brner quét dọn được tất cả căm chế, dồn ép đè nén nó còn trở ngại cho việc soi sáng mọi điều bị ăn.",
+      "",
+      "Trong con bôn-thuy, dưới sức thôi miên"
+    ],
+    "page_56": [
+      "của Breuer thiếu nữ khong còn biết gi là e ngại, cứ việc biễu tỉ điền náng trước kia đã dấu ông, óm ấp trong thâm kin lóng náng. Mỗi bận thiếu nữ phát-giác ra những sự dồn ép của minh, chứng hy térie bớt lần. Breuer noi theo nhận thức ấy, chạy chữa. Ông mở mắt cho bịnh nhân về tai hại dồn ép tinh dục thái quá Trong vòng vài tháng, bệnh nhân khỏi được chứng loạn óc hiềm nghèo mà buồn cười!",
+      "",
+      "Trường hợp ngộ nghĩnh ấy Breuer vui vẻ đêm thuật lại Freud nghe. Điều Breuer thỏa mãn là chữa được một chứng bệnh thân kính. Freud thi có sự vui mừng xa rơng hơn: ông nhân do phát-kiến ngay được một lệ luật khái quát hơn, rằng \"các năng lực của tâm hồn có thể di chuyển được\"; rằng phải có trong cõi tiềm-thức một sức hoat động nó biến cải những tinh cầm mà cái đà tự nhiên đã bị ngăn lai và chở các tinh cầm ấy sang những phát hiện thận k nh khác.",
+      "",
+      "Sự phátgiác của Breuer soi thêm yến sáng vào các kín nghiệm Freud mang lự Paris về.",
+      "",
+      "Từ đó, Breuer và Freud cùng lăt tay nhau làm việc đề đi tận đến chổ sâu thẳm"
+    ],
+    "page_57": [
+      "don tôl tợt cunng của diễu vừa khám phá ra được.",
+      "",
+      "Những tác phẫm cà hai viết chung hồi đó: «nghiên cứu về đựng cơ thằn kinh của những hiẹn tượng loan óc» (1893) và «nghiên cứu vè chứng hgstérie» (18:5), những sách ấy tiêu-biểu cho những ý tưởng tân kỹ vừa phát-kiến ra được.",
+      "",
+      "Ở những sách ấy. chiến sáng buồì rạng đông của một khoa tâm lý hoàn toàn khác hẳn với khoa tâm lý đã được mọi nhà giải phẫu thánh Vienne công nhận,",
+      "",
+      "Trong những cuộc tim tòi chun lần thứ nhứt, Breuer va Freud chì răng ci úng hys'érie không phải như người ta tuởng. do mót bệnh thông thường mà ra, nhung chinh do một náo động nội quan chi phối.",
+      "",
+      "Các náo động thần kinh sôi nồi vì những cảm giác cũng như bệnh rét sôi nồi vì mộ nóng sốt nội quan. Bệnh rét dứt khi nào nhiệt độ trong minh tim được một chỏ thoát ra ngoài ; những phát hiện mãnh liệt của chứng hystérie cũng dứt, khi náo người ta có thê đánh duồ những cảm giác «dồn ép».",
+      "",
+      "Ban đầu, Breuer và Freud cầu cứu đến"
+    ],
+    "page_58": [
+      "sự thoi miên làm phương tiện giải thoát cho tinh dục, bị đè nén dồn ép. Vào thời buồ phơi thai của nền phấn tâm học, khoa thoi miên không phải là một vị thuốc cấp cứu thần hiệu, mà chỉ là một phương tiện cứu trợ trong lúc hiềm ngay thôi. Công việc của nó cốt ở sự ngăn bớt lại những khủng hoảng tinh thần trong con thác loạn. Nó chỉ như món thuốc mê giúp bệnh nhân bớt đau đớn khi bị mô xẻ.",
+      "",
+      "Breuer và Freud ban đầu gọi phương pháp chữa bệnh thần kinh của mình là món « thuốc hạ» (cathartique).",
+      "",
+      "Nhưng tới đây, hai nhà y học ấy lại chia rẽ nhau, vì khác quan niệm với nhau: Breuer chỉ thích các phương tiện khả dĩ chữa bệnh hysterie; Freud thì dễ bị quyến rũ bởi các hiện tượng thần kinh hơn; các điều bí ẩn trên lịch trình biến thiên của tinh cảm dễ gọi lồng hiếu kỳ của Freud hơn. Tinh cảm theo Freud, bị dồn ép có thể biến thể thành những hiện chứng của bệnh thần kinh.",
+      "",
+      "Nhưng cái gì dồn ép tinh cảm mới được chớ?",
+      "",
+      "Một phương trời khoa học xa lạ mở rộng"
+    ],
+    "page_59": [
+      "một cách mông mênh mờ ảa trước lý trí và óo thông minh của bác sĩ Freud...",
+      "",
+      "Freud rồi nhìn thấy được qua những vòng thành mây khói mịt mờ, một thế giới mới : tức là cõi Vô thức.",
+      "",
+      "Từ đó, Freud say mê theo đuổi công việc đi sâu vào những vùng đen tối cõi vô thức của tâm hồn nhân loại."
+    ],
+    "page_60": [
+      "# CHƯƠNG IƯ ",
+      "",
+      "## Cõi vô thức",
+      "",
+      "Muốn quên đi điều ta biết, tự ý từ mộ, mực cao hạ xuống mót quan niệm chất phác, bao giờ cũng cần phải có một cố gắng đặc biệt.",
+      "",
+      "Thế nên bây giờ cũng hơi khó khăn việc hiểu cách thức mà giới khoa học năm 1900 quan-niệm cõi VÔ-THỦC.",
+      "",
+      "Khoa tâm lý học trước Freud lẽ tất nhiên cũng rõ rằng các khả năng thần kinh của chúng ta chẳng phải hoàn toàn bị sự hoạt động của lý trí cuống hút hết đâu; cũng biết rằng sau sự hoạt động ấy, vẫn có một sức mạnh khác nó hoạt-động âm thầm trong bóng tối của cuộc đời ta, của tư tưởng ta.",
+      "",
+      "Nhưng biết thế mà chẳng hiểu dễ làm g ${ }^{1}$"
+    ],
+    "page_61": [
+      "tám lý học hơi đó thạt thà chẳng dám thở dem nguyên lý của vô thức vào phạm vi khoa học kinh nghiệm.",
+      "",
+      "Tám lý học lác bấy giờ chi quan thiết đến các hiện tượng thằ kinh, trong phạm vi mà các hiện tượng ấy được soi sáng bởi vòng ánh sáng nhỏ hẹp của lương năng.",
+      "",
+      "Đối với tám lý học thời ấy thật là một điều trái ngược mà muốn xem phần VÒTHỨC như một đối-tượng của lương năng - tức là một hễ hữu thức.",
+      "",
+      "Tình cảm quả là tình cảm, khi nào người ta cảm-giác được nó rõ rệt kia!",
+      "",
+      "Ý chi quả là ý chi, khi nào nó dám « muốn» một cách mạnh bạo và quả quyết kia!",
+      "",
+      "Còn nếu những phát hiện thằn kinh không dáng lên khỏi mực hữu thức của lương năng, tám lý học bấy giờ đuổi tất cả ra khỏi thằn tri như những điều bất khả đề ý.",
+      "",
+      "Freud đem vào tám phân học tiếng « 100 THỨC », và ông cung cho nó một ý nghĩa khác với ý nghĩa người ta quan niệm từ trước."
+    ],
+    "page_62": [
+      "Theo Freud HƠU THƯC cũng như VÒ THƯC đều riêng không phải là mợt hoa, đơng thần kinh duy nhất.",
+      "",
+      "Ông tuyên bố quả quyết rằng: trái lại tất cả hoạt động thần kinh trước nhớt điều là sản phằm của VỚ-THỨC, còn len vào cõi HƯU-THỨC những hoạt động thần kinh ấy phải nhờ đến một sự vừa giúp bên ngoài, như thể ánh sáng mé ngoài len vào soi sáng sự vật bên trong một căn nhà.",
+      "",
+      "Một cái bàn trong bóng tối cũng như trước ánh sáng bao giờ cũng là cái bàn ! Ánh sáng chỉ giúp ta dễ nhận ra nó trong thoáng chốc thôi. Chớ chẳng phải ánh sáng tạo ra nó được.",
+      "",
+      "Trước ánh sáng, khi bước vào nhà, người ta đã nhận thấy cái nào là cái bàn ngay.",
+      "",
+      "Trong bóng tối, người ta cũng nhận ra được, không phải bằng thị giác mà bằng xúc giác, không phải bằng đôi mắt mà bằng hai tay.",
+      "",
+      "Nhưng đúng ra thì cái bàn ở trong tô̂i cũng như trước ánh sáng đều quả có trong nhà."
+    ],
+    "page_63": [
+      "Tiềm tiệm như thế: cõi VỜ THUC và HUU THUC đều có chân đứng ở tâm hồn nhân loại, trong phạm vi tâm lý học. Thế nên, đối với Freud, \"VÔ THUC\" chẳng có nghĩa là « không biết»; thêm được một nghĩa mới, nhờ Freud, tiếng VỜ THUC từ đó đi vào giới khoa học.",
+      "",
+      "Nhờ Freud, khoa « tâm lý học nhà trường » rồi thành một khoa nghiền cứu tâm hồn phát-kiến ra lắm phương pháp khả dĩ cứu chữa những tâm hồn ươn yếu thác loạn.",
+      "",
+      "Công trình vĩ đại của Freud, là sự cải tạo trọng yếu, sự tìm ra miếng đất kinh nghiệm mới, sự nới rộng ghê gớm phạm vi hoạt động của tâm hồn nhân loại.",
+      "",
+      "Trong thoáng chốc, nền tâm phân học chiếm thêm được châu vi và cung được thêm cho khoa học nhiều bề sâu rộng.",
+      "",
+      "Tất cả lẽ thói của trạng thái thần kinh đều bị xáo trộn bởi sự cải tạo, phát kiến ấy, mới trông chừng như vỏ nghĩa lý, nhưng sau nồi, nhớ đó, những ý tưởng rõ rệt mới xuất lộ, bao giờ cũng dung dị và giản minh.",
+      "",
+      "Ngày sau, lịch sử của thần trị sẽ coi"
+    ],
+    "page_64": [
+      "sư thoáng chóc ấy, phút giáy ấy oủa sáng tạo trong tâm lý học nhu là cứu cánh dời dào nhất, vĩ đại nhất; ngang giá trị với những di chuyển trong phạm vi hiểu biết của sự thông minh, sáng suốt mà Kant và Copernic đã cải tạo tư tưởng cả một thời đại.",
+      "",
+      "Các nhà tâm lý học trước Freud chỉ thấy một cách rất mộc mạc có miếng đất hoang trên đại lục của tâm hồn còn chưa được dấu chân nhà thám hiểm nào dặt đến. Thế nên tiếng \"VÒ THỨC\" dối với họ mới có nghĩa dẫn dị là « không biết» là « khó dạt đến». Chắc họ phải tưởng có đâu đó một binh chứa den tối, một ao tù dục ngầu của tâm bồn, nơi ấy các kỹ-niệm, ký ức vô bồ của ta ùa nhau chạy đến...; chắc phải có đâu đó một nhà chứa, nơi ấy quên lãng và điều không dùng đến luân-lưu vô sở định; hay phải có đâu đó một chỗ, trữ đồ, nơ ấy trí nhớ thỉnh thoảng lôi ra yến sáng của lương năng một vật gì.",
+      "",
+      "Tóm lại quan niệm cốt yếu của khoa"
+    ],
+    "page_65": [
+      "học trước Freud là thế này :",
+      "Oô̂i VÔ THỪC ở ta là hoán toàn không hóạt đờng, có tinh cách tiêu-cực; nó tiêu-biêu mót đời sống tầm thường, một dĩ vãng chôn vùi; nó không có một hoạ động náo, mót kinh nghiệm náo trên các tinh cảm biện tại của ta hết thảy.",
+      "",
+      "Phản đối quan niệm sai lầm ấy, Freud trung ra hoc thuyết minh :",
+      "Phần VỒ THUC phải đâu là cặn bã của tâm hồn; trái lại nó là nguyên liệu của tâm hồn, mà một số ít chạm tới mực sáng suốt của phần HƯU THƯ'C.",
+      "",
+      "Nhưng phần cốt yếu - phần VỒ THUC — dầu chẳng phát hiện, cũng chẳng phải là khôn: hoạt động.",
+      "",
+      "Thật ra thì phần VỒ THUC, sống và hbạt đờng, rất ảnh hưởng trên tư tưởng và tinh cảm ta. Dễ thường phần ấy còn tiêu-biêu cho phần uyển chuyên nhứt của bô máy thần kinh ta.",
+      "",
+      "Thế nên, kẻ nào, khi quyết nghị không nhu-dụng đến phần VỒ THUC, tất gặp ngay một lầm lạc; bởi y, trong lúc toan tinh suy nghĩ, quên mất nguyên lý cố"
+    ],
+    "page_66": [
+      "yếu của những vẹn động tinh thần nọ̀ quan.",
+      "",
+      "Có kè ở mièn Bắc Âu Châu lâm lạc mà ức độ sức chịu đựng của nọ́ hòn băng đảo ở cái phằn nò̀ lên trên mặt nước. trong lúc đáng lê phải do cái thè̀-lich (volume) của nó chìm nghim dưới nước.",
+      "",
+      "Sao lai chẳng có người lâm lac tưởng rằng các năng lực HƯU THUC, những tư tưởng sáng suốt của ta có thè̉ ban định được các bành vi, tinh cảm của ta?",
+      "",
+      "Đời ta không phải trải qua mót cách tư do trong bầu không khí thực tế dược; mà phải chịu đựng đói chút sự dè nén của phằn VỚ THUC mới đặng.",
+      "",
+      "Giờ nào phút nào của mót ngày ta sống đều bị đấm chim trong những đợt phong ba của một dĩ vãng đã mờ nhạt trong tri nhớ.",
+      "",
+      "Cõi đời chúng ta sống không phải thuộc về phạm vi của HƯU THUC đâu; nhưng chính trong cõi VỚ THUC âm u bật ra. nhu yến sáng, những dièn quyết nghị cốt yếu ; và chính trong sáu thẳm của cõi ấy, của thế giới ấy - thế giới của bản"
+    ],
+    "page_67": [
+      "năng - tự xếp đặt những phong ba nó độ́ ngột làm xáo trộn số mạng chúng ta. Ở đó, ẩn náu xen lẫn nhau và chống chỏi nhau bao nhiêu tình cảm nó, trong cõi HUU THUC, thuộc về phạm vi của thời gian và không gian. Ở dó hoạt-đóng trở lại những ham muốn nhất thời của ngày thơ ấu, mà ta tuởng đã bị thời gian chôn lấp mất rồi. Ở đó, những ham muốn ấy đòi khi mãnh liệt quá, biến thành khát vọng choán cả phần đời chúng ta. ỗ đó, khiếp đảm và sợ sệt, bấy lâu nay tiêu mòn trong trí nhớ, đột ngột ưng lên những tiếng kêu gáo, do các dây thần kinh truyền ra ngoài. Ở đó, dính liền với bản thế ta không những các diền ham muốn của dĩ vãng ta, mà còn là mọi điều ham muốn của tờ tiên ta, của những giòng họ ngày xưa nay đã rụi thảuh cát bụi l...",
+      "",
+      "Ở cõi VỚ THUC, phát ra những hành vi đặc biệt nhất của chúng ta. Ở cõi ấy, đen ngòm bí hiểm, che đậy chúng ta cả đến những diều sáng suốt đột ngột, ở đó phát ra lực lượng siêu phàm nó án-ngữ lực lượn; ta. Ơ đó, ngụ cư"
+    ],
+    "page_68": [
+      "bản ngã nghin xưa mà bản ngã văn minh của ta khóng còn hiểu biết gi cả hay không còn muốn biết gi cả. Nhưng thoáng chóc, bản ngã nghin xưa chồm dậy, phá bỏ lớp văn minh niu kéo nó lại; và các bản nã g nghin xưa, bất khả chế ngự của nó trở tới chúng ta, dọa nạt; bởi đó chính là ý muốn trọng yếu của phần VỐ THUC trờ ira ánh sáng, dễ trở thành HUU THUC và tự giải phóng bằng hanh động.",
+      "« Bởi chán vi ta sống, ta cần phải hành động». Bao giờ như bao giờ mỗi lần ta thốt một lời nói, mỗi lần ta nhún tay vào mọ̣t việc gi, ta đều phải bắt buộc đè nén, dồn ép những sự vận động của VỐ THUC. Cảm tưởng đạo đức hay sáng suốt của ta phải luôn luôn tự vệ chống vời bản năng thôa thích cuồng dại Thế nén, theo Freud, tất cả đời sống tinh thần của ta có vẻ như mót cuóc phấn đấu viên miễn giữa điều muốn hữu thức và điều muốn vô thức, giữa hành động và bản năng ta. Nhưng tất cả phát biện của phần 30 THUC móc dầu khó hiểu đối với ta, cũng có một ý nghĩa rõ rệt. Khiến cho"
+    ],
+    "page_69": [
+      "moi người hiểu được ý nghĩa các sự tôn phóng vô thức của họ, đó là công việc về sau Freud muốn khoa tâm lý học mới phải đảm nhận.",
+      "",
+      "Chúng ta chỉ khả dĩ biết rõ thế giới tình cảm của cá nhân, khi nào chúng ta đi sâu vào tâm hồn cá nhân được.",
+      "",
+      "Mà điền cá nhân ý thức được, nhà tắm lý học và nhà phân tâm học không cần phải chỉ vẽ bảy biểu lỗi thôi cho cá nhân.",
+      "",
+      "Nhà phân tâm học chỉ cứu chữa người mắc bệnh thần kinh khi nào y không biết nghĩ đến phần VỜ THUC của y thôi.",
+      "",
+      "Nhưng tàm thế nào đi sâu được vào cõi VỜ THUC? Khoa học thời ấy không biết được mót phương tiện nào cả. Hơn nữa, khoa học còn thú nhận sự bất lực thấu triệt các biện tượng của tiềm-thức, bằng máy móc tối tân.",
+      "",
+      "Khoa-học ngày trước chỉ khả dĩ theo đaì̛ các cuộc nghiền cứu của nó trong cõi HỮU THỰC thôi. Nhưng nó đi qua thế o trước một kẻ cám hay trước một người nắm mê thốt ra những lỗi mộng mị."
+    ],
+    "page_70": [
+      "Freud mạnh bạo phá bỏ quan niệm ấy nhir vất đi một mảnh ván mục nát. Theo lòng tin chắc của ông, phần VÒ THUC khong phải câm lặng đâu. Trái lại, nó lự biếu-niệm bằng những dấu hiệu, khác vớ cách biểu-niệm của phần HUU THUC.",
+      "",
+      "Kế nào muốn đi vào sâu thẳm lòng minh, trước phải học thứ «ngôn ngữ» của «thế giới mời» ấy.",
+      "",
+      "Freud giải thích bằng dấu hiệu, bằng thứ «ngôn ngữ» ấy của cõi VÒ THUC, đề giúp ta hiểu được những thứ tiếng huyền bí nó vang âm thầm sau lời nói và trang thái la khi ta còn thức - những thứ tiếng nhỏ nhẹ mà ta dễ nghe theo hơn ý muốn ở ạt của ta.",
+      "",
+      "Kế nào biết một thứ tiếng mỡ, kẻ ấy hiểu thèm được một ý nghĩa mới.",
+      "",
+      "Freud vớ những phương pháp nghiên cứu tâm lý học tân kỳ của ông, tìm ra được một thế giới tinh thần chưa ai kòám phá.",
+      "",
+      "Nhớ ông, tâm lý học, từ trước chỉ là một khoa nhận xét các biến thái của lương năng, đã thành khoa nghiên cứu tâm hồn nhân loại."
+    ],
+    "page_71": [
+      "Và trong phạm vi ngày môt bánh trương của cõi VÒ THUC, tự mở rơng một môi hy vọng lớn trên nền kiến trúc của thế giới tinh thần."
+    ],
+    "page_72": [
+      "# CHƯƠNG NAM ",
+      "",
+      "## Chiêm bao",
+      "",
+      "«Tại sao trong bao lau nay ngươi ta lai it đề tâm đến những sự bất ngờ oủa giác ngả nó chửng tô có hai sự sống ở con người? Dễ thường chẳng có một khoa học trong hiện tượng ấy sao?... Hiện tượng ấy it nhất nó cũng báo trước sự bất qui hợp thường có của hai bản tánh ta. Thế nên rốt cuộc tôi có một bằng chưng ưu thắng nó phân biệt các cảm giác tiềm tàng vói nhũng cảm giác lưu lọ của chúng ta.s",
+      "(Balzac, Louis Lambert, 1883)",
+      "Cô Vô Thức là phần bi ần sâu thẳm nhứt của tất cả mọi người. Công việc phân tâm học dâm nhân, là giúp con người ném thúng mèn mờ tôj của V0 THUC."
+    ],
+    "page_73": [
+      "Nhung bâng cách nào một sự bí ẩn phát biện?",
+      "",
+      "Có ba cách :",
+      "Hoặc người ta dùng sức mạnh ép một tơi nhân cung khai mót điên mát nhiệm. Hoặc người ta đưa vào những nhân xét tinh vi, ức đoán một sự bí ầa. Và không cách nào hay bằng cách rinh rập chờ đợi dây phút chênh mảng - dây phút mà sự bí ẩn, điều mật nhiệm tự dưng phát hiện ra.",
+      "",
+      "Khoa PHAN TAM HỌC nhu-dung lần lượt cả ba cách ấy. Ban đầu, khoa ấy thứ ép VÒ THUC phát giác ra mọi điều bí ẩn bằng cách thôi miên.",
+      "",
+      "Khoa tăm lý học biết con người chẳng bao giờ chịu nói ra hết lòng minh ; nhưng khoa ấy lại không biết cách nào đến gần cõi tiêm thức của con người, dễ khám phá những diền rất gợi hiến ký trong đó.",
+      "",
+      "Cách thôi miên của khoa phân tâm học tưởng chừng đắc lực lắm. Nhưng Freud cũng khước từ việc dùng cách ấy, mà ông cho là thô bạo đối với VÒ THUC.",
+      "",
+      "Công lý, từ một giai đoạn vô nhân đạo"
+    ],
+    "page_74": [
+      "đến một giai đoạn nhân đạo, đã phải bãi bỏ cực hình, thay thế bằng nghệ thuật vấn nạn tình ngoan tội nhân để lấy khẩn cung.",
+      "",
+      "Phân tâm học cũng đi từ thời kỳ đầu, mà sự thú nhận của bịnh nhân phải cướp bằng cam go của thoi miên, sang thời kỳ tiến bộ hơn mà người ta tiên đoán được tất cả với những nhân xét tình vi.",
+      "",
+      "Bất luận giống thú nào - dầu là giống lẹ làng nhứt, nhẹ nhàng nhứt cũng vậy - đi qua một đoạn đường sao cho khỏi đi lại ít nhiều dấu vết.",
+      "",
+      "Người thợ săn trồng các dấu vết ấy, có thể biết được giống thú nào đã đi qua...",
+      "",
+      "Nhà khảo cổ học cũng thế, nhìn một mảnh vụn của một tòa kiến trúc ngàn xưa, có thể vẽ rõ trạng thái cả một thế hệ trong một đỏ thanh diên tàn.",
+      "",
+      "Nhà phân tâm học cũng thế, trải qua giai đoạn nghiên cứu ngày một tiến bộ của minh, có thể thấu triệt những kín đáo của VÒ THỤC, bằng một hiện chứng nhỏ nhặt của bịnh nhân.",
+      "",
+      "Freud ngay trong những cuộc nghiên cứu dầu tiên theo cách dựa vào những chi"
+    ],
+    "page_75": [
+      "tiết nhỏ nhặt, tim ra được một con đường sáng: những hành vi hỏng.",
+      "",
+      "Thế nào là hành vi hỏng?",
+      "Làm lạc, cho vật này là vật kia, nói lọn v. v..., những hành vi hỏng ấy mỏi ngày ta dều có.",
+      "",
+      "Nhưng ở đâu đưa lại những hành vi đáng ghét ấy mới được chớ? Và đâu là ngayên nhân sự phản động lại ý muốn của ta ấy ?",
+      "",
+      "Khoa tà̀m lý học ngày xưa dễ thường cho đó là do mệt nói và ngẫu nhiên mà ra. Hoặc là vì lăng tri, vô ý, khoa ấy lai bão.",
+      "",
+      "Freud không nghĩ thiền cận như thế. Trong địa hạt thầ kinh bịnh học, Freud không bao giờ cònṭ nhận một sư gi do ngẫu nhiên, do đì̀u vô nghĩa lý mà ra. Đối với ông, bao ihiêu cơn thác loạn đều có một ý nghì: rõ ràng, bao nhiêu hành vi đều có nờn̨ cốt chắc chắn của nó. Và bởi trong thững hành vi hỏng ấy, phần - HUU THUC không hoạt động, mà chỉ đứng choán chi thôi, thử hỏi lực lượng nào khả dĩ tha thế cho nó nếu không phải phần VÒ THUC"
+    ],
+    "page_76": [
+      "Những hành vi hỏng, Freud cho không phải kết quả của sự lãng trí, của sự thiếu y nghî, mà trái lại chinh là kết quả của môt y nghî, bị cấm chế.",
+      "",
+      "Qua những hành vi hỏng ấy, ẩn lọ̀a một sư glı mà ý muốn ta cố bóp nhỏ lại thành im lặng.",
+      "« Mót sự glı» ấy nói hư tiếng xá lạ của VỎ THUC, thứ tiếng các nhà giải phẫn tâm lý rất cần phải họq̧.",
+      "",
+      "Do đó, sáng ra mọ̣ nguyên tắc: 1. Tất cả hành vi hỏng, tít cả hành động do mọ̣t diều lâm lạc má rị, đều đề biêu dương mọ̣t ý muốn che đíy ; 2. - Trong cõi HUU THUC lẽ tất ih:èn phải có mót phằn đọng lực chớngịại phát hiệu ấy của VỎ THUC.",
+      "",
+      "Ngươi ta vi lâm lô mới thốt ra những diều ngươi ta không nuốn thốt hay những diều ngươi ta đã nhị̂ mà không dám thốt.",
+      "",
+      "Gần luôn luôn nly vậy, hành vi hỏng la mọ̣t sự tự thú, uột sư tự phàn bọ̣i minh.",
+      "",
+      "Những hành vi lưng thường hiếm hoi. No chi cung cho ta ó các phằn nhỏ nhặt"
+    ],
+    "page_77": [
+      "nhưt của tiềm thú́e.",
+      "Nhưng với sự hiểu biết ấy, tánh hiểu ký nhạ̀n xét của Frạud đi xa thêm nữa: nó xem xét tất cả cháu vi của đời sống tinh thần ta, đề tìm kiếm và giải thích, theo sự hiểu biết ấy, những hiện tượng vô lý khác, mà mộng mi là một.",
+      "",
+      "Mộng mị - kẻ thăm viếng giấc ngủ ta ban đêm - tánh quen coi nó như một khách viễn phương lạ lùng, như một tên đãng từ lưu linh trên con đường sáng sủa của tri óc.",
+      "« Mộng là mị!» người ta thường bảo thế.",
+      "",
+      "Một giấc mộng không có mục đich, ý nghĩa gì cả.",
+      "",
+      "Mộng là ảo cảnh của máu huyết bất điều hòa gây nên ; các ảnh tượng của nó đều vô nghĩa lý.",
+      "",
+      "Khoa tàm lý học ngày xưa, dẹp bỏ qua bên bao nhiêu giải thích hữu lý, cho mộng mị là những trò dủa trẻ con mà sự động cợn của thần tri ta dự phần vào...",
+      "",
+      "Hơi đâu mà dễ tâm đến mộng mịdứa trò hề láo xược ấy! Khoa học chẳng lọi lch gi mà quan thiết đến mộng mị."
+    ],
+    "page_78": [
+      "Nhung thứ hỏ̂ ai hành động, ai vẽ vơi, ai thêu dệt, ai chạm trồ, ai uốn nân trong những giấc mộng của ta ? Cồ thời xa xôi đoán chừng trong đó có ý muốn, hành động va ngón ngũ̃ của một kẻ nào vó hình vô ảnh khác hơn Bản ngã thức tình của ta. Cồ thời bủo mộng mị len vào thằn tri ta, nhờ một lực lượng siêu phàm đó là một ý muốn của Thiên Công phìt-hiềa...",
+      "",
+      "Còn ai khác hơn Trời, Phật, thánh thằn khả dĩ tạo nên những cuộc luân hồi, duy trì quyền lực tối cao? Chinh những quyền van năng ấy mượn đường mộng mị đến gần thế nhàn, khẽ giao cho thế nhân một sứ mạng, ban cho họ khi thi hy vọng, khi thi khiếp đảm, cải hóa họ hay cảnh cáo họ một điều gi, vạch những hinh ảnh sáng tỏ trên tấm phòng đen của giấc ngủ.",
+      "",
+      "Tưởng nghe được trong những phai hiề han đêm ấy một tiếng gọi linh thiêng, mợt lời báo linh ưng, các dân tộc cồ thời đón tất cả lòng tin uguờng nhiẹ̣t thành điển dịch bâng ngón ngữ nhàn loại, thứ « ngón ngữ nhẹ̣m màu» ấy - tức là mông mi va tim nhạn thức trong đó ý muốn của"
+    ],
+    "page_79": [
+      "thảnh thần trời phật.",
+      "Thế nên, vào buồ̉i rạng đông của lịch sử nhân loại, một trong những khoa dầu tiên là khoa doán diẽm giải mộng: sau một đêm dài qua với mộng mị, các nhà lu hành, các bậc hiền triết thời bấy giờ suy nghiệm và cho những hình ảnh của giấc mơ như tượng trưng của một biễm tượng dầy dọa nạt hay của một niềm vui dầy khoái trá sắp sẫy đến cho minh.",
+      "",
+      "Khoa tâm-phân-học n'ày nay muốn bước qua những ngưỡng cửa mông mị vén tấm màn đen tối của quá khứ cá nhân ; tráa lại nghẹ̉ thuât đoán diẽm giấi mộng ngày xưa tưởng rằng do những hinh bóng ẩn hiện trong giấc mơ, người chết háo trước cho người sống biết những điều vị lai quan hệ.",
+      "",
+      "Khoa thần bi nghio xưa ấy phát triền trải qua muôn ngàn năm, trong các dền thờ cồ Ai Cập, trong những vệ thành (acropoles) Cồ Hy Iạp, trong những chánh điện của giáo đường La Mã cồ thời và dưới vòm trời nặc nồng tin ngưỡng nhiệt thành của xứ Palestine.",
+      "",
+      "Đối với bao nhiêu dân tợc, bao nhiêu"
+    ],
+    "page_80": [
+      "thể hẹ́, mợng mị là ngươi thơng ngón chánh thưc của sớ mạng.",
+      "",
+      "Khoa học ngày nay nhất mực phảa đơi quan niệm sai lầm ngô nghê ấy. Không nhin nhận có thần thánh không tin tuyệt đởi ở quyền vạn năng của đấng Cao Dày, khoa hoc khơng thấy ở mộng mị một sứ mạng nào của Hỏa Công trao phó và khêng tim dược trong mộng mị một ý nghĩa nào cả.",
+      "",
+      "Mộng đởi với khoa học là một hồn đợn, một sự vô giá trị (vì vô ý nghĩa), một hành vi thuóc về sanh lý, một rung đờng trễ tràng, rơi rạc của thần kinh hẹ́, mợt sôi nỗi của máu huyết dồn lên não cân, một sơ sót lại của bao nhiêu cảm tưởng chưa nghiền ngẫm hết trong lúc ban ngày và bị lói cuốn bở lượn sóng đen thẫm của giấc ngủ ban đêm.",
+      "",
+      "Mớn xáo trộn sự rời rạc ấy lẽ tất nhiên khiếm khuyết tất cả ý nghĩa hữu lý. Thế nên, khoa học không thừa nhận của mộng mị một chân lý, một mục dich, một lệ luạt, một ý nghĩa náo cả. Và khoa tâm-lý học ngày nay không hơi đâu tim cắt nghĩa diều vô lý, hay giải thích sự quan trọng của"
+    ],
+    "page_81": [
+      "điều khơng đáng cho là quan trong.",
+      "Duy chi giáo sư Freud là chịu quay lại phán xét mộng mị, coi nó như sư báo trước của số mang. Nhưng ở chỗ mà những kẻ khác chi tim thấy có hồn đón, rời rạc, Freud lai tim thấy liên lạc, ăn khớp với nhau. Đều đối với các bậc tiền bối hình như rối ren, không đường giải thoát, Freud lai tầm ra mối tương quan giữa HU'ETHƯC và VỚ-THỤC.",
+      "",
+      "Một là chặn giữa của giới tình cảm che dậy và giới tình cảm chịu quyền thẫm phán của lý trí ta. Nhờ mộng, có thê biết được nhiều chuyện ta không dám biết lúc ta tỉnh. Freud tuyên bố rằng không mót giấc mộng nào vô lý cả; mỗi giấc mộng được coi như một hành động tich thần, đều có ý nghĩa rõ rệt !",
+      "",
+      "Bất luận giấc mộng nào cũng là phát hiện không phải của một ý muốn siêu phàm, tối cao, thiêng liêng, má thường là của mót ý muốn thán yêc nhất, sâu kín nhất của cá nhân.",
+      "",
+      "Sự thièn chuyền ngón ngữ của mộng mị sang ngò̀ ngư của tư tưởng, phương pháp Freud, thi hành trong một tòn chi tối"
+    ],
+    "page_82": [
+      "thu.",
+      "Nếu cách giải thích dựa vào thần quyền ngày xưa muốn khám phá chuyện vị lai, thì cách giải thich theo tám lý hoe ngày nay lại bới móc quá khứ của tinh thần, của sanh lý, đề nhân đó tầm ra hiện toi thân yêu nhất của cá nhân.",
+      "",
+      "Bản ngã cá nhân lúc mê cũng như lúc tỉnh. Và không phải vô cớ mà bảo một sự gì xảy ra \"như trong giấc mộng\" đâu! Lúc mê ta còn «tỉnh» hơn lúc tỉnh nữa đa. Lúc mê, ta sống uới Bản ngã hoàn toàn của ta, nghĩa là Bản ngã quá khứ và Bản ngã hiện tại. Còn lúc tỉnh, ta chỉ sống với Bản ngã hiện tại của ta thôi.",
+      "",
+      "Bất luận cuộc sống nào cũng có haĩ bề :",
+      "Bề dưới, trọng cõi VÔ-THƯ'C, chứng ta là toàn thể của chúng ta Cái toàn thể của chúng ta gồm có : Quá khứ và biện tại; món tròn lộn của các tinh cảm; di tích cũ kỹ của một Bản ngã khá rộng phạm-vi dính liền với bồn tánh.",
+      "",
+      "Còn bề trên, trước anh sáng, thì chỉ Bản ngã hữu thức thôi",
+      "",
+      "Cuộc sống đại đồng mà âm thầm ấy ban dẻm giao tiếp với đờ sống cá nhân của"
+    ],
+    "page_83": [
+      "ta, do bởi tên sứ già bi mật: chiêm bao hay giấc mộng.",
+      "",
+      "Nghe theo chiêm bao, tim hiểu chiêm bao chinh là tim hiểu diều sâu kin bi ằn nhất của bản ngã ta.",
+      "",
+      "Kẻ nào biết được ý muốn cố hữu của mình, bằng cách dò dẫm lương năng minh, đi sâu vào các diềm chiêm bao, mộng mị của minh, kẻ ấy mới thật là hiểu được trọ̣n phận đời sống của minh; mới thật rõ dược cá tánh minh.",
+      "",
+      "Nhưng làm sao cám neo được ở những bến bờ vỏ cùng đen tối ấy? Làm sao nhận thức được rõ rệt điều không bao giờ phát 10 rõ rệt hay chí phát lọ̀ có bằng dấu hiệu mà thôi? Cái yến sáng ấy mập mờ linh lung chao đóng trong giấc ngủ của ta, yến sáng ấy làm sao soi tỏ cho ta được ?",
+      "",
+      "Tim mót bi quyết, một con số khả dĩ diễn dịch những hình bóng mập mờ khó hiểu trong giấc mộng, công việc ấy dường như đòi hỏi mót trực giác phi thường, mót sức mạnh tinh thần của nhà thôi miên hoc.",
+      "",
+      "Nhưng Freud có ở «cóng xưởng tâm lý» của ông một chia khóa nó mở được"
+    ],
+    "page_84": [
+      "cho ông tất cả cửa nẻo. Ông có một phương pháp rất thần tình : là trước khi muốn đạt tới được cái khó, bao giờ ông cũng bắt đầu bởi cái dung dị, dễ dàng nhứt.",
+      "",
+      "Đoán điểm giải mộng, Freud di từ trẻ con đến người lớn. Vì trong lương năng trẻ con, óc tưởng tượng chứa đựng chưa được bao nhiêu chuyện, vòng tư tưởng hãy còn thán hẹp; thế nên chiêm bao dễ tan vào...",
+      "",
+      "Chiêm bao đối với trẻ con dễ có lắm. Đi ngang một hàng kẹo mứt, cha mẹ chẳng chịu mua cho, trẻ con cũng có thê thấy kẹo mứt trong giấc mộng được. Trong óc trẻ con, sự thèm thuồng ao ước biến thê ra hình bóng, lòng ham muốn kiêu-thiết nên chiêm bao. Sự rụt rè, dè dặt, sợ mắc cờ, sự suy nghiệm phải trái hãy còn thiếu hẳn ở bản tánh trẻ con.",
+      "",
+      "Trẻ con ở trường dòng dõng trước mặt mọi người một cách dửng dưng không biết mắc cờ ra sao, thì chúng nó cũng phó trương trong giấc mộng cạ̉e ham muốn sửa chúng dễ dàng thế ấy."
+    ],
+    "page_85": [
+      "Đối với người lớn, chiêm bao có căn bản ở lắm ký ức. Ngôn ngữ của bao nhiêu hình ảnh, trong óc trễ con dễ thượng chỉ gồm chừng vài trăm sự tiêu biểu là cùng, ở thần trí người lớn lại dệt, một cách cực ký nhanh chóng và vô cùng khéo léo, thành muôn ngàn tình tiết hoạt động.",
+      "",
+      "Trong giấc chiêm bao của người lớn, còn đâu sự trần truồng của tám hồn thơ dại, đưa ra tất cả ham muốn trong lòng khong hề biết mây may che dậy; còn đâu những lời thốt ra dầu. Ngô minh Sở trong lúc mơ màng!",
+      "",
+      "Giấc chiêm bao của người lớn không những có khác và tinh tế hơn giấc chiêm bao của trẻ con, mà nó lại còn giả dối, lừa dão, nói láo! Vị dẫu nằm mộng. Lương tâm người lớn chẳng phải là dứt hoạt động. Trong giấc chiêm bao, giác quan mơ màng, tám hồn người lớn cũng biết sợ sự kiềm sát của lương tâm.",
+      "",
+      "Trong giấc chiêm bao của người lớn, một tinh cảm muốn, tự biểu niềm mà không dám làm thế, một cách tự do. Sợ sự kiềm sát của lương tâm, tinh cảm bắt buộc phải nói khác những diều nó nghĩ; nó che dậy"
+    ],
+    "page_86": [
+      "bằng một vài vỏ lý, đề không ai đoán được cháu ý nghĩa của nó.",
+      "",
+      "Chiếm bao, cũng như một số thị sĩ, là kể nói láo tát tình. Nó tự thú c một cách che đậy à; nó phát lồ, chỉ bằng biểu tượng, những tình tiết nói quan.",
+      "",
+      "Công việc của nhà phân tâm học là làm sao rút ra được cái trung tâm diễm của chiếm bao - tức là SỰ THẬT.",
+      "",
+      "Sự Thật của chiếm bao là không phải những điều mà chiếm bạo đã thốt ra trong giấc mơ, những chính những điều nó muốn nói mà không dám tự biểu niệm bằng ngôn ngữ. Và chính những điều không tiện nói ra ấy, nó đưa ta noi đến cõi Vô Thức, nơi đó phân tâm học coi là mục đích, lực hấn của mình và quyết tình đạt tới.",
+      "",
+      "Nghiên cứu cá tánh con người qua sự phân jách, chiếm bao mông mị. Freud không hề đưa vào một giải thích mơ hồ. Ông đang hoàn muốn có một cuộc nghiên cứu đầy tính cách khoa học đứng đắn, như thể phương pháp hoán bị của lối phê bình văn học áp dụng vào việc biến đáp truyện ký một danh sĩ, thì hào.",
+      "",
+      "Đối với Freud, chỉ qua màn ảnh của"
+    ],
+    "page_87": [
+      "chiêm bao, hinh bóng cá nhân mới xuất hiện rõ rệt.",
+      "",
+      "Và bởi muc đích cốt yến của nhà tàm phân học là tim hiểu cá tính con người, thế nên Freud, phải dựa vào chiêm bao mà phân tách, giả thich, phê phán.",
+      "",
+      "Lần thứ nhất, Freud coi ý nghĩa sinh lý của hiẹn tượng chiêm bao nhiú một nhu cầu của bộ máy thần kinh.",
+      "",
+      "Khoa hoc từ lâu đã tự ăn định ý nghĩa, địa vị của giấc ngủ trong trật tự tở chức của Tạo hóa; giấc ngủ ở hồn thân có cái hay củng-cố lại được sức khỏe măt mác trong công việc, làm suốt cả ngày; bồi bồ lại được sức não cân phun phi trong khi tàn tuy với chức nghięp; gián đoạn những vất vả cực nhoc của kiếp người bằng mót thời hạn nghỉ ngơi bắt buộc.",
+      "",
+      "Thế nên, hình thức vệ-sinh hoàn toàn nhất của giấc ngủ phải là một trống rồng tối đen, mót sư gi gióng giống với sự chết, một dừng lại của tất cả hoạt đỏng não cân. Tóm lại, ngủ là không nén thấy, khóng nên biết, không nén nghî, là quên tất cả đi đề nghỉ ngơi cho trọn.",
+      "",
+      "Vậy cớ sao tạo hóa lại quấy rầy giấc"
+    ],
+    "page_88": [
+      "ngủ của con người bâng chiêm bao? Có phải Tạo hóa chù̉ng muốn cho con người ngơi nghỉ sau một ngày cực nhẹe?",
+      "",
+      "Chiêm bao - những biện tượng vô lý ấy có phải mót ý nghĩa phản đối lệ luật của Tao hóa không? Những càn bồi trú trên ấy, từ lâu lẩm người ta không biết phải trả lời làm sao.",
+      "",
+      "Lần thứ nhất, Freud xác đích rằng những giấc chiêm bao rất cồn cho sự thành lợp ux̃ng chải của trật tự tinh thần, não cân của ta.",
+      "",
+      "Chiêm bao là cái nắp hơi (soupape) của các tinh cầm ta. Vì khát vọng không bao giờ thỏa mãn của ta đối với khoái lạc và cuộc đời, và những ham muốn vô bờ bến của ta đã đấn đến bước đường cùng trong bồn phận ta !",
+      "",
+      "Trong muôn ngàn bam muốn đồ xô đến cho một người trung lưu, thứ hỏi ham muốn nào y có thể thỏa mãn được trong một ngày đầy đủ của y?",
+      "",
+      "Mỗi kẻ trong bọn chúng ta đây ước gi thực hiện được một phần tối thiểu nhất của những nguyên ước của minh, thì kề ra cũng đã là diễm phúc lắm rồi!"
+    ],
+    "page_89": [
+      "Ở thâm tâm bọn chứng ta đây, sôi nỗi nhiều ước vọng đen tối, nhiều ham muốn bị dồn ép, nhiều say đắm thật ła mãnh liệt.",
+      "",
+      "Báo nhiêu ước vong, ham muốn, say đắm ấy chắn chịt lấy nhau, quấn quíu nhau trong cõi liềm-thừa, từ sáng sớm đến ban đèm.",
+      "",
+      "Trong bầu không kbi khó thở ấy, thử hỏi tâm hồn làm sao khỏi vỡ tu: g ra muôn mảnh, nếu chiêm bao không mở một con đường huyết lộ cho những ham muốn mãnh liệt bị sự đè nén, sự dồn ép, vây vào một nơi tử địa.",
+      "",
+      "Một cách vô hại, mở cánh cửa chiêm bao, cánh cửa giải thoát cho những ham muốn bị kềm thác ban ngày của ta, chúng ta tình cờ đã tháo cửi sô lòng cho đời tình cảm ta khỏi ám ảnh của nó, chúng ta đã làm thơ thới tâm hồn ta. Như thế bằng giấc ngủ, chúng ta mỗi đêm đã giải cho ta sự cực nhọc ban ngày.",
+      "",
+      "Những ý định đáng kết án của ta về phương diện xã hội, thay vì sự buông trôi thả lỏng đè dễ đi đến tội ác, chúng ta a thâu hẹp o nó lại bằng những bánh động"
+    ],
+    "page_90": [
+      "tưởng tượng hiền lành, trong một thế giới riêng biệt cho bản ngã ta, tâm hồn ta.",
+      "",
+      "Chiếm bao là cái thay thế cho hành động. Chiếm bao thường giúp ta tránh được nhiều hành động điên rồ. Thế nên danh ngón này của Platon rất đúng: \"Những người hiền lành là những người cứ chiếm bao điều kế khác hành động thật-tình\".",
+      "",
+      "Chiếm bao khong phải đến đề phá giấc ngủ ta đâu mà chính đến đề nâng niu giấc ngủ cho ta. Nhớ những hình bóng mơ màng của chiếm bao, tâm hồn cởi bỏ được bao nhiêu xu hướng xăng bậy của nó, đề mỏi buồi sáng thức, dậy cơ thể khá dĩ bồi phúc lại sức khỏe và lại tìm thấy một làa nôn nhẹ nhàng trong trăng.",
+      "",
+      "Freud đã nhìn nhận, ở sự giải thoát ấy của tâm hồn, ý nghĩa của chiếm bao trong cuộc đời ta - ý nghĩa từ lâu không ai chu tâm đến. Và sự phát kiến ấy không những có thể đề nó tới \"kẻ đi viếng giấc ngủ ta bạn đệm\", mà còn khá dĩ dùng kiếm sát tất cả hình thức của mơ mộng lúc ban ngày, vì như thằ thoại và thơ ca chẳng hạn. Vì tôn chỉ thơ ca là gì? Nếu không phải"
+    ],
+    "page_91": [
+      "dang biểu tượng giấ thoât con người khô̄i những sự căng thẳng nợi quan của anh ta, nếu khơng phải dời sang một khu vực an lành cái trán dây nó đánh đầm tâm hồn anh ta.",
+      "",
+      "Cũng như con người, trong chiêm hao, tự giấ thoát tâm hồn ra khỏi những ước vọng, ham muốn của minh, các dân tợc tránh khỏ mọi nỗi lo sợ của nó và tim dược chỗ trút sạch những hoài bão của nó trong các \"sáng tạo mèm mại\" ấy, mà chúng ta quen gọi là thần thoại và tôn giáo.",
+      "",
+      "Vui tòn giáo, những bản năng ẩn náu trong biểu tượng trở nên thanh khiết trên các bản thờ thiêng liêng; sự nặng nề trong tâm linh (vi tinh cảm bị đè nén, dồn ép) biến-thề thành ngôn ngữ giải phóng, bởi lời thú tợi và cầu nguyện.",
+      "",
+      "Tâm hồn nhân loại chi phát hiện trong thơ ca như óc tưởng tượng sáng tạo. Và chúng ta chi thừa hưởng sức mạnh thực hiệu thiêng liêng của tâm hồn nhân loai trong các diềm chiêm bao của nó hóa-thân ở tôn giáo, ở thần thoại và ở công trình nghệ thuật.",
+      "",
+      "Không có khoa nghién cứu về thần"
+    ],
+    "page_92": [
+      "kính nào, như lời Freud bảo, có thể đạt tới tinh tủy của cá tánh con người, nếu khoa ấy chỉ quan sát con người lúc tinh tảo. Thế nên phải xuống tận sâu thẳm bồn thễ cá nhân, mới nhận chân được mặt thiệt của hình ảnh cuộc đời bên trong của cá nhân.",
+      "",
+      "Những hình bóng tượng trưng của chiêm bao, do cuộc đời bên trong rọi ở giấc ngủ ta, che đậy những điều ham muốn bị dồn ép dè nén, không thể thực hiện được ban ngày, để ban đêm tìm cách len vào đời sống ta bởi con đường của mạng mị.",
+      "",
+      "Điều gì ban ngày, bởi một lẽ chi, không thể thành hành vi hay ngôn ngữ, ban đêm trong giấc chiêm bao tự biểu-niệm bằng muôn màu sắc. Hoài bão, ước vọng của bản ngã có thể thong thả dầm minh trong lượn song tự do của chiêm bao.",
+      "",
+      "Trong chiêm bao, tâm hồn ta bị kiềm thúc cả ngày bởi lòng trình thục, có thể trút ra hết những ý muốn bất chánh, dám dăng của nó.",
+      "",
+      "Năm mộng, người đàn ông có thể thỏa mãn với dan ba khinh ghét khước từ"
+    ],
+    "page_93": [
+      "anh ta lúc ban ngáy; tên ăn mày tóm được tiền bạc rất nhiều; kẻ xấu xí biến ra chàng đẹp trai; người già hóa trẻ; kẻ thất vọng được hạnh phúc; người bị bỏ quên trở lại có thanh danh; kẻ yếu đuối đột có lực lượng.",
+      "",
+      "Năm mộng, ta có thể giết được kẻ thù của ta; vượt cao hơn những kẻ cao hơn ta; sống, với một sự xuất thân vô bờ bến, cùng ý muốn thân yên và sâu kín nhứt của ta."
+    ],
+    "page_94": [
+      "# CHƯƠNG SẮU ",
+      "",
+      "## Kệ thuật của Phân tâm họe",
+      "",
+      "\"La thay cuộc đời bén trong của con ngươi lai được nghién cứu lôi thoi đến như thế và được giải thích nghèo nàn đến như thế. Từ trước đến nay người ta chưa hề dùng vật lý học giải thich tâm hồn cũng như chưà hề dùng tầm-hồn giải thích ngoại vạt bao giờ\"",
+      "",
+      "## Novalis",
+      "",
+      "Cũng có nhiều nơi trên quả địa cầu, dầu hói tự dưng sỏi nồi bẩn lên...",
+      "",
+      "Ở lẫn chổ khắc, vàng lấp loáng trong cái trôi theo giòng nước, Ở lâm chổ khác nữa than tự lòng đất tung lên rồi rơi xuống như trận mưa lưu hoang.",
+      "",
+      "Nhưng kỹ thuật của nhân loạ khỏug bao giờ kiên tâm chờ đợi những phát hiện"
+    ],
+    "page_95": [
+      "thiên nhiên ấy.",
+      "Người ta đào nhiều hầm mỏ đề chỉ tìm ra được một vài hầm có mỏ thôi.",
+      "",
+      "Một khoa phân tâm học hoạt động, cỡng như kỹ thuật của nhân loại không thể thỏa mãn được với những thứ nhận inh cớ của chiêm bao hay của các «bánh vĩ hồng».",
+      "",
+      "Muốn đến gần được cõi Vô-thức, Phân tâm học phải cần đến một kỹ thuật, một công việc sâu-sắc. Kỹ thuật ấy, Freud nhu dụng. Công việc ấy, Freud then dnôi.",
+      "",
+      "Phương pháp của phân tâm học không giống vơi bao nhiêu phương pháp trong ? học va trong tâm lý học có từ trước. Nó hoàn toàn mới mẻ và độc lập.",
+      "",
+      "Phương pháp của phân tâm học là rán lắm cho thấy được những cái không trông thấy. Nó không cần đến mợt dụng cụ nào cả. Chiếc ghế phô̂ tơi trơng đó nhà phân tâm học nắm nghĩ lưng có lẽ là dụng cụ độc nhất ông dùng để chữa bịnh thần kinh.",
+      "Khoa phân tâm học tránh tất cả sự can thiệp vủa giúp của vật chất và sinh thần. Xu hướng của nó là không phải đem vào cho con người một vật gì mới lạ có tính cách tôn giáo hay y khoa, mà chính là lọc lấy"
+    ],
+    "page_96": [
+      "ra ở con người một vật cố hữu .",
+      "Sự chuyên trị của phán tâm học cốt làm sao cho bình nhân tự ý thức dược minh. Chi khi nào người bịnh được gọi về với cá tánh minh (chớ không phải lửng lơ trong những tín ngưỡng xăng hây) chỉ vào lúc ấy va mời là chủ của bịnh tình va. Sự ohuyên trị bấy giờ không phải từ bên ngoài đi vào mà từ hoạt động ngay trong tinh thần bịnh nhân. Người y-sĩ chi đem vào lối chuyên trị ấy có kinh nghiệm, cần thận và sự chăm nom của ông ta thôi. Ông không cần đến thuốc men phiền phức. Linh dược của ông lọc lấy ngay trong nguồn sinh lực của bịnh nhân.",
+      "",
+      "Bịnh nhân riêng minh cũng có dự phần vào cuộc chuyên trị. Nhưng đáng lẽ trình bầy mọi việc một cách rõ ràng, va lại dáng hiến cho y-sĩ dưới những mán che dậy... Thế nên, buổi đầu, cả y-sĩ lẫn bịnh nhân đều không sao rõ được biến thái của bịnh trạng.",
+      "",
+      "Những điều người mắc bịnh thần kinh phát lọ hay thú nhận chỉ là một hiện chứng thôi. Còn bao nhiêu hiện chứng"
+    ],
+    "page_97": [
+      "khác, trong thế giới tâm Hinh, khbng bao giờ biễu thị rõ rệt bịnh tinh. Trái lại, những hiện chứng ấy còn dấn diếm căn bịnh nữa là khác.",
+      "",
+      "Theo Freud, các chư̛ng bịnh thần kinh tư nó khơng có mọ̣t ý nghĩa nào cũ, mà nó mỗi mỗi đều có một nguyền nhân phân biệt.",
+      "",
+      "Sự gi lung lạc ngươi mắc bịnh thằn kinh chinh va, va cũng không biết nữa !... Trải nhiều năm, sự khủng hoảng nợi quan phát hiện ra trong nhiều hiện chứng, trong lẫm hánh v' cường bách, đề rốt cuóc người bịnh không biết đâu mà rờ !",
+      "",
+      "Bấy giờ mới là lúc nhà phân tâm học nhún tay vào. Công việc của ông là giúp người mắc bịnh thần kinh vén tấm màn mờ tối mà chính bịnh nhân là vai chủ động buông rủ nó xuống. Ông cùng với bịnh nhân tim trong tấm k ếng soi hinh các biện chứng, những hình thức khuôn mẫu nó gáy nên căn bịnh. Từng bước, từng bước, cả hai dò đường lối của chửng bịnh thằn kinh đến kỳ đạt được sự soi sáng cuộc khủng hoảng bên trong.",
+      "",
+      "Hinh thức, vị trí, thời giờ của cuộc"
+    ],
+    "page_98": [
+      "khủng hoảng bên trong ấy cần phải kiến thiết lại bằng trí nhớ cho thật chinh chấn.",
+      "",
+      "Nhưng sự kiến thiết ấy lại gặp một trở lực. Người mắc bịnh thần kinh tâm tinh rất phức tap. Những nguyên nhân va bảo lại không phải là nguyên nhân dich xác. Điều va biết va lại không muốn biết. Điều va không biết, va lại tìm biết một cách vô ý thức.",
+      "",
+      "Câu chuyện rắc rối ấy, nhà phân tâm học nhún tay vào là muốn cho nó dứt.",
+      "",
+      "Về phần bịnh nhân, muốn cho nó dứt, phải gọi y-sĩ.",
+      "",
+      "Khoa tâm phân học không muốn trong nhứt thời, bằng một định thức mau lẹ, đem người hính ra khỏi ngay con đường khuất khúc của tâm hồn va. Trái lại khoa ấy trước nhứt dắc người bịnh trải qua những đoạn đường lạc lối của đời va, rồi đem va đến tai nơi bắt đầu cuộc khủng hoảng tinh thần của va.",
+      "",
+      "Muốn chữa lại tấm vải dệt hư, muốn quấn lại cuốn tờ người thợ dệt phải đặt trái thoi trở lại nơi chỉ dứt. Cũng thế, muốn dải mới lại giòng đời bên trong"
+    ],
+    "page_99": [
+      "ta, nhà chữa bịnh tinh thần lê tất nhiên phải quay lại nơi mà cuộc khủng khoảng phát khởi.",
+      "",
+      "Và theo Schopenhauer, binh điên dễ trị hết, nếu người ta có thê đạt tới chỗ xảy ra cuộc khủng hoảng tinh thần.",
+      "",
+      "Nhà mồ xè khi xắn con dao vào đung máng mỏng mẻo của các dây thần kinh phải thận trọng thế nào, thì nhà phân tâm học cũng phải dè dặt thế ấy trong khi đi lần từ cuộc đời bên ngoài vào cuộc đời bên trong.",
+      "",
+      "Sự chưyên trị của nhà phân tâm học còn có phần lâu lắc hơn. Nó đòi hỏi một tập trung năng lực ghé gớm mà y khoa tư báo giờ đến bao giờ chưa hề nghĩ đến. Sự tập trung năng lực ấy chỉ có thê sánh với lực lượng và kiên tâm của ý chí bon Jésuites thôi.",
+      "",
+      "Phương tiện duy nhứt mà sự chưên trị của nhà phân tâm học cần đến là quan sát - mót cuộc quan sát kéo dài trên lắm quãng thời gian.",
+      "",
+      "Người bịnh ngồi trên một chiếc ghế. Làm thế nào cho va dứng thấy y sĩ núp sau lưng va. Đê cho va nói... Muốn nói"
+    ],
+    "page_100": [
+      "gi thi nói! Những lơi va thốt ra lúc này lẽ tất nhiên là đâu Ngó minh Sở. Không phải một cuộc thú tơi! mà là một lúc thở ra những gi minh chen dấu tự đay loag từ láu.",
+      "",
+      "Lén xem cuộc chữa bệnh ấy, ai cũng bắt tức cười. Vi lắm khi háng tháng trường chẳng có sự gì khác xầy ra hơn lá một kẻ nói (bịnh nhân) đề một kẻ nghe (y sĩ).",
+      "",
+      "Nhà phán-tâm-học rất kiên nhẫn. Ông sã̃n lòng chờ đợi và căn dặn người bịnh không nên bao giờ xen vào ý nghĩ, tư tưởng riêng, cứ đề mặc tình các ý tưởng tự cõi Vô thức đồ xó đến cho thằn trí va.",
+      "",
+      "Nếu người bịnh ý-thức được bịnh trạng của minh, thì đâu còn mắc bịnh thằn kinh nữa và đâu cần đến y sĩ.",
+      "",
+      "Thế nên, khoi phán tâm-học kất kể tất cả câu chuyện dự bị sã̃n và chỉ đòi hỏi ở bệnh nhân một cuộc thốt ra rời rạc bao nhiêu ý tưởng hầu lốn đột khởi trong trí óc minh. Chính những ý tưởng bất ngờ, đót hiện ấy mời là tài liệu quý giá của nhà phán-tâm-học.",
+      "",
+      "Người bệnh thốt ra những lời đúng hay sai, quan hệ hay vô nghĩa, thành thật hay"
+    ],
+    "page_101": [
+      "đóng kịch chuyện ấy không cần biết. Chỉ cần biết làm sao lấy được nhiều tài liệu nhứt ở người bệnh là hơn !",
+      "",
+      "Lúc bấy giờ mới chính là lúc công việc giải phẫu bắt đầu...",
+      "",
+      "Phải đem dãi lại ở \"máy lọc\" (tức là tâm lý học) bao nhiêu ký ức, những dièm chiêm bao, lời tư thuốt của người bệnh, dễ gạn lấy tính chất khả dĩ cho phân tâm học nhu dụng.",
+      "",
+      "Bao giờ nhà phân tâm học cũng không nên quèn rằng: những lời đưa ra, những ý tưởng của bịnh nhân chỉ là những biền thè của điều người ta tầm kiếm hay đúng hơn, chỉ là những viền tượng sớm đó ần núp nhiều sự cần phải tiên đoan».",
+      "",
+      "Vỉ lẽ cần yếu cho sự nhân xét bệnh trạng, là không phải những điều bệnh nhân đã trải qua, mà là những điều bệnh nhân chưa trải qua nó chìu nặng xuống tâm hồn bệnh nhân như một cục bít tết dè trên dạ dày người đau bao tử; và như cục bít tết ấy, nó tìm con đường thoát ra ngoài mà luôn tuôn bị ngăn trở bởi một ý muốn trái ngược.",
+      "",
+      "Ý muốn trở ngại ấy, y-sĩ cần phải tìm cách hạn định nó trong mỗi phát hiện"
+    ],
+    "page_102": [
+      "thần kinh, đề lần lần đạt tới sự hoài nghi và từ hoài nghi đi tới sự chắc tay.",
+      "",
+      "Sư nhận xét êm đềm và tích cực ở bên rgoài của y-sĩ, vào buồi đầu cuộc chuyèn trị. được dễ dãi mà cũng bị trở ngai liền đó bởi một thái độ không tránh được của bệnh nhân. Lúc ấy, Freud gọi là « lúc di chuyển».",
+      "",
+      "Người bệnh, trước khi nói chuyện với y-sĩ, kéo dài những tình cảm chưa trải qua. không thề tỏ ra được. Va gieo các tinh cám ấy vào lâm hiện chứng. Nhưng một khi va tim được ở nhà tâm phần học một người chịu nghe và chăm chỉ, va liền trút bét cho tất cả tinh cám va chưa trải qua - những tinh cám thừa dối với va.",
+      "",
+      "Điều từ trước đến nay hoạt động diên cuồng trong một thế giới hư linh, bây giơ đã có thề tu lại một chổ được - cũng như cảnh vật phiêu động ban nẫy bây giờ đã bị tháu khẩn vào 6ng kinh của nhà nhiếp ảnh.",
+      "",
+      "Duy chì «lúc di chưyền» mới sáng tạo ra được vị trí của phấn tâm học: nguời bẹnh nào không có thái độ không tránh của clúc di chuyền, bị coi là bất khà chuyèn trị."
+    ],
+    "page_103": [
+      "Vl y-sĩ muớn nhạn ra bệnh trang, cần phải thấy được bệnh trạng phó diễn trước mắt ông trong một hình thức hoạt khỏ̉ và cảm động: bệnh nhân và y-sĩ đồng cần phải cảm giác được bệnh trạng một cách công cộng.",
+      "",
+      "Sư công cộng ấy, trong công việc của phan tâm hoc, đối với bệnh nhân thì cố ${ }^{1}$ vẽ lại các biến thái của hệnh trang, còn đối với y-sĩ thì cốt giải rồ ý nghĩa của bệnh trạng.",
+      "",
+      "Người mắc bệnh thần kinh, khi mới biết được biện chứng của căn bệnh minh, đến cho nhà phân tâm học điều trị. Đồng thời, bệnh nhân ấy lại như cố bám lấy căn bệnh của minh mợt cách bồng nhiên; vì bệnh thần kinh không phải do thời tia̛t hay động lực nào bên ngoài gây nên, mà chính là sản phằn cố hữu của bồn thể bệnh nhân, là mot phần quan trọng và hoạt động nhất của bản ngã bệnh nhân mà bệnh nhân không muốn cởi bỏ.",
+      "",
+      "Người mắc bịnh thần kinh cảm-giác và lý-luận phàn hai : một phần vê phương diện của Vó thức, phằn khác vê phương diện của Hữu thức. Va vừa làm người"
+    ],
+    "page_104": [
+      "thợ sẵn vừa làm con vật bị bận.",
+      "Chỉ có một phần của bệnh nhân thuận theo y sĩ thôi. Phần kia thì phản đối lại y̛ sĩ. Một tay bệnh nhân trao cho y sĩ những lời thú nhận. Tay khác bệnh nhân xảo trộn mọi sự thật làm cho y sī không biết đảu mà rờ!",
+      "",
+      "Người mắc bệnh thằn kinh không giúp teh gì cho kẻ cứu chữa minh được cả. Va không thể bảo cho y-sĩ sự thật. Vi chính việc không biết sự thật hay không muốn biết sự thạt nó gây nên. ở bệnh nhân sự khủng hoảng, sư lung lạc. Cả những lúc bệnh nhân muốn thành thật, va cũng nói láo. Dưới mỗi sự thật người bệnh nhân đưa ra đều ần núp một sự thật khác đáng nói hơn. Và khi nào bệnh nhân thú nhận mót sự gì, thường là đề che đậy, sau lời thú nhận ̛̀y, một điều bị ần cần biết hơn. Lóng muốn thú nhận và sự hô thẹn trộn lẫn nhau một cách nhiệm mâu. Người bệnh trong khi thuật chuyện, khi thì nói thiệt, khi lại dấu diếm. Trạng thai bất dông !",
+      "",
+      "Thế nên, chân ý nghĩa của phân tâm học quả là một cuộc phấn đấu. Và thiên tài của Freud bao giờ cũng biết tháu phục"
+    ],
+    "page_105": [
+      "kè̀ thù làm người giúp việc đắc lực cho minh.",
+      "Tài trình thám tám hồn của Freud càng tỏ ra siêu xuất khi người mắc bệnh thằn kinh muốn thồ lọ mà không thể nói ra dược.",
+      "",
+      "Lúc nào người bệnh nói quá to tay quá nhỏ, ngân nga hay nấp táp vội vàng, chính vào lúc ấy piằn Vó thức muốn bày tỏ. Tất cả trạng thái ở bên trong lọ ra ấy, chính là biến thê của ouóc khủng hoảng tinh thằn mà nhà phân tâm học đang khồ công nghiên cứu.",
+      "",
+      "Một cuộc chữa bệnh thằn kinh quả là lịch trình của bao khô khăn ghê-gớm. Nó có tinh cách khoa học ít hơn tinh cách nghệ-thuật. Có thể đem nó sánh với công việc oủa nhà họa hình người; phải theo vừng li từng tí nét mặt người trong ânh đẻ phóng đại ra cho đúng. Gì ! biết bao nhiêu công trình. Mất biết bao nhiêu thời giờ !",
+      "",
+      "Tay nhiên, dầu chú trọng từng chi tiết, nhà phán tâm học bao giờ cũng nhắm cái toàn thê làm dich. Phải vẽ lại toàn thể dơi tinh thằn của bệnh nhân !",
+      "",
+      "Mà muốn vẽ lại được toàn thê ấy, cần phải có đủ nhẫn nại, đủ chăm chỉ. Sự"
+    ],
+    "page_106": [
+      "chăm chì chú tâm lại phải tự cồ bồ tát cả thành kiến trong khi nhận xét phán đoán những lời nói và các sự im lặng ý nghĩa của bệnh nhân. Ngoài ra, còn phải trong nom cần mẫn các tinh tiết của câu chuyện bệnh nhân thuật, đề tế nhận những đoạn nào thường lập đi lập lại, những chi tiết nào mâu thuẫn nhau. Và bao giờ cũng như bao giờ, phải sao cho bệnh nhân đừng hay biết chi cả.",
+      "",
+      "Nếu bệnh nhân cảm-giác được người ta đang do thám minh, va sẽ mất sự tự nhiên, nhờ nó mời lưu lộ những ánh sáng machơi của cõi Vô-thức.",
+      "",
+      "Mà những yến sáng lập lòe ấy lại tối cần cho y-sĩ trong việc dò xét tâm hồn lạ lùng của bệnh nhân !",
+      "",
+      "Bao nhiêu khó khăn vừa kể cho ta hiểu tại sao ngày nay rất hiếm những nhà phân tâm học chân tài và tại sao khoa phân tâm học bao giờ như bao giờ không phải một nghề nghiệp, mà quả là một sự sáng suốt riêng của một ít người thông thái.",
+      "",
+      "Freud lại dễ dãi bảo nghệ thuật phân tách tâm hồn bệnh nhân của ông chỉ cần một ít kinh nghiệm và chút đinh mánh"
+    ],
+    "page_107": [
+      "khóe thôi, chớ tuyệt nhiêu a chẳng có gì khó học cả \".",
+      "",
+      "Nhưng kinh nghiệm và mánh khóc, dằn không cần có nhiêu, cbẳng phải tự dưng có được, cũng phải thoát thai trong một lịch trình thực hành các nărg lực trong đại nhất của khoa thằn kinh bệnh học.",
+      "",
+      "Nghiên cứu khoa ấy, dằn nhẫn nại, dầu có phương pháp, minh vị tất dã là nhà phân tâm học chân tài được. Cũng như trao dồi thơ ca trọn đời, chưa chắc minh là chân thi sĩ được. Không có tài, làm tho cho lắm, rốt cuộc chi thành anh thợ tho !",
+      "",
+      "* Thiên tài chỉ là một cuộc nhẫn nại dài !n",
+      "",
+      "Đôi khi câu ấy lại không đúng.",
+      "",
+      "Và người ta rất lo ngại cho khoa phân tâm học, phát kiến bởi bộ óc thông minh của Freud khí khoa ấy rơi vào tay những y sĩ nhẫn nại mà thương thay lại bất tải.",
+      "",
+      "Kỹ thuật của phân tâm học do Freud phát kiến ra ngày nay vẫn chưa phải là giải quyết cuối cùng của khoa thần kinh bịnh học. Nhưng mãi mãi nó vẫn giữ được sự vinh quang mở cho chúng ta quyền sách quý lâu nay xếp lại và tiêu-biểu cho"
+    ],
+    "page_108": [
+      "sư xu hướng đầu tiên rất có phương pháp đề am hiểu tâm hồn nhân loại và chữa bịnh thần kinh cho con người bằng tinh thầu, bằng cá tánh của con người.",
+      "",
+      "Freud có thể được coi là đăng cứu rồi cho tâm hồn nhân loại sau Chúa Cứu Thế.",
+      "",
+      "Trước khi học thuyết Freud ra đời, đến tuổi truờng thánh, cá nhân chỉ được các nhà giáo huấn hướng đạo có một phần đường, rồi bị bỏ liều với bản ngã mình nó tự do phát triển tùy theo động cớn. Tinh dục tự do phát khởi rồi bị đè nén một cách tự tiện. Những thiếu niên mà tâm hồn bị kiềm tỏa trong bản năng họ, những thiế: niên ấy không có nơi đến khám bịnh, chữa bịnh. Các tâm hồn trẻ trung ớm yếu ấy phiêu bạc, không noi nương tựa !",
+      "",
+      "Freud là, tay cứu rồi đem đến cho họ những \"quán trọ thanh niên\".",
+      "",
+      "Chỗ ngày xưa ngự trị Tôn-giáo, được coi là nơi yên nghỉ của những tâm hồn ốm yếu, chổ ấy ngày nay Freud đưa vào một khoa học tối tân mà giới hạn có lẽ là chân trời vô định.",
+      "",
+      "Công việc vạch sẵn! Cưa khoa học mở"
+    ],
+    "page_109": [
+      "rộng...",
+      "Và nơi nào thằn tri nhân loại cảm-giác được không gian và những vùng sàn thẳm chưa khai thác, nó liền dứt nghi ngơi, cất cánh tung trời mà bay không biết mỏi như con Bằng-diện!..."
+    ],
+    "page_110": [
+      "# CHƯƠNG BẢY ",
+      "",
+      "## Quan niệm tinh dưe",
+      "",
+      "\"Điều trải với tự nhièn cũng có phần trong tự nhièn. Kè nào khòng trông thấy điều ấy khắp dó dây, quyết khơong trong thấy nó rõ ràng được ở một noi nào cả . . .",
+      "",
+      "## Gæthe",
+      "",
+      "Buồ dằn, cộng tác với giáo sư Breuer, Freud phát kiến được rằng: bao nhiêu khủng-hoảng tinh thằn, bao nhiêu lung lạc ở thân-kinh hệ đều gốc ở một ham muốn bất thỏa mãn, bị duồi dồn vào phân vô thức.",
+      "",
+      "Va Freud chi xiết ngạc nhien sao chà̀n lý ấy lại có thè xông ra khỏi bơ óc thông thái của các bậc tiền bối đi trước minh trong giới khoa-boc."
+    ],
+    "page_111": [
+      "Nhung sau một hồi tri nhớ làm việc, Frend thấy rằng các bậc tiền bối minh cang đã rõ được chán-ly ấy. Khi giao Freud chữa bịnh thần kinh cho một người đàn bà mắc chứng ấy, giáo sư' Chrobak bảo nhỏ Freud rằng người đàn bà ấy sở dĩ bị thế, vì phối hợp từ hồi 18 tuổi với một anh chờng bất lực, và ranh mãnh mỉm cười bày cho Freud phương pháp chữa bịnh ấy rất nhanh chong bằng sự hữu lực của Freud. Hồi ở Paris, Freud cũng được nghe giáo sư Charcot trong một buổi nói chuyện về khoa-bọc, đưa ra một câu: «Ờ! cũng là chuyện tinh dục! mãi mãi vẫn là chuyện tình dục!n",
+      "",
+      "Ra các tháy của Freud đều đã rõ biết diều Freud vừa phát kiến được. Họ biết mà họ không nói ra. Thi Freud nói !",
+      "",
+      "Nhưng kịp kìu Freud phát giác rằng: «Các chứng bịnh thần kinh sanh ra vào nơi nào ma những trở lực bèn ngoái hay bèn trong cản lại sự thỏa mãn đích đáng các nhu cầu dâm đãng », thì một phần động ghé gờm búng lên khắp từ phương 1...",
+      "",
+      "Khoa-áoc thời ấy, vào lối 1900, hãy còn dứng dưới cột cờ bất khả xâm phạm của"
+    ],
+    "page_112": [
+      "Luan-1ý, khước từ việc thừa nhận công khai quan-niệm vè̀ tinh dục ấy của Freud vừa dưa ra.",
+      "",
+      "Chinh giáo sư Breuer, người bạn đồng hành của Freud, người đã nắm tay Freud dặt váo chia khóa mờ cửa bi ẩn của khoa học, người ấy lúc này cũng không dám biều đồng tinh với Freud.",
+      "",
+      "Freud nàận thấy vần hóa thời bấy giờ thích cam chịu bất luận sự xâm phạm tinh thẩn náo hơn là phải nhìn nhận rằng bàn năng tinh dục vẫn ản ngư, bạn dịnn cá nhân và đóng một vai tuờng rõ rẹ̀ trong những sáng tạo cao quý nhất của nẽn, ván minh nhân loại.",
+      "",
+      "Xã hội thời ấy cho rằng không gì dọa nạt văn hoa nhiều bằng sự giải phóng của cac bản năng tinh dục và bằng sự quay lại mục đích ngàn xưa của những bạn năng ấy.",
+      "",
+      "Xã hội thời ấy thấy không có lợi ích gì cho só mà thưa nhạ̀ lực lượng của các bản năng tinh dục, mà bầy về lòi thoì về lề quan trọng của tinh dục dối vớ cả nhan.",
+      "",
+      "Thê nên, nó dịnh phô thóng một thú́"
+    ],
+    "page_113": [
+      "giáo duc băt người ta không được phép nghĩ dến vấn đề tinh dục; bảo rằng tinh dục là chuyện bỉ ồ, vô luân-lý!",
+      "",
+      "Sức phả̉n động của cả một thời đại không chán đường nơ̂i Freud, trong những bước đân của ông. Ông vân đi đến vinh quang được, không những đã pbarn đấu mãnh liệt, mà lại cũng đã binh vực lòng yêu sụ thật tuyệt đối của minh một cách rất cang cường!",
+      "",
+      "Freud có thê bày giaî quan niệm tinh dục một cách kín đáo, đề khô̂i thương tởn đến Luân lý. Ông chỉ v ệc phải lên quan niệm ấy mợt lượt phấn thơ mơng, mót lối văn hoa mỹ, bay bướm, là công chúng sẽ vui lòng để cho ông nói, khỏng hề phấn kháng,",
+      "",
+      "Nhung Freud vốn có trực lính, khước từ hết cả kín hở, tất cả mập mờ, chỉ thích dùng những tiếng bạo mà đúng và thạt. Đáng lẽ nên bảo Tỉnh duc là thân Eros (thần ái-tinh trong thần thoạt Hy-lạp), Freud mang danh nó là Libido (Nhuc Duc). Tất cả biến thái của Tỉnh dục đều được Freud kêu đúng chính danh. Danh có chính ngón mờı thuận. Khờng từ đã cbằng bảo"
+    ],
+    "page_114": [
+      "thé hay sao?",
+      "Với một quả cầm có tánh cách khoa học, Freud quan sát tất cả phát hiện của Tinh dục, khơng bỏ qua cả đến những phát hiện mà người đời cho là ác tập, là truy lạc, bất kể đến những bất mãn của luân lý, những tiếng nồi lên phàn kháng của lòng trinh thuc nhân loai.",
+      "",
+      "Tai bịt, miệng câm, Freud âm thầm nhẫn nại theo đuôi một cách bình tĩnh cuộc nghien cứu tinh dục, thằ kinh bịnh học, trong thế giới của bản năng nhân loại.",
+      "",
+      "Freud, nhà duy vật luận và phản tôn giáo ấy, cho bản năng là vùng sâu thẳm nhứt, nhiệt nhứt, hãn nhứt của bản ngã ta.",
+      "",
+      "Con người muốn gi ? Có phải sự thiên thâu, vinh cứu không?",
+      "",
+      "Chắc rằng không.",
+      "Theo Freud, không phải đời sống tinh thằn thanh cao là nơi tâm hồn nhân loại mong noi đến trước nhứt đâu.",
+      "",
+      "Tâm hồn nhân loại chỉ ham muớn mợ cách mù quáng và tùy thuộc bản năng.",
+      "",
+      "Và như cơ thể khi đã ăn uống no nè, tâm hờn buồn bã sau khi đả thỏa mãn.",
+      "",
+      "Nhuc Duc (Libido) - nguồn ham muón"
+    ],
+    "page_115": [
+      "nghin xưa ấy, khát vọng không bao giờ thỏa mãn ấy của tâm hồn - dầy tâm hồn đi đến vũ trụ. Nhưng Nhục Dục, theo Freud, buồ dầu kłông có mục dich nào hữu định cả ; ý nghĩa của nó chỉ là giâi phóng cho bản năng. Và bởi các năng lực thằn kinh khả dĩ dời dồi được, Nhục Dục có thè̀ điểu khiển sức kích thich của nó khi thi trên vật này, khi trên vật kia.",
+      "Lòng ham muốn không phài luôn luôn phát hiện trong sự người đàn bà đi tim người đàn ông hay trong sự người đàn ông đi tim ngươi đàn bà, mà nó chính là một sức mạnh mủ quáng muốn tự phun phí. hủy hoại lực lượng, là cây cung dương thăng chưa biết băn vào đâu, gióng thác cuồn cuồn chưa biết chảy vê chốn nào. Nó chỉ muốn thỏa mãn, mà không biết cách nào đề đạt mục dich. Nó có thê tự giải thích và tầm cho minh con đường giải phóng hăng những hành động sanh lý tự nhiên, thông thường. Tuy nhiên nó cũng có thè̉ giúp người đạt đến được nhiều công trình vĩ đại trong địa hạt nghẹ̣ thuật hay tôn giáo. Nó có thê đi lạc đường, tầm lẫn, dừng lại ở một nơi xa hẳn sanh"
+    ],
+    "page_116": [
+      "thực khí; và bởi lâm trường hợp bất thường, nó có thê làm lạc hướng bản năng tinh dục trong địa hạt sanh lý.",
+      "",
+      "Lòng ham muốn khó hiểu và vô hình nhưng lại khả dĩ khoác lấy tất cả hinh thức :\" từ tánh dâm dục của căm thú đến những rung động tinh tế nhất của thằn trí nhân loại.",
+      "",
+      "Nhưng bao giờ cũng như bao giờ, trong những thỏa mãn đẻ hèn cũng như trong các thực hiện thanh cao, lòng ham muốn giải cho nhân loại bao nhiêu khát vọng cần yếu, cung cho con người lâm thỏa thích quan trọng.",
+      "",
+      "Nhân sự phát kiến Của Freud, vấn đề tinh dục thoáng chốc được quan-niệm khác hẳn với từ trước.",
+      "",
+      "Từ trước, tâm lý học không rõ được sự biến đởi của các năng lực thằn kinh, lầm lẫn bậy ba bản năng tinh dọc với công việc của bộ máy tinh dục trong cơ thê.",
+      "",
+      "Vấn đề tinh dục đối với khoa học, bị coi như là v ệc khán nghiệm bọ máy sinh dục của đàn bà và vật kin của đàn ông; thế nên nó bị cho là chuyện không được trong sạch."
+    ],
+    "page_117": [
+      "Phân cách hành động tinh dục vó́i ý tưởng tinh dục, Freud, đồng thời đem hánh dòng ấy ra khỏi quan niệm ctật hẹp thế nhân có từ trước đối với nó.",
+      "",
+      "Nhà triết học Nietzsche bão : «Hộ số và trang thái tinh dục của một người phát hiện cả đến ở những dình cao nhất của thần tri người ấu ». Danh ngôn ấy, nhờ sự phát kiến về quan niệm tinh due của Freud, dược coi như một chân lý trong sinh lý hoc. Bâng vào vô số tỉ dụ, Freud minh chứng tai sao Nhục Dục (Libido), bơi một sự truyền đat nhiệm mầu trải qua nhiều năm tháng, nhiều giai đoạn, bùng ra trong những phát hiện thần kinh hoàn toàn bất ngờ ; và tai sao trang thái đặc biệt của NhụcDuc lại phát hiện khơng thôi trong những biến thái và trong vô số che đậy lạ lùng nhất",
+      "",
+      "Vậy thời, hễ có sự lung lạc ở thằn kinh, tức thì là có sự bất thường trong vận mạng của Tinh Dục. Theo phương pháp phâa tâm bẹc, lúc bấy giờ, y-sĩ chí việc dắt bệnh nhân trở lại « nơi bên trong » mà một hiện tượng đã gây nên sự phá đỡ giọng binh tĩnh của bản-năng.",
+      "",
+      "Các khoan phấn tâm hẹe đầu tiên đã tô"
+    ],
+    "page_118": [
+      "cho Freud biết rằng những hiện tượng Tinh Dục phá đồ giòng binh tĩnh của bản năng bệnh nhân có dã từ lâu; và khờug gì tự nhiên bằng cứ tim những hiện tượng ấy trong thời kỳ trẻ tuổi của cá nhân, vào buồi bắt đầu kiến thiết nên trật tự của tâm hồn thanh niên. Vi chỉ diền gi được ghi chép trải quãng đời hoa niên, trong lúc cá tinh phát triền trên tấm thảm linh hồn hãy còn mềm mai, trong lúc lương năng đang khoác lấy những tân hinh thức của cuộc đời chỉ có diều ấy mời vẫn là nguyên tố không thề xóa nhòa nó đánh dấu cho kiếp sống của từng người.",
+      "",
+      "Trong mỗi trường hợp cần xét nghiệm, Freud chỉ lui lai tới thời hoa niên, tới tuổi dậy thi thôi. Thoi kỳ trước tuổi dậy thi, Freud cho chưa cần nghiên cứu đến. Vi các cảm giác Tinh Duc làm sao có thế phát động, một khí tập quán tình dục chưa có? Freud cọi như là một phẫn thuyết cái ý nghĩa việc theo đuổi sự hoạt động trực nhien của bản năng tình dục bên kia giới hạn ấy.",
+      "",
+      "Bên kia giới hạn ấy hay bên kia thơi dậy thi - tức là luồi ấu niên - ở đó, phần"
+    ],
+    "page_119": [
+      "Vo thức hãy còn chưa linh-cảm gi .được cả về sự căng thẳng của nguồn sinh lực biến-thề thành đám tinh.",
+      "",
+      "Thế nên những cuộc nghiên cứu dã̃s tiên của Freud dừng lại ở tuổi dậy thì của cá nhân.",
+      "",
+      "Nhưng liền đó trước mbt vài thú nhận đáng đẻ̉ ý của bệnh nhân, Freud chẳng thể khước từ việc nhìn nhận rằng khoa phân tâm học, với một rõ rệt khó chối cãi làm sống lại được những kỷ niệm liên hệ đến các hiện tượng tinh dục lâu đời nhất. Nhiều thú nhận rất rõ rệt của các thân chủ ông cho Freud hoài nghi rằng thời kỳ trước tuổi dậy thì - tức là lúc ấu niên - phải có chửa đựng nếu không bản năng tinh dục, ít nhất cũng là một vài tiêu biểu của bản năng ấy.",
+      "",
+      "Điều hoài nghi ấy ngày một thúc Lách tùy theo trình tự tiến hóa của sự nghiên cứu.",
+      "",
+      "Freud nhớ lại lời thuạt của một cô vú em và của một ông thầy học về những phảt hiện tĩnh dục rất sớm của trẻ con: liền đó, sự phát kiến của Freud về các chi tiết khác nhau giữa phần Hữu thức và"
+    ],
+    "page_120": [
+      "phần Vó thức bồ trợ vào soi sáng cho sự hoài nghi của ông.",
+      "",
+      "Freud nhận ra rằng: bản năng tình dục không phải đột nhiên len vào cơ thể cá nhân thuở dậy thì được; nhưng chính nó \"sống\" ở cơ thể cá nhân lúc mới bắt đầu tượng hình trong chiếc bào thai.",
+      "",
+      "Khi đứa bé lọt lòng mẹ, bản năng tình dục đã có ở nó. Nhưng bản năng ấy còn ngái ngủ. Khi đứa bé biết đi đứng, ăn nói, bản năng tình dục vẫn có ở nó và vẫn chưa thức tỉnh.",
+      "",
+      "Thế nên, trẻ con \"cảm giác\" được bản năng tình dục của nó. Có đều, nó chưa hiểu được bản năng ấy thôi.",
+      "",
+      "Sự phát kiến mới mẻ về tình dục, buổi đầu không những làm kinh dị thiên hạ thôi đâu mà cũng gây ở Freud một vài lo sợ. Vì sự phát kiến ấy lật đổ những quan niệm thông thường nhứt một cách gằn như xâm phạm đến thánh thần tôn giáo:",
+      "",
+      "Ồ! trẻ con — tuổi thơ dại ấy — đã biết hay đã nghĩ đến tình dục rồi sao? Vô lý! Ban đầu, ý nghĩ táo bạo ấy, ai cũng cho là vô lý; vì cơ quan sanh dục của trẻ"
+    ],
+    "page_121": [
+      "con hãy còn chưra dãy đủ cho việc truyền lưu nói giông kia mà! Nhân đó, người ta lại bảo rằng, nếu trẻ con có cơ quan sanh dục dãy đủ, nháu loat cáng dễ thấy mót sư truy lạc hốt hoảng diên rồ!",
+      "",
+      "Biểu-thị một quan niệm tinh dục mời mẻ và vô cùng táo bao như Freud làm, trong năm 1900, thạt khác nào lao đâu vào một cuợc tự tử về khoa học.",
+      "",
+      "Thế mà Freud dây đạp dự luân đã dám mạnh bao phát biểu tư kiến. Nơi đáp nhà thám hiểm tàn bạo ấy «cảm giác » được một mảnh đất chắc chắn, không chút ngần ngại ông dặt ngay chiếc khoan của nghỉ lực minh vào đó, cốt xuyên thủng các tầng lớp mẻ ngoài nó che đậy một cái gì quý giá bên trong.",
+      "",
+      "Và mời ngạc nhiên cho ông làm sao, khi Freud khám phá được, trong hình trang Vó thức nhứt của con người, trong dừa hái nhi hãy còn bú mẹ, hình ảnh đại biểu diẹh dáng nhứt của bản năng thỏa thich.",
+      "",
+      "Ntur thế, chính bới vi vào buồ mời di vào cuộc đời, khơng có một yến sáng nào của lương tâm đề chán xuống sâu tới thế giới của bản năng, dưa hái nhi ấy phát"
+    ],
+    "page_122": [
+      "hiện cho Freud thấy rõ ý nghĩa uyển chuyện và quan trọng của Nhục tinh (Libido): tức là tiếp đón sự thỏa thích và khước từ sự bất hãnh lạc.",
+      "",
+      "Đứa hài nhi ấy ước vọng tất cả thỏa thích - thỏa thích cho chính cơ thể nó và cho hoàn cảnh bao quanh nó, cho vú mẹ nó, cho ngón tay ngón chân nó, cho da thịt, áo quấn che thân nó ; ước vọng một cách điên cuồng, vô chừng mực! Đứa hài nhi muốn đem vào tấm hình hái mảnh để của nó tất cả thứ có thể cung đốn cho nó sự khả quan.",
+      "",
+      "Vào giai đoạn cồ sơ của lạc thú, đứa hài nhi bởi còn là một sinh vật thiếu thốn về đủ mọi phương diện nên chưa phân biệt được bản ngã với ngoại giới mà về sau người ta sẽ chỉ dạy cho nó ; nó chưa linh cảm được những giới hạn vật chất hay tinh thần mà giáo dục rồi sẽ vạch rộ cho nó thầy.",
+      "",
+      "Đứa hài nhi là một sinh vật vừa có vẻ cồ sơ, vừa lạ lùng. Với một khato khát ching như không bao giờ thỏa mãn, nó muốn thâu gọn vào đòi bàn tay bé nhỏ của nó tất cả vũ trụ, vắt lấy trong đó"
+    ],
+    "page_123": [
+      "bao nhièu shưa sống cha cuộc đời, rồi nâng lên ngang nguồn lạc thú duy nhất, đề mà tận hưởng bằng cách bú và nút một cách say sưa vào các ngón tay măng sữa của nó.",
+      "",
+      "Nhung giai doan tự kỷ luyến ái nhục tinh ấy (phase auto-érolique) vẫn kheng kéo dài dược. Thế rồi dưa bé bắt dầu tế nhạn rằng cơ thê no dầu sao cũng có giới hạn. Một diễm yến sáng lòe trong viên óc tí hon của nó : liều dó, một sự khu biệt buờng xuống, chẵn ngang giữa cái bên ngoài và cái bên trong. Lần thứ: nhứt, đứa bé cảm thấy sức phàn động của cuộc đời và lẽ tất nhiên nhận thấy rằng cái bền ngoài quả là một lực lượng mà người ta cần phải lệ thuộc.",
+      "",
+      "Sự trừng phạt không mấy lúc rồi đến dạy nó một lệ luật lạ lùng và đau đớn cho nó, oăm nó không được tận hưởng lạc thú vô giới han như thuở mới lọt lòng mẹ nữa. Né trộng rồi, thì nó lại không được phép ở ruồng! Và hãy còn nhiều điều nó bị cấm đoán nữa !...",
+      "",
+      "Sự cần toàn trách bị của văn hóa bắt đầu kiến thiết, ở đứa bé bán khai ấy, một"
+    ],
+    "page_124": [
+      "lương năng xã hội và thầm mỹ, một hộ máy kiềm sát, dựa vào đó nó có thể xếp các hành vi của nó vào hai loạt : loạt tốt và loạt xắn.",
+      "",
+      "Đồng thời xây ra ở nọ̣i-thức một bước thối lại của tân năcg thaỏ thích. Khi dừa bé lớn lên, bù̀n năng ấy thoái bộ nhường chỗ cho một xu hướng mới: ấy là sự phát kiến ra được Bân Ngã. Sự phát kiến ấy khiến đư̂a bé ngày một ý-thức được chân ý nghĩa của các hành vi nó. Vì thế cho nên, khi đứ bé thành nhơn, bản năng thỏa thích của nó phát-hiện một cách chừng mực và rất kín đáo che đậy.",
+      "",
+      "Giưa giai đoạn luyến ái nhục tình của đứa bé và thời kỳ động tinh của một thinh niên, có một giấc hỏu-thuy của tịnh chuc, một trạng thái âm n, trải qua đó các nắng lực và nhựa sống dự bị tự giải phóng thay.",
+      "",
+      "Khi vào thời kỳ động tinh bản năng hỏu thuy lân lân thức tỉnh, khi nhục dục (Libido) tìm kiếm một trụ sở cấp bách, bấy giờ mới chính là lúc ý muốn sanh lý của tạo hóa cương quyết vạch cho cá nhân con đường tự nhiên của sự truyền lưu nới giông."
+    ],
+    "page_125": [
+      "Những thay đồi trông thấy ở bọ máy sinh duc của thanh niên nam nữ minh chứng rằng tạo vật đã đặt ở dó một mục dich thiêng liêng, tuyên bố rằng tạo vật muốn tròng thấy ở đó sự truyền lưu bất tạn mà loái người mãi mãi theo duờ đề phụng sự xu hướng mằu nhiệm và vĩnh cửu của tạo vát: bảo vệ giống nòi!",
+      "",
+      "Vào thời kỳ động tinh, nhuc duc (Libido) không còn được phép tự thỏa thich nhu trong thời kỳ ngày dại, mà cần phải vi lai ích chung xếp minh dưới boài bão khó nhạn thức của vũ tru nó tự thựchiện trong việc truyền lưu chủng tộc.",
+      "",
+      "Nếu cá nhân hiểu được lời chỉ bảo nghiêm trọng ấy của tạo hóa và biết vâng theo đó, aếu người đàn ông phối hợp với người đàn bà chỉ đề thí hanh công việc thiêng liêng kéo dài nói giống, nếu đói vợ chồng quên bỏ được tất cả thỏa thich không giới hạn của ngày bé, thì sự phát triền tinh dục di theo một chiều trực tiếp và điều hòa, các năng lực giống cái và giống dực đều tự thực hiện trong dường lối tự nhiên và thông thúờug.",
+      "",
+      "Nhung lâm người, trong nhiêu truòng"
+    ],
+    "page_126": [
+      "hợp dặc biệt, khơng thè khung bản năng thỏa thich của minh vào trong những hình thức ăn định bởi tạo họa. Nhục dục (Libido) năng lực tinh dục của họ tim nơi thỏa mãn ở một hướng khác hơn hương thông thường.",
+      "",
+      "Ở những kẻ phi thường ấy, má người ta gợi là những kẻ mắc bịnh thần kinh, xu hướng tinh dục bị xoay về một con đường lầm lạc, không thể tự thoát ly ra được.",
+      "",
+      "Theo Freud, những kẻ mắc bịnh thần kinh không phải là những bịnh nhân thừa hưởng cố tật của ông cha, mà đa số chính là những người hãy còn tưởng nhờ một vài hình thức thực hiện sự thỏa mãn trong thời kỳ cơ quan sanh dục chưa phát triền đầy đủ. Những kẻ ấy luôn luôn muốn sống lại thời kỳ luyến ải nhục tinh của ngày bé (thời kỳ ấy từ lâu đã rơi vào sâu thẳm phần vô-thức) và tìm trong thật tế một thay thế cho ký ức dám dãng ấy. Jean Jacques Rousseau trong một thiên tự truyện đã phát giác cho ta một trường hợp phát động tình dục phằn tự nhiên như thế, gây nên bởi một ký ức dám"
+    ],
+    "page_127": [
+      "đãng của ngày bé.",
+      "Có giáo trễ đep dạy Rousseau học, mà Rousseau có bung yên trộm nhớ thầm lại là một người đàn bà rất nghiêm khắc, thướng cho Rousseau ăn roi mây luôn. Thế mà mời ngạc nhiên làm sao - Chính Rousseau cũng ngạc nhiên - sự trù̀ng phạt nghiêm khắc của có giáo lại đem đến cho Rousseau một nièm sung sướng. Vào trạng thái ngâm ngầm, Rousseau quên tất cả chi tiết trong khi bị trù̀ng phạt. Nhưng cơ thể ông, tâm hồn ông, tièm thức ông không bao giờ quên được những chi tiết ấy. Và khi thành nhờn, tim thỏa mãn xác thịt trong cơ thê đàn bà, Rousseau khờng bao giờ có thế giao hợp như thương nhân, muốn Rousseau co thể giao hợp với một người đàn bà, người đàn bà ấy trước nhất phải diễn lại sự trù̀ng phạt của có giáo đã thi hành với Rousseau ngày trước. Trọn đời ông, Rousseau đã phải khốn khồ vi chứng tình dục biến thải (masochisme) của ông. Phàm ai mắc chứng ấy dền thích chịu đau đớn như chịu đánh đòn chẳng hạn. Trong một thiên phóng sự, Maryse Choisy có thuật chuyện mợt"
+    ],
+    "page_128": [
+      "người đàn ông lần nào đi đến nhà thồ cũng dem theo rất nhiền roí mây, bắt các gái dĩ lấy quất cho miụb thiệt đau quất đau chừng nào, cho nhiều tiềa chừng nấy !",
+      "",
+      "Những kẻ hư đốn (Freud goi như thế những kẻ nào tim thỏa thich bằng các phương tiện khác hơn phương tiện dùng đề truyền lưu nòi giống) không phải là những bịnh nhân tở truyền mà là những tù nhân bị cùm xích vào tánh dục vô cương giới của thời thơ ấu, bị nhốt vào trong chứng phát dục bất toàn (infantilisme) - tức là chứng bịnh của những kẻ lớn tuổi rồ mà con giữ nhiểu tánh dục trẻ con.",
+      "",
+      "Muốn cải tạo những kẻ hư dốn ấy, khơng nên dựa vào hinh luật hay luân lý, mà phải nhờ đến một ông thầy chữa bịnh tâm hồn. Vi hinh luật chỉ biết dọa nạt, luân lý ohi biết thuyết lý suông chờ ông thày chữa bịnh tậm hồn bịnh nhân hiểu được trạng thái nộí quan của minh.",
+      "",
+      "Và chỉ sự hiểu được trạng thái nòi quan của minh mới giúp minh tự giải phơng được khỏi diều « hư đốn». Hay muốn tự chữa bịnh tâm hồn, nguời tu"
+    ],
+    "page_129": [
+      "trước nhất phải am tường ý nghĩa của căn bịnh minh.",
+      "",
+      "Theo Freud tất cả lung lac thần kinh đều do một kinh nghiệm riêng mà ra. Thường thường kinh nghiệm ấy lại có tánh cách dâm đãng và điều gi ta gọi là di truyền chi là đề tiêu biêu cho những biến cố trải qua bởi lớp người trước, ngày nay còn lưu thông trong huyết quẫn, trong các dây thần kinh ta.",
+      "",
+      "Thế nên, một trong những biến cố ấy, đối với phàn tâm học, là một động lực rõ rệt trong sự kiến thiết tâm hồn. Và phàn tâm học cố tìm hiểu mỗi người qua cái quá khứ cá nhân của y. Với Freud, quyết không có khoa tâm lý học nào hay khoa bịnh lý học (pathologie) nào khác hơn khoa nghiền cứu cá nhân. Và Freud chú ý nhất đến sự phát động tinh dục của cá nhân trong thời thơ ấu, vi tưởng nhận ra được trong điều thực sự phát động tình dục quá sớm ấy một vài thái độ tiêu biểuFreud dựa vào trường hợp của Edipe trong thần thoại Hy-Lạp dễ biện giải và trình bày trường hợp ấy như một cột trụ bền vững nhất của làu đai phan tâm"
+    ],
+    "page_130": [
+      "học minh. Trạng thái của Edipe giết cha, lấy mẹ, trạng thái dã man ấy, Freud cho rằng hiện nay vẫn tồn tại ở những tâm hồn phát dục bất toản, ở những kẻ lớn tuời rồi mà còn giữ các tánh dục trẻ con - tồn tại ở đó, biến thế thành lòng ham muốn đáng kết án. Vi Freud bảo: Càm giác luyêri ái nhục tình đầu tiên của đì́a bé bao giờ cũng xu hướng về người me, còn sự phá hại trước nhứt của nó lại đồ trên đầu người cha. Sự tương đồng về năng lực ấy (yêu thương đối với người mẹ; ghét bỏ, phá hại đối vớ người cha), Freud tuờng có thề bảo rằng đó là cái khóm dầu tiên rất tự nhiên và khó tránh được của bộ máy thần kinh ở tất cả tâm hồn phát dục bất toàn (ame infantile).",
+      "",
+      "Bao nhiêu điều nhân loại lận nay đã từ bỏ, coi như trái ngược với văn hóa, ví như sự ham giết chóc, sự gian dâm loạn luân, sự cuỡng dâm, bao nhiêu điều xăng bậy ấy của thời man dã lẫn nữa lại run động trước lòng ham muốn thực hiện trong thời thợ ấu - tức là thời kỳ tiền lịch sử của tâm bồn nhân loại. Mổi"
+    ],
+    "page_131": [
+      "cá nhân, trong sự phát triền về đường luân lý đạo đức của minh, canh tân một cách tượng trưng tất cả lịch sử văn minh loài người.",
+      "",
+      "Một cách trực nhiện, chúng ta cho chảy trong huyết quán minh những bản năng man dã cồ sơ. Và không có một nền văn hóa nào bảo vệ được hoàn toàn cá nhân chống lại những ham muốn dột ngột xăng bậy của thời kỳ man dã. Luôn luôn có nhiều trào lưu mâu nhiệm của phần vô thức nó cứ kéo bản ngã ta về những ham muốn thương luân bạỉ lý ấy.",
+      "",
+      "Quan niệm tinh dục của Freud, nghiệm kỹ, thật cũng có nhiều phát biểu quá táo bạo. Nhưng bao giờ các bậc vĩ nhân cũng cần phải có ở buồi đầu những sự cực đoan mời mong tư tưởng minh chinh phục dược thời đại.",
+      "",
+      "Vả lại những phát biểu quá táo bạo về tinh dục của Freud cũng không có di hại chi cả. Và những sự lở bước, vi tấm lòng nhiệt thành của Freud buồi đầu rồi cũng dễ dược thời gian sửa chữa lại hoan toan."
+    ],
+    "page_132": [
+      "Bây giờ thi học thayết Freud khong có vè̀ gi cồ quái nữa cả. Ở ngoái đời và cả đến những chốn học đường, con người đã biết theo Freud giảng giải cho nhau rõ ràng vê quan niệm tinh dục, dễ biết mà tránh những sự dồn ép tinh dục rất haì đến tinh thần.",
+      "",
+      "Thế ta đủ̀ rõ bao giờ mô̂i thế hệ cũng thừa hưởng sự tự do tình thầ của nó ơ tài giải phóng của một vĩ nhân và bất luận khoa học mới nào cũng cần có một kẻ khai sáng trước nhứt đem gieì thiệu nó với nhân loại."
+    ],
+    "page_133": [
+      "# CHƯƠNG TÂM ",
+      "",
+      "## Buồ tàn niên",
+      "",
+      "\"Tất cả thị lực biến đồi thành trầm tu mặc tuởng, tất cả trầm tu mặc tuởng biến đồi thành suy nghĩ, tất cả suy nghĩ biến đồi thành sự tồng hợp tu tuởng, đề người ta có thê bảo rằng mổi lần ta đặt một cái nhìn châm chỉ lên trên thế giới, là ta đã nói chuyện lý thuyết rồi vậy\".",
+      "",
+      "## Gæthe",
+      "",
+      "Mùa thu của đời người là thời kỳ dành riêng cho sự diềm đạm, trầm tư mặc tuởng. Vào thời ấy, hos trái đã tái hết rồi, công việc đã hoàn thành. Trong và sáng, bầu trời soi tỏ tất cả cảnh vật của cuóc đời.",
+      "",
+      "Bác sĩ Freud năm 70 tuổi dừng lại ngơi nghỉ và nhìn lại sự nghiệp hoán"
+    ],
+    "page_134": [
+      "thành của minh, khơng khôi ngạc nhiên thấy con đường sáng tạo của minh đã dằn minh đi xa quá!",
+      "",
+      "Nhưng trong buồ tàn niên, Freud hãy còn nhìn thấy một quãng không gian vô tận chưa được khám phá. Quãng lại có thể bồi bồ vun bón thêm cho học thuyết ông...",
+      "",
+      "Trong 50 năm qua, Freud đã dõng cảm di theo con đường của phấn đấu; ông khoác áo một kẻ đi săn những điều bí ẩn, đi tìm chân lý. Tài liệu ông thâu thập được ói! vô vàn...",
+      "",
+      "Bây giờ dễ thường ông được phép ngơi nghỉ dưỡng già. Vả lại ông cũng cảm thấy ở nọ̣i tâm có một cần dùng ngắm xem sự vật bằng một đôi mắt dịu dàng hơn, độ lượng hơn. Cái nhìn của ông dò dẫm, nghiêm khắc, dễ di sâu vào bao nhiêu tâm tròn đen tối, bây giờ có ý muốn ám trùm tất cả vũ trụ trong một loạt mơ mộng tinh thần. Và kẻ nào đã luôn luôn ẩn manh lưỡi cày siêng càn, vào những vùng sâu thẳm đen tối, lẽ, tất nhiên là bây giờ thấy thích ngắm nhìn những đỉnh cao, những đồng bằng của cuộc đời. Kẻ"
+    ],
+    "page_135": [
+      "náo trọn một đời đã tìm kiếm, dò hôi như một nhà tâm lý học, lẽ tất nhiên bây giờ là thấy thích tự trả lò̀i cho minh như một triết nhân. Kẻ nào mà các cuộc khảo sát tâm lý từng cá nhân của minh không còn dáng kề nữa, bây giờ lẽ tất nhiên là muốn thấu triệt ý nghĩa của công doán và thứ dem thi thố nọhẹ̀ thnát giải thích của minh trong nền phân tâm học của thời đại.",
+      "",
+      "Xu hướng muốn ngẫm xem sư bi ủa đại dồng hoàn toàn theo mót triết nhân, mót nhà tư tưởng, đề nhân đó tao lấy cho minh một thị lực tinh thần, xu hướng ấy kuoong phải mớí mẻ gì đân. Sở dĩ Freud có xu hướng ấy châm trễ, là vị trong thuở tráng niên công việc hề bọn của ông đã không cho ông đưa tay với xa được; những lệ luật của cuộc kiến thiết tinh thần bắt ông phải kinh nghiệm trè̀a từng cá nhân trước đã, nhiên hậu sẽ rờ tờ sự bí ủn đại đồng. Nhứt là bởi Freud là một người quá thận trọng, nên ông oho rằng chưa phải lúc minh bghĩ đến cái gi xa quá mực sống thường lè của minh."
+    ],
+    "page_136": [
+      "Nhung sau 50 năm đằy cực nhọc, trong buồ tán niên, Freud. đã có thê đưa tăm mắt ra xa đề phô cập cho tất cả nhàn loại cái phương pháp lãnh hội được sau khá khảo sát tâm lý muôn người.",
+      "",
+      "Các sách Freud viết trong buồ tàn niên như Tuơng lai của một viển tượng và Nỗi khó chịu của văn minh dễ thường không dồi dào bằng những sách do ông biên tập từ trước, nhưng lại có vẻ thi vị hơn. Các sách viết sau này đựng ít tài liệu khoa học hơn là lời hay lẽ phải.",
+      "",
+      "Ở chỗ của nhà giải phẫu tàn nhẫn phát hiện nhà tư tưởng nghiêm trang; ở chỗ của viên y sĩ yêu nghề phát hiện nhà nghệ-sĩ nhiệt thành.",
+      "",
+      "Nhưng óc y-sĩ của Freud đã ảnh hưởng trên óc nghệ sĩ của ông quá mạnh. Trong 50 năm qua, Freud chỉ sống gần những kẻ đau ốm, bên cạnh bịnh tật và buồn rầu; thành thử ông dễ có quan niệm: nhân loại là một cơ thể ươn yếu. Thế nên lần thứ nhưt ông đặt một cái nhìn chăm chỉ lên trên thế giới, là ông không khỏi có một ý nghĩ bi quan: «Đối với tất cả nhân loại, cũng như đối với cá nhân, cuộc"
+    ],
+    "page_137": [
+      "đờ khó chịu đựng lắm\".",
+      "Freud dến găn công việc văn hóa và sinh lý của ông như bước tới giường bịnh. Đã quen kháo sát theo con mắt nhà phân tâm học, Freud tưởng thấy trong thời đại chúng ta toàn những biện chứng của một bất quân bính về tinh thần. Bởi sự vui vẻ rất xa lạ, ngỡ ngàng đối với mât ông, nên ông chỉ thấy trong nền văn minh chúng ta có «nỗi khó chịu » và bắt đảu phân tích căn bịnh tinh thằn ấy của thời đại...",
+      "",
+      "Tại sao nè̀n văn minh hiện đại đã nâng nhân loại lên trên tất cả ước vọng oủa bao nhiêu thế hệ trước lại còn có nỗi khó chịu ấy, căn bịnh tinh thằn ấy ?",
+      "",
+      "Mỗi khi ngắm nhin nhân loại, Freud không khỏi có câu hỏi ấy. Và nhà bác sĩ già cỗi của chúng ta lại chịu khó tìm kiếm nguyên nhân nỗi khó chịu của nền văn minh, căn bịnh tinh thằn ấy của nhân loại hiện thời.",
+      "",
+      "Ta đã biết Freud luôn luôn bắt dầu một cuộc nghiền cứu phân tâm học bằng cách đào xới quá khứ. Ông cũng theo cách ấy dối vớt việc khảo sát nền văn minh có"
+    ],
+    "page_138": [
+      "tâm hồn bịnh hoan. Ong quay lại nhìn các himh thức cô so của xã-họi loài người. Ban dã̃u, ông thấy xuất hiện con ngươi tiền lịch sử (homme préhistorique), không biết gi là phong tuc lệ luật cà thầy, tự do như cầm thả, hoàn toàn trinh tiết đối với mọi diều cấm chế. Bị thúc bách bới mộ̣ lòng ich kỷ không gặp gi trở ngại cả con người ấy giải phóng các bán năng xám lấn của anh ta trong những cuộc giết chóc dã man và thỏa mãn vật tánh của anh ta trong các cuồng dóng. Nhung kịp khi con người phóng túng ấy tiếp xúc với đồng loại, sống cuộc đời công cộng trong tọc đoàn, anh ta bắt buộc phải thừa nhận những giới hạn người ta cất đặt cho các thị hiếu của anh ta - những giới hạn tiêu biểu bởi sự phản kháng của dồng loại anh ta quen sớn trong lè lối. Bât luận cuộc sống xã-họi nào, dã̃u thấp kém đến đâu, cũng đời hỏi một giới hạn. Cả nhan đánh phải thủ phận nhin nhạn một vài diều căm đoán.",
+      "",
+      "Người ta cắt đặt tập lục, quyền hạn, uơc dịnh, nó trúag phạt tất cả những sự bất tuân, phi pháp. Không mấy lúc"
+    ],
+    "page_139": [
+      "rồi sự hiểu biết mọi diển cấm đoán, sự sợ bị trừng phạt ở mé ngoài đi lân vào bên trong và tạo ở khổ óc ngu muọi từ trước một căn bản mợt, mợt cái Siêu bần ngã, mợt thứ đợng cơ cảnh cáo không nên vượt qua ranh giới của phong tục tập quán, dễ khỏi bị trù̀ng phạt. Cái Siêu Bản Ngã ấy tức là lương năng, vớ nó xuất biẹn văn hóa và tư tưởng tòn giáo.",
+      "",
+      "Tất cả ahững trở lực (như dòi, lạnh, tật bệnh, chết chóc) mà tạo vật dùng gia giảm hiệu lực của bản năng thỏa thích của nhân loại bao giờ cũng bị sợ lo sợ mù quáng và mộc mạc của cá nhân xem như đưa ra bởi một kẻ nghịch vô hình, bởi một đấng tối cao có quyền tuyệt đối trong thướng phat. Sự có mặt trong tưởng tượng của đấng Tối cao ấy luôn luôn đánh thức lương năng nó lơai những kẻ vượt lê lối ra ngoài danh giới cuộc đei. Nhờ có lương năng nền văn minh của con người đã man bắt̂ dầu tuần tự kiến thiết.",
+      "",
+      "Tập trung lại các năng lực của minh, gán cho nó một ý nghĩa, con người dã man lần lần thâu bớt một phần quyền lực tuyệt đối của đấng Tối cao. Sấm sét bị"
+    ],
+    "page_140": [
+      "dây thâu lòi cuống hát. Đòi lạnh bị đánh bại bởi sự khôn ngoan. Đường xa..., đã có xe cộ. Thú dữ ., đã có súng ống, nước, lửa không còn phải là thiên tai thủy ách nữa, mà là nhu cầu của cá nhân hằng ngày.",
+      "",
+      "Nhờ cuộc tở chức lại các năng lực của nó, nhân loại ngày một leo cao trên nắc thang cao cả đề noi đến cõi thiêng liêng.",
+      "",
+      "Thắng được không gian và hiểm tượng đầy đủ sáng suốt và khôn ngoan, nhân loại đi từ một cá thể mộc mạc man đã đề ngày nay đến đứng gần ngang hàng được với đấng Tối cao có nhiều quyền hạn tuyệt đối.",
+      "",
+      "Nhung giữa cái mộng tưởng xây đắp một nền văn minh có thể đem lại bạnh phúc đại đồng cho nhân loại, Freud tự hỏi tại sao nhân loại lại không được vui vẻ, hạnh phúc mặc dầu nó đã gần đứng ngang hàng được với đấng tối cao. Và tại sao bản ngã ta lại không được giải phóng bởi các chiến công rực rỡ của nền văn minh nhân loại ?",
+      "",
+      "Theo Freud là bởi sự bồi thực tinhthần của văn hóa, ta đã không được thừa hưởng một cách chẳng tốn kém, mà chính"
+    ],
+    "page_141": [
+      "ta còn phải trả mắc bằng mót cách giới hạn lại sự tự do của các bản năng ta. Bề trái tất cả lợi ích của văn minh, đối với nòi giồng là một sự mất mát hạnhphúc đối với cá nhân. Và hễ văn minh nhân loại càng phát triền, tự do cá nhân càng kém đi, sức mạnh của tâm hồn cá nhân càng sa sút. \"Tình cảm hiện thời củi Bản ngã ta chỉ là một phần khô héo cản cỗi của một tình cảm sâu rộng, đại đồng phú hợp với tề quan hệ mật thiết giữa bản ngã và cuộc đời quanh ta\" Chúng ta đã cố nhường lại cho tập đoàn, cho xã hói rất nh ều sanh lực của ta, đề các bản năng tinh dục và bản năng hung bạo của ta hồi cô thời ngày nay vẫn còn giữ được sự đồng nhút và sức mạnh ngày xưa của nó. Nhung lề thói xã-hói cứ bóp chẹt sanh lực ta, tình dục ta, tình dục của một người văn minh vì thế phải tự thâu hẹp phạm vi lại. (hỉ có tâm-hồn cá nhân là bao giờ cũng sáng suốt: nó rõ biết một cách mầu nhiệm rằng bao nh èu vui sướng mà khoa học, mỹ thuật có thè cung cho ta hằng ngày, rằng sự chiến thắng Tự nhiên và bao nhiêu điều"
+    ],
+    "page_142": [
+      "thuận tiện của đời sống vật chất đã đánh mất của nó một say sưa khác dầy đủ hơn, tự nhièn hơn. Có một vật gi ở ta, àn nóp trong các giây thằn kinh của khối óc và bị cuống theo máu huyết chảy xiết trong đó, vật ấy hãy còn tưởng nè̀ một cách mầu nhiệm đến sư tự do có quan hệ mật thiết với trạng thái cô sơ của ta: tất cả bản năng lâu nay bị đánh bại bởi văn hóa, - như tinh dục, ham giết chóc - bây giờ bāy còn ám ảnh giấc mệng và ham muốn của ta. Ở đứa hài nhi, đưa ra đời bởi mợt người mẹ, thông minh cháu đáo, được nuôi dưỡng trong mợt nơi ấm cúng, vệ sanh, vẫn có tiềm phục mợt trạng thái của con người cô thoi. Mặc dằn là mót cơ thè̀ bé tí hon, đứa hài nhi vẫn phải trải qua các giai đoạn đưa bản năng cá nhân từ cô thời đến lúc tự cấm chế mọi diều vượt giới hàn. Tùy theo trình tự phát triền của cơ thè̀ nó đứa hài nhi vẵ phải sống lại đoạn đường tiến hóa của văn hóa. Mọt ký ức cô thời sanh hoạt bất diệt ở tâm hồn tắt cả chúng ta, và trong nhiêu truờng hợp Bản ngã duy mỹ của ta vẫn còn tưởng nhớ đến"
+    ],
+    "page_143": [
+      "sự phiein lưu phóng dật, đến những thú tánh của cô thời. Trong nguồn sanh lực của ta, sự mất mác và sự lợi ích thâu thập được bao giờ cũng cân phân, dễ lập thành một lẽ quán bịnh viên miễn.",
+      "",
+      "Freud cố ném -thủng tấm màn mơ tối của Tương lai, đưa ra thèm cảu hỏi : sống giữa sự sợ sệt quyền thường phạt của dăng Tối Cao và sự thỏa thich vật tánh, giữa nhũng cấm đoán và các trói buợc của tôn giáo nhân loại rồi có tim ra được một con đường cho nền văn minh của nó vượt ra khỏi \"trùng váy\" ấy không? Hai sức mạnh ngàn xưa, - bấn năng giết chóc và bần năng tình dục -, rồi có chịu xếp minh dưới lý lẽ của đạo đức không? Tương lai - nói theo nhà phán tâm học -, rồi có chiến thắng được hai sức mạnh ấy, đề đưa cả hai ra trước yến sáng của lương năng không? Tương lai một ngày kia rồi có được hoàn toàn trong sạch khơng?",
+      "",
+      "Những câu hỏi mới khó trả lò̀i làm sao!",
+      "Tự hỏỉ lý trí có thể làm chủ bản năng không, Freud thấy minh đang đứng trước mợt tình thế khó giải quyết. Vị một dáng thì phân tâm học không chịu biết đến sự lý-"
+    ],
+    "page_144": [
+      "trí chế ngự được tiềm thức ; phán tâm học bảo rằng: \"Người đời ít quen với các lờ hùng biện của lạ tri, mà họ lại bị chi-phối bởi các bản nàng của họ ». Đáng khác, phán tâm học quả quyết rằng: \"Đề chế ngự bản năng ta, ta không có phương tiện nào ngoài trí thông minh của ta cả ». Về phương diện lý thuyết, phán tâm học phấn đấu đề củng-cố địa vị trọng yếu cho bản năng và tiềm thức. Về phương diện thực hành, phàn tâm hợc dùng lý trí làm phương tiện giải phóng dạy nhứt cho con người và nhân loại. Từ lâu, tiềm ần ở phán tâm học sự tương phản nhiệm mầu ấy. Bây giờ thì sự tương phản ấy biểu lộ một cách dễ trông thấy hơn. Và Freud bây giờ cần có một quyết định rõ rệt. Chính trong phạm vi triết học, ông cần phải bày tỏ dễ củng-cố địa-vị trọng yếu cho lý tri và bản năng.",
+      "",
+      "Freud đã nhận thấy lượt văn minh bao dãu các bản năng hung bạo giết chóe của ta hãy còn mỏng mẻo lắm ; theo ông chỉ một xô đầy nhẹ của phần vô thức cũng đủ làm đồ sập tất cả lâu đài của luân lý đạo đức. Ông đã thấy tôn giáo, văn hóa và tất cả mọi điều nâng cao phần hữu"
+    ],
+    "page_145": [
+      "thức của con người đều bị hy sanh cho sự thỏa thich cuồng dại của cồ thời ; tờ cả những năng lực thiêng liêng trong sạch một lần nữa cũng bị đánh bại bởi một nhược diễm trước bảa năng cám lặng và khát máu của con người cồ thời.",
+      "",
+      "Nhung có ơ Freud một sự gì nó khước từ việc thừa nhận sự thất bại hoàn toàn của nhân loại về đường luân lý đạo đức. Và ich gi mà phụng sự khoa học và chân lý, nếu tởm lại phần hữu thức vẫn bất lực trước phần vô thức của nhân loại? Rất thành thật, Freud không dám quên thừa nhận sức mạnh hoạt động của lý tri, cũng như chẳng dám khơng thừa nhận sức mạnh tuyệt đối của bản năng. Thế nên câu hỏi «Tương lai rồi có thắng bản năng giết chóc và bản năng tinh dục của loài người khóng.» được Freud dè dặt trả lời bằng một tiếng «biết đâu...» mủ mờ nó có nghĩa rằng : « biết đâu một ngày kia tương lai chẳng thẳng hai bản năngấyl. .»",
+      "",
+      "Freud tuy không dám quả quyết, nhưng thật là cảm động mà nghe giong nói của ông thường nghiem nghị đã trở nên dịu dàng trong buồi tàn niên, khi nó"
+    ],
+    "page_146": [
+      "muốn chỉ cho nhân loại, ở đoạn đường cuối cùng của nhân loại, thấy mêt tia yến sáng hy vọng: «Chúng ta có thể tiếp tục bảo một cách hữu lý rằng tri tuệ con người yếu hơn bản năng nhưng sự yến ớ ấy là chuyện thường. Tiếng nói của tri tuệ khẽ lắm, nhung chẳng phải là không có, trong lúc nó nói khẽ không nghe được. Vê sau sau bao nhiêu lần thất hai, tiếng nói của tri tuệ rồi cũng có thể nghe được. Đó là một trong những dièm hiém hoi nhứ mà người ta có thể dựa vào đề lạc quan đối với tương tai của nhân loại, nhưng dókhông phải là một diềm chẳng ý nghĩa gì đâu. Đièm quan trọng nhứ của trí tuệ chắc chắn là nằm trong một vùng xa thẳm nhưng lè tất nhiên tà không phải chẳng đạt tới được».",
+      "",
+      "Những lời ấy kề ra cũng nhiệm n:âu thật. Nhung tia yến sá̉n hy vẹng ấy, trong bóng tối của bơai nghi, lại chập chờn như ngọn đèn sắp tất trong một vùng xa thẳm mơ ào, đề tâm hồn nhân loạ đã bị rả lạnh bởi thật tế có thè̀ dược sưởi ấm trong đó.",
+      "",
+      "Ở đây chăng ta đang đứng trước biên giới khòng thè vượt qua dược của phin"
+    ],
+    "page_147": [
+      "tâm học: chồ nào bất đâu quê hương của lòng tin tưởng thì sức mạnh của phân tâm học lại dứt ngay ở đe. Là kẻ thù ghê gớm của tất cả viễn tượng, phân tâm học không có cánh đề có thể hay đến những vùng siêu thoát của lòng tin tưởng. Là một khoa đặc biệt nghiên cứu tâm hồn cá nhân, phân tâm học không biết gì cả hay không muốn biết gì cả về sứ mang siêu hình của nhân loại. Thế nên phân tâm học chỉ việc soi sáng các hiện tượng tinh thần và không lo sưởi ấm tâm hồn nhân loại. Phân tâm họo chỉ lo chữa bình tinh thần, lo cho sức khoẻ cá nhân. Nhưng sức khoẻ không, chẳng phải đủ đâu! Muốn được dở dào và hạnh phúc nhân loại luôn luôn cần được gây sức mạnh bằng một niềm tin tưởng nó cung cho cuộc đời cá nhân một ý nghĩ thích đáng. Phân tâm học không cầu cứu đến chất nha phiến của tôn giáo; nó không tuyên hứa điều gì cả cũng không bảo đảm gì hết; nó thích im lặng hơn tỏ lời khuyên nhủ. Đố vời luận lý đạo đức, sự thành thật đấy của tinh thản phân tâm học ở bác sĩ Freud thật đáng khen. Nhưng"
+    ],
+    "page_148": [
+      "sự thành thật thì có thể dồi dào thần trí, mà không bao giờ thỏa mãn được dây đủ tình cẫm. Cá nhân, theo Freud. khơng thể sống không mộng ảo! Vi tâm hồn cá nhân làm sao có thể chịu đựng được cuộc đời nếu không có tia hy vọng nào, mộng ảo nào đặt ở tin tưởng.",
+      "",
+      "Đối với tâm hồn khao khát tin tưởng lý trí cũng như khoa phân tâm học khôn phải là một món ăn tinh thần Phân tâm học chỉ đem được đến những kinh nghiệm mà thôi; nó có thể giải thích thực tế, nhưng lại không cắt nghĩa vũ trụ được. Phân tâm học phân tích, chỉ cho từng cá nhân thấy được ý nghĩa cuộc đời mình, nhưng lại không thể đưa ra cho nhân loại một ý nghĩa chung.",
+      "",
+      "Dầu Freud có đi xa đến đâu, cũng vẫn còn nhiều quãng không gian vô tận mà ông chưa khám phá nỗi",
+      "",
+      "Ngay nay, tuy nghẹ́ thuật giải thich của các nhà phân tâm học đã chỉ cho tâm hồn cá nhân thấy những trở ngai huyền bí ngăn cản bước đường tiến triển của nó, nhưng hãy còn lắm trở ngai khác bắt tâm. hồn cá nhân phải chống lại nó, để tự giải phóng và đề đạt tới Thiên Thâu."
+    ],
+    "page_149": [
+      "# KẾT LUẬN ",
+      "",
+      "Nhờ sự phát kiến của bác sĩ Freud, khoa tâm lý hoc ngày nay đã có thê từ phân lý thuyết bước sang phần thưc hành, đã có thề phân tích tất cả công trình sáng tạo về tinh thần của nhân loại.",
+      "",
+      "Chớ tâm lý học ngày xưa thì othi là một khoa học có tánh cách lý thuyết, mà phạm vi chặt hẹp, chỉ quanh quằn trong chốn học đường.",
+      "",
+      "Nhờ có học 'huyết Freud ra đời, tâm lý học bây giờ đã oó thê bất tay khon giáo huấn trong việc kiến thiết tâm hồn cá nhân từ bé đến lớn; có thể dư phằn vào việc chữa bịnh thần kinh (bấy giờ tâm lý học có tên là phân tâm học); có thê giúp công lý một tay trong việc xư án"
+    ],
+    "page_150": [
+      "tội nhân; có thê khiến ta hiểu được dễ dàng những công trình sáng tạo nghệ thuật.",
+      "",
+      "Soát lại tất cả bí ẩn của cuộc đời, không gì bây giờ đáng cho con người chủ ý hơn sự phát hiện cả thê của y, hơn những điều kiện cốt yếu và những nét đặc biệt của cá tánh y.",
+      "",
+      "Bác sĩ Freud đã qui tất cả then chốt của khoa phân tâm học trừu tượng về chỗ a trung tâm diểm s ấy (tức là cá thê và cá tánh nhân loại) ông đã vế rõ biểu thải của cá tánh nhân loai, tức là tất cả bộ máy chuyển động giữa phần hữu thức và phần vô thức, trong đó môt động chạm nhổ nhứt cũng đủ gáy nên những đồ vỡ to lát, trong đó quá khứ bám chặt vào biện tại bởi những mối dây chằng chịt lạ lùng ; tức là phạm vi chật hẹp của máu huyết và cơ thê; tức là cái toàn thê bất khả khái-quát bằng thị giác nhưng rất dẹp mà ngẫm nhìn như một công trình nghệ thuật.",
+      "",
+      "Sự chẳng dám khinh thường việc quan sát cá tánh - quan sát cả đến những lầm lạc tọ lát nhứt của cá tánh - sự ấy ngày nay là vấn đề mà ở nhà trường, ở giáo-dường ở tờa án, Freud đã ấn sâu và mạnh vào"
+    ],
+    "page_151": [
+      "lương năng cá nhân.",
+      "Nhờ có học thuyết Freud, người ta lần thứ nhất đã nhận được trong một ý nghĩ mời sự quan trọng của cá nhân, giá trị đọc nhứt của tất cả tâm hồn nhân loại.",
+      "Ở' toàn cõi Âu châu hiện thời, tror.g các phạm vi nghẹ thuật, học vấn, khoa học, không có danh nhân nào mà quan niệm tư tưởng chẳng chịu ít nhiều ảnh hưởng của Freud.",
+      "",
+      "Và trong lúc trên thế giới các nhà thông thái hiện còn đang bán ra tán vào về sở trường, sở đoản của học ihuyết ông thì bác sĩ Freud từ lâu dã, bâng nhiều chứng cớ, tỏ ra là một người xác thực xác thực trong cái ý nghĩa sáng tạo và theo câu danh ngón của Gqethe «Chỉ có cái gì dồ-dào, cái ấy mời xác thực thói»",
+      "",
+      "Cantho - Baria,",
+      "Novembre 1942 Avril 1943"
+    ],
+    "page_152": [
+      "# Nay mai ",
+      "",
+      "Các bạn còn được thuo̊ng thức trong «Tủ sách triết học Tân-Viẹt» một tác phầm khảo cứu rất công phu vè",
+      "",
+      "## HOC THUYET FREUD",
+      "",
+      "của bác sĩ DƯONG - TẤN - TUOI",
+      "",
+      "## Còn một ít",
+      "",
+      "Văn hào Tolstoì của",
+      "Nguyễn phi Hoành gia 2840",
+      "Triết lý về vũ-trụ và nhân-sinh",
+      "của Phan Mật giá 2830",
+      "NHÀ XUẤT BẢN TÂN-VIET",
+      "29, LAMBLOT - HANOI"
+    ],
+    "page_153": [
+      "Muốn tìm một con đường đề bước vào trong những vấn đề triết-học.",
+      "",
+      "Muốn nhìn thấy rõ những căn bản của từng học thuyết.",
+      "",
+      "Muốn có một cái kim chỉ nam đề tìm hiểu những chủ nghĩa xưa và nay.",
+      "",
+      "HÃY ĐỌC CUỐN",
+      "",
+      "# SIÊU HÌNH HỌC",
+      "",
+      "của Nguyễn Đình-Thi (sắp có bán)",
+      "",
+      "Một cuốn sách soạn theo chương trình MỚI bậc trung học Pháp — những tài liệu cần thiết cho tất cả mọi người, trình bày đầy đủ và dễ dàng theo một quan điểm mới mẻ chưa từng thấy trong các sách về triết học.",
+      "",
+      "# NHÀ XUẤT BẢN TÂN-VIỆT",
+      "",
+      "29, LAMBLOT — HANOI"
+    ],
+    "page_154": [
+      "# MỤC LỤC ",
+      "",
+      "Trang",
+      "THAY LỜI TỤA : Từ Zweig đến Fréud. ..... 5",
+      "LỜI NÚI ĐẦU ..... 8",
+      "CHƯONG I: Một tài năng xuấl hiện. ..... 15",
+      "CHƯONG II: Bức chân dung. ..... 27",
+      "CHƯONG III: Bước đâuu. ..... 41",
+      "CHƯƠNG IV : Cõi vô Thức ..... 56",
+      "CHƯƠNG V: Chiêm bao. ..... 68",
+      "CHƯƠNG VI: Kị̂ thenật của Phán tâm học ..... 90",
+      "CHƯƠNG VII : Quan niệm tình dục. ..... 106",
+      "CHƯO'NG VIII: Buồi tàn niên ..... 129",
+      "KÊT LUẬN ..... 145"
+    ],
+    "page_155": [
+      "Học thuyết **FREUD** in lẫn thứ nhất tại nhà in **QUANG HÒA**, 6¢, 66, 68, — Sinh - Từ, Hanoi - kiểm duyệt xong ngày 26-7-43 và được phép số 396 ngày 4 A oút 1948"
+    ],
+    "page_156": [
+      "."
+    ],
+    "page_157": [
+      "# 7. 2. 1. V M A T H D A E T ",
+      "",
+      "![img-0.jpeg](img-0.jpeg)"
+    ],
+    "page_158": [
+      "# S A C H T A N V I E T ",
+      "",
+      "Tủ sách triết học",
+      "Triết học Bergson hết",
+      "Triết học Kant hết",
+      "Triểt học Nietzsche hết",
+      "Luận Túng I 1.50",
+      "Triết học Einstein 2.30",
+      "Siêu hình học",
+      "sắp có bản",
+      "Phật giáo triết học hết",
+      "Triết lý vũ trụ và nhân",
+      "sinh",
+      "2.30",
+      "",
+      "Tủ sách phê bình",
+      "Đời Văn của",
+      "Trần-thanh-Mai 0.95",
+      "Phô bình văn học I 0.95",
+      "Ba mươi năm",
+      "văn học 1.35",
+      "Tủ sách dịch",
+      "Thế giới mới 0.45",
+      "Thanh niên trước thế giới mới 0.45",
+      "Nghệ thuật làm việc 0.50",
+      "",
+      "Vườn hồng 1.10",
+      "Nghin lẽ một đêm I 2.00",
+      "Nghin lẽ một đêm II",
+      "2.50",
+      "",
+      "Nghin lẽ một đêm III",
+      "2.20",
+      "",
+      "Tủ sách đẹp",
+      "Vàng Sao 2.50",
+      "Thi sĩ cám đang in",
+      "Tủ sách gió tày",
+      "Một ngày của",
+      "Tolstoi 0.50",
+      "Đàn bà và nhà văn 1.20",
+      "Tủ sách danh nhân",
+      "Trong 99 chóp nút 1.00",
+      "Thi hào Tagore 4.80",
+      "Trông giòng sông vị 1.90",
+      "Văn hào Tolstoi 2.40",
+      "Tủ sách phô thông",
+      "Đa không duyên",
+      "kiếp 0.85",
+      "hết",
+      "Thiên Hương 1.15",
+      "Đường gươm",
+      "họ Lý 0.65",
+      "Lưỡi kiếm Đồng Văn",
+      "1.35",
+      "",
+      "Chiều 30 Tết 1.20",
+      "Thanh gươm Từ Ánh",
+      "1.35",
+      "",
+      "Thư đồng nội 0.60",
+      "",
+      "## 29 - LAMBLOT - HANOI",
+      "",
+      "Couv. Imp. Đông-Dương - Hanoi"
+    ]
+  }
+}
