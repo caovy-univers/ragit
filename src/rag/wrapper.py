@@ -1,89 +1,180 @@
-from langchain.chains import RetrievalQA
-from langchain.schema import BaseRetriever
-from langchain_ollama import OllamaLLM
+from typing import Any, Dict, List, Optional, Sequence, Tuple
+
 from loguru import logger
-from typing import Any, Dict
+from langchain.schema import Document
+from langchain.prompts import PromptTemplate
+from langchain_community.vectorstores import FAISS  # or your actual type
+from langchain_community.llms import HuggingFacePipeline
+from langchain_ollama import OllamaLLM
+
+
+DEFAULT_PROMPT = """You are a helpful RAG assistant.
+Use the provided context to answer the question concisely and faithfully.
+ALWAYS answer in the target language: {TARGET_LANG}.
+
+# Rules
+- If the context is insufficient, say so briefly.
+- Cite short source info the system will append; do not fabricate references.
+
+# Question
+{QUESTION}
+
+# Context
+{CONTEXT}
+"""
+
+
+def _build_context(docs: Sequence[Document], max_chars: int = 8000) -> str:
+    """
+    Build a concatenated context from retrieved documents, capped by length.
+
+    Args:
+        docs (Sequence[Document]): Retrieved documents.
+        max_chars (int): Safeguard for oversized contexts.
+
+    Returns:
+        str: Concatenated context payload.
+    """
+    parts: List[str] = []
+    size = 0
+    for d in docs:
+        text = d.page_content.strip()
+        if not text:
+            continue
+        if size + len(text) > max_chars:
+            remaining = max_chars - size
+            if remaining <= 0:
+                break
+            text = text[:remaining]
+        parts.append(text)
+        size += len(text)
+        if size >= max_chars:
+            break
+    return "\n\n---\n\n".join(parts)
+
+
+def _unique_sources(docs: Sequence[Document], limit: int = 5) -> List[Tuple[str, str, str]]:
+    """
+    Deduplicate and compress document metadata into (title, authors, date).
+
+    Dedup key:
+        (title_main, publication_date)
+
+    Args:
+        docs (Sequence[Document]): Retrieved documents.
+        limit (int): Max number of unique entries to keep.
+
+    Returns:
+        List[Tuple[str, str, str]]: List of (title, authors, date).
+    """
+    seen = set()
+    uniq: List[Tuple[str, str, str]] = []
+    for d in docs:
+        m = d.metadata or {}
+        title = m.get("title_main") or "Unknown title"
+        date = m.get("publication_date") or "Unknown date"
+        key = (title, date)
+        if key in seen:
+            continue
+        seen.add(key)
+        authors_list = m.get("authors") or []
+        if isinstance(authors_list, list):
+            authors = ", ".join(a for a in authors_list if a) or "Unknown authors"
+        else:
+            authors = str(authors_list) if authors_list else "Unknown authors"
+        uniq.append((title, authors, date))
+        if len(uniq) >= limit:
+            break
+    return uniq
+
+
+def _format_sources(docs: Sequence[Document]) -> str:
+    """
+    Produce a clean, non-duplicated "Sources:" section without markdown bold.
+
+    Example:
+        Sources:
+        - Nam Phong tạp chí — Phạm Quỳnh, Nguyễn Bá Trác (1917-07-01)
+        - Những sự gặp gỡ... — Vũ Bội Liêu (1944)
+    """
+    items = _unique_sources(docs)
+    if not items:
+        return ""
+    lines = ["\nSources:"]
+    for title, authors, date in items:
+        lines.append(f"- {title} — {authors} ({date})")
+    return "\n".join(lines)
+
 
 class SimpleRAG:
     """
-    A flexible Retrieval-Augmented Generation (RAG) wrapper using OllamaLLM
-    and a vectorstore retriever. Includes metadata integration in responses.
-
-    Attributes:
-        retriever (BaseRetriever): Configured retriever with specified search type and k-neighbors.
-        llm (OllamaLLM): Ollama language model instance.
-        qa_chain (RetrievalQA): RAG chain combining the retriever and the LLM.
+    Minimal RAG wrapper:
+      - Builds a retriever from a vector store
+      - Assembles a prompt with retrieved context
+      - Calls the provided LLM backend (Ollama or HF pipeline)
+      - Appends a clean, deduplicated sources section
     """
-    def __init__(self,
-        vectorstore: Any,
-        model_name: str = "mistral",
-        k: int = 5,
-        chain_type: str = "stuff",
-        search_type: str = "similarity"):
-        """
-        Initialize the SimpleRAG pipeline.
 
+    def __init__(
+        self,
+        vectorstore: FAISS,
+        *,
+        llm: OllamaLLM | HuggingFacePipeline,
+        model_name: str,
+        target_lang: str = "fr",
+        search_k: int = 5,
+    ) -> None:
+        """
         Args:
-            vectorstore (Any): A vectorstore instance (e.g., FAISS, Chroma) supporting `as_retriever()`.
-            model_name (str): Name of the Ollama model to use.
-            k (int): Number of top documents to retrieve.
-            chain_type (str): Method for combining retrieved documents.
-            search_type (str): Vector search algorithm.
-
-        Returns:
-            None
+            vectorstore (FAISS): Vector store instance.
+            llm (OllamaLLM | HuggingFacePipeline): Language model wrapper.
+            model_name (str): Kept for logging/debug.
+            target_lang (str): Target answer language (e.g., 'fr', 'vi', 'en').
+            search_k (int): Number of documents to retrieve.
         """
-        logger.info("Initializing SimpleRAG with Ollama model '{}'", model_name)
+        self.retriever = vectorstore.as_retriever(search_kwargs={"k": search_k})
+        self.llm = llm
+        self.model_name = model_name
+        self.target_lang = target_lang
+        logger.info(f"Initializing SimpleRAG (target_lang='{self.target_lang}')")
 
-        # Configure the retriever
-        self.retriever: BaseRetriever = vectorstore.as_retriever(
-            search_type=search_type,
-            search_kwargs={"k": k}
-        )
-
-        # Initialize the Ollama language model
-        self.llm = OllamaLLM(model=model_name)
-
-        # Build the RetrievalQA chain with explicit chain_type
-        self.qa_chain = RetrievalQA.from_chain_type(
-            llm=self.llm,
-            chain_type=chain_type,
-            retriever=self.retriever
+        self.prompt = PromptTemplate(
+            input_variables=["TARGET_LANG", "QUESTION", "CONTEXT"],
+            template=DEFAULT_PROMPT,
         )
 
     def ask(self, query: str) -> Dict[str, Any]:
         """
-        Execute a query through the RAG pipeline, then append source metadata.
+        Retrieve, generate, and format a response with sources.
 
         Args:
-            query (str): The user's question.
+            query (str): User question.
 
         Returns:
-            Dict[str, Any]: A dictionary containing:
-                - "result": Generated answer with embedded references.
-                - "source_documents": List of retrieved document objects.
+            Dict[str, Any]: {"result": str, "source_documents": List[Document]}
         """
-        logger.info("Processing query: '{}'", query)
+        logger.info(f"Processing query: '{query}'")
+        # Retrieve candidates
+        sources: List[Document] = self.retriever.get_relevant_documents(query)
 
-        # Invoke the QA chain
-        result = self.qa_chain.invoke({"query": query})
-        answer = result.get("result", "")
-        sources = result.get("source_documents", [])
+        # Build context
+        context = _build_context(sources)
 
-        # Build a reference section with metadata
-        if sources:
-            # Use literal '\n' for newlines
-            refs = ["\n**Sources:**"]
-            for doc in sources:
-                m = doc.metadata
-                title = m.get('title_main', 'Unknown title')
-                authors = ", ".join(m.get('authors', [])) or 'Unknown authors'
-                date = m.get('publication_date', 'Unknown date')
-                refs.append(f"- **{title}** by {authors} ({date})")
-            answer += "\n" + "\n".join(refs)
-
-        logger.debug(
-            "Retrieved %d source documents for the query",
-            len(sources)
+        # Build prompt
+        final_prompt = self.prompt.format(
+            TARGET_LANG=self.target_lang,
+            QUESTION=query,
+            CONTEXT=context,
         )
+
+        # Generate
+        raw = self.llm.invoke(final_prompt)
+        answer = raw if isinstance(raw, str) else str(raw)
+
+        # Append clean sources (no bold, no duplicates)
+        src_text = _format_sources(sources)
+        if src_text:
+            answer += "\n" + src_text
+
+        logger.debug(f"Retrieved {len(sources)} source documents for the query")
         return {"result": answer, "source_documents": sources}
