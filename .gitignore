@@ -8,6 +8,7 @@
 *__pycache__/
 .ipynb_checkpoints/
 *.egg-info/
+.vscode/
 
 # Windows Zone Identifier and macOS Finder metadata files
 *:Zone.Identifier
