@@ -1,63 +1,120 @@
-# RAG Pipeline for Nam Phong
+# RAG Pipeline for Nam Phong & Tân-Việt
 
-This repository contains a Retrieval-Augmented Generation (RAG) pipeline built with LangChain, FAISS, and the Ollama `mistral` model. It supports Vietnamese, French, and English queries on a JSON corpus of mixed-language content.
+This package contains a Retrieval-Augmented Generation (RAG) pipeline built with
+LangChain and FAISS. It supports Vietnamese, French, and English queries on a
+mixed-language JSON corpus. Two LLM backends are supported:
+
+* **Ollama** (e.g., `mistral`)
+* **PhoGPT** from Hugging Face (e.g., `vinai/PhoGPT-7B5`)
 
 ## Project Structure
 
 ```
 src/
 └── rag/
-    ├── __init__.py             ← Module initializer
-    ├── main_pipeline.py        ← Main script with CLI options
-    ├── loader.py               ← Recursive JSON loader
-    ├── document_builder.py     ← LangChain Document builder
+    ├── __init__.py
+    ├── main_pipeline.py        ← CLI entry point
+    ├── loader.py               ← JSON loader (robust text_body normalization)
+    ├── document_builder.py     ← Converts JSON records to LangChain Documents
     ├── vector_indexer.py       ← FAISS vector store builder
-    ├── wrapper.py              ← SimpleRAG wrapper class
-    └── README.md               ← This README file
+    ├── wrapper.py              ← Minimal RAG wrapper (clean sources formatting)
+    ├── tests/                  ← Externalized test queries (YAML/JSON)
+    │   ├── all.yaml
+    │   ├── nam.yaml
+    │   └── tan.yaml
+    └── README.md               ← This README
 ```
+
+### JSON expectations
+
+Each JSON file should contain:
+
+* `metadata`: object with fields like `title_main`, `authors`, `publication_date`, etc.
+* `text_body`: can be `list[str]`, `list[list[str]]`, `dict[str, list[str]|str]` (paged), or `str`.
+
+`loader.py` flattens the `text_body` to a list of non-empty chunks.
 
 ## Usage
 
-### 1. **Run the Mistral model with Ollama**
+### 0) Prepare data
 
-   Make sure Ollama is installed and running. Then:
+By default, the pipeline looks in:
 
-   ```bash
-   ollama pull mistral
-   ollama run mistral
-   ```
+* `data/Tan-Viet/output`
+* `data/Nam-Phong/output`
 
-   ⚠️ Keep the Ollama server running in a separate terminal.
+Use `--corpus all|nam|tan`, or `--corpus custom -d path1 -d path2 ...`.
 
+### 1) Run with **Ollama** (Mistral)
 
-### 2. **Launch the RAG Pipeline (from the project root)**
+Make sure Ollama is running and `mistral` is available:
 
-⚠️ First, make sure you are in the project root directory then you can run the RAG pipeline with different modes:
+```bash
+ollama pull mistral
+```
 
-- **Interactive Mode**: This will start an interactive prompt for querying the RAG system.
-- **Test Mode**: Run predefined queries to test the system.
+### 2) Run with **PhoGPT**
 
-#### Interactive Mode (default)
+You can use: `-b phogpt -m vinai/PhoGPT-7B5` or point to a local folder.
+This repo loads PhoGPT via Transformers **without remote code**, forcing a safe
+Torch attention implementation (no FlashAttention/Triton required).
+
+### 3) Launch the pipeline
+
+Interactive mode:
 
 ```bash
 poetry run python -m rag.main_pipeline
 ```
-This will start an interactive prompt where you can enter your queries in Vietnamese, French, or English. The system will return answers based on the indexed data.
-If you want to specify a different data directory, you can use the `--data-dir` option:
 
-```bash
-poetry run python -m rag.main_pipeline --data-dir /path/to/your/data
-```
-
-#### Test Mode
+Test mode with external queries (reads `src/rag/tests/*.yaml`):
 
 ```bash
 poetry run python -m rag.main_pipeline --test
 ```
 
-Executes predefined queries in Vietnamese, French, and English to show how the system responds to different languages and topics.
+Select backend, corpus, and language:
 
-These are the predefined queries:
-* **Vietnamese**: "Văn minh học thuật của nước Pháp được miêu tả như thế nào trong Nam Phong tạp chí?" (*How is the academic civilization of France described in Nam Phong magazine?*)
-* **French**: "Quel est le rôle de l'Académie française selon les articles de la revue Nam Phong ?" (*What is the role of the French Academy according to the articles in Nam Phong magazine?*)
-* **English**: "How does Nam Phong magazine discuss the conflict between material and spiritual progress in modern civilization?"
+```bash
+poetry run python -m rag.main_pipeline --corpus all -b ollama -m mistral -L fr --test
+poetry run python -m rag.main_pipeline --corpus all -b phogpt -m vinai/PhoGPT-7B5 -L vi --test
+```
+
+Custom tests directory:
+
+```bash
+poetry run python -m rag.main_pipeline --tests-dir path/to/tests --test
+```
+
+### 4) Makefile shortcuts
+
+From the project root:
+
+```bash
+make                 # 1.a (All+Ollama) then 1.b (All+PhoGPT)
+make full            # 2.a, 2.b, 3.a, 3.b
+make help
+```
+
+Override defaults:
+
+```bash
+make OLLAMA_MODEL=llama3 LANG_OLLAMA=en
+make PHOGPT_MODEL=vinai/PhoGPT-7B5 LANG_PHOGPT=vi
+make TESTS_DIR=my_tests
+```
+
+## Output format
+
+Answers include a clean, deduplicated **Sources** section (no bold; no duplicates), e.g.:
+
+```
+Sources:
+- Nam Phong tạp chí — Phạm Quỳnh, Nguyễn Bá Trác (1917-07-01)
+- Những sự gặp gỡ của Đông phương và Tây phương trong ngôn ngữ và văn chương — Vũ Bội Liêu (1944)
+```
+
+## Notes
+
+* The loader no longer logs each file; it only logs directory scans and warns on failed files.
+* The wrapper deduplicates sources by `(title_main, publication_date)` and limits to 5 entries.
