@@ -1,56 +1,100 @@
+from typing import Any, Dict, List, Optional
+
 from langchain.schema import Document
-from pydantic import BaseModel
-from typing import List, Optional
+from pydantic import BaseModel, Field, ConfigDict
+
 
 class Metadata(BaseModel):
-    title_main: str
-    title_alt: str = ""
+    """
+    Normalized metadata schema for JSON inputs.
+
+    Notes:
+    - Many fields may be missing or set to null in source JSON. We therefore
+      declare them Optional and provide safe defaults where appropriate.
+    - We also allow extra fields to pass through (extra="allow") so we keep
+      useful keys like authors_id/publisher_id when present.
+    - Use Field(default_factory=...) for list/dict to avoid mutable defaults.
+    """
+    model_config = ConfigDict(extra="allow")
+
+    title_main: str = "Unknown title"
+    title_alt: Optional[str] = None
     publisher: Optional[str] = None
     publication_place: Optional[str] = None
     publication_date: Optional[str] = None
     source_description: Optional[str] = None
-    authors: list = []
-    genres: list = []
+    authors: List[str] = Field(default_factory=list)
+    genres: List[str] = Field(default_factory=list)
     issn: Optional[str] = None
-    identifiers: dict = {}
+    identifiers: Dict[str, Any] = Field(default_factory=dict)
 
 
-def create_documents(chunks: List[str], metadata: dict) -> List[Document]:
+def _safe_join(values: List[Any]) -> str:
     """
-    Convert raw text chunks and metadata into Document objects,
-    embedding metadata into the content header so it's both searchable
-    and available to the LLM during generation.
+    Join list items into a readable string:
+    - Coerces non-string values to strings.
+    - Skips falsy values.
+    """
+    return ", ".join(str(v).strip() for v in values if v)
+
+
+def create_documents(chunks: List[str], metadata: Dict[str, Any]) -> List[Document]:
+    """
+    Convert raw text chunks and metadata into LangChain Document objects.
+
+    Strategy:
+    - Validate metadata via Pydantic (tolerant of null/missing fields).
+    - Build a short header (inline provenance) prepended to each chunk so that
+      the LLM can cite and the content remains searchable.
+    - Return a list of Document with the validated metadata preserved.
 
     Args:
-        chunks (List[str]): List of text segments to be indexed.
-        metadata (dict): Metadata dictionary containing fields like
-            title_main, authors, publication_date, publisher, genres, etc.
+        chunks (List[str]): Flat list of text lines or paragraphs.
+        metadata (dict): Raw metadata dictionary from JSON.
 
     Returns:
-        List[Document]: A list of LangChain Document objects with metadata
-            prefixed in the page_content and metadata attached.
+        List[Document]: One Document per chunk.
     """
-    parsed = Metadata(**metadata).dict()
-    docs: List[Document] = []
+    parsed = Metadata(**(metadata or {})).model_dump()
 
-    # Build metadata header
-    header_lines = [f"Title: {parsed['title_main']}"]
-    if parsed.get('authors'):
-        header_lines.append(f"Authors: {', '.join(parsed['authors'])}")
-    if parsed.get('publication_date'):
-        header_lines.append(f"Publication Date: {parsed['publication_date']}")
-    if parsed.get('publisher'):
-        header_lines.append(f"Publisher: {parsed['publisher']}")
-    if parsed.get('genres'):
-        header_lines.append(f"Genres: {', '.join(parsed['genres'])}")
+    header_lines: List[str] = []
+    # Title(s)
+    header_lines.append(f"Title: {parsed.get('title_main') or 'Unknown title'}")
+    if parsed.get("title_alt"):
+        header_lines.append(f"Alt title: {parsed['title_alt']}")
+
+    # Authors
+    if parsed.get("authors"):
+        header_lines.append(f"Authors: {_safe_join(parsed['authors'])}")
+
+    # Publication info
+    pub_date = parsed.get("publication_date")
+    pub_place = parsed.get("publication_place")
+    publisher = parsed.get("publisher")
+    if pub_date or pub_place or publisher:
+        parts = []
+        if pub_date:
+            parts.append(pub_date)
+        if pub_place:
+            parts.append(pub_place)
+        if publisher:
+            parts.append(publisher)
+        header_lines.append("Publication: " + " — ".join(parts))
+
+    # Genres (optional)
+    if parsed.get("genres"):
+        header_lines.append(f"Genres: {_safe_join(parsed['genres'])}")
+
     header = "\n".join(header_lines) + "\n\n"
 
-    # Prefix each chunk with header
+    docs: List[Document] = []
     for chunk in chunks:
+        if not chunk:
+            continue
         docs.append(
             Document(
                 page_content=header + chunk,
-                metadata=parsed
+                metadata=parsed,
             )
         )
     return docs
