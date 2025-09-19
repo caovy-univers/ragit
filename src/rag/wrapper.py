@@ -155,7 +155,7 @@ class SimpleRAG:
         """
         logger.info(f"Processing query: '{query}'")
         # Retrieve candidates
-        sources: List[Document] = self.retriever.get_relevant_documents(query)
+        sources: List[Document] = self.retriever.invoke(query)
 
         # Build context
         context = _build_context(sources)
