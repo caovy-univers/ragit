@@ -55,8 +55,8 @@ ollama pull mistral
 
 Using **PhoGPT** requires:
 
-1. **Hugging Face account** with access to the gated model **vinai/PhoGPT-7B5**
-   - open [PhoGPT-7B5 on Hugging Face](https://huggingface.co/vinai/PhoGPT-7B5) and **accept the terms**
+1. **Hugging Face account** with access to the gated model **vinai/PhoGPT-4B**
+   - open [PhoGPT-4B on Hugging Face](https://huggingface.co/vinai/PhoGPT-4B) and **accept the terms**
 2. **Authentication**:
    - Either via **token** (`huggingface-cli login`)
    - Or via **SSH** (add your SSH key to HF; we provide a git+ssh fallback in the Makefile)
@@ -69,7 +69,7 @@ Then you can **download the model locally** in two ways:
   make download-phogpt-hf
   ```
 
-  This places the files under `models/PhoGPT-7B5/`.
+  This places the files under `models/PhoGPT-4B/`.
 
 - **Fallback (Git+SSH + Git LFS)**:
 
@@ -80,10 +80,10 @@ Then you can **download the model locally** in two ways:
 Once the model is available locally, run the tests with:
 
 ```bash
-make test-all-phogpt PHOGPT_MODEL=models/PhoGPT-7B5
+make test-all-phogpt PHOGPT_MODEL=models/PhoGPT-4B
 ```
 
-If you prefer to stream from the Hub (not recommended on flaky networks), omit `PHOGPT_MODEL=` so it uses `vinai/PhoGPT-7B5`.
+If you prefer to stream from the Hub (not recommended on flaky networks), omit `PHOGPT_MODEL=` so it uses `vinai/PhoGPT-4B`.
 
 > Tip: If your network blocks Hugging Face’s xet backend, the `download-phogpt-hf` target already sets:
 > `HF_HUB_ENABLE_HF_TRANSFER=0 HF_ENDPOINT=https://huggingface.co`
@@ -123,7 +123,7 @@ If you prefer to stream from the Hub (not recommended on flaky networks), omit `
 - **PhoGPT (1.b on full corpus)**
 
   ```bash
-  make test-all-phogpt PHOGPT_MODEL=models/PhoGPT-7B5
+  make test-all-phogpt PHOGPT_MODEL=models/PhoGPT-4B
   ```
 - **Nam-Phong only**
 
@@ -147,7 +147,7 @@ If you prefer to stream from the Hub (not recommended on flaky networks), omit `
 
 ```bash
 poetry run python -m rag.main_pipeline --corpus all -b ollama -m mistral -L fr --tests-dir src/rag/tests -t --test-scope all
-poetry run python -m rag.main_pipeline --corpus all -b phogpt -m models/PhoGPT-7B5 -L vi --tests-dir src/rag/tests -t --test-scope all
+poetry run python -m rag.main_pipeline --corpus all -b phogpt -m models/PhoGPT-4B -L vi --tests-dir src/rag/tests -t --test-scope all
 ```
 
 ### 5. Contributing
