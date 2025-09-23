@@ -13,6 +13,7 @@ BASE          := $(PY) python -m $(ENTRY)
 TESTS_DIR     ?= src/rag/tests
 
 # ---- Corpora ---------------------------------------------------------------
+CORPUS ?= all
 CORPUS_ALL    := all
 CORPUS_NAM    := nam
 CORPUS_TAN    := tan
@@ -23,10 +24,10 @@ OLLAMA_MODEL  ?= mistral
 LANG_OLLAMA   ?= fr
 
 # PhoGPT (optional backend)
-# Can be either a repo id "vinai/PhoGPT-7B5" or a local path "models/PhoGPT-7B5"
-PHOGPT_MODEL  ?= vinai/PhoGPT-7B5
+# Can be either a repo id "vinai/PhoGPT-7B5" or a local path "models/PhoGPT-4B"
+PHOGPT_MODEL  ?= models/PhoGPT-4B
 LANG_PHOGPT   ?= vi
-PHOGPT_LOCAL_DIR ?= models/PhoGPT-7B5
+PHOGPT_LOCAL_DIR ?= models/PhoGPT-4B
 
 # ---- Defaults --------------------------------------------------------------
 .DEFAULT_GOAL := interactive
@@ -59,7 +60,8 @@ interactive: ## Interactive pipeline (Ollama, full corpus)
 
 # PhoGPT, full corpus
 phogpt: ## Interactive pipeline (PhoGPT, full corpus)
-	$(call RUN_INTERACTIVE,$(CORPUS_ALL),phogpt,$(PHOGPT_MODEL),$(LANG_PHOGPT))
+	@echo "=== INTERACTIVE: CORPUS=$(CORPUS) BACKEND=phogpt MODEL=$(PHOGPT_MODEL) LANG=$(LANG_PHOGPT) ==="
+	$(BASE) --corpus $(CORPUS) -b phogpt -m $(PHOGPT_MODEL) -L $(LANG_PHOGPT) --use-4bit
 
 # Ollama on a specific subcorpus
 nam: ## Interactive (Ollama) on Nam-Phong
