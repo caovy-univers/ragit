@@ -1,10 +1,10 @@
-from typing import Any, Dict, List, Optional, Sequence, Tuple
-
+import time
+from typing import Any, Dict, List, Sequence, Tuple
 from loguru import logger
-from langchain.schema import Document
 from langchain.prompts import PromptTemplate
-from langchain_community.vectorstores import FAISS  # or your actual type
+from langchain.schema import Document
 from langchain_community.llms import HuggingFacePipeline
+from langchain_community.vectorstores import FAISS
 from langchain_ollama import OllamaLLM
 
 
@@ -24,13 +24,13 @@ ALWAYS answer in the target language: {TARGET_LANG}.
 """
 
 
-def _build_context(docs: Sequence[Document], max_chars: int = 8000) -> str:
+def _build_context(docs: Sequence[Document], max_chars: int = 4000) -> str:
     """
     Build a concatenated context from retrieved documents, capped by length.
 
     Args:
         docs (Sequence[Document]): Retrieved documents.
-        max_chars (int): Safeguard for oversized contexts.
+        max_chars (int): Safeguard for oversized contexts (smaller = faster).
 
     Returns:
         str: Concatenated context payload.
@@ -51,7 +51,6 @@ def _build_context(docs: Sequence[Document], max_chars: int = 8000) -> str:
         if size >= max_chars:
             break
     return "\n\n---\n\n".join(parts)
-
 
 def _unique_sources(docs: Sequence[Document], limit: int = 5) -> List[Tuple[str, str, str]]:
     """
@@ -115,22 +114,14 @@ class SimpleRAG:
       - Appends a clean, deduplicated sources section
     """
 
-    def __init__(
-        self,
-        vectorstore: FAISS,
-        *,
-        llm: OllamaLLM | HuggingFacePipeline,
-        model_name: str,
-        target_lang: str = "fr",
-        search_k: int = 5,
-    ) -> None:
+    def __init__(self, vectorstore: FAISS, *, llm, model_name: str, target_lang: str = "fr", search_k: int = 3) -> None:
         """
         Args:
             vectorstore (FAISS): Vector store instance.
-            llm (OllamaLLM | HuggingFacePipeline): Language model wrapper.
+            llm: Language model wrapper (Ollama or HF pipeline).
             model_name (str): Kept for logging/debug.
             target_lang (str): Target answer language (e.g., 'fr', 'vi', 'en').
-            search_k (int): Number of documents to retrieve.
+            search_k (int): Number of docs to retrieve (smaller = faster).
         """
         self.retriever = vectorstore.as_retriever(search_kwargs={"k": search_k})
         self.llm = llm
@@ -143,6 +134,7 @@ class SimpleRAG:
             template=DEFAULT_PROMPT,
         )
 
+
     def ask(self, query: str) -> Dict[str, Any]:
         """
         Retrieve, generate, and format a response with sources.
@@ -153,14 +145,22 @@ class SimpleRAG:
         Returns:
             Dict[str, Any]: {"result": str, "source_documents": List[Document]}
         """
+        t0 = time.time()
         logger.info(f"Processing query: '{query}'")
-        # Retrieve candidates
+
+        # Retrieve
+        t_retr_0 = time.time()
         sources: List[Document] = self.retriever.invoke(query)
+        t_retr_1 = time.time()
+        logger.debug(f"[Timing] retrieval={t_retr_1 - t_retr_0:.2f}s; docs={len(sources)}")
 
         # Build context
+        t_ctx_0 = time.time()
         context = _build_context(sources)
+        t_ctx_1 = time.time()
+        logger.debug(f"[Timing] build_context={t_ctx_1 - t_ctx_0:.2f}s; context_len={len(context)} chars")
 
-        # Build prompt
+        # Prompt
         final_prompt = self.prompt.format(
             TARGET_LANG=self.target_lang,
             QUESTION=query,
@@ -168,13 +168,19 @@ class SimpleRAG:
         )
 
         # Generate
+        t_gen_0 = time.time()
+        logger.info(f"[Generation] calling model='{self.model_name}' (greedy, max_new_tokens=256)")
         raw = self.llm.invoke(final_prompt)
+        t_gen_1 = time.time()
+        logger.debug(f"[Timing] generation={t_gen_1 - t_gen_0:.2f}s (model={self.model_name})")
+
         answer = raw if isinstance(raw, str) else str(raw)
 
-        # Append clean sources (no bold, no duplicates)
+        # Sources
         src_text = _format_sources(sources)
         if src_text:
             answer += "\n" + src_text
 
+        logger.debug(f"[Timing] total={time.time() - t0:.2f}s (end-to-end)")
         logger.debug(f"Retrieved {len(sources)} source documents for the query")
         return {"result": answer, "source_documents": sources}

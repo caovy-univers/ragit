@@ -1,131 +1,125 @@
-from typing import Any, Dict, Literal, Optional, Union
 import os
-
 import torch
-from loguru import logger
 from langchain_community.llms import HuggingFacePipeline
 from langchain_ollama import OllamaLLM
-from transformers import (
-    AutoConfig,
-    AutoModel,
-    AutoModelForCausalLM,
-    AutoTokenizer,
-    pipeline,
-)
+from loguru import logger
+from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline
+from typing import Any, Literal, Optional, Union
+
+try:
+    from transformers import BitsAndBytesConfig
+    _HAS_BNB = True
+except Exception:
+    _HAS_BNB = False
 
 Backend = Literal["ollama", "phogpt"]
 
 
-def _prefer_torch_attention(config) -> None:
+def _resolve_device(device: str | None) -> str:
     """
-    Force safer attention implementation to avoid FlashAttention/Triton paths.
+    Resolve the target device.
 
-    For MPT-based models (e.g., PhoGPT), configs often expose either:
-      - config.attn_impl: str
-      - config.attn_config: dict with key 'attn_impl'
+    Args:
+        device: One of {"cuda", "cpu", "auto"} or None. If None/"auto",
+            returns "cuda" when a CUDA GPU is available, otherwise "cpu".
 
-    We set both (when present) to 'torch'. We also set a few env hints that
-    some repos check before trying flash attention backends.
+    Returns:
+        A normalized device string: "cuda" or "cpu".
     """
-    if hasattr(config, "attn_impl"):
+    if device in (None, "auto"):
         try:
-            config.attn_impl = "torch"
+            return "cuda" if torch.cuda.is_available() else "cpu"
         except Exception:
-            pass
-
-    attn_conf = getattr(config, "attn_config", None)
-    if isinstance(attn_conf, dict):
-        attn_conf["attn_impl"] = "torch"
-
-    # Env hints (harmless if ignored)
-    os.environ.setdefault("MPT_ATTENTION_IMPL", "torch")
-    os.environ.setdefault("PHOGPT_NO_FLASH", "1")
-    os.environ.setdefault("DISABLE_FLASH_ATTN", "1")
-
+            return "cpu"
+    return device
 
 def _build_phogpt_pipeline(
-    model_name: str,
-    device: Optional[Union[int, str]] = None,
+    model_name_or_path: str,
+    *,
+    device: str | None = None,
     use_4bit: bool = False,
-    max_new_tokens: int = 512,
-    temperature: float = 0.2,
-    top_p: float = 0.9,
-    repetition_penalty: float = 1.05,
-) -> HuggingFacePipeline:
+    max_new_tokens: int = 256,
+):
     """
-    Build a Hugging Face text-generation pipeline for PhoGPT.
+    Build a text-generation HF pipeline for PhoGPT.
 
-    Robust loading plan (no dynamic modules):
-      - Load AutoConfig with trust_remote_code=False (built-in Transformers).
-      - Force 'torch' attention to avoid flash/triton deps.
-      - Try AutoModelForCausalLM (standard generation).
-      - Fallback to AutoModel exactly as requested by the user
-        (dtype='auto') to remain compatible.
+    Args:
+        model_name_or_path (str): HF id or local path (e.g. 'models/PhoGPT-4B').
+        device (str|None): 'cuda', 'cpu', or None to auto-select.
+        use_4bit (bool): Enable bitsandbytes 4-bit quantization when available.
+        max_new_tokens (int): Generation cap for speed and memory safety.
 
-    This avoids ImportErrors for optional GPU-only dependencies (flash-attn, triton).
+    Returns:
+        HuggingFacePipeline: LangChain-compatible LLM wrapper.
     """
+    from langchain_community.llms import HuggingFacePipeline
+
+    is_cuda = torch.cuda.is_available()
     if device is None:
-        device = 0 if torch.cuda.is_available() else "cpu"
+        device = "cuda" if is_cuda else "cpu"
 
-    # 1) Load config via Transformers built-ins (NO remote code)
-    logger.info(f"Preparing config (no remote code) for {model_name}")
-    config = AutoConfig.from_pretrained(model_name, trust_remote_code=False)
-    _prefer_torch_attention(config)
+    prefer_bf16 = is_cuda and torch.cuda.get_device_capability(0)[0] >= 8
+    dtype = torch.bfloat16 if prefer_bf16 else (torch.float16 if is_cuda else torch.float32)
 
-    # 2) Precision / quantization
-    load_kwargs: Dict[str, Any] = dict(trust_remote_code=False, config=config)
+    quant_config = None
+    device_map = None
+    dtype_arg = dtype
+
     if use_4bit:
-        load_kwargs.update(
-            dict(
-                load_in_4bit=True,
-                bnb_4bit_compute_dtype=torch.bfloat16,
-                bnb_4bit_use_double_quant=True,
-                bnb_4bit_quant_type="nf4",
-                device_map="auto",
-            )
+        # 4-bit quantization: accelerate gère les devices → pas de device= dans pipeline()
+        quant_config = BitsAndBytesConfig(
+            load_in_4bit=True,
+            bnb_4bit_quant_type="nf4",
+            bnb_4bit_compute_dtype=dtype if is_cuda else torch.float32,
+            bnb_4bit_use_double_quant=True,
         )
+        device_map = "auto"
+        dtype_arg = None  # dtype contrôlé par bitsandbytes
+        logger.info(f"[PhoGPT] Loading model='{model_name_or_path}' on device={device}, dtype=4-bit")
     else:
-        load_kwargs.update(
-            dict(
-                dtype=torch.bfloat16 if torch.cuda.is_available() else torch.float32,
-                device_map="auto" if torch.cuda.is_available() else None,
-            )
-        )
+        # non-quantized: on peut fixer device directement
+        device_map = 0 if device == "cuda" else None
+        logger.info(f"[PhoGPT] Loading model='{model_name_or_path}' on device={device}, dtype={dtype}")
 
-    # 3) Tokenizer (no remote code needed)
-    tokenizer = AutoTokenizer.from_pretrained(model_name, trust_remote_code=False)
+    model = AutoModelForCausalLM.from_pretrained(
+        model_name_or_path,
+        torch_dtype=dtype_arg,
+        quantization_config=quant_config,
+        device_map=device_map,
+        trust_remote_code=False,
+    )
+    tokenizer = AutoTokenizer.from_pretrained(model_name_or_path, use_fast=True)
 
-    # 4) Try standard CausalLM first
-    model = None
-    try:
-        logger.info(f"Loading PhoGPT (built-in) as AutoModelForCausalLM: {model_name}")
-        model = AutoModelForCausalLM.from_pretrained(model_name, **load_kwargs)
-    except Exception as e:
-        logger.warning(f"AutoModelForCausalLM failed ({e}). Falling back to AutoModel.")
-        # Fallback: EXACT pattern you requested
-        fallback_kwargs = dict(load_kwargs)
-        if not use_4bit:
-            fallback_kwargs["dtype"] = "auto"
-        logger.info(f"Loading PhoGPT (built-in) as AutoModel: {model_name}")
-        model = AutoModel.from_pretrained(model_name, **fallback_kwargs)
+    if tokenizer.pad_token_id is None:
+        tokenizer.pad_token = tokenizer.eos_token
+    model.generation_config.pad_token_id = tokenizer.pad_token_id
+    model.generation_config.eos_token_id = tokenizer.eos_token_id
 
-    # 5) Safe pad token id
-    pad_id = tokenizer.pad_token_id or tokenizer.eos_token_id or 0
-
-    gen = pipeline(
+    # Arguments communs à la pipeline (greedy = pas de multinomial → évite les NaN/Inf CUDA)
+    pipe_kwargs = dict(
         task="text-generation",
         model=model,
         tokenizer=tokenizer,
-        device=device,
+        do_sample=False,
+        temperature=0.0,
+        top_p=1.0,
+        top_k=0,
+        repetition_penalty=1.05,
         max_new_tokens=max_new_tokens,
-        temperature=temperature,
-        top_p=top_p,
-        repetition_penalty=repetition_penalty,
-        do_sample=temperature > 0.0,
-        pad_token_id=pad_id,
     )
-    return HuggingFacePipeline(pipeline=gen)
 
+    # ⚠️ NE PAS passer `device` si device_map="auto" (accelerate)
+    if device_map != "auto":
+        pipe_kwargs["device"] = 0 if device == "cuda" else -1
+
+    hf_pipe = pipeline(**pipe_kwargs)
+
+    if is_cuda:
+        free = torch.cuda.mem_get_info()[0] / (1024**3)
+        total = torch.cuda.get_device_properties(0).total_memory / (1024**3)
+        logger.info(f"[PhoGPT] GPU memory free={free:.2f} GB / total={total:.2f} GB")
+
+    return HuggingFacePipeline(pipeline=hf_pipe)
 
 def build_llm(
     backend: Backend,
@@ -141,16 +135,28 @@ def build_llm(
     - 'ollama' => OllamaLLM (simple and robust)
     - 'phogpt' => HuggingFacePipeline with a safe, portable loading path
                   (no remote code, torch attention).
+
+    Args:
+        backend: The backend to use ('ollama' or 'phogpt').
+        model_name: Model name or path
+        device: Device to use ('auto', 'cpu', 'cuda', or 'cuda:<index>').
+                Only used for 'phogpt'. If 'auto', picks GPU if available, else
+                CPU. If None, defaults to 'auto'.
+        use_4bit: Whether to load the model in 4-bit mode
+        **gen_kwargs: Additional generation kwargs (only for 'phogpt').*
+
+    Returns:
+        An instance of the selected LLM wrapper.
     """
     if backend == "ollama":
         return OllamaLLM(model=model_name)
 
     if backend == "phogpt":
         return _build_phogpt_pipeline(
-            model_name=model_name,
+            model_name_or_path=model_name,
             device=device,
             use_4bit=use_4bit,
-            **gen_kwargs,
+            max_new_tokens=256,
         )
 
     raise ValueError(f"Unknown backend: {backend}")
