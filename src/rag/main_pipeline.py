@@ -1,5 +1,6 @@
 import argparse
 import json
+import sys
 from pathlib import Path
 from typing import List, Optional
 
@@ -9,6 +10,10 @@ from rag.vector_indexer import build_vectorstore
 from rag.wrapper import SimpleRAG
 from rag.llm_factory import build_llm
 
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8")
+if hasattr(sys.stderr, "reconfigure"):
+    sys.stderr.reconfigure(encoding="utf-8")
 
 def load_test_queries_from_dir(tests_dir: Path, scope: str) -> Optional[List[str]]:
     """
