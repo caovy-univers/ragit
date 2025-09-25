@@ -5,7 +5,7 @@ LangChain and FAISS. It supports Vietnamese, French, and English queries on a
 mixed-language JSON corpus. Two LLM backends are supported:
 
 * **Ollama** (e.g., `mistral`)
-* **PhoGPT** from Hugging Face (e.g., `vinai/PhoGPT-4B`)
+* **PhoGPT** from Hugging Face (e.g., `vinai/PhoGPT-4B-Chat`)
 
 ## Project Structure
 
@@ -55,7 +55,7 @@ ollama pull mistral
 
 ### 2) Run with **PhoGPT**
 
-You can use: `-b phogpt -m vinai/PhoGPT-4B` or point to a local folder.
+You can use: `-b phogpt -m vinai/PhoGPT-4B-Chat` or point to a local folder.
 This repo loads PhoGPT via Transformers **without remote code**, forcing a safe
 Torch attention implementation (no FlashAttention/Triton required).
 
@@ -77,7 +77,7 @@ Select backend, corpus, and language:
 
 ```bash
 poetry run python -m rag.main_pipeline --corpus all -b ollama -m mistral -L fr --test
-poetry run python -m rag.main_pipeline --corpus all -b phogpt -m vinai/PhoGPT-4B -L vi --test
+poetry run python -m rag.main_pipeline --corpus all -b phogpt -m vinai/PhoGPT-4B-Chat -L vi --test
 ```
 
 Custom tests directory:
@@ -100,7 +100,7 @@ Override defaults:
 
 ```bash
 make OLLAMA_MODEL=llama3 LANG_OLLAMA=en
-make PHOGPT_MODEL=vinai/PhoGPT-4B LANG_PHOGPT=vi
+make PHOGPT_MODEL=vinai/PhoGPT-4B-Chat LANG_PHOGPT=vi
 make TESTS_DIR=my_tests
 ```
 

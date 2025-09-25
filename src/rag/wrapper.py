@@ -1,4 +1,5 @@
 import time
+import unicodedata
 from typing import Any, Dict, List, Sequence, Tuple
 from loguru import logger
 from langchain.prompts import PromptTemplate
@@ -104,6 +105,23 @@ def _format_sources(docs: Sequence[Document]) -> str:
         lines.append(f"- {title} — {authors} ({date})")
     return "\n".join(lines)
 
+def sanitize_text(text: str) -> str:
+    """Normalize and clean generated text for terminal-safe display.
+
+    Args:
+        text (str): Raw generated text.
+
+    Returns:
+        str: Clean text (NFC-normalized, control chars stripped, U+FFFD removed).
+    """
+    # Normalize to NFC (Vietnamese accents render better with composed forms)
+    s = unicodedata.normalize("NFC", text)
+    # Remove the replacement character U+FFFD if the model produced it
+    s = s.replace("\uFFFD", "")
+    # Strip most control characters except common whitespace
+    s = "".join(ch for ch in s if ch in ("\n", "\t", "\r") or unicodedata.category(ch)[0] != "C")
+    return s
+
 
 class SimpleRAG:
     """
@@ -174,7 +192,7 @@ class SimpleRAG:
         t_gen_1 = time.time()
         logger.debug(f"[Timing] generation={t_gen_1 - t_gen_0:.2f}s (model={self.model_name})")
 
-        answer = raw if isinstance(raw, str) else str(raw)
+        answer = sanitize_text(raw if isinstance(raw, str) else str(raw))
 
         # Sources
         src_text = _format_sources(sources)
