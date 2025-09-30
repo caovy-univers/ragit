@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "ragit"
 version = "0.1.0"
-description = "Rag'it minimal bootstrap"
+description = "Rag'it project"
 authors = [
     "Frédéric Saudemont <fs1510@gmail.com>",
     "Vy CAO <vy.cao@etu.univ-amu.fr>"
