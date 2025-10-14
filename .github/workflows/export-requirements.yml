@@ -1,0 +1,45 @@
+name: Export Poetry requirements
+
+on:
+  push:
+    paths:
+      - 'pyproject.toml'
+      - 'poetry.lock'
+  pull_request:
+    paths:
+      - 'pyproject.toml'
+      - 'poetry.lock'
+
+permissions:
+  contents: write
+
+jobs:
+  export:
+    name: Export requirements.txt
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Poetry
+        run: pipx install poetry
+
+      - name: Enable Poetry export plugin
+        run: pipx inject poetry poetry-plugin-export
+
+      - name: Export requirements
+        run: poetry export --without-hashes -f requirements.txt --output requirements.txt
+
+      - name: Commit updated requirements
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'chore: update requirements.txt'
+          file_pattern: requirements.txt

@@ -1,14 +1,15 @@
 [tool.poetry]
 name = "ragit"
 version = "0.1.0"
-description = "Rag'it minimal bootstrap"
+description = "Rag'it project"
 authors = [
     "Frédéric Saudemont <fs1510@gmail.com>",
     "Vy CAO <vy.cao@etu.univ-amu.fr>"
 ]
 readme = "README.md"
 packages = [
-  { include = "rag", from = "src" }
+  { include = "rag", from = "src" },
+  { include = "app", from = "src" }
 ]
 
 [tool.poetry.dependencies]
@@ -32,6 +33,7 @@ torch = ">=2.2.0,<3.0.0"
 bitsandbytes = ">=0.42.0,<1.0.0"
 pydantic = "^2.11.7"
 einops = "^0.8.1"
+streamlit = "^1.40.0"
 
 [tool.poetry.group.dev.dependencies]
 huggingface-hub = ">=0.23.0"
@@ -42,3 +44,4 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.poetry.scripts]
 postinstall = "utils.install:post_install"
+ragit-app = "app.cli:main"

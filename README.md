@@ -90,6 +90,14 @@ If you prefer to stream from the Hub (not recommended on flaky networks), omit `
 
 ### 4. Running the RAG pipeline
 
+#### Streamlit explorer
+
+Launch the user interface with Streamlit:
+
+```bash
+poetry run ragit-app
+```
+
 #### Interactive mode via Makefile (recommended)
 
 - **Default (Ollama, full corpus)**:
