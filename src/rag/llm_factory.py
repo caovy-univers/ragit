@@ -6,6 +6,34 @@ from langchain_ollama import OllamaLLM
 from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline
 from typing import Literal, Optional, Union
 
+
+class _PhoGPTChatLLM:
+    def __init__(self, hf_pipeline, tokenizer, system_prompt: str = "You are a helpful assistant."):
+        self._pipeline = hf_pipeline
+        self._tokenizer = tokenizer
+        self._system_prompt = system_prompt
+
+    def invoke(self, prompt: str):
+        chat = [
+            {"role": "system", "content": self._system_prompt},
+            {"role": "user", "content": prompt},
+        ]
+        try:
+            formatted = self._tokenizer.apply_chat_template(
+                chat,
+                tokenize=False,
+                add_generation_prompt=True,
+            )
+        except AttributeError:
+            formatted = prompt
+
+        output = self._pipeline(formatted)
+        if isinstance(output, list) and output:
+            generated = output[0].get("generated_text")
+            if generated is not None:
+                return generated
+        return str(output)
+
 try:
     from transformers import BitsAndBytesConfig
     _HAS_BNB = True
@@ -47,7 +75,7 @@ def _build_phogpt_pipeline(
     top_k: int = 0,
     repetition_penalty: float = 1.10,
     do_sample: Optional[bool] = None,
-) -> HuggingFacePipeline:
+) -> _PhoGPTChatLLM:
     """Create a LangChain `HuggingFacePipeline` for PhoGPT(-Chat).
 
     Notes:
@@ -66,7 +94,7 @@ def _build_phogpt_pipeline(
         do_sample (Optional[bool]): Force sampling on/off; if None, inferred from other params.
 
     Returns:
-        HuggingFacePipeline: LangChain-compatible LLM wrapper.
+        _PhoGPTChatLLM: Wrapper that formats chat prompts then calls the HF pipeline.
     """
     is_cuda = torch.cuda.is_available()
     if device is None:
@@ -126,7 +154,10 @@ def _build_phogpt_pipeline(
         return_full_text=False,  # IMPORTANT: do not echo the prompt
     )
 
-    return HuggingFacePipeline(pipeline=gen_pipe)
+    system_prompt = (
+        "You are PhoGPT, a helpful assistant. Use the supplied context faithfully and answer in the requested language."
+    )
+    return _PhoGPTChatLLM(gen_pipe, tokenizer, system_prompt=system_prompt)
 
 
 def build_llm(
@@ -140,7 +171,7 @@ def build_llm(
     top_k: int = 0,
     repetition_penalty: float = 1.10,
     do_sample: Optional[bool] = None,
-) -> Union[HuggingFacePipeline, OllamaLLM]:
+) -> Union[HuggingFacePipeline, OllamaLLM, _PhoGPTChatLLM]:
     """Factory: build the requested LLM backend.
 
     Args:
@@ -156,7 +187,7 @@ def build_llm(
         do_sample (Optional[bool]): Force sampling on/off; if None, inferred.
 
     Returns:
-        Union[HuggingFacePipeline, OllamaLLM]: LangChain LLM instance.
+        Union[HuggingFacePipeline, OllamaLLM, _PhoGPTChatLLM]: LangChain-compatible LLM instance.
     """
     if backend == "ollama":
         return OllamaLLM(model=model_name)
