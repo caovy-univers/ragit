@@ -8,7 +8,8 @@ authors = [
 ]
 readme = "README.md"
 packages = [
-  { include = "rag", from = "src" }
+  { include = "rag", from = "src" },
+  { include = "app", from = "src" }
 ]
 
 [tool.poetry.dependencies]
@@ -43,3 +44,4 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.poetry.scripts]
 postinstall = "utils.install:post_install"
+ragit-app = "app.cli:main"
