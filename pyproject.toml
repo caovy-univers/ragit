@@ -29,7 +29,7 @@ langchain-ollama = "^0.3.3"
 transformers = ">=4.42"
 accelerate = ">=0.33"
 torch = ">=2.2.0,<3.0.0"
-bitsandbytes = ">=0.42.0,<1.0.0"
+bitsandbytes = {version = ">=0.42.0,<1.0.0", optional = true, markers = "platform_system == 'Linux'" }
 pydantic = "^2.11.7"
 einops = "^0.8.1"
 
