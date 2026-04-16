@@ -1,6 +1,6 @@
 # Rag'it!
 
-Rag’it is an exploratory project in digital humanities. It aims to build a knowledge graph from a multilingual colonial corpus drawn from the Indochinese legal deposit. It relies on natural language processing techniques applied to OCR-processed texts to identify concepts and semantic networks.
+Rag’it is an exploratory project in digital humanities. In this version, the app focuses on querying a published lexicon against a text supplied by the user at runtime.
 
 ## Environment Setup for the RAGIT Project
 
@@ -35,130 +35,48 @@ conda create -n ragit python=3.12 -y && conda activate ragit
 poetry install
 ```
 
-### 3. Models
-
-#### Ollama (default)
-
-We use **Ollama** with the `mistral` model by default.
-
-```bash
-# Linux
-curl -fsSL https://ollama.com/install.sh | sh
-# macOS (Homebrew)
-brew install ollama
-
-# Pull the base model
-ollama pull mistral
-```
-
-#### PhoGPT (optional)
-
-Using **PhoGPT** requires:
-
-1. **Hugging Face account** with access to the gated model **vinai/PhoGPT-4B-Chat**
-   - open [PhoGPT-4B-Chat on Hugging Face](https://huggingface.co/vinai/PhoGPT-4B-Chat) and **accept the terms**
-2. **Authentication**:
-   - Either via **token** (`huggingface-cli login`)
-   - Or via **SSH** (add your SSH key to HF; we provide a git+ssh fallback in the Makefile)
-
-Then you can **download the model locally** in two ways:
-
-- **Recommended (HF CLI, non-deprecated)**:
-
-  ```bash
-  make download-phogpt-hf
-  ```
-
-  This places the files under `models/PhoGPT-4B-Chat/`.
-
-- **Fallback (Git+SSH + Git LFS)**:
-
-  ```bash
-  make download-phogpt-ssh
-  ```
-
-Once the model is available locally, run the tests with:
-
-```bash
-make test-all-phogpt PHOGPT_MODEL=models/PhoGPT-4B-Chat
-```
-
-If you prefer to stream from the Hub (not recommended on flaky networks), omit `PHOGPT_MODEL=` so it uses `vinai/PhoGPT-4B-Chat`.
-
-> Tip: If your network blocks Hugging Face’s xet backend, the `download-phogpt-hf` target already sets:
-> `HF_HUB_ENABLE_HF_TRANSFER=0 HF_ENDPOINT=https://huggingface.co`
-
-### 4. Running the RAG pipeline
+### 3. Running the lexicon explorer
 
 #### Streamlit explorer
 
-Launch the user interface with Streamlit:
+Launch the user interface with Streamlit, then upload a `.txt` or `.md` file:
 
 ```bash
 poetry run ragit-app
 ```
 
-#### Interactive mode via Makefile (recommended)
+#### Direct Python entrypoints
 
-- **Default (Ollama, full corpus)**:
+#### Exact lexicon lookup in a selected text
 
-  ```bash
-  make
-  ```
-
-- **PhoGPT, full corpus**:
-
-  ```bash
-  make phogpt
-  ```
-
-- **Restricted corpus (interactive)**:
-
-  ```bash
-  make nam        # Ollama on Nam-Phong
-  make tan        # Ollama on Tan-Viet
-  make phogpt-nam # PhoGPT on Nam-Phong
-  make phogpt-tan # PhoGPT on Tan-Viet
-  ```
-
-#### Batch test mode via Makefile
-
-- **Ollama (1.a on full corpus)**
-
-  ```bash
-  make test-all
-  ```
-- **PhoGPT (1.b on full corpus)**
-
-  ```bash
-  make test-all-phogpt PHOGPT_MODEL=models/PhoGPT-4B-Chat
-  ```
-- **Nam-Phong only**
-
-  ```bash
-  make test-nam-ollama   # 2.a – Ollama on Nam-Phong
-  make test-nam-phogpt   # 2.b – PhoGPT on Nam-Phong
-  ```
-- **Tân-Việt only**
-
-  ```bash
-  make test-tan-ollama   # 3.a – Ollama on Tân-Việt
-  make test-tan-phogpt   # 3.b – PhoGPT on Tân-Việt
-  ```
-- **Full subcorpus matrix (2.a, 2.b, 3.a, 3.b)**
-
-  ```bash
-  make test-full
-  ```
-
-#### Direct Python entrypoint
+Use the dedicated exact-match mode to:
+- look up a term in the lexicon by `vi`, `vi-hani`, or `fr`
+- select one text by title fragment or file name
+- extract the local context where the term appears in that text
 
 ```bash
-poetry run python -m rag.main_pipeline --corpus all -b ollama -m mistral -L fr --tests-dir src/rag/tests -t --test-scope all
-poetry run python -m rag.main_pipeline --corpus all -b phogpt -m models/PhoGPT-4B-Chat -L vi --tests-dir src/rag/tests -t --test-scope all
+poetry run python -m rag.main_pipeline \
+  --lexicon-exact \
+  --term "Anh-hùng-ca" \
+  --term-column vi \
+  --text-file /path/to/text.txt
 ```
 
-### 5. Contributing
+#### Similar-definition lookup in a selected text
+
+Use the `vi-def` of a known lexicon term, then ask the tool to find close terms that really appear in one text:
+
+```bash
+poetry run python -m rag.main_pipeline \
+  --lexicon-definition-match \
+  --definition-term "Anh-hùng-ca" \
+  --definition-column vi \
+  --candidate-column vi \
+  --min-similarity 0.08 \
+  --text-file /path/to/text.txt
+```
+
+### 4. Contributing
 
 Contributing
 

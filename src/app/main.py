@@ -1,195 +1,174 @@
-"""Streamlit front-end for the Rag'it RAG pipeline."""
+"""Streamlit front-end for lexicon matching on user-uploaded texts."""
 
 from __future__ import annotations
 
 import streamlit as st
-from rag.main_pipeline import make_rag, resolve_corpus_dirs
-from rag.wrapper import SimpleRAG
-from pathlib import Path
-from typing import Iterable, Tuple
 
-st.set_page_config(page_title="Rag'it Explorer", layout="wide")
-st.title("Rag'it Explorer 🧭")
-st.write(
-    "Query the Nam Phong / Tân Việt corpora with a Retrieval-Augmented Generation pipeline."
-    " Ensure dependencies are installed locally with `poetry install`."
-)
+from rag.lexicon_definition_match import run_definition_match
+from rag.lexicon_exact_match import make_text_record_from_string
 
 
-def _parse_dirs(raw: str) -> Tuple[Path, ...]:
-    """Convert a comma-separated list into concrete ``Path`` objects."""
-    items = [item.strip() for item in (raw or "").split(",") if item.strip()]
-    return tuple(Path(item) for item in items)
+def _decode_uploaded_file(uploaded_file) -> str:
+    raw = uploaded_file.getvalue()
+    for encoding in ("utf-8", "utf-8-sig", "cp1252", "latin-1"):
+        try:
+            return raw.decode(encoding)
+        except UnicodeDecodeError:
+            continue
+    raise ValueError("Unable to decode the uploaded file. Please upload a UTF-8 text file.")
 
 
-@st.cache_resource(show_spinner=False)
-def load_pipeline(
-    corpus: str,
-    backend: str,
-    model_name: str,
-    target_lang: str,
-    use_4bit: bool,
-    custom_dirs: Tuple[Path, ...],
-) -> SimpleRAG:
-    """Instantiate the RAG pipeline once per configuration."""
-    if corpus == "custom":
-        if not custom_dirs:
-            raise ValueError("Provide at least one data directory when using the 'custom' corpus option.")
-        data_dirs: Iterable[Path] = custom_dirs
-    else:
-        data_dirs = resolve_corpus_dirs(corpus)
+def _render_exact_results(payload: dict) -> None:
+    for result in payload["results"]:
+        entry = result["lexicon_entry"]
+        st.markdown("### Lexicon entry")
+        st.write(
+            {
+                "vi": entry["vi"],
+                "vi-hani": entry["vi-hani"],
+                "fr": entry["fr"],
+                "vi-def": entry["vi-def"],
+                "source": f"{entry['source_csv']}:{entry['row_number']}",
+            }
+        )
 
-    return make_rag(
-        data_dirs=list(data_dirs),
-        backend=backend,
-        model_name=model_name,
-        target_lang=target_lang,
-        use_4bit=use_4bit,
-    )
+        occurrences = result["occurrences"]
+        if not occurrences:
+            st.warning("No occurrence of this term was found in the uploaded text.")
+            continue
 
+        st.markdown("### Occurrences")
+        for idx, occurrence in enumerate(occurrences, start=1):
+            with st.expander(f"Occurrence {idx} · {occurrence['page']} · line {occurrence['line_number']}"):
+                st.write(f"Matched term: {occurrence['matched_text']}")
+                st.code(occurrence["context"])
+
+
+def _render_definition_results(payload: dict) -> None:
+    for result in payload["results"]:
+        entry = result["query_entry"]
+        st.markdown("### Definition source")
+        st.write(
+            {
+                "vi-def": entry["vi-def"],
+                "vi": entry["vi"],
+                "vi-hani": entry["vi-hani"],
+                "fr": entry["fr"],
+                "source": f"{entry['source_csv']}:{entry['row_number']}",
+            }
+        )
+
+        matches = result["matches"]
+        if not matches:
+            st.warning("No similar lexicon term found in the uploaded text.")
+            continue
+
+        st.markdown("### Similar matches")
+        for idx, match in enumerate(matches, start=1):
+            lexicon_entry = match["lexicon_entry"]
+            with st.expander(f"Match {idx} · {match['term_in_text']} · score {match['similarity']:.4f}"):
+                st.write(
+                    {
+                        "term_in_text": match["term_in_text"],
+                        "similarity": match["similarity"],
+                        "vi-def": lexicon_entry["vi-def"],
+                        "vi": lexicon_entry["vi"],
+                        "vi-hani": lexicon_entry["vi-hani"],
+                        "fr": lexicon_entry["fr"],
+                    }
+                )
+                for occ in match["occurrences"]:
+                    st.caption(f"{occ['page']} · line {occ['line_number']}")
+                    st.code(occ["context"])
+
+
+st.set_page_config(page_title="Rag'it Lexicon Explorer", layout="wide")
+st.title("Rag'it Lexicon Explorer")
+st.write("Upload a text file, then query the published lexicon against that text.")
+
+uploaded_file = st.file_uploader("Text to analyze", type=["txt", "md"])
 
 with st.sidebar:
-    st.header("Configuration")
-    corpus = st.selectbox(
-        "Corpus",
-        options=[("all", "Nam Phong + Tân Việt"), ("nam", "Nam Phong"), ("tan", "Tân Việt"), ("custom", "Custom directories")],
-        format_func=lambda x: x[1],
+    st.header("Query mode")
+    mode = st.radio(
+        "Choose a search mode",
+        options=("Exact term", "Similar definition"),
         index=0,
-    )[0]
-
-    backend = st.selectbox("LLM backend", options=["ollama", "phogpt"], index=0)
-
-    local_phogpt = Path("models/PhoGPT-4B-Chat")
-    default_source = "Hub" if backend == "ollama" else ("Local" if local_phogpt.exists() else "Hub")
-
-    if "_backend" not in st.session_state:
-        st.session_state._backend = backend
-    if "_source" not in st.session_state:
-        st.session_state._source = default_source
-    if "_target_lang" not in st.session_state:
-        st.session_state._target_lang = "fr"
-
-    if st.session_state._backend != backend:
-        st.session_state._backend = backend
-        st.session_state._source = "Hub" if backend == "ollama" else ("Local" if local_phogpt.exists() else "Hub")
-        st.session_state._target_lang = "vi" if backend == "phogpt" else "fr"
-
-    source_options = ["Hub"] if backend == "ollama" else ["Local", "Hub"]
-    if st.session_state._source not in source_options:
-        st.session_state._source = source_options[0]
-
-    source = st.selectbox(
-        "Model source",
-        options=source_options,
-        index=source_options.index(st.session_state._source),
-        key="_source",
     )
+    context_window = st.number_input("Context window (lines)", min_value=0, max_value=10, value=1, step=1)
 
-    target_options = ["vi"] if backend == "phogpt" else ["fr", "vi", "en"]
-    if st.session_state._target_lang not in target_options:
-        st.session_state._target_lang = target_options[0]
-
-    target_lang = st.selectbox(
-        "Target language",
-        options=target_options,
-        index=target_options.index(st.session_state._target_lang),
-        key="_target_lang",
-    )
-
-    use_4bit = False
-    if backend == "phogpt":
-        use_4bit = st.checkbox("Load PhoGPT in 4-bit (requires bitsandbytes)", value=True)
-
-    custom_raw = st.text_area(
-        "Custom directories (comma separated)",
-        placeholder="/path/to/folder1, /path/to/folder2",
-        height=80,
-    )
-
-    config_summary = st.container()
-
-# Determine model path/name based on backend and source selection
-if backend == "ollama":
-    model_name = "mistral"
-else:
-    if source == "Local":
-        if local_phogpt.exists():
-            model_name = str(local_phogpt)
-        else:
-            st.warning(
-                "Local PhoGPT weights not found under `models/PhoGPT-4B-Chat`. Falling back to the Hugging Face Hub."
-            )
-            st.session_state._source = "Hub"
-            source = "Hub"
-            model_name = "vinai/PhoGPT-4B-Chat"
-    else:
-        model_name = "vinai/PhoGPT-4B-Chat"
-
-st.subheader("Pipeline")
-
-pipeline_error = None
-rag_instance: SimpleRAG | None = None
-
-try:
-    with st.spinner("Loading RAG pipeline…"):
-        rag_instance = load_pipeline(
-            corpus=corpus,
-            backend=backend,
-            model_name=model_name,
-            target_lang=target_lang,
-            use_4bit=use_4bit,
-            custom_dirs=_parse_dirs(custom_raw),
-        )
-except ModuleNotFoundError as exc:
-    missing = ", ".join(map(str, exc.args)) or "module"
-    pipeline_error = f"Missing modules: `{missing}`. Run `poetry install` and verify optional deps are present."
-except ValueError as exc:
-    pipeline_error = str(exc)
-except FileNotFoundError as exc:
-    pipeline_error = f"Cannot access data files: {exc}"
-except Exception as exc:  # pragma: no cover - Streamlit runtime safeguard
-    pipeline_error = f"Failed to initialize the pipeline: {exc}"
-
-if pipeline_error:
-    st.error(pipeline_error)
+if uploaded_file is None:
+    st.info("Upload a `.txt` or `.md` file to begin.")
     st.stop()
 
-config_summary.success(
-    f"Corpus: `{corpus}` · Backend: `{backend}` · Source: `{source}` · Model: `{model_name}` · Target language: `{target_lang}`"
+try:
+    text_content = _decode_uploaded_file(uploaded_file)
+except ValueError as exc:
+    st.error(str(exc))
+    st.stop()
+
+text_record = make_text_record_from_string(
+    text_content,
+    title=uploaded_file.name,
+    source_path=uploaded_file.name,
 )
 
-st.success("Pipeline ready. Ask a question below.")
+if mode == "Exact term":
+    col1, col2 = st.columns(2)
+    with col1:
+        term = st.text_input("Lexicon term")
+    with col2:
+        term_column = st.selectbox("Lexicon column", options=["vi", "vi-hani", "fr"], index=0)
 
-question = st.text_area(
-    "Question",
-    placeholder="e.g. What recurring themes about education appear across the corpus?",
-    height=120,
-)
-submit = st.button("Run query", type="primary")
-
-if submit:
-    if not question.strip():
-        st.warning("Please enter a question before running the query.")
-    else:
-        with st.spinner("Generating answer…"):
+    if st.button("Run exact lookup", type="primary"):
+        if not term.strip():
+            st.warning("Enter a term from the lexicon.")
+        else:
             try:
-                output = rag_instance.ask(question.strip())
-            except Exception as exc:  # pragma: no cover - handles runtime issues
-                st.error(f"Generation failed: {exc}")
-            else:
-                st.markdown("### Answer")
-                st.write(output.get("result", "(no answer)"))
+                from rag.lexicon_exact_match import run_exact_lexicon_match
 
-                docs = output.get("source_documents") or []
-                if docs:
-                    st.markdown("### Sources")
-                    for idx, doc in enumerate(docs, start=1):
-                        meta = doc.metadata or {}
-                        title = meta.get("title_main") or "Unknown title"
-                        authors = ", ".join(meta.get("authors") or []) or "Unknown authors"
-                        date = meta.get("publication_date") or "Unknown date"
-                        st.write(f"{idx}. **{title}** — {authors} ({date})")
-                        with st.expander("Excerpt"):
-                            st.write(doc.page_content)
+                payload = run_exact_lexicon_match(
+                    term=term.strip(),
+                    term_column=term_column,
+                    text_record=text_record,
+                    context_window=int(context_window),
+                )
+            except Exception as exc:  # pragma: no cover
+                st.error(str(exc))
+            else:
+                _render_exact_results(payload)
 else:
-    st.info("Configure the pipeline on the left, then submit a question here.")
+    col1, col2 = st.columns(2)
+    with col1:
+        definition_term = st.text_input("Lexicon term used as definition source")
+        definition_column = st.selectbox("Definition source column", options=["vi", "vi-hani", "fr"], index=0)
+    with col2:
+        candidate_column = st.selectbox("Search terms in uploaded text by column", options=["vi", "vi-hani", "fr"], index=0)
+        max_results = st.number_input("Max results", min_value=1, max_value=20, value=5, step=1)
+        min_similarity = st.number_input("Minimum similarity", min_value=0.0, max_value=1.0, value=0.08, step=0.01)
+
+    definition_text = st.text_area(
+        "Or provide a custom definition text",
+        placeholder="If filled, this definition is used instead of the term above.",
+        height=120,
+    )
+
+    if st.button("Run definition lookup", type="primary"):
+        if not definition_text.strip() and not definition_term.strip():
+            st.warning("Enter either a lexicon term or a custom definition text.")
+        else:
+            try:
+                payload = run_definition_match(
+                    definition_text=definition_text.strip() or None,
+                    definition_term=definition_term.strip() or None,
+                    text_record=text_record,
+                    definition_column=definition_column,
+                    candidate_column=candidate_column,
+                    context_window=int(context_window),
+                    max_results=int(max_results),
+                    min_similarity=float(min_similarity),
+                )
+            except Exception as exc:  # pragma: no cover
+                st.error(str(exc))
+            else:
+                _render_definition_results(payload)
