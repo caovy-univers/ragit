@@ -2,9 +2,10 @@
 name = "ragit"
 version = "0.1.0"
 description = "Rag'it project"
+license = "MIT"
 authors = [
-    "Frédéric Saudemont <fs1510@gmail.com>",
-    "Vy CAO <vy.cao@etu.univ-amu.fr>"
+    "Frédéric Saudemont",
+    "Vy CAO"
 ]
 readme = "README.md"
 packages = [
@@ -15,7 +16,6 @@ packages = [
 [tool.poetry.dependencies]
 python = ">=3.12,<3.13"
 pandas = ">=2.2.3,<3.0.0"
-pathlib = ">=1.0.1,<2.0.0"
 requests = ">=2.32.3,<3.0.0"
 bs4 = ">=0.0.2,<0.0.3"
 loguru = ">=0.7.3,<0.8.0"
@@ -43,5 +43,4 @@ requires = ["poetry-core>=2.0.0,<3.0.0"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.poetry.scripts]
-postinstall = "utils.install:post_install"
 ragit-app = "app.cli:main"
