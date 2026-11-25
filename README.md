@@ -1,8 +1,20 @@
-# Rag'it!
+# RAG'It!
 
-Rag’it is an exploratory project in digital humanities. It aims to build a knowledge graph from a multilingual colonial corpus drawn from the Indochinese legal deposit. It relies on natural language processing techniques applied to OCR-processed texts to identify concepts and semantic networks.
+At the turn of the twentieth century, Vietnamese was being rapidly standardised and enriched. As knowledge circulated transnationally, new vocabulary for modern scientific, political and philosophical ideas emerged, and periodicals such as *Nam Phong* published trilingual lexical lists in *quốc ngữ*, Chinese, and French, to stabilise these neologisms.
 
-## Environment Setup for the RAGIT Project
+RAG'It is an experimental project, carried out during a 2025 digital residency funded by the DISTAM consortium (DIgital STudies Africa, Asia, Middle East). The goal is to trace how new concepts were named, translated and negotiated in colonial print. It unfolds in three stages:
+
+1. **OCR** of ***Nam Phong*** — a trilingual [lexicon](https://doi.org/10.5281/zenodo.19438119) (*quốc ngữ*, Chinese, French) published by the periodical from 1917-1934; and the ***Triết học*** collection — a series of Vietnamese translations of philosophical thinkers published by Tân Việt in Hanoi in the early 1940s;
+2. a **Retrieval-Augmented Generation (RAG)** pipeline built with local LLMs (Mistral, PhoGPT) to retrieve and query neologisms across Vietnamese, French and English;
+3. **enrichment** of the retrieved segments by linking them to a lexical database and to bibliographic metadata and, in the longer term, extending the corpus by OCR-ing further texts of the period. This stage links RAG'It to [*invisto*](https://doi.org/10.34847/nkl.2fc7j8g7), the open relational database of the colonial Vietnamese book world built during the author's doctoral research — extending that bibliographic work toward the computational study of concepts. 
+
+This repository only contains the code of the RAG system and its architecture.
+
+## Data
+
+The RAG pipeline runs over a corpus of plain-text (`.txt`) documents **that you provide**. Place your documents under `data/` following the structure in [`data_info.md`](data_info.md). The `data/` folder is git-ignored.
+
+## Environment Setup
 
 This guide explains how to set up your Python environment to work with the RAGIT project, which uses **Poetry** for dependency management. Choose one of the three options below depending on your preferred setup tool: `venv`, `pyenv`, or `conda`.
 
@@ -17,7 +29,7 @@ This guide explains how to set up your Python environment to work with the RAGIT
 **Option 1: Using `venv`**
 
 ```bash
-python3.12 -m venv ragit && source ragit/bin/activate
+python3.12 -m venv .venv && source .venv/bin/activate
 poetry install
 ```
 
@@ -90,6 +102,8 @@ If you prefer to stream from the Hub (not recommended on flaky networks), omit `
 
 ### 4. Running the RAG pipeline
 
+> **Note:** no corpus is bundled with this repository (see [Data](#data)). The example targets below (`nam`, `tan`) expect the corresponding documents under `data/`; point them at your own corpus instead.
+
 #### Streamlit explorer
 
 Launch the user interface with Streamlit:
@@ -158,9 +172,12 @@ poetry run python -m rag.main_pipeline --corpus all -b ollama -m mistral -L fr -
 poetry run python -m rag.main_pipeline --corpus all -b phogpt -m models/PhoGPT-4B-Chat -L vi --tests-dir src/rag/tests -t --test-scope all
 ```
 
-### 5. Contributing
+## Roadmap
 
-Contributing
+- Load a **lexicon CSV** directly and align it against an arbitrary, user-provided text corpus to trace concept occurrences and their evolution across languages.
+- Generalise corpus handling so any plain-text collection can be indexed without project-specific preprocessing.
+
+## Contributing
 
 Manage dependencies with Poetry:
 
