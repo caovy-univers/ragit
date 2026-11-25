@@ -5,7 +5,7 @@
 We have two datasets:
 1. **NAM-PHONG**
     - Lexicon (`data/Nam-Phong/lexicon/csv/`): contains the lexicon files in CSV format from So1 to SO14 (11 and 12 are missing).
-      - 1 468 entries in total.
+      - 1,512 entries in total.
     - Issues
 2. **TAN-VIET (Gallica)**
 
