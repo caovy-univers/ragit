@@ -1,2 +1,42 @@
-# Created by venv; see https://docs.python.org/3/library/venv.html
-*
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ragit/
+pyvenv.cfg
+bin/
+include/
+lib/
+lib64/
+share/
+
+# Poetry / build
+dist/
+build/
+*.egg-info/
+
+# Models & large downloads (e.g. PhoGPT)
+models/
+
+# Data (published lexicon lives on Zenodo; corpus is user-provided)
+data/
+
+# Caches / logs
+.cache/
+*.log
+
+# Notebooks
+.ipynb_checkpoints/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Env secrets
+.env
